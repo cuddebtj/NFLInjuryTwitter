@@ -1,1 +1,1 @@
-# NFL Injury Stats from Twitter
+# Fantasy Sidelines Player, Team, and Injury data
