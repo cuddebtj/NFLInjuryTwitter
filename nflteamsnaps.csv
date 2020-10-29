@@ -1,4 +1,4 @@
-Rk,Tm,Year,Date,Time,LTime,,Opp,Week,G#,Day,Result,OT,Tot,Ply,Y/P,DPly,DY/P,TO,ToP,Time
+Rk,Tm,Year,Date,Time,Local_Time,Away,Opp,Week,G#,Day,Result,OT,Tot_Yds,Tot_Plays,Tot_Yds/Play,Tot_Def_Plays,Tot_Def_YdsAllowed/Play,Tot_TurnOvers_Lost,Tot_ToP,Tot_Game_Time
 1,BAL,2019,9/8/2019,1:00,1:00,@,MIA,1,1,Sun,W 59-10,,643,73,8.8082,47,4.2553,,40:07:00,2:58
 2,HOU,2019,10/6/2019,1:00,12:00,,ATL,5,5,Sun,W 53-32,,592,67,8.8358,68,5.4853,1,31:00:00,3:13
 3,DAL,2018,12/9/2018,4:25,3:25,,PHI,14,13,Sun,W 29-23,OT,576,93,6.1935,48,5.3333,3,45:33:00,3:28
