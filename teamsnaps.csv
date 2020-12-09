@@ -1,4 +1,4 @@
-Rk1,Team1,Year1,Date1,Time1,Local_Time1,Away1,Opp1,Week1,G#1,Day1,Result1,OT,Tot_Yds,Tot_Plays,Tot_Yds/Play,Tot_Def_Plays,Tot_Def_YdsAllowed/Play,Tot_TurnOvers_Lost,Tot_ToP,Tot_Game_Time
+Rk,Team,Year,Date,Time,Local_Time,Away,Opp,Week,G#,Day,Result,OT,Tot_Yds,Tot_Plays,Tot_Yds/Play,Tot_Def_Plays,Tot_Def_YdsAllowed/Play,Tot_TurnOvers_Lost,Tot_ToP,Tot_Game_Time
 22,KAN,2017,9/7/2017,8:30,8:30,@,NWE,1,1,Thu,W 42-27,,537,65,8.2615,74,5.0135,1,30:14:00,3:37
 600,NWE,2017,9/7/2017,8:30,8:30,,KAN,1,1,Thu,L 27-42,,371,74,5.0135,65,8.2615,,29:46:00,3:37
 993,ARI,2017,9/10/2017,1:00,1:00,@,DET,1,1,Sun,L 23-35,,308,67,4.597,69,5.3188,4,26:40:00,3:26
