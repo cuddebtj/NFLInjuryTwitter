@@ -1,0 +1,10 @@
+Player,Team,Opp,Date,Season,Week,Status,Injury,Specific_Inj,Side
+Joseph Jones,DEN,OAK,2019-09-09,2019,1,Out,Tricep,,
+Joseph Jones,DEN,CHI,2019-09-15,2019,2,Out,Tricep,,
+Joseph Jones,DEN,GNB,2019-09-22,2019,3,Out,Tricep,,
+Joseph Jones,DEN,JAX,2019-09-29,2019,4,Questionable,Tricep,,
+Joseph Jones,DEN,BUF,2019-11-24,2019,12,Questionable,Foot,,
+Joseph Jones,DEN,KAN,2019-12-15,2019,15,Questionable,Back,,
+Joseph Jones,DEN,LVR,2020-11-15,2020,10,Out,Calf,,
+Joseph Jones,DEN,MIA,2020-11-22,2020,11,Out,Calf,,
+Joseph Jones,DEN,NOR,2020-11-29,2020,12,Questionable,Calf,,
