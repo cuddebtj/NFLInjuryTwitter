@@ -1,35 +1,10 @@
-lg_pass_yds,1.0
-lg_pass_tds,4.0
-lg_int,-1.0
-lg_yds,0.25
-lg_tds,6.0
-lg_rec_rec,0.5
-lg_2pt,2.0
-lg_lfmb,-2.0
-lg_kicker_xp,1.0
-lg_fg_yds,0.1
-lg_def_sk,1.0
-lg_def_int,2.0
-lg_def_fmb,2.0
-lg_def_td,6.0
-lg_def_sfty,2.0
-lg_def_block,2.0
-lg_spec_td,6.0
-lg_def_0pts,10.0
-lg_def_6pts,7.0
-lg_def_13pts,4.0
-lg_def_20pts,1.0
-lg_def_27pts,0.0
-lg_def_34pts,-1.0
-lg_def_35pts,-4.0
-lg_spec_xpreturn,2.0
-idp_solo_tck,1.0
-idp_ass_tck,0.5
-idp_tck_loss,1.5
-idp_sack,2.0
-idp_int,3.0
-idp_ffmb,3.0
-idp_fmbrec,3.0
-idp_td,6.0
-idp_sfty,2.0
-idp_passd,3.0
+
+        id="solo_tackle",
+        id="ass_tackle",
+        id="tackle_loss",
+        id="idp_int",
+        id="fmb_forced",
+        id="fmb_recovery",
+        id="idp_td",
+        id="idp_saftey",
+        id="pass_defended",
