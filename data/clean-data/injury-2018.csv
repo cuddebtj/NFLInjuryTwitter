@@ -253,8 +253,6 @@ Jeremy Vujnovich,IND,2018.0,VujnJe00,2018-12-09,Injured Reserve,HOU,Calf,14,T
 Jeremy Vujnovich,IND,2018.0,VujnJe00,2018-12-16,Injured Reserve,DAL,Calf,15,T
 Jeremy Vujnovich,IND,2018.0,VujnJe00,2018-12-23,Injured Reserve,NYG,Calf,16,T
 Jeremy Vujnovich,IND,2018.0,VujnJe00,2018-12-30,Injured Reserve,TEN,Calf,17,T
-Jeremy Vujnovich,IND,2018.0,VujnJe00,2019-01-05,Injured Reserve,HOU,Calf,,T
-Jeremy Vujnovich,IND,2018.0,VujnJe00,2019-01-12,Injured Reserve,KAN,Calf,,T
 Phil Dawson,ARI,2018.0,dawsophi01,2018-10-28,Questionable,SFO,rightHip,8,K
 Phil Dawson,ARI,2018.0,dawsophi01,2018-11-18,Questionable,OAK,rightHip,11,K
 Phil Dawson,ARI,2018.0,dawsophi01,2018-11-25,Questionable,LAC,rightHip,12,K
@@ -443,7 +441,6 @@ Quincy Adeboyejo,BAL,2018.0,AdebQu00,2018-12-09,Injured Reserve,KAN,Leg,14,
 Quincy Adeboyejo,BAL,2018.0,AdebQu00,2018-12-16,Injured Reserve,TAM,Leg,15,
 Quincy Adeboyejo,BAL,2018.0,AdebQu00,2018-12-22,Injured Reserve,LAC,Leg,16,
 Quincy Adeboyejo,BAL,2018.0,AdebQu00,2018-12-30,Injured Reserve,CLE,Leg,17,
-Quincy Adeboyejo,BAL,2018.0,AdebQu00,2019-01-06,Injured Reserve,LAC,Leg,,
 Bam Bradley,BAL,2018.0,BradBa00,2018-09-09,Injured Reserve,BUF,Knee,1,
 Bam Bradley,BAL,2018.0,BradBa00,2018-09-13,Injured Reserve,CIN,Knee,2,
 Bam Bradley,BAL,2018.0,BradBa00,2018-09-23,Injured Reserve,DEN,Knee,3,
@@ -460,7 +457,6 @@ Bam Bradley,BAL,2018.0,BradBa00,2018-12-09,Injured Reserve,KAN,Knee,14,
 Bam Bradley,BAL,2018.0,BradBa00,2018-12-16,Injured Reserve,TAM,Knee,15,
 Bam Bradley,BAL,2018.0,BradBa00,2018-12-22,Injured Reserve,LAC,Knee,16,
 Bam Bradley,BAL,2018.0,BradBa00,2018-12-30,Injured Reserve,CLE,Knee,17,
-Bam Bradley,BAL,2018.0,BradBa00,2019-01-06,Injured Reserve,LAC,Knee,,
 Maurice Canady,BAL,2018.0,CanaMa00,2018-09-09,Questionable,BUF,Thigh,1,CB
 Maurice Canady,BAL,2018.0,CanaMa00,2018-09-13,Injured Reserve,CIN,Thigh,2,CB
 Maurice Canady,BAL,2018.0,CanaMa00,2018-09-23,Injured Reserve,DEN,Thigh,3,CB
@@ -487,7 +483,6 @@ DeShon Elliott,BAL,2018.0,ElliDe02,2018-12-09,Injured Reserve,KAN,Forearm,14,SS
 DeShon Elliott,BAL,2018.0,ElliDe02,2018-12-16,Injured Reserve,TAM,Forearm,15,SS
 DeShon Elliott,BAL,2018.0,ElliDe02,2018-12-22,Injured Reserve,LAC,Forearm,16,SS
 DeShon Elliott,BAL,2018.0,ElliDe02,2018-12-30,Injured Reserve,CLE,Forearm,17,SS
-DeShon Elliott,BAL,2018.0,ElliDe02,2019-01-06,Injured Reserve,LAC,Forearm,,SS
 Willie Henry,BAL,2018.0,HenrWi00,2018-09-09,Out,BUF,Abdomen,1,DT
 Willie Henry,BAL,2018.0,HenrWi00,2018-09-13,Out,CIN,Abdomen,2,DT
 Willie Henry,BAL,2018.0,HenrWi00,2018-09-23,Out,DEN,Abdomen,3,DT
@@ -502,7 +497,6 @@ Willie Henry,BAL,2018.0,HenrWi00,2018-12-09,Injured Reserve,KAN,Back,14,DT
 Willie Henry,BAL,2018.0,HenrWi00,2018-12-16,Injured Reserve,TAM,Back,15,DT
 Willie Henry,BAL,2018.0,HenrWi00,2018-12-22,Injured Reserve,LAC,Back,16,DT
 Willie Henry,BAL,2018.0,HenrWi00,2018-12-30,Injured Reserve,CLE,Back,17,DT
-Willie Henry,BAL,2018.0,HenrWi00,2019-01-06,Injured Reserve,LAC,Back,,DT
 Jaylen Hill,BAL,2018.0,HillJa01,2018-09-09,Injured Reserve,BUF,Knee,1,
 Jaylen Hill,BAL,2018.0,HillJa01,2018-09-13,Injured Reserve,CIN,Knee,2,
 Jaylen Hill,BAL,2018.0,HillJa01,2018-09-23,Injured Reserve,DEN,Knee,3,
@@ -519,7 +513,6 @@ Jaylen Hill,BAL,2018.0,HillJa01,2018-12-09,Injured Reserve,KAN,Knee,14,
 Jaylen Hill,BAL,2018.0,HillJa01,2018-12-16,Injured Reserve,TAM,Knee,15,
 Jaylen Hill,BAL,2018.0,HillJa01,2018-12-22,Injured Reserve,LAC,Knee,16,
 Jaylen Hill,BAL,2018.0,HillJa01,2018-12-30,Injured Reserve,CLE,Knee,17,
-Jaylen Hill,BAL,2018.0,HillJa01,2019-01-06,Injured Reserve,LAC,Knee,,
 Hayden Hurst,BAL,2018.0,HursHa00,2018-09-09,Out,BUF,Foot,1,TE
 Hayden Hurst,BAL,2018.0,HursHa00,2018-09-13,Out,CIN,Foot,2,TE
 Hayden Hurst,BAL,2018.0,HursHa00,2018-09-23,Out,DEN,Foot,3,TE
@@ -541,7 +534,6 @@ Bennett Jackson,BAL,2018.0,JackBe00,2018-12-09,Injured Reserve,KAN,Undisclosed,1
 Bennett Jackson,BAL,2018.0,JackBe00,2018-12-16,Injured Reserve,TAM,Undisclosed,15,CB
 Bennett Jackson,BAL,2018.0,JackBe00,2018-12-22,Injured Reserve,LAC,Undisclosed,16,CB
 Bennett Jackson,BAL,2018.0,JackBe00,2018-12-30,Injured Reserve,CLE,Undisclosed,17,CB
-Bennett Jackson,BAL,2018.0,JackBe00,2019-01-06,Injured Reserve,LAC,Undisclosed,,CB
 Stanley Jean-Baptiste,BAL,2018.0,JeanSt00,2018-09-09,Injured Reserve,BUF,Forearm,1,
 Stanley Jean-Baptiste,BAL,2018.0,JeanSt00,2018-09-13,Injured Reserve,CIN,Forearm,2,
 Stanley Jean-Baptiste,BAL,2018.0,JeanSt00,2018-09-23,Injured Reserve,DEN,Forearm,3,
@@ -558,7 +550,6 @@ Stanley Jean-Baptiste,BAL,2018.0,JeanSt00,2018-12-09,Injured Reserve,KAN,Forearm
 Stanley Jean-Baptiste,BAL,2018.0,JeanSt00,2018-12-16,Injured Reserve,TAM,Forearm,15,
 Stanley Jean-Baptiste,BAL,2018.0,JeanSt00,2018-12-22,Injured Reserve,LAC,Forearm,16,
 Stanley Jean-Baptiste,BAL,2018.0,JeanSt00,2018-12-30,Injured Reserve,CLE,Forearm,17,
-Stanley Jean-Baptiste,BAL,2018.0,JeanSt00,2019-01-06,Injured Reserve,LAC,Forearm,,
 Steven Moore,BAL,2018.0,MoorSt01,2018-09-09,Injured Reserve,BUF,Undisclosed,1,
 Steven Moore,BAL,2018.0,MoorSt01,2018-09-13,Injured Reserve,CIN,Undisclosed,2,
 Steven Moore,BAL,2018.0,MoorSt01,2018-09-23,Injured Reserve,DEN,Undisclosed,3,
@@ -575,7 +566,6 @@ Steven Moore,BAL,2018.0,MoorSt01,2018-12-09,Injured Reserve,KAN,Undisclosed,14,
 Steven Moore,BAL,2018.0,MoorSt01,2018-12-16,Injured Reserve,TAM,Undisclosed,15,
 Steven Moore,BAL,2018.0,MoorSt01,2018-12-22,Injured Reserve,LAC,Undisclosed,16,
 Steven Moore,BAL,2018.0,MoorSt01,2018-12-30,Injured Reserve,CLE,Undisclosed,17,
-Steven Moore,BAL,2018.0,MoorSt01,2019-01-06,Injured Reserve,LAC,Undisclosed,,
 Jaleel Scott,BAL,2018.0,ScotJa02,2018-09-09,Injured Reserve,BUF,Coach's Decision,1,WR
 Jaleel Scott,BAL,2018.0,ScotJa02,2018-09-13,Injured Reserve,CIN,Coach's Decision,2,WR
 Jaleel Scott,BAL,2018.0,ScotJa02,2018-09-23,Injured Reserve,DEN,Coach's Decision,3,WR
@@ -592,7 +582,6 @@ Jaleel Scott,BAL,2018.0,ScotJa02,2018-12-09,Injured Reserve,KAN,Coach's Decision
 Jaleel Scott,BAL,2018.0,ScotJa02,2018-12-16,Injured Reserve,TAM,Coach's Decision,15,WR
 Jaleel Scott,BAL,2018.0,ScotJa02,2018-12-22,Injured Reserve,LAC,Coach's Decision,16,WR
 Jaleel Scott,BAL,2018.0,ScotJa02,2018-12-30,Injured Reserve,CLE,Coach's Decision,17,WR
-Jaleel Scott,BAL,2018.0,ScotJa02,2019-01-06,Injured Reserve,LAC,Coach's Decision,,WR
 Greg Senat,BAL,2018.0,SenaGr00,2018-09-09,Injured Reserve,BUF,Toe,1,OT
 Greg Senat,BAL,2018.0,SenaGr00,2018-09-13,Injured Reserve,CIN,Toe,2,OT
 Greg Senat,BAL,2018.0,SenaGr00,2018-09-23,Injured Reserve,DEN,Toe,3,OT
@@ -609,7 +598,6 @@ Greg Senat,BAL,2018.0,SenaGr00,2018-12-09,Injured Reserve,KAN,Toe,14,OT
 Greg Senat,BAL,2018.0,SenaGr00,2018-12-16,Injured Reserve,TAM,Toe,15,OT
 Greg Senat,BAL,2018.0,SenaGr00,2018-12-22,Injured Reserve,LAC,Toe,16,OT
 Greg Senat,BAL,2018.0,SenaGr00,2018-12-30,Injured Reserve,CLE,Toe,17,OT
-Greg Senat,BAL,2018.0,SenaGr00,2019-01-06,Injured Reserve,LAC,Toe,,OT
 Alex Thompson,BAL,2018.0,ThomAl00,2018-09-09,Injured Reserve,BUF,Personal,1,
 Alex Thompson,BAL,2018.0,ThomAl00,2018-09-13,Injured Reserve,CIN,Personal,2,
 Alex Thompson,BAL,2018.0,ThomAl00,2018-09-23,Injured Reserve,DEN,Personal,3,
@@ -626,7 +614,6 @@ Alex Thompson,BAL,2018.0,ThomAl00,2018-12-09,Injured Reserve,KAN,Personal,14,
 Alex Thompson,BAL,2018.0,ThomAl00,2018-12-16,Injured Reserve,TAM,Personal,15,
 Alex Thompson,BAL,2018.0,ThomAl00,2018-12-22,Injured Reserve,LAC,Personal,16,
 Alex Thompson,BAL,2018.0,ThomAl00,2018-12-30,Injured Reserve,CLE,Personal,17,
-Alex Thompson,BAL,2018.0,ThomAl00,2019-01-06,Injured Reserve,LAC,Personal,,
 Kaare Vedvik,BAL,2018.0,VedvKa00,2018-09-09,Injured Reserve,BUF,Upper Body,1,P
 Kaare Vedvik,BAL,2018.0,VedvKa00,2018-09-13,Injured Reserve,CIN,Upper Body,2,P
 Kaare Vedvik,BAL,2018.0,VedvKa00,2018-09-23,Injured Reserve,DEN,Upper Body,3,P
@@ -643,7 +630,6 @@ Kaare Vedvik,BAL,2018.0,VedvKa00,2018-12-09,Injured Reserve,KAN,Upper Body,14,P
 Kaare Vedvik,BAL,2018.0,VedvKa00,2018-12-16,Injured Reserve,TAM,Upper Body,15,P
 Kaare Vedvik,BAL,2018.0,VedvKa00,2018-12-22,Injured Reserve,LAC,Upper Body,16,P
 Kaare Vedvik,BAL,2018.0,VedvKa00,2018-12-30,Injured Reserve,CLE,Upper Body,17,P
-Kaare Vedvik,BAL,2018.0,VedvKa00,2019-01-06,Injured Reserve,LAC,Upper Body,,P
 Kenny Young,BAL,2018.0,YounKe03,2018-09-09,Questionable,BUF,Knee,1,LB
 Kenneth Dixon,BAL,2018.0,DixoKe00,2018-09-13,Injured Reserve,CIN,Knee,2,RB
 Kenneth Dixon,BAL,2018.0,DixoKe00,2018-09-23,Injured Reserve,DEN,Knee,3,RB
@@ -720,7 +706,6 @@ De'Lance Turner,BAL,2018.0,TurnDe01,2018-12-09,Injured Reserve,KAN,Hamstring,14,
 De'Lance Turner,BAL,2018.0,TurnDe01,2018-12-16,Injured Reserve,TAM,Hamstring,15,RB
 De'Lance Turner,BAL,2018.0,TurnDe01,2018-12-22,Injured Reserve,LAC,Hamstring,16,RB
 De'Lance Turner,BAL,2018.0,TurnDe01,2018-12-30,Injured Reserve,CLE,Hamstring,17,RB
-De'Lance Turner,BAL,2018.0,TurnDe01,2019-01-06,Injured Reserve,LAC,Hamstring,,RB
 Tavon Young,BAL,2018.0,YounTa01,2018-10-14,Questionable,TEN,Hip,6,CB
 Tavon Young,BAL,2018.0,YounTa01,2018-11-18,Questionable,CIN,Ankle,11,CB
 Tavon Young,BAL,2018.0,YounTa01,2018-11-25,Questionable,OAK,Groin,12,CB
@@ -750,7 +735,6 @@ Alex Collins,BAL,2018.0,CollAl00,2018-12-09,Injured Reserve,KAN,Foot,14,RB
 Alex Collins,BAL,2018.0,CollAl00,2018-12-16,Injured Reserve,TAM,Foot,15,RB
 Alex Collins,BAL,2018.0,CollAl00,2018-12-22,Injured Reserve,LAC,Foot,16,RB
 Alex Collins,BAL,2018.0,CollAl00,2018-12-30,Injured Reserve,CLE,Foot,17,RB
-Alex Collins,BAL,2018.0,CollAl00,2019-01-06,Injured Reserve,LAC,Foot,,RB
 Tony Jefferson,BAL,2018.0,JeffTo00,2018-11-04,Questionable,PIT,Hamstring,9,FS
 Tony Jefferson,BAL,2018.0,JeffTo00,2018-11-18,Questionable,CIN,Thigh,11,FS
 Tony Jefferson,BAL,2018.0,JeffTo00,2018-12-02,Out,ATL,Ankle,13,FS
@@ -1138,7 +1122,6 @@ Marlon Brown,CHI,2018.0,BrowMa00,2018-12-09,Injured Reserve,LAR,Concussion,14,
 Marlon Brown,CHI,2018.0,BrowMa00,2018-12-16,Injured Reserve,GNB,Concussion,15,
 Marlon Brown,CHI,2018.0,BrowMa00,2018-12-23,Injured Reserve,SFO,Concussion,16,
 Marlon Brown,CHI,2018.0,BrowMa00,2018-12-30,Injured Reserve,MIN,Concussion,17,
-Marlon Brown,CHI,2018.0,BrowMa00,2019-01-06,Injured Reserve,PHI,Concussion,,
 DeAndre Houston-Carson,CHI,2018.0,HousDe00,2018-09-09,Out,GNB,Forearm,1,FS
 DeAndre Houston-Carson,CHI,2018.0,HousDe00,2018-09-17,Out,SEA,Forearm,2,FS
 DeAndre Houston-Carson,CHI,2018.0,HousDe00,2018-09-23,Out,ARI,Forearm,3,FS
@@ -1158,7 +1141,6 @@ Zach Miller,CHI,2018.0,MillZa02,2018-12-09,Injured Reserve,LAR,Leg,14,
 Zach Miller,CHI,2018.0,MillZa02,2018-12-16,Injured Reserve,GNB,Leg,15,
 Zach Miller,CHI,2018.0,MillZa02,2018-12-23,Injured Reserve,SFO,Leg,16,
 Zach Miller,CHI,2018.0,MillZa02,2018-12-30,Injured Reserve,MIN,Leg,17,
-Zach Miller,CHI,2018.0,MillZa02,2019-01-06,Injured Reserve,PHI,Leg,,
 Adam Shaheen,CHI,2018.0,ShahAd00,2018-09-09,Injured Reserve,GNB,Foot,1,TE
 Adam Shaheen,CHI,2018.0,ShahAd00,2018-09-17,Injured Reserve,SEA,Foot,2,TE
 Adam Shaheen,CHI,2018.0,ShahAd00,2018-09-23,Injured Reserve,ARI,Foot,3,TE
@@ -1184,7 +1166,6 @@ Andrew Trumbetti,CHI,2018.0,TrumAn00,2018-12-09,Injured Reserve,LAR,Undisclosed,
 Andrew Trumbetti,CHI,2018.0,TrumAn00,2018-12-16,Injured Reserve,GNB,Undisclosed,15,
 Andrew Trumbetti,CHI,2018.0,TrumAn00,2018-12-23,Injured Reserve,SFO,Undisclosed,16,
 Andrew Trumbetti,CHI,2018.0,TrumAn00,2018-12-30,Injured Reserve,MIN,Undisclosed,17,
-Andrew Trumbetti,CHI,2018.0,TrumAn00,2019-01-06,Injured Reserve,PHI,Undisclosed,,
 Marcus Cooper,CHI,2018.0,CoopMa00,2018-09-23,Out,ARI,Hamstring,3,CB
 Marcus Cooper,CHI,2018.0,CoopMa00,2018-09-30,Out,TAM,Hamstring,4,CB
 Marcus Cooper,CHI,2018.0,CoopMa00,2018-10-14,Out,MIA,Hamstring,6,CB
@@ -1204,12 +1185,10 @@ Sam Acho,CHI,2018.0,AchoSa00,2018-12-09,Injured Reserve,LAR,Pectoral,14,OLB
 Sam Acho,CHI,2018.0,AchoSa00,2018-12-16,Injured Reserve,GNB,Pectoral,15,OLB
 Sam Acho,CHI,2018.0,AchoSa00,2018-12-23,Injured Reserve,SFO,Pectoral,16,OLB
 Sam Acho,CHI,2018.0,AchoSa00,2018-12-30,Injured Reserve,MIN,Pectoral,17,OLB
-Sam Acho,CHI,2018.0,AchoSa00,2019-01-06,Injured Reserve,PHI,Pectoral,,OLB
 Bryce Callahan,CHI,2018.0,CallBr00,2018-10-21,Questionable,NWE,Ankle,7,CB
 Bryce Callahan,CHI,2018.0,CallBr00,2018-12-16,Injured Reserve,GNB,Foot,15,CB
 Bryce Callahan,CHI,2018.0,CallBr00,2018-12-23,Injured Reserve,SFO,Foot,16,CB
 Bryce Callahan,CHI,2018.0,CallBr00,2018-12-30,Injured Reserve,MIN,Foot,17,CB
-Bryce Callahan,CHI,2018.0,CallBr00,2019-01-06,Injured Reserve,PHI,Foot,,CB
 Khalil Mack,CHI,2018.0,MackKh00,2018-10-21,Questionable,NWE,Ankle,7,OLB
 Khalil Mack,CHI,2018.0,MackKh00,2018-10-28,Questionable,NYJ,Ankle,8,OLB
 Khalil Mack,CHI,2018.0,MackKh00,2018-11-04,Questionable,BUF,Ankle,9,OLB
@@ -1251,7 +1230,6 @@ Dion Sims,CHI,2018.0,SimsDi00,2018-12-09,Injured Reserve,LAR,Concussion,14,TE
 Dion Sims,CHI,2018.0,SimsDi00,2018-12-16,Injured Reserve,GNB,Concussion,15,TE
 Dion Sims,CHI,2018.0,SimsDi00,2018-12-23,Injured Reserve,SFO,Concussion,16,TE
 Dion Sims,CHI,2018.0,SimsDi00,2018-12-30,Injured Reserve,MIN,Concussion,17,TE
-Dion Sims,CHI,2018.0,SimsDi00,2019-01-06,Injured Reserve,PHI,Concussion,,TE
 Javon Wims,CHI,2018.0,WimsJa00,2018-11-18,Questionable,MIN,Knee,11,WR
 Aaron Lynch,CHI,2018.0,LyncAa00,2018-11-22,Out,DET,Concussion,12,DE
 Aaron Lynch,CHI,2018.0,LyncAa00,2018-12-23,Doubtful,SFO,Elbow,16,DE
@@ -1840,8 +1818,6 @@ Parker Ehinger,DAL,2018.0,EhinPa00,2018-12-09,Injured Reserve,PHI,Knee,14,OG
 Parker Ehinger,DAL,2018.0,EhinPa00,2018-12-16,Injured Reserve,IND,Knee,15,OG
 Parker Ehinger,DAL,2018.0,EhinPa00,2018-12-23,Injured Reserve,TAM,Knee,16,OG
 Parker Ehinger,DAL,2018.0,EhinPa00,2018-12-30,Injured Reserve,NYG,Knee,17,OG
-Parker Ehinger,DAL,2018.0,EhinPa00,2019-01-05,Injured Reserve,SEA,Knee,,OG
-Parker Ehinger,DAL,2018.0,EhinPa00,2019-01-12,Injured Reserve,LAR,Knee,,OG
 Kavon Frazier,DAL,2018.0,FrazKa00,2018-09-09,Questionable,CAR,Shoulder,1,FS
 Travis Frederick,DAL,2018.0,FredTr00,2018-09-09,Injured Reserve,CAR,Illness,1,C
 Travis Frederick,DAL,2018.0,FredTr00,2018-09-16,Injured Reserve,NYG,Illness,2,C
@@ -1859,8 +1835,6 @@ Travis Frederick,DAL,2018.0,FredTr00,2018-12-09,Injured Reserve,PHI,Illness,14,C
 Travis Frederick,DAL,2018.0,FredTr00,2018-12-16,Injured Reserve,IND,Illness,15,C
 Travis Frederick,DAL,2018.0,FredTr00,2018-12-23,Injured Reserve,TAM,Illness,16,C
 Travis Frederick,DAL,2018.0,FredTr00,2018-12-30,Injured Reserve,NYG,Illness,17,C
-Travis Frederick,DAL,2018.0,FredTr00,2019-01-05,Injured Reserve,SEA,Illness,,C
-Travis Frederick,DAL,2018.0,FredTr00,2019-01-12,Injured Reserve,LAR,Illness,,C
 Datone Jones,DAL,2018.0,JoneDa03,2018-09-09,Injured Reserve,CAR,Hamstring,1,DE
 Datone Jones,DAL,2018.0,JoneDa03,2018-09-16,Injured Reserve,NYG,Hamstring,2,DE
 Datone Jones,DAL,2018.0,JoneDa03,2018-09-30,Injured Reserve,DET,Hamstring,4,DE
@@ -1876,8 +1850,6 @@ Datone Jones,DAL,2018.0,JoneDa03,2018-12-09,Injured Reserve,PHI,Hamstring,14,DE
 Datone Jones,DAL,2018.0,JoneDa03,2018-12-16,Injured Reserve,IND,Hamstring,15,DE
 Datone Jones,DAL,2018.0,JoneDa03,2018-12-23,Injured Reserve,TAM,Hamstring,16,DE
 Datone Jones,DAL,2018.0,JoneDa03,2018-12-30,Injured Reserve,NYG,Hamstring,17,DE
-Datone Jones,DAL,2018.0,JoneDa03,2019-01-05,Injured Reserve,SEA,Hamstring,,DE
-Datone Jones,DAL,2018.0,JoneDa03,2019-01-12,Injured Reserve,LAR,Hamstring,,DE
 Marcus Martin,DAL,2018.0,MartMa01,2018-09-09,Injured Reserve,CAR,Toe,1,C
 Marcus Martin,DAL,2018.0,MartMa01,2018-09-16,Injured Reserve,NYG,Toe,2,C
 Marcus Martin,DAL,2018.0,MartMa01,2018-09-23,Injured Reserve,SEA,Toe,3,C
@@ -1894,8 +1866,6 @@ Marcus Martin,DAL,2018.0,MartMa01,2018-12-09,Injured Reserve,PHI,Toe,14,C
 Marcus Martin,DAL,2018.0,MartMa01,2018-12-16,Injured Reserve,IND,Toe,15,C
 Marcus Martin,DAL,2018.0,MartMa01,2018-12-23,Injured Reserve,TAM,Toe,16,C
 Marcus Martin,DAL,2018.0,MartMa01,2018-12-30,Injured Reserve,NYG,Toe,17,C
-Marcus Martin,DAL,2018.0,MartMa01,2019-01-05,Injured Reserve,SEA,Toe,,C
-Marcus Martin,DAL,2018.0,MartMa01,2019-01-12,Injured Reserve,LAR,Toe,,C
 Jameill Showers,DAL,2018.0,ShowJa01,2018-09-09,Injured Reserve,CAR,Knee,1,
 Jameill Showers,DAL,2018.0,ShowJa01,2018-09-16,Injured Reserve,NYG,Knee,2,
 Jameill Showers,DAL,2018.0,ShowJa01,2018-09-23,Injured Reserve,SEA,Knee,3,
@@ -1912,8 +1882,6 @@ Jameill Showers,DAL,2018.0,ShowJa01,2018-12-09,Injured Reserve,PHI,Knee,14,
 Jameill Showers,DAL,2018.0,ShowJa01,2018-12-16,Injured Reserve,IND,Knee,15,
 Jameill Showers,DAL,2018.0,ShowJa01,2018-12-23,Injured Reserve,TAM,Knee,16,
 Jameill Showers,DAL,2018.0,ShowJa01,2018-12-30,Injured Reserve,NYG,Knee,17,
-Jameill Showers,DAL,2018.0,ShowJa01,2019-01-05,Injured Reserve,SEA,Knee,,
-Jameill Showers,DAL,2018.0,ShowJa01,2019-01-12,Injured Reserve,LAR,Knee,,
 Cedrick Wilson Jr.,DAL,2018.0,WilsCe01,2018-09-09,Injured Reserve,CAR,Shoulder,1,WR
 Cedrick Wilson Jr.,DAL,2018.0,WilsCe01,2018-09-16,Injured Reserve,NYG,Shoulder,2,WR
 Cedrick Wilson Jr.,DAL,2018.0,WilsCe01,2018-09-23,Injured Reserve,SEA,Shoulder,3,WR
@@ -1930,8 +1898,6 @@ Cedrick Wilson Jr.,DAL,2018.0,WilsCe01,2018-12-09,Injured Reserve,PHI,Shoulder,1
 Cedrick Wilson Jr.,DAL,2018.0,WilsCe01,2018-12-16,Injured Reserve,IND,Shoulder,15,WR
 Cedrick Wilson Jr.,DAL,2018.0,WilsCe01,2018-12-23,Injured Reserve,TAM,Shoulder,16,WR
 Cedrick Wilson Jr.,DAL,2018.0,WilsCe01,2018-12-30,Injured Reserve,NYG,Shoulder,17,WR
-Cedrick Wilson Jr.,DAL,2018.0,WilsCe01,2019-01-05,Injured Reserve,SEA,Shoulder,,WR
-Cedrick Wilson Jr.,DAL,2018.0,WilsCe01,2019-01-12,Injured Reserve,LAR,Shoulder,,WR
 Xavier Woods,DAL,2018.0,WoodXa00,2018-09-09,Out,CAR,Hamstring,1,SS
 Xavier Woods,DAL,2018.0,WoodXa00,2018-09-16,Out,NYG,Hamstring,2,SS
 Xavier Woods,DAL,2018.0,WoodXa00,2018-09-23,Questionable,SEA,Hamstring,3,SS
@@ -1942,7 +1908,6 @@ Randy Gregory,DAL,2018.0,GregRa00,2018-11-11,Questionable,PHI,Knee,10,DE
 Randy Gregory,DAL,2018.0,GregRa00,2018-12-16,Questionable,IND,NotInjuryRelated,15,DE
 Cole Beasley,DAL,2018.0,BeasCo00,2018-09-23,Questionable,SEA,Ankle,3,WR
 Cole Beasley,DAL,2018.0,BeasCo00,2018-09-30,Questionable,DET,Ankle,4,WR
-Cole Beasley,DAL,2018.0,BeasCo00,2019-01-12,Questionable,LAR,Ankle,,WR
 Maliek Collins,DAL,2018.0,CollMa00,2018-09-23,Out,SEA,Knee,3,DT
 Maliek Collins,DAL,2018.0,CollMa00,2018-09-30,Out,DET,Knee,4,DT
 Maliek Collins,DAL,2018.0,CollMa00,2018-10-07,Questionable,HOU,Knee,5,DT
@@ -1950,7 +1915,6 @@ Maliek Collins,DAL,2018.0,CollMa00,2018-10-14,Questionable,JAX,Knee,6,DT
 Maliek Collins,DAL,2018.0,CollMa00,2018-11-18,Questionable,ATL,Knee,11,DT
 Maliek Collins,DAL,2018.0,CollMa00,2018-11-22,Questionable,WAS,Knee,12,DT
 Maliek Collins,DAL,2018.0,CollMa00,2018-11-29,Questionable,NOR,Knee,13,DT
-Maliek Collins,DAL,2018.0,CollMa00,2019-01-12,Questionable,LAR,Illness,,DT
 Sean Lee,DAL,2018.0,LeexSe99,2018-09-23,Questionable,SEA,Hamstring,3,LB
 Sean Lee,DAL,2018.0,LeexSe99,2018-09-30,Out,DET,Hamstring,4,LB
 Sean Lee,DAL,2018.0,LeexSe99,2018-10-07,Out,HOU,Hamstring,5,LB
@@ -1984,8 +1948,6 @@ Terrance Williams,DAL,2018.0,WillTe01,2018-12-09,Injured Reserve,PHI,Foot,14,WR
 Terrance Williams,DAL,2018.0,WillTe01,2018-12-16,Injured Reserve,IND,Foot,15,WR
 Terrance Williams,DAL,2018.0,WillTe01,2018-12-23,Injured Reserve,TAM,Foot,16,WR
 Terrance Williams,DAL,2018.0,WillTe01,2018-12-30,Injured Reserve,NYG,Foot,17,WR
-Terrance Williams,DAL,2018.0,WillTe01,2019-01-05,Injured Reserve,SEA,Foot,,WR
-Terrance Williams,DAL,2018.0,WillTe01,2019-01-12,Injured Reserve,LAR,Foot,,WR
 Brice Butler,DAL,2018.0,ButlBr00,2018-10-14,Questionable,JAX,Groin,6,WR
 DeMarcus Lawrence,DAL,2018.0,LawrDe00,2018-10-14,Questionable,JAX,Shoulder,6,DE
 Joe Thomas,DAL,2018.0,ThomJo04,2018-10-14,Out,JAX,Foot,6,LB
@@ -2020,7 +1982,6 @@ David Irving,DAL,2018.0,IrviDa00,2018-12-09,Out,PHI,Ankle,14,DE
 David Irving,DAL,2018.0,IrviDa00,2018-12-16,Out,IND,Ankle,15,DE
 David Irving,DAL,2018.0,IrviDa00,2018-12-23,Out,TAM,Ankle,16,DE
 David Irving,DAL,2018.0,IrviDa00,2018-12-30,Out,NYG,Ankle,17,DE
-David Irving,DAL,2018.0,IrviDa00,2019-01-12,Out,LAR,Ankle,,DE
 Zack Martin,DAL,2018.0,MartZa00,2018-11-05,Questionable,TEN,Knee,9,G
 Zack Martin,DAL,2018.0,MartZa00,2018-11-18,Questionable,ATL,Knee,11,G
 Zack Martin,DAL,2018.0,MartZa00,2018-11-22,Questionable,WAS,Knee,12,G
@@ -2036,8 +1997,6 @@ Geoff Swaim,DAL,2018.0,SwaiGe00,2018-12-09,Injured Reserve,PHI,Wrist,14,TE
 Geoff Swaim,DAL,2018.0,SwaiGe00,2018-12-16,Injured Reserve,IND,Wrist,15,TE
 Geoff Swaim,DAL,2018.0,SwaiGe00,2018-12-23,Out,TAM,Wrist,16,TE
 Geoff Swaim,DAL,2018.0,SwaiGe00,2018-12-30,Injured Reserve,NYG,Wrist,17,TE
-Geoff Swaim,DAL,2018.0,SwaiGe00,2019-01-05,Injured Reserve,SEA,Wrist,,TE
-Geoff Swaim,DAL,2018.0,SwaiGe00,2019-01-12,Injured Reserve,LAR,Wrist,,TE
 Connor Williams,DAL,2018.0,WillCo00,2018-11-11,Out,PHI,Knee,10,OT
 Connor Williams,DAL,2018.0,WillCo00,2018-11-18,Questionable,ATL,Knee,11,OT
 Connor Williams,DAL,2018.0,WillCo00,2018-11-22,Questionable,WAS,Knee,12,OT
@@ -2049,15 +2008,11 @@ Tyron Smith,DAL,2018.0,SmitTy00,2018-12-09,Questionable,PHI,Neck,14,OT
 Tyron Smith,DAL,2018.0,SmitTy00,2018-12-16,Questionable,IND,Neck,15,OT
 Tyron Smith,DAL,2018.0,SmitTy00,2018-12-30,Questionable,NYG,Neck,17,OT
 Xavier Su'a-Filo,DAL,2018.0,Sua-Xa00,2018-11-29,Questionable,NOR,Ankle,13,OG
-Xavier Su'a-Filo,DAL,2018.0,Sua-Xa00,2019-01-12,Questionable,LAR,Ankle,,OG
 Michael Gallup,DAL,2018.0,GallMi00,2018-12-09,Questionable,PHI,Illness,14,WR
 Lance Lenoir,DAL,2018.0,LenoLa00,2018-12-16,Questionable,IND,Illness,15,WR
 Anthony Brown,DAL,2018.0,BrowAn02,2018-12-23,Questionable,TAM,Hand,16,CB
 Anthony Brown,DAL,2018.0,BrowAn02,2018-12-30,Questionable,NYG,Back,17,CB
 Tyrone Crawford,DAL,2018.0,CrawTy00,2018-12-30,Out,NYG,Neck,17,DE
-Allen Hurns,DAL,2018.0,HurnAl01,2019-01-12,Injured Reserve,LAR,Ankle,,WR
-Blake Jarwin,DAL,2018.0,JarwBl00,2019-01-12,Questionable,LAR,Ankle,,TE
-Darian Thompson,DAL,2018.0,ThomDa05,2019-01-12,Questionable,LAR,Groin,,FS
 Kenny Bell,DEN,2018.0,BellKe02,2018-09-09,Injured Reserve,SEA,Hamstring,1,
 Kenny Bell,DEN,2018.0,BellKe02,2018-09-16,Injured Reserve,OAK,Hamstring,2,
 Kenny Bell,DEN,2018.0,BellKe02,2018-09-23,Injured Reserve,BAL,Hamstring,3,
@@ -2529,7 +2484,6 @@ Bruce Ellington,HOU,2018.0,ElliBr00,2018-11-26,Injured Reserve,TEN,Hamstring,12,
 Bruce Ellington,HOU,2018.0,ElliBr00,2018-12-15,Injured Reserve,NYJ,Hamstring,15,WR
 Bruce Ellington,HOU,2018.0,ElliBr00,2018-12-23,Injured Reserve,PHI,Hamstring,16,WR
 Bruce Ellington,HOU,2018.0,ElliBr00,2018-12-30,Injured Reserve,JAX,Hamstring,17,WR
-Bruce Ellington,HOU,2018.0,ElliBr00,2019-01-05,Injured Reserve,IND,Hamstring,,WR
 Trevor Bates,DET,2018.0,BateTr00,2018-12-02,Questionable,LAR,Ankle,13,LB
 Trevor Bates,DET,2018.0,BateTr00,2018-12-09,Out,ARI,Ankle,14,LB
 Trevor Bates,DET,2018.0,BateTr00,2018-12-16,Questionable,BUF,Ankle,15,LB
@@ -2841,7 +2795,6 @@ Will Fuller,HOU,2018.0,FullWi01,2018-12-09,Injured Reserve,IND,Knee,14,WR
 Will Fuller,HOU,2018.0,FullWi01,2018-12-15,Injured Reserve,NYJ,Knee,15,WR
 Will Fuller,HOU,2018.0,FullWi01,2018-12-23,Injured Reserve,PHI,Knee,16,WR
 Will Fuller,HOU,2018.0,FullWi01,2018-12-30,Injured Reserve,JAX,Knee,17,WR
-Will Fuller,HOU,2018.0,FullWi01,2019-01-05,Injured Reserve,IND,Knee,,WR
 Matthew Godin,HOU,2018.0,GodiMa00,2018-09-09,Injured Reserve,NWE,Knee,1,
 Matthew Godin,HOU,2018.0,GodiMa00,2018-09-16,Injured Reserve,TEN,Knee,2,
 Matthew Godin,HOU,2018.0,GodiMa00,2018-09-23,Injured Reserve,NYG,Knee,3,
@@ -2858,7 +2811,6 @@ Matthew Godin,HOU,2018.0,GodiMa00,2018-12-09,Injured Reserve,IND,Knee,14,
 Matthew Godin,HOU,2018.0,GodiMa00,2018-12-15,Injured Reserve,NYJ,Knee,15,
 Matthew Godin,HOU,2018.0,GodiMa00,2018-12-23,Injured Reserve,PHI,Knee,16,
 Matthew Godin,HOU,2018.0,GodiMa00,2018-12-30,Injured Reserve,JAX,Knee,17,
-Matthew Godin,HOU,2018.0,GodiMa00,2019-01-05,Injured Reserve,IND,Knee,,
 Andre Hal,HOU,2018.0,HalxAn00,2018-09-09,Injured Reserve,NWE,Illness,1,CB
 Andre Hal,HOU,2018.0,HalxAn00,2018-09-16,Injured Reserve,TEN,Illness,2,CB
 Andre Hal,HOU,2018.0,HalxAn00,2018-09-23,Injured Reserve,NYG,Illness,3,CB
@@ -2884,7 +2836,6 @@ Ben Heeney,HOU,2018.0,HeenBe00,2018-12-09,Injured Reserve,IND,Ankle,14,
 Ben Heeney,HOU,2018.0,HeenBe00,2018-12-15,Injured Reserve,NYJ,Ankle,15,
 Ben Heeney,HOU,2018.0,HeenBe00,2018-12-23,Injured Reserve,PHI,Ankle,16,
 Ben Heeney,HOU,2018.0,HeenBe00,2018-12-30,Injured Reserve,JAX,Ankle,17,
-Ben Heeney,HOU,2018.0,HeenBe00,2019-01-05,Injured Reserve,IND,Ankle,,
 Jermaine Kelly Jr.,HOU,2018.0,KellJe01,2018-09-09,Injured Reserve,NWE,Undisclosed,1,
 Jermaine Kelly Jr.,HOU,2018.0,KellJe01,2018-09-16,Injured Reserve,TEN,Undisclosed,2,
 Jermaine Kelly Jr.,HOU,2018.0,KellJe01,2018-09-23,Injured Reserve,NYG,Undisclosed,3,
@@ -2901,7 +2852,6 @@ Jermaine Kelly Jr.,HOU,2018.0,KellJe01,2018-12-09,Injured Reserve,IND,Undisclose
 Jermaine Kelly Jr.,HOU,2018.0,KellJe01,2018-12-15,Injured Reserve,NYJ,Undisclosed,15,
 Jermaine Kelly Jr.,HOU,2018.0,KellJe01,2018-12-23,Injured Reserve,PHI,Undisclosed,16,
 Jermaine Kelly Jr.,HOU,2018.0,KellJe01,2018-12-30,Injured Reserve,JAX,Undisclosed,17,
-Jermaine Kelly Jr.,HOU,2018.0,KellJe01,2019-01-05,Injured Reserve,IND,Undisclosed,,
 Jevoni Robinson,HOU,2018.0,RobiJe03,2018-09-09,Injured Reserve,NWE,Undisclosed,1,
 Jevoni Robinson,HOU,2018.0,RobiJe03,2018-09-16,Injured Reserve,TEN,Undisclosed,2,
 Jevoni Robinson,HOU,2018.0,RobiJe03,2018-09-23,Injured Reserve,NYG,Undisclosed,3,
@@ -2918,7 +2868,6 @@ Jevoni Robinson,HOU,2018.0,RobiJe03,2018-12-09,Injured Reserve,IND,Undisclosed,1
 Jevoni Robinson,HOU,2018.0,RobiJe03,2018-12-15,Injured Reserve,NYJ,Undisclosed,15,
 Jevoni Robinson,HOU,2018.0,RobiJe03,2018-12-23,Injured Reserve,PHI,Undisclosed,16,
 Jevoni Robinson,HOU,2018.0,RobiJe03,2018-12-30,Injured Reserve,JAX,Undisclosed,17,
-Jevoni Robinson,HOU,2018.0,RobiJe03,2019-01-05,Injured Reserve,IND,Undisclosed,,
 Kayvon Webster,HOU,2018.0,WebsKa00,2018-09-09,Out,NWE,Achilles,1,CB
 Kayvon Webster,HOU,2018.0,WebsKa00,2018-09-16,Out,TEN,Achilles,2,CB
 Kayvon Webster,HOU,2018.0,WebsKa00,2018-09-23,Out,NYG,Achilles,3,CB
@@ -2933,7 +2882,6 @@ Kayvon Webster,HOU,2018.0,WebsKa00,2018-12-02,Injured Reserve,CLE,Quadricep,13,C
 Kayvon Webster,HOU,2018.0,WebsKa00,2018-12-09,Injured Reserve,IND,Quadricep,14,CB
 Kayvon Webster,HOU,2018.0,WebsKa00,2018-12-15,Injured Reserve,NYJ,Quadricep,15,CB
 Kayvon Webster,HOU,2018.0,WebsKa00,2018-12-30,Injured Reserve,JAX,Quadricep,17,CB
-Kayvon Webster,HOU,2018.0,WebsKa00,2019-01-05,Injured Reserve,IND,Quadricep,,CB
 Johnson Bademosi,HOU,2018.0,BadeJo00,2018-09-16,Questionable,TEN,Knee,2,DB
 Jadeveon Clowney,HOU,2018.0,ClowJa00,2018-09-16,Questionable,TEN,Back,2,DE
 Jadeveon Clowney,HOU,2018.0,ClowJa00,2018-11-04,Questionable,DEN,Groin,9,DE
@@ -2953,7 +2901,6 @@ Seantrel Henderson,HOU,2018.0,HendSe00,2018-12-09,Injured Reserve,IND,Ankle,14,O
 Seantrel Henderson,HOU,2018.0,HendSe00,2018-12-15,Injured Reserve,NYJ,Ankle,15,OT
 Seantrel Henderson,HOU,2018.0,HendSe00,2018-12-23,Injured Reserve,PHI,Ankle,16,OT
 Seantrel Henderson,HOU,2018.0,HendSe00,2018-12-30,Injured Reserve,JAX,Ankle,17,OT
-Seantrel Henderson,HOU,2018.0,HendSe00,2019-01-05,Injured Reserve,IND,Ankle,,OT
 DeAndre Hopkins,HOU,2018.0,HopkDe00,2018-09-16,Questionable,TEN,Foot,2,WR
 DeAndre Hopkins,HOU,2018.0,HopkDe00,2018-09-30,Questionable,IND,Thumb,4,WR
 DeAndre Hopkins,HOU,2018.0,HopkDe00,2018-12-23,Questionable,PHI,Ankle,16,WR
@@ -2972,7 +2919,6 @@ Kevin Johnson,HOU,2018.0,JohnKe04,2018-12-09,Injured Reserve,IND,Concussion,14,C
 Kevin Johnson,HOU,2018.0,JohnKe04,2018-12-15,Injured Reserve,NYJ,Concussion,15,CB
 Kevin Johnson,HOU,2018.0,JohnKe04,2018-12-23,Injured Reserve,PHI,Concussion,16,CB
 Kevin Johnson,HOU,2018.0,JohnKe04,2018-12-30,Injured Reserve,JAX,Concussion,17,CB
-Kevin Johnson,HOU,2018.0,JohnKe04,2019-01-05,Injured Reserve,IND,Concussion,,CB
 Jordan Thomas,HOU,2018.0,ThomJo05,2018-09-23,Questionable,NYG,Hip,3,TE
 Dylan Cole,HOU,2018.0,ColeDy00,2018-09-30,Injured Reserve,IND,Wrist,4,LB
 Dylan Cole,HOU,2018.0,ColeDy00,2018-10-07,Injured Reserve,DAL,Wrist,5,LB
@@ -3027,11 +2973,9 @@ Brennan Scarlett,HOU,2018.0,ScarBr00,2018-12-09,Questionable,IND,Ankle,14,LB
 Brennan Scarlett,HOU,2018.0,ScarBr00,2018-12-15,Injured Reserve,NYJ,Ankle,15,LB
 Brennan Scarlett,HOU,2018.0,ScarBr00,2018-12-23,Injured Reserve,PHI,Ankle,16,LB
 Brennan Scarlett,HOU,2018.0,ScarBr00,2018-12-30,Injured Reserve,JAX,Ankle,17,LB
-Brennan Scarlett,HOU,2018.0,ScarBr00,2019-01-05,Injured Reserve,IND,Ankle,,LB
 Brandon Dunn,HOU,2018.0,DunnBr00,2018-12-23,Questionable,PHI,Ankle,16,DT
 Brandon Dunn,HOU,2018.0,DunnBr00,2018-12-30,Questionable,JAX,Ankle,17,DT
 Michael Tyson,HOU,2018.0,TysoMi00,2018-12-23,Out,PHI,Concussion,16,FS
-Michael Tyson,HOU,2018.0,TysoMi00,2019-01-05,Injured Reserve,IND,Knee,,FS
 Deon Cain,IND,2018.0,CainDe00,2018-09-09,Injured Reserve,CIN,Knee,1,WR
 Deon Cain,IND,2018.0,CainDe00,2018-09-16,Injured Reserve,WAS,Knee,2,WR
 Deon Cain,IND,2018.0,CainDe00,2018-09-23,Injured Reserve,PHI,Knee,3,WR
@@ -3048,8 +2992,6 @@ Deon Cain,IND,2018.0,CainDe00,2018-12-09,Injured Reserve,HOU,Knee,14,WR
 Deon Cain,IND,2018.0,CainDe00,2018-12-16,Injured Reserve,DAL,Knee,15,WR
 Deon Cain,IND,2018.0,CainDe00,2018-12-23,Injured Reserve,NYG,Knee,16,WR
 Deon Cain,IND,2018.0,CainDe00,2018-12-30,Injured Reserve,TEN,Knee,17,WR
-Deon Cain,IND,2018.0,CainDe00,2019-01-05,Injured Reserve,HOU,Knee,,WR
-Deon Cain,IND,2018.0,CainDe00,2019-01-12,Injured Reserve,KAN,Knee,,WR
 Johnathan Calvin,IND,2018.0,CalvJo00,2018-09-09,Injured Reserve,CIN,Undisclosed,1,
 Johnathan Calvin,IND,2018.0,CalvJo00,2018-09-16,Injured Reserve,WAS,Undisclosed,2,
 Johnathan Calvin,IND,2018.0,CalvJo00,2018-09-23,Injured Reserve,PHI,Undisclosed,3,
@@ -3066,8 +3008,6 @@ Johnathan Calvin,IND,2018.0,CalvJo00,2018-12-09,Injured Reserve,HOU,Undisclosed,
 Johnathan Calvin,IND,2018.0,CalvJo00,2018-12-16,Injured Reserve,DAL,Undisclosed,15,
 Johnathan Calvin,IND,2018.0,CalvJo00,2018-12-23,Injured Reserve,NYG,Undisclosed,16,
 Johnathan Calvin,IND,2018.0,CalvJo00,2018-12-30,Injured Reserve,TEN,Undisclosed,17,
-Johnathan Calvin,IND,2018.0,CalvJo00,2019-01-05,Injured Reserve,HOU,Undisclosed,,
-Johnathan Calvin,IND,2018.0,CalvJo00,2019-01-12,Injured Reserve,KAN,Undisclosed,,
 Anthony Castonzo,IND,2018.0,CastAn00,2018-09-09,Questionable,CIN,Hamstring,1,LT
 Anthony Castonzo,IND,2018.0,CastAn00,2018-09-16,Out,WAS,Hamstring,2,LT
 Anthony Castonzo,IND,2018.0,CastAn00,2018-09-23,Out,PHI,Hamstring,3,LT
@@ -3089,8 +3029,6 @@ Josh Ferguson,IND,2018.0,FergJo02,2018-12-09,Injured Reserve,HOU,Groin,14,RB
 Josh Ferguson,IND,2018.0,FergJo02,2018-12-16,Injured Reserve,DAL,Groin,15,RB
 Josh Ferguson,IND,2018.0,FergJo02,2018-12-23,Injured Reserve,NYG,Groin,16,RB
 Josh Ferguson,IND,2018.0,FergJo02,2018-12-30,Injured Reserve,TEN,Groin,17,RB
-Josh Ferguson,IND,2018.0,FergJo02,2019-01-05,Injured Reserve,HOU,Groin,,RB
-Josh Ferguson,IND,2018.0,FergJo02,2019-01-12,Injured Reserve,KAN,Groin,,RB
 Jeremiah George,IND,2018.0,GeorJe01,2018-09-09,Injured Reserve,CIN,Back,1,
 Jeremiah George,IND,2018.0,GeorJe01,2018-09-16,Injured Reserve,WAS,Back,2,
 Jeremiah George,IND,2018.0,GeorJe01,2018-09-23,Injured Reserve,PHI,Back,3,
@@ -3107,8 +3045,6 @@ Jeremiah George,IND,2018.0,GeorJe01,2018-12-09,Injured Reserve,HOU,Back,14,
 Jeremiah George,IND,2018.0,GeorJe01,2018-12-16,Injured Reserve,DAL,Back,15,
 Jeremiah George,IND,2018.0,GeorJe01,2018-12-23,Injured Reserve,NYG,Back,16,
 Jeremiah George,IND,2018.0,GeorJe01,2018-12-30,Injured Reserve,TEN,Back,17,
-Jeremiah George,IND,2018.0,GeorJe01,2019-01-05,Injured Reserve,HOU,Back,,
-Jeremiah George,IND,2018.0,GeorJe01,2019-01-12,Injured Reserve,KAN,Back,,
 Denzelle Good ,IND,2018.0,GoodDe01,2018-09-09,Out,CIN,Knee,1,OT
 Denzelle Good ,IND,2018.0,GoodDe01,2018-09-16,Out,WAS,Knee,2,OT
 Denzelle Good ,IND,2018.0,GoodDe01,2018-10-04,Out,NWE,NotInjuryRelated,5,OT
@@ -3120,8 +3056,6 @@ Denzelle Good ,IND,2018.0,GoodDe01,2018-11-18,Injured Reserve,TEN,Knee,11,OT
 Denzelle Good ,IND,2018.0,GoodDe01,2018-11-25,Injured Reserve,MIA,Knee,12,OT
 Denzelle Good ,IND,2018.0,GoodDe01,2018-12-02,Injured Reserve,JAX,Knee,13,OT
 Denzelle Good ,IND,2018.0,GoodDe01,2018-12-23,Injured Reserve,NYG,Knee,16,OT
-Denzelle Good ,IND,2018.0,GoodDe01,2019-01-05,Injured Reserve,HOU,Knee,,OT
-Denzelle Good ,IND,2018.0,GoodDe01,2019-01-12,Injured Reserve,KAN,Knee,,OT
 Matt Hazel,IND,2018.0,HazeMa01,2018-09-09,Injured Reserve,CIN,Undisclosed,1,
 Matt Hazel,IND,2018.0,HazeMa01,2018-09-16,Injured Reserve,WAS,Undisclosed,2,
 Matt Hazel,IND,2018.0,HazeMa01,2018-09-23,Injured Reserve,PHI,Undisclosed,3,
@@ -3138,8 +3072,6 @@ Matt Hazel,IND,2018.0,HazeMa01,2018-12-09,Injured Reserve,HOU,Undisclosed,14,
 Matt Hazel,IND,2018.0,HazeMa01,2018-12-16,Injured Reserve,DAL,Undisclosed,15,
 Matt Hazel,IND,2018.0,HazeMa01,2018-12-23,Injured Reserve,NYG,Undisclosed,16,
 Matt Hazel,IND,2018.0,HazeMa01,2018-12-30,Injured Reserve,TEN,Undisclosed,17,
-Matt Hazel,IND,2018.0,HazeMa01,2019-01-05,Injured Reserve,HOU,Undisclosed,,
-Matt Hazel,IND,2018.0,HazeMa01,2019-01-12,Injured Reserve,KAN,Undisclosed,,
 Austin Howard,IND,2018.0,HowaAu20,2018-09-09,Injured Reserve,CIN,Undisclosed,1,T
 Austin Howard,IND,2018.0,HowaAu20,2018-09-16,Injured Reserve,WAS,Undisclosed,2,T
 Austin Howard,IND,2018.0,HowaAu20,2018-09-23,Injured Reserve,PHI,Undisclosed,3,T
@@ -3152,8 +3084,6 @@ Austin Howard,IND,2018.0,HowaAu20,2018-11-25,Injured Reserve,MIA,Undisclosed,12,
 Austin Howard,IND,2018.0,HowaAu20,2018-12-02,Injured Reserve,JAX,Undisclosed,13,T
 Austin Howard,IND,2018.0,HowaAu20,2018-12-23,Injured Reserve,NYG,Undisclosed,16,T
 Austin Howard,IND,2018.0,HowaAu20,2018-12-30,Injured Reserve,TEN,Undisclosed,17,T
-Austin Howard,IND,2018.0,HowaAu20,2019-01-05,Injured Reserve,HOU,Undisclosed,,T
-Austin Howard,IND,2018.0,HowaAu20,2019-01-12,Injured Reserve,KAN,Undisclosed,,T
 Austin Howard,WAS,2018.0,HowaAu20,2018-12-22,Questionable,TEN,Hip,16,T
 Austin Howard,WAS,2018.0,HowaAu20,2018-12-30,Injured Reserve,PHI,Hip,17,T
 Anthony Johnson,IND,2018.0,JohnAn04,2018-09-09,Injured Reserve,CIN,Back,1,
@@ -3172,8 +3102,6 @@ Anthony Johnson,IND,2018.0,JohnAn04,2018-12-09,Injured Reserve,HOU,Back,14,
 Anthony Johnson,IND,2018.0,JohnAn04,2018-12-16,Injured Reserve,DAL,Back,15,
 Anthony Johnson,IND,2018.0,JohnAn04,2018-12-23,Injured Reserve,NYG,Back,16,
 Anthony Johnson,IND,2018.0,JohnAn04,2018-12-30,Injured Reserve,TEN,Back,17,
-Anthony Johnson,IND,2018.0,JohnAn04,2019-01-05,Injured Reserve,HOU,Back,,
-Anthony Johnson,IND,2018.0,JohnAn04,2019-01-12,Injured Reserve,KAN,Back,,
 Brad Kaaya,IND,2018.0,KaayBr00,2018-09-09,Injured Reserve,CIN,Back,1,
 Brad Kaaya,IND,2018.0,KaayBr00,2018-09-16,Injured Reserve,WAS,Back,2,
 Brad Kaaya,IND,2018.0,KaayBr00,2018-09-23,Injured Reserve,PHI,Back,3,
@@ -3190,8 +3118,6 @@ Brad Kaaya,IND,2018.0,KaayBr00,2018-12-09,Injured Reserve,HOU,Back,14,
 Brad Kaaya,IND,2018.0,KaayBr00,2018-12-16,Injured Reserve,DAL,Back,15,
 Brad Kaaya,IND,2018.0,KaayBr00,2018-12-23,Injured Reserve,NYG,Back,16,
 Brad Kaaya,IND,2018.0,KaayBr00,2018-12-30,Injured Reserve,TEN,Back,17,
-Brad Kaaya,IND,2018.0,KaayBr00,2019-01-05,Injured Reserve,HOU,Back,,
-Brad Kaaya,IND,2018.0,KaayBr00,2019-01-12,Injured Reserve,KAN,Back,,
 Tyquan Lewis,IND,2018.0,LewiTy00,2018-09-09,Injured Reserve,CIN,Foot,1,DE
 Tyquan Lewis,IND,2018.0,LewiTy00,2018-09-16,Injured Reserve,WAS,Foot,2,DE
 Tyquan Lewis,IND,2018.0,LewiTy00,2018-09-23,Injured Reserve,PHI,Foot,3,DE
@@ -3200,8 +3126,6 @@ Tyquan Lewis,IND,2018.0,LewiTy00,2018-10-04,Injured Reserve,NWE,Foot,5,DE
 Tyquan Lewis,IND,2018.0,LewiTy00,2018-10-14,Injured Reserve,NYJ,Foot,6,DE
 Tyquan Lewis,IND,2018.0,LewiTy00,2018-10-21,Injured Reserve,BUF,Foot,7,DE
 Tyquan Lewis,IND,2018.0,LewiTy00,2018-10-28,Injured Reserve,OAK,Foot,8,DE
-Tyquan Lewis,IND,2018.0,LewiTy00,2019-01-05,Injured Reserve,HOU,Foot,,DE
-Tyquan Lewis,IND,2018.0,LewiTy00,2019-01-12,Doubtful,KAN,Knee,,DE
 Kolby Listenbee,IND,2018.0,ListKo00,2018-09-09,Injured Reserve,CIN,Pelvis,1,
 Kolby Listenbee,IND,2018.0,ListKo00,2018-09-16,Injured Reserve,WAS,Pelvis,2,
 Kolby Listenbee,IND,2018.0,ListKo00,2018-09-23,Injured Reserve,PHI,Pelvis,3,
@@ -3218,8 +3142,6 @@ Kolby Listenbee,IND,2018.0,ListKo00,2018-12-09,Injured Reserve,HOU,Pelvis,14,
 Kolby Listenbee,IND,2018.0,ListKo00,2018-12-16,Injured Reserve,DAL,Pelvis,15,
 Kolby Listenbee,IND,2018.0,ListKo00,2018-12-23,Injured Reserve,NYG,Pelvis,16,
 Kolby Listenbee,IND,2018.0,ListKo00,2018-12-30,Injured Reserve,TEN,Pelvis,17,
-Kolby Listenbee,IND,2018.0,ListKo00,2019-01-05,Injured Reserve,HOU,Pelvis,,
-Kolby Listenbee,IND,2018.0,ListKo00,2019-01-12,Injured Reserve,KAN,Pelvis,,
 Marlon Mack,IND,2018.0,MackMa00,2018-09-09,Questionable,CIN,Hamstring,1,RB
 Marlon Mack,IND,2018.0,MackMa00,2018-09-16,Questionable,WAS,Hamstring,2,RB
 Marlon Mack,IND,2018.0,MackMa00,2018-09-23,Out,PHI,Foot,3,RB
@@ -3243,8 +3165,6 @@ Chris McCain,IND,2018.0,McCaCh00,2018-12-09,Injured Reserve,HOU,Ankle,14,
 Chris McCain,IND,2018.0,McCaCh00,2018-12-16,Injured Reserve,DAL,Ankle,15,
 Chris McCain,IND,2018.0,McCaCh00,2018-12-23,Injured Reserve,NYG,Ankle,16,
 Chris McCain,IND,2018.0,McCaCh00,2018-12-30,Injured Reserve,TEN,Ankle,17,
-Chris McCain,IND,2018.0,McCaCh00,2019-01-05,Injured Reserve,HOU,Ankle,,
-Chris McCain,IND,2018.0,McCaCh00,2019-01-12,Injured Reserve,KAN,Ankle,,
 Ross Travis,IND,2018.0,TravRo00,2018-09-09,Injured Reserve,CIN,Knee,1,TE
 Ross Travis,IND,2018.0,TravRo00,2018-09-16,Injured Reserve,WAS,Knee,2,TE
 Ross Travis,IND,2018.0,TravRo00,2018-09-23,Injured Reserve,PHI,Knee,3,TE
@@ -3261,14 +3181,11 @@ Ross Travis,IND,2018.0,TravRo00,2018-12-09,Injured Reserve,HOU,Knee,14,TE
 Ross Travis,IND,2018.0,TravRo00,2018-12-16,Injured Reserve,DAL,Knee,15,TE
 Ross Travis,IND,2018.0,TravRo00,2018-12-23,Injured Reserve,NYG,Knee,16,TE
 Ross Travis,IND,2018.0,TravRo00,2018-12-30,Injured Reserve,TEN,Knee,17,TE
-Ross Travis,IND,2018.0,TravRo00,2019-01-05,Injured Reserve,HOU,Knee,,TE
-Ross Travis,IND,2018.0,TravRo00,2019-01-12,Injured Reserve,KAN,Knee,,TE
 Denico Autry,IND,2018.0,AutrDe00,2018-09-16,Out,WAS,Ankle,2,DE
 Denico Autry,IND,2018.0,AutrDe00,2018-09-23,Out,PHI,Ankle,3,DE
 Denico Autry,IND,2018.0,AutrDe00,2018-10-14,Out,NYJ,Hamstring,6,DE
 Denico Autry,IND,2018.0,AutrDe00,2018-10-21,Out,BUF,Hamstring,7,DE
 Denico Autry,IND,2018.0,AutrDe00,2018-12-09,Questionable,HOU,Back,14,DE
-Denico Autry,IND,2018.0,AutrDe00,2019-01-12,Questionable,KAN,Shoulder,,DE
 Chris Cooper,IND,2018.0,CoopCh00,2018-09-16,Injured Reserve,WAS,Concussion,2,
 Chris Cooper,IND,2018.0,CoopCh00,2018-09-23,Injured Reserve,PHI,Concussion,3,
 Chris Cooper,IND,2018.0,CoopCh00,2018-09-30,Injured Reserve,HOU,Concussion,4,
@@ -3284,8 +3201,6 @@ Chris Cooper,IND,2018.0,CoopCh00,2018-12-09,Injured Reserve,HOU,Concussion,14,
 Chris Cooper,IND,2018.0,CoopCh00,2018-12-16,Injured Reserve,DAL,Concussion,15,
 Chris Cooper,IND,2018.0,CoopCh00,2018-12-23,Injured Reserve,NYG,Concussion,16,
 Chris Cooper,IND,2018.0,CoopCh00,2018-12-30,Injured Reserve,TEN,Concussion,17,
-Chris Cooper,IND,2018.0,CoopCh00,2019-01-05,Injured Reserve,HOU,Concussion,,
-Chris Cooper,IND,2018.0,CoopCh00,2019-01-12,Injured Reserve,KAN,Concussion,,
 Clayton Geathers,IND,2018.0,GeatCl00,2018-09-16,Questionable,WAS,Knee,2,SS
 Clayton Geathers,IND,2018.0,GeatCl00,2018-09-23,Questionable,PHI,Knee,3,SS
 Clayton Geathers,IND,2018.0,GeatCl00,2018-09-30,Questionable,HOU,Knee,4,SS
@@ -3311,8 +3226,6 @@ Robert Jackson,IND,2018.0,JackRo00,2018-12-09,Injured Reserve,HOU,Concussion,14,
 Robert Jackson,IND,2018.0,JackRo00,2018-12-16,Injured Reserve,DAL,Concussion,15,CB
 Robert Jackson,IND,2018.0,JackRo00,2018-12-23,Injured Reserve,NYG,Concussion,16,CB
 Robert Jackson,IND,2018.0,JackRo00,2018-12-30,Injured Reserve,TEN,Concussion,17,CB
-Robert Jackson,IND,2018.0,JackRo00,2019-01-05,Injured Reserve,HOU,Concussion,,CB
-Robert Jackson,IND,2018.0,JackRo00,2019-01-12,Injured Reserve,KAN,Concussion,,CB
 Ronald Martin,IND,2018.0,MartRo01,2018-09-16,Injured Reserve,WAS,Shoulder,2,
 Ronald Martin,IND,2018.0,MartRo01,2018-09-23,Injured Reserve,PHI,Shoulder,3,
 Ronald Martin,IND,2018.0,MartRo01,2018-09-30,Injured Reserve,HOU,Shoulder,4,
@@ -3328,8 +3241,6 @@ Ronald Martin,IND,2018.0,MartRo01,2018-12-09,Injured Reserve,HOU,Shoulder,14,
 Ronald Martin,IND,2018.0,MartRo01,2018-12-16,Injured Reserve,DAL,Shoulder,15,
 Ronald Martin,IND,2018.0,MartRo01,2018-12-23,Injured Reserve,NYG,Shoulder,16,
 Ronald Martin,IND,2018.0,MartRo01,2018-12-30,Injured Reserve,TEN,Shoulder,17,
-Ronald Martin,IND,2018.0,MartRo01,2019-01-05,Injured Reserve,HOU,Shoulder,,
-Ronald Martin,IND,2018.0,MartRo01,2019-01-12,Injured Reserve,KAN,Shoulder,,
 Christopher Milton,IND,2018.0,MiltCh00,2018-09-16,Out,WAS,Concussion,2,CB
 Christopher Milton,IND,2018.0,MiltCh00,2018-09-23,Questionable,PHI,Concussion,3,CB
 Christopher Milton,IND,2018.0,MiltCh00,2018-10-21,Questionable,BUF,Hamstring,7,CB
@@ -3350,8 +3261,6 @@ Robenson Therezie,IND,2018.0,TherRo00,2018-12-09,Injured Reserve,HOU,Undisclosed
 Robenson Therezie,IND,2018.0,TherRo00,2018-12-16,Injured Reserve,DAL,Undisclosed,15,
 Robenson Therezie,IND,2018.0,TherRo00,2018-12-23,Injured Reserve,NYG,Undisclosed,16,
 Robenson Therezie,IND,2018.0,TherRo00,2018-12-30,Injured Reserve,TEN,Undisclosed,17,
-Robenson Therezie,IND,2018.0,TherRo00,2019-01-05,Injured Reserve,HOU,Undisclosed,,
-Robenson Therezie,IND,2018.0,TherRo00,2019-01-12,Injured Reserve,KAN,Undisclosed,,
 J'Marcus Webb,IND,2018.0,WebbJM20,2018-09-16,Injured Reserve,WAS,Hamstring,2,T
 J'Marcus Webb,IND,2018.0,WebbJM20,2018-09-23,Injured Reserve,PHI,Hamstring,3,T
 J'Marcus Webb,IND,2018.0,WebbJM20,2018-09-30,Injured Reserve,HOU,Hamstring,4,T
@@ -3367,8 +3276,6 @@ J'Marcus Webb,IND,2018.0,WebbJM20,2018-12-09,Injured Reserve,HOU,Hamstring,14,T
 J'Marcus Webb,IND,2018.0,WebbJM20,2018-12-16,Injured Reserve,DAL,Hamstring,15,T
 J'Marcus Webb,IND,2018.0,WebbJM20,2018-12-23,Injured Reserve,NYG,Hamstring,16,T
 J'Marcus Webb,IND,2018.0,WebbJM20,2018-12-30,Injured Reserve,TEN,Hamstring,17,T
-J'Marcus Webb,IND,2018.0,WebbJM20,2019-01-05,Injured Reserve,HOU,Hamstring,,T
-J'Marcus Webb,IND,2018.0,WebbJM20,2019-01-12,Injured Reserve,KAN,Hamstring,,T
 James Wright,IND,2018.0,WrigJa03,2018-09-16,Injured Reserve,WAS,Knee,2,
 James Wright,IND,2018.0,WrigJa03,2018-09-23,Injured Reserve,PHI,Knee,3,
 James Wright,IND,2018.0,WrigJa03,2018-09-30,Injured Reserve,HOU,Knee,4,
@@ -3384,8 +3291,6 @@ James Wright,IND,2018.0,WrigJa03,2018-12-09,Injured Reserve,HOU,Knee,14,
 James Wright,IND,2018.0,WrigJa03,2018-12-16,Injured Reserve,DAL,Knee,15,
 James Wright,IND,2018.0,WrigJa03,2018-12-23,Injured Reserve,NYG,Knee,16,
 James Wright,IND,2018.0,WrigJa03,2018-12-30,Injured Reserve,TEN,Knee,17,
-James Wright,IND,2018.0,WrigJa03,2019-01-05,Injured Reserve,HOU,Knee,,
-James Wright,IND,2018.0,WrigJa03,2019-01-12,Injured Reserve,KAN,Knee,,
 Jack Doyle,IND,2018.0,DoylJa00,2018-09-23,Out,PHI,Hip,3,TE
 Jack Doyle,IND,2018.0,DoylJa00,2018-09-30,Out,HOU,Hip,4,TE
 Jack Doyle,IND,2018.0,DoylJa00,2018-10-04,Out,NWE,Hip,5,TE
@@ -3396,8 +3301,6 @@ Jack Doyle,IND,2018.0,DoylJa00,2018-12-09,Injured Reserve,HOU,Kidney,14,TE
 Jack Doyle,IND,2018.0,DoylJa00,2018-12-16,Injured Reserve,DAL,Kidney,15,TE
 Jack Doyle,IND,2018.0,DoylJa00,2018-12-23,Injured Reserve,NYG,Kidney,16,TE
 Jack Doyle,IND,2018.0,DoylJa00,2018-12-30,Injured Reserve,TEN,Kidney,17,TE
-Jack Doyle,IND,2018.0,DoylJa00,2019-01-05,Injured Reserve,HOU,Kidney,,TE
-Jack Doyle,IND,2018.0,DoylJa00,2019-01-12,Injured Reserve,KAN,Kidney,,TE
 Hassan Ridgeway,IND,2018.0,RidgHa00,2018-09-23,Out,PHI,Calf,3,DT
 Hassan Ridgeway,IND,2018.0,RidgHa00,2018-09-30,Out,HOU,Calf,4,DT
 Hassan Ridgeway,IND,2018.0,RidgHa00,2018-10-04,Out,NWE,Calf,5,DT
@@ -3450,8 +3353,6 @@ Matthias Farley,IND,2018.0,FarlMa00,2018-12-09,Injured Reserve,HOU,Hamstring,14,
 Matthias Farley,IND,2018.0,FarlMa00,2018-12-16,Injured Reserve,DAL,Hamstring,15,DB
 Matthias Farley,IND,2018.0,FarlMa00,2018-12-23,Injured Reserve,NYG,Hamstring,16,DB
 Matthias Farley,IND,2018.0,FarlMa00,2018-12-30,Injured Reserve,TEN,Hamstring,17,DB
-Matthias Farley,IND,2018.0,FarlMa00,2019-01-05,Injured Reserve,HOU,Hamstring,,DB
-Matthias Farley,IND,2018.0,FarlMa00,2019-01-12,Injured Reserve,KAN,Hamstring,,DB
 Margus Hunt,IND,2018.0,HuntMa00,2018-10-14,Questionable,NYJ,Knee,6,DE
 Margus Hunt,IND,2018.0,HuntMa00,2018-12-09,Questionable,HOU,Knee,14,DE
 Arthur Maulet,IND,2018.0,MaulAr00,2018-10-14,Questionable,NYJ,Hip,6,CB
@@ -3462,7 +3363,6 @@ Mike Mitchell,IND,2018.0,MitcMi99,2018-12-02,Questionable,JAX,Calf,13,DB
 Mike Mitchell,IND,2018.0,MitcMi99,2018-12-09,Out,HOU,Calf,14,DB
 Mike Mitchell,IND,2018.0,MitcMi99,2018-12-16,Out,DAL,Calf,15,DB
 Mike Mitchell,IND,2018.0,MitcMi99,2018-12-23,Questionable,NYG,Calf,16,DB
-Mike Mitchell,IND,2018.0,MitcMi99,2019-01-12,Injured Reserve,KAN,Calf,,DB
 Matt Slauson,IND,2018.0,SlauMa20,2018-10-14,Injured Reserve,NYJ,Back,6,G
 Matt Slauson,IND,2018.0,SlauMa20,2018-10-21,Injured Reserve,BUF,Back,7,G
 Matt Slauson,IND,2018.0,SlauMa20,2018-10-28,Injured Reserve,OAK,Back,8,G
@@ -3474,12 +3374,9 @@ Matt Slauson,IND,2018.0,SlauMa20,2018-12-09,Injured Reserve,HOU,Back,14,G
 Matt Slauson,IND,2018.0,SlauMa20,2018-12-16,Injured Reserve,DAL,Back,15,G
 Matt Slauson,IND,2018.0,SlauMa20,2018-12-23,Injured Reserve,NYG,Back,16,G
 Matt Slauson,IND,2018.0,SlauMa20,2018-12-30,Injured Reserve,TEN,Back,17,G
-Matt Slauson,IND,2018.0,SlauMa20,2019-01-05,Injured Reserve,HOU,Back,,G
-Matt Slauson,IND,2018.0,SlauMa20,2019-01-12,Injured Reserve,KAN,Back,,G
 Ryan Grant,IND,2018.0,GranRy01,2018-10-21,Out,BUF,Ankle,7,WR
 Ryan Grant,IND,2018.0,GranRy01,2018-10-28,Out,OAK,Ankle,8,WR
 Ryan Grant,IND,2018.0,GranRy01,2018-11-11,Questionable,JAX,Ankle,10,WR
-Ryan Grant,IND,2018.0,GranRy01,2019-01-12,Out,KAN,Toe,,WR
 Marcus Johnson,IND,2018.0,JohnMa07,2018-10-21,Injured Reserve,BUF,Ankle,7,WR
 Marcus Johnson,IND,2018.0,JohnMa07,2018-10-28,Injured Reserve,OAK,Ankle,8,WR
 Marcus Johnson,IND,2018.0,JohnMa07,2018-11-11,Injured Reserve,JAX,Ankle,10,WR
@@ -3490,8 +3387,6 @@ Marcus Johnson,IND,2018.0,JohnMa07,2018-12-09,Injured Reserve,HOU,Ankle,14,WR
 Marcus Johnson,IND,2018.0,JohnMa07,2018-12-16,Injured Reserve,DAL,Ankle,15,WR
 Marcus Johnson,IND,2018.0,JohnMa07,2018-12-23,Injured Reserve,NYG,Ankle,16,WR
 Marcus Johnson,IND,2018.0,JohnMa07,2018-12-30,Injured Reserve,TEN,Ankle,17,WR
-Marcus Johnson,IND,2018.0,JohnMa07,2019-01-05,Injured Reserve,HOU,Ankle,,WR
-Marcus Johnson,IND,2018.0,JohnMa07,2019-01-12,Injured Reserve,KAN,Ankle,,WR
 Erik Swoope,IND,2018.0,SwooEr00,2018-10-21,Questionable,BUF,Knee,7,TE
 Erik Swoope,IND,2018.0,SwooEr00,2018-10-28,Out,OAK,Knee,8,TE
 Erik Swoope,IND,2018.0,SwooEr00,2018-11-11,Out,JAX,Knee,10,TE
@@ -3502,7 +3397,6 @@ Robert Turbin,IND,2018.0,TurbRo00,2018-10-21,Out,BUF,Shoulder,7,RB
 Robert Turbin,IND,2018.0,TurbRo00,2018-10-28,Out,OAK,Shoulder,8,RB
 Malik Hooker,IND,2018.0,HookMa00,2018-10-28,Out,OAK,Hip,8,FS
 Malik Hooker,IND,2018.0,HookMa00,2018-11-18,Questionable,TEN,Hip,11,FS
-Malik Hooker,IND,2018.0,HookMa00,2019-01-12,Questionable,KAN,Foot,,FS
 Zach Pascal,IND,2018.0,PascZa00,2018-10-28,Questionable,OAK,Head,8,WR
 Zach Pascal,IND,2018.0,PascZa00,2018-12-30,Questionable,TEN,Knee,17,WR
 Jabaal Sheard,IND,2018.0,SheaJa00,2018-10-28,Questionable,OAK,Abdomen,8,DL
@@ -3516,8 +3410,6 @@ Jihad Ward,IND,2018.0,WardJi02,2018-12-09,Injured Reserve,HOU,Ankle,14,DE
 Jihad Ward,IND,2018.0,WardJi02,2018-12-16,Injured Reserve,DAL,Ankle,15,DE
 Jihad Ward,IND,2018.0,WardJi02,2018-12-23,Injured Reserve,NYG,Ankle,16,DE
 Jihad Ward,IND,2018.0,WardJi02,2018-12-30,Injured Reserve,TEN,Ankle,17,DE
-Jihad Ward,IND,2018.0,WardJi02,2019-01-05,Injured Reserve,HOU,Ankle,,DE
-Jihad Ward,IND,2018.0,WardJi02,2019-01-12,Injured Reserve,KAN,Ankle,,DE
 Kemoko Turay,IND,2018.0,TuraKe00,2018-11-11,Questionable,JAX,Neck,10,OLB
 Kemoko Turay,IND,2018.0,TuraKe00,2018-12-02,Questionable,JAX,Hip,13,OLB
 D.J. Killings,IND,2018.0,KillD.02,2018-11-18,Injured Reserve,TEN,Ankle,11,
@@ -3527,8 +3419,6 @@ D.J. Killings,IND,2018.0,KillD.02,2018-12-09,Injured Reserve,HOU,Ankle,14,
 D.J. Killings,IND,2018.0,KillD.02,2018-12-16,Injured Reserve,DAL,Ankle,15,
 D.J. Killings,IND,2018.0,KillD.02,2018-12-23,Injured Reserve,NYG,Ankle,16,
 D.J. Killings,IND,2018.0,KillD.02,2018-12-30,Injured Reserve,TEN,Ankle,17,
-D.J. Killings,IND,2018.0,KillD.02,2019-01-05,Injured Reserve,HOU,Ankle,,
-D.J. Killings,IND,2018.0,KillD.02,2019-01-12,Injured Reserve,KAN,Ankle,,
 Carroll Phillips,IND,2018.0,PhilCa00,2018-11-18,Injured Reserve,TEN,Groin,11,OLB
 Carroll Phillips,IND,2018.0,PhilCa00,2018-11-25,Injured Reserve,MIA,Groin,12,OLB
 Carroll Phillips,IND,2018.0,PhilCa00,2018-12-02,Injured Reserve,JAX,Groin,13,OLB
@@ -3536,8 +3426,6 @@ Carroll Phillips,IND,2018.0,PhilCa00,2018-12-09,Injured Reserve,HOU,Groin,14,OLB
 Carroll Phillips,IND,2018.0,PhilCa00,2018-12-16,Injured Reserve,DAL,Groin,15,OLB
 Carroll Phillips,IND,2018.0,PhilCa00,2018-12-23,Injured Reserve,NYG,Groin,16,OLB
 Carroll Phillips,IND,2018.0,PhilCa00,2018-12-30,Injured Reserve,TEN,Groin,17,OLB
-Carroll Phillips,IND,2018.0,PhilCa00,2019-01-05,Injured Reserve,HOU,Groin,,OLB
-Carroll Phillips,IND,2018.0,PhilCa00,2019-01-12,Injured Reserve,KAN,Groin,,OLB
 Mo Alie-Cox,IND,2018.0,AlieMo00,2018-11-25,Questionable,MIA,Calf,12,TE
 Mo Alie-Cox,IND,2018.0,AlieMo00,2018-12-02,Out,JAX,Calf,13,TE
 Mo Alie-Cox,IND,2018.0,AlieMo00,2018-12-09,Out,HOU,Calf,14,TE
@@ -3549,13 +3437,9 @@ Mark Glowinski,IND,2018.0,GlowMa00,2018-12-23,Questionable,NYG,Ankle,16,OG
 Skai Moore,IND,2018.0,MoorSk00,2018-12-16,Injured Reserve,DAL,Neck,15,OLB
 Skai Moore,IND,2018.0,MoorSk00,2018-12-23,Injured Reserve,NYG,Neck,16,OLB
 Skai Moore,IND,2018.0,MoorSk00,2018-12-30,Injured Reserve,TEN,Neck,17,OLB
-Skai Moore,IND,2018.0,MoorSk00,2019-01-05,Injured Reserve,HOU,Neck,,OLB
-Skai Moore,IND,2018.0,MoorSk00,2019-01-12,Injured Reserve,KAN,Neck,,OLB
 George Odum,IND,2018.0,OdumGe00,2018-12-23,Questionable,NYG,Knee,16,S
 Al Woods,IND,2018.0,WoodAl99,2018-12-23,Injured Reserve,NYG,Foot,16,DT
 Al Woods,IND,2018.0,WoodAl99,2018-12-30,Injured Reserve,TEN,Foot,17,DT
-Al Woods,IND,2018.0,WoodAl99,2019-01-05,Injured Reserve,HOU,Foot,,DT
-Al Woods,IND,2018.0,WoodAl99,2019-01-12,Injured Reserve,KAN,Foot,,DT
 Daurice Fountain,IND,2018.0,FounDa00,2018-12-30,Out,TEN,Ankle,17,WR
 Kenneth Acker,JAX,2018.0,AckeKe00,2018-09-09,Injured Reserve,NYG,Ankle,1,
 Kenneth Acker,JAX,2018.0,AckeKe00,2018-09-16,Injured Reserve,NWE,Ankle,2,
@@ -3923,7 +3807,6 @@ Eric Berry,KAN,2018.0,BerrEr99,2018-12-02,Questionable,OAK,Heel,13,DB
 Eric Berry,KAN,2018.0,BerrEr99,2018-12-09,Questionable,BAL,Heel,14,DB
 Eric Berry,KAN,2018.0,BerrEr99,2018-12-13,Questionable,LAC,Heel,15,DB
 Eric Berry,KAN,2018.0,BerrEr99,2018-12-30,Questionable,OAK,Heel,17,DB
-Eric Berry,KAN,2018.0,BerrEr99,2019-01-12,Questionable,IND,Heel,,DB
 Dillon Gordon,KAN,2018.0,GordDi01,2018-09-09,Injured Reserve,LAC,Shoulder,1,
 Dillon Gordon,KAN,2018.0,GordDi01,2018-09-16,Injured Reserve,PIT,Shoulder,2,
 Dillon Gordon,KAN,2018.0,GordDi01,2018-09-23,Injured Reserve,SFO,Shoulder,3,
@@ -3940,8 +3823,6 @@ Dillon Gordon,KAN,2018.0,GordDi01,2018-12-09,Injured Reserve,BAL,Shoulder,14,
 Dillon Gordon,KAN,2018.0,GordDi01,2018-12-13,Injured Reserve,LAC,Shoulder,15,
 Dillon Gordon,KAN,2018.0,GordDi01,2018-12-23,Injured Reserve,SEA,Shoulder,16,
 Dillon Gordon,KAN,2018.0,GordDi01,2018-12-30,Injured Reserve,OAK,Shoulder,17,
-Dillon Gordon,KAN,2018.0,GordDi01,2019-01-12,Injured Reserve,IND,Shoulder,,
-Dillon Gordon,KAN,2018.0,GordDi01,2019-01-20,Injured Reserve,NWE,Shoulder,,
 Akeem Hunt,KAN,2018.0,HuntAk01,2018-09-09,Injured Reserve,LAC,Ankle,1,
 Akeem Hunt,KAN,2018.0,HuntAk01,2018-09-16,Injured Reserve,PIT,Ankle,2,
 Akeem Hunt,KAN,2018.0,HuntAk01,2018-09-23,Injured Reserve,SFO,Ankle,3,
@@ -3958,8 +3839,6 @@ Akeem Hunt,KAN,2018.0,HuntAk01,2018-12-09,Injured Reserve,BAL,Ankle,14,
 Akeem Hunt,KAN,2018.0,HuntAk01,2018-12-13,Injured Reserve,LAC,Ankle,15,
 Akeem Hunt,KAN,2018.0,HuntAk01,2018-12-23,Injured Reserve,SEA,Ankle,16,
 Akeem Hunt,KAN,2018.0,HuntAk01,2018-12-30,Injured Reserve,OAK,Ankle,17,
-Akeem Hunt,KAN,2018.0,HuntAk01,2019-01-12,Injured Reserve,IND,Ankle,,
-Akeem Hunt,KAN,2018.0,HuntAk01,2019-01-20,Injured Reserve,NWE,Ankle,,
 Tejan Koroma,KAN,2018.0,KoroTe00,2018-09-09,Injured Reserve,LAC,Knee,1,
 Tejan Koroma,KAN,2018.0,KoroTe00,2018-09-16,Injured Reserve,PIT,Knee,2,
 Tejan Koroma,KAN,2018.0,KoroTe00,2018-09-23,Injured Reserve,SFO,Knee,3,
@@ -3976,8 +3855,6 @@ Tejan Koroma,KAN,2018.0,KoroTe00,2018-12-09,Injured Reserve,BAL,Knee,14,
 Tejan Koroma,KAN,2018.0,KoroTe00,2018-12-13,Injured Reserve,LAC,Knee,15,
 Tejan Koroma,KAN,2018.0,KoroTe00,2018-12-23,Injured Reserve,SEA,Knee,16,
 Tejan Koroma,KAN,2018.0,KoroTe00,2018-12-30,Injured Reserve,OAK,Knee,17,
-Tejan Koroma,KAN,2018.0,KoroTe00,2019-01-12,Injured Reserve,IND,Knee,,
-Tejan Koroma,KAN,2018.0,KoroTe00,2019-01-20,Injured Reserve,NWE,Knee,,
 J.D. Moore,KAN,2018.0,MoorJ.00,2018-09-09,Injured Reserve,LAC,Undisclosed,1,
 J.D. Moore,KAN,2018.0,MoorJ.00,2018-09-16,Injured Reserve,PIT,Undisclosed,2,
 J.D. Moore,KAN,2018.0,MoorJ.00,2018-09-23,Injured Reserve,SFO,Undisclosed,3,
@@ -3994,8 +3871,6 @@ J.D. Moore,KAN,2018.0,MoorJ.00,2018-12-09,Injured Reserve,BAL,Undisclosed,14,
 J.D. Moore,KAN,2018.0,MoorJ.00,2018-12-13,Injured Reserve,LAC,Undisclosed,15,
 J.D. Moore,KAN,2018.0,MoorJ.00,2018-12-23,Injured Reserve,SEA,Undisclosed,16,
 J.D. Moore,KAN,2018.0,MoorJ.00,2018-12-30,Injured Reserve,OAK,Undisclosed,17,
-J.D. Moore,KAN,2018.0,MoorJ.00,2019-01-12,Injured Reserve,IND,Undisclosed,,
-J.D. Moore,KAN,2018.0,MoorJ.00,2019-01-20,Injured Reserve,NWE,Undisclosed,,
 Byron Pringle,KAN,2018.0,PrinBy00,2018-09-09,Injured Reserve,LAC,Hamstring,1,WR
 Byron Pringle,KAN,2018.0,PrinBy00,2018-09-16,Injured Reserve,PIT,Hamstring,2,WR
 Byron Pringle,KAN,2018.0,PrinBy00,2018-09-23,Injured Reserve,SFO,Hamstring,3,WR
@@ -4012,8 +3887,6 @@ Byron Pringle,KAN,2018.0,PrinBy00,2018-12-09,Injured Reserve,BAL,Hamstring,14,WR
 Byron Pringle,KAN,2018.0,PrinBy00,2018-12-13,Injured Reserve,LAC,Hamstring,15,WR
 Byron Pringle,KAN,2018.0,PrinBy00,2018-12-23,Injured Reserve,SEA,Hamstring,16,WR
 Byron Pringle,KAN,2018.0,PrinBy00,2018-12-30,Injured Reserve,OAK,Hamstring,17,WR
-Byron Pringle,KAN,2018.0,PrinBy00,2019-01-12,Injured Reserve,IND,Hamstring,,WR
-Byron Pringle,KAN,2018.0,PrinBy00,2019-01-20,Injured Reserve,NWE,Hamstring,,WR
 Daniel Sorensen,KAN,2018.0,SoreDa01,2018-09-09,Injured Reserve,LAC,Knee,1,S
 Daniel Sorensen,KAN,2018.0,SoreDa01,2018-09-16,Injured Reserve,PIT,Knee,2,S
 Daniel Sorensen,KAN,2018.0,SoreDa01,2018-09-23,Injured Reserve,SFO,Knee,3,S
@@ -4039,8 +3912,6 @@ Step Durham,KAN,2018.0,DurhSt00,2018-12-09,Injured Reserve,BAL,Undisclosed,14,
 Step Durham,KAN,2018.0,DurhSt00,2018-12-13,Injured Reserve,LAC,Undisclosed,15,
 Step Durham,KAN,2018.0,DurhSt00,2018-12-23,Injured Reserve,SEA,Undisclosed,16,
 Step Durham,KAN,2018.0,DurhSt00,2018-12-30,Injured Reserve,OAK,Undisclosed,17,
-Step Durham,KAN,2018.0,DurhSt00,2019-01-12,Injured Reserve,IND,Undisclosed,,
-Step Durham,KAN,2018.0,DurhSt00,2019-01-20,Injured Reserve,NWE,Undisclosed,,
 Ben Niemann,KAN,2018.0,NiemBe00,2018-09-16,Out,PIT,Hamstring,2,LB
 Ben Niemann,KAN,2018.0,NiemBe00,2018-09-23,Doubtful,SFO,Hamstring,3,LB
 Keith Reaser,KAN,2018.0,ReasKe00,2018-09-16,Injured Reserve,PIT,Quadricep,2,
@@ -4058,13 +3929,10 @@ Keith Reaser,KAN,2018.0,ReasKe00,2018-12-09,Injured Reserve,BAL,Quadricep,14,
 Keith Reaser,KAN,2018.0,ReasKe00,2018-12-13,Injured Reserve,LAC,Quadricep,15,
 Keith Reaser,KAN,2018.0,ReasKe00,2018-12-23,Injured Reserve,SEA,Quadricep,16,
 Keith Reaser,KAN,2018.0,ReasKe00,2018-12-30,Injured Reserve,OAK,Quadricep,17,
-Keith Reaser,KAN,2018.0,ReasKe00,2019-01-12,Injured Reserve,IND,Quadricep,,
-Keith Reaser,KAN,2018.0,ReasKe00,2019-01-20,Injured Reserve,NWE,Quadricep,,
 Spencer Ware,KAN,2018.0,WareSp00,2018-09-23,Questionable,SFO,Knee,3,RB
 Spencer Ware,KAN,2018.0,WareSp00,2018-12-13,Doubtful,LAC,Shoulder,15,RB
 Spencer Ware,KAN,2018.0,WareSp00,2018-12-23,Doubtful,SEA,Hamstring,16,RB
 Spencer Ware,KAN,2018.0,WareSp00,2018-12-30,Questionable,OAK,Hamstring,17,RB
-Spencer Ware,KAN,2018.0,WareSp00,2019-01-12,Questionable,IND,Hamstring,,RB
 Alex Ellis,KAN,2018.0,ElliAl01,2018-10-07,Injured Reserve,JAX,Undisclosed,5,TE
 Alex Ellis,KAN,2018.0,ElliAl01,2018-10-14,Injured Reserve,NWE,Undisclosed,6,TE
 Alex Ellis,KAN,2018.0,ElliAl01,2018-10-21,Injured Reserve,CIN,Undisclosed,7,TE
@@ -4077,8 +3945,6 @@ Alex Ellis,KAN,2018.0,ElliAl01,2018-12-09,Injured Reserve,BAL,Undisclosed,14,TE
 Alex Ellis,KAN,2018.0,ElliAl01,2018-12-13,Injured Reserve,LAC,Undisclosed,15,TE
 Alex Ellis,KAN,2018.0,ElliAl01,2018-12-23,Injured Reserve,SEA,Undisclosed,16,TE
 Alex Ellis,KAN,2018.0,ElliAl01,2018-12-30,Injured Reserve,OAK,Undisclosed,17,TE
-Alex Ellis,KAN,2018.0,ElliAl01,2019-01-12,Injured Reserve,IND,Undisclosed,,TE
-Alex Ellis,KAN,2018.0,ElliAl01,2019-01-20,Injured Reserve,NWE,Undisclosed,,TE
 Dee Ford,KAN,2018.0,FordDe00,2018-10-07,Questionable,JAX,Groin,5,DE
 Sammy Watkins,KAN,2018.0,WatkSa00,2018-10-07,Questionable,JAX,Hamstring,5,WR
 Sammy Watkins,KAN,2018.0,WatkSa00,2018-11-11,Questionable,ARI,Foot,10,WR
@@ -4088,7 +3954,6 @@ Sammy Watkins,KAN,2018.0,WatkSa00,2018-12-09,Doubtful,BAL,Foot,14,WR
 Sammy Watkins,KAN,2018.0,WatkSa00,2018-12-13,Out,LAC,Foot,15,WR
 Sammy Watkins,KAN,2018.0,WatkSa00,2018-12-23,Out,SEA,Heel,16,WR
 Sammy Watkins,KAN,2018.0,WatkSa00,2018-12-30,Out,OAK,Foot,17,WR
-Sammy Watkins,KAN,2018.0,WatkSa00,2019-01-12,Questionable,IND,Foot,,WR
 Armani Watts,KAN,2018.0,WattAr00,2018-10-07,Questionable,JAX,Groin,5,FS
 Armani Watts,KAN,2018.0,WattAr00,2018-10-14,Injured Reserve,NWE,Groin,6,FS
 Armani Watts,KAN,2018.0,WattAr00,2018-10-21,Injured Reserve,CIN,Groin,7,FS
@@ -4101,8 +3966,6 @@ Armani Watts,KAN,2018.0,WattAr00,2018-12-09,Injured Reserve,BAL,Groin,14,FS
 Armani Watts,KAN,2018.0,WattAr00,2018-12-13,Injured Reserve,LAC,Groin,15,FS
 Armani Watts,KAN,2018.0,WattAr00,2018-12-23,Injured Reserve,SEA,Groin,16,FS
 Armani Watts,KAN,2018.0,WattAr00,2018-12-30,Injured Reserve,OAK,Groin,17,FS
-Armani Watts,KAN,2018.0,WattAr00,2019-01-12,Injured Reserve,IND,Groin,,FS
-Armani Watts,KAN,2018.0,WattAr00,2019-01-20,Injured Reserve,NWE,Groin,,FS
 Laurent Duvernay-Tardif,KAN,2018.0,DuveLa00,2018-10-14,Injured Reserve,NWE,Shin,6,OT
 Laurent Duvernay-Tardif,KAN,2018.0,DuveLa00,2018-10-21,Injured Reserve,CIN,Shin,7,OT
 Laurent Duvernay-Tardif,KAN,2018.0,DuveLa00,2018-10-28,Injured Reserve,DEN,Shin,8,OT
@@ -4114,8 +3977,6 @@ Laurent Duvernay-Tardif,KAN,2018.0,DuveLa00,2018-12-09,Injured Reserve,BAL,Shin,
 Laurent Duvernay-Tardif,KAN,2018.0,DuveLa00,2018-12-13,Injured Reserve,LAC,Shin,15,OT
 Laurent Duvernay-Tardif,KAN,2018.0,DuveLa00,2018-12-23,Injured Reserve,SEA,Shin,16,OT
 Laurent Duvernay-Tardif,KAN,2018.0,DuveLa00,2018-12-30,Injured Reserve,OAK,Shin,17,OT
-Laurent Duvernay-Tardif,KAN,2018.0,DuveLa00,2019-01-12,Injured Reserve,IND,Shin,,OT
-Laurent Duvernay-Tardif,KAN,2018.0,DuveLa00,2019-01-20,Injured Reserve,NWE,Shin,,OT
 Justin Houston,KAN,2018.0,HousJu00,2018-10-14,Doubtful,NWE,Hamstring,6,LB
 Justin Houston,KAN,2018.0,HousJu00,2018-10-21,Doubtful,CIN,Hamstring,7,LB
 Justin Houston,KAN,2018.0,HousJu00,2018-10-28,Doubtful,DEN,Hamstring,8,LB
@@ -4136,8 +3997,6 @@ De'Anthony Thomas,KAN,2018.0,ThomDe05,2018-12-09,Injured Reserve,BAL,Leg,14,RB
 De'Anthony Thomas,KAN,2018.0,ThomDe05,2018-12-13,Injured Reserve,LAC,Leg,15,RB
 De'Anthony Thomas,KAN,2018.0,ThomDe05,2018-12-23,Injured Reserve,SEA,Leg,16,RB
 De'Anthony Thomas,KAN,2018.0,ThomDe05,2018-12-30,Injured Reserve,OAK,Leg,17,RB
-De'Anthony Thomas,KAN,2018.0,ThomDe05,2019-01-12,Injured Reserve,IND,Leg,,RB
-De'Anthony Thomas,KAN,2018.0,ThomDe05,2019-01-20,Injured Reserve,NWE,Leg,,RB
 Mitch Morse,KAN,2018.0,MorsMi00,2018-10-21,Out,CIN,Concussion,7,OT
 Mitch Morse,KAN,2018.0,MorsMi00,2018-10-28,Out,DEN,Concussion,8,OT
 Mitch Morse,KAN,2018.0,MorsMi00,2018-11-04,Out,CLE,Concussion,9,OT
@@ -4152,8 +4011,6 @@ Jordan Devey,KAN,2018.0,DeveJo00,2018-12-09,Injured Reserve,BAL,Pectoral,14,T
 Jordan Devey,KAN,2018.0,DeveJo00,2018-12-13,Injured Reserve,LAC,Pectoral,15,T
 Jordan Devey,KAN,2018.0,DeveJo00,2018-12-23,Injured Reserve,SEA,Pectoral,16,T
 Jordan Devey,KAN,2018.0,DeveJo00,2018-12-30,Injured Reserve,OAK,Pectoral,17,T
-Jordan Devey,KAN,2018.0,DeveJo00,2019-01-12,Injured Reserve,IND,Pectoral,,T
-Jordan Devey,KAN,2018.0,DeveJo00,2019-01-20,Injured Reserve,NWE,Pectoral,,T
 Terrance Smith,KAN,2018.0,SmitTe04,2018-10-28,Injured Reserve,DEN,Knee,8,LB
 Terrance Smith,KAN,2018.0,SmitTe04,2018-11-04,Injured Reserve,CLE,Knee,9,LB
 Terrance Smith,KAN,2018.0,SmitTe04,2018-11-11,Injured Reserve,ARI,Knee,10,LB
@@ -4163,8 +4020,6 @@ Terrance Smith,KAN,2018.0,SmitTe04,2018-12-09,Injured Reserve,BAL,Knee,14,LB
 Terrance Smith,KAN,2018.0,SmitTe04,2018-12-13,Injured Reserve,LAC,Knee,15,LB
 Terrance Smith,KAN,2018.0,SmitTe04,2018-12-23,Injured Reserve,SEA,Knee,16,LB
 Terrance Smith,KAN,2018.0,SmitTe04,2018-12-30,Injured Reserve,OAK,Knee,17,LB
-Terrance Smith,KAN,2018.0,SmitTe04,2019-01-12,Injured Reserve,IND,Knee,,LB
-Terrance Smith,KAN,2018.0,SmitTe04,2019-01-20,Injured Reserve,NWE,Knee,,LB
 Anthony Hitchens,KAN,2018.0,HitcAn00,2018-11-04,Questionable,CLE,Rib,9,OLB
 Anthony Hitchens,KAN,2018.0,HitcAn00,2018-11-11,Questionable,ARI,Rib,10,OLB
 Frank Zombo,KAN,2018.0,ZombFr00,2018-11-04,Out,CLE,Hamstring,9,LB
@@ -4176,8 +4031,6 @@ Tyreek Hill,KAN,2018.0,HillTy00,2018-12-13,Questionable,LAC,Heel,15,WR
 Kendall Fuller,KAN,2018.0,FullKe00,2018-12-23,Questionable,SEA,Thumb,16,CB
 Kendall Fuller,KAN,2018.0,FullKe00,2018-12-30,Questionable,OAK,Thumb,17,CB
 Darrel Williams,KAN,2018.0,WillDa10,2018-12-30,Questionable,OAK,Hamstring,17,RB
-Dorian O'Daniel,KAN,2018.0,ODanDo00,2019-01-12,Doubtful,IND,Calf,,OLB
-Dorian O'Daniel,KAN,2018.0,ODanDo00,2019-01-20,Out,NWE,Ankle,,OLB
 Joey Bosa,LAC,2018.0,BosaJo00,2018-09-09,Out,KAN,Foot,1,DE
 Joey Bosa,LAC,2018.0,BosaJo00,2018-09-16,Out,BUF,Foot,2,DE
 Joey Bosa,LAC,2018.0,BosaJo00,2018-09-23,Out,LAR,Foot,3,DE
@@ -4204,8 +4057,6 @@ Brett Boyko,LAC,2018.0,BoykBr01,2018-12-09,Injured Reserve,CIN,Hamstring,14,
 Brett Boyko,LAC,2018.0,BoykBr01,2018-12-13,Injured Reserve,KAN,Hamstring,15,
 Brett Boyko,LAC,2018.0,BoykBr01,2018-12-22,Injured Reserve,BAL,Hamstring,16,
 Brett Boyko,LAC,2018.0,BoykBr01,2018-12-30,Injured Reserve,DEN,Hamstring,17,
-Brett Boyko,LAC,2018.0,BoykBr01,2019-01-06,Injured Reserve,BAL,Hamstring,,
-Brett Boyko,LAC,2018.0,BoykBr01,2019-01-13,Injured Reserve,NWE,Hamstring,,
 Hunter Henry,LAC,2018.0,HenrHu00,2018-09-09,Injured Reserve,KAN,Knee,1,TE
 Hunter Henry,LAC,2018.0,HenrHu00,2018-09-16,Injured Reserve,BUF,Knee,2,TE
 Hunter Henry,LAC,2018.0,HenrHu00,2018-09-23,Injured Reserve,LAR,Knee,3,TE
@@ -4222,8 +4073,6 @@ Hunter Henry,LAC,2018.0,HenrHu00,2018-12-09,Injured Reserve,CIN,Knee,14,TE
 Hunter Henry,LAC,2018.0,HenrHu00,2018-12-13,Injured Reserve,KAN,Knee,15,TE
 Hunter Henry,LAC,2018.0,HenrHu00,2018-12-22,Injured Reserve,BAL,Knee,16,TE
 Hunter Henry,LAC,2018.0,HenrHu00,2018-12-30,Injured Reserve,DEN,Knee,17,TE
-Hunter Henry,LAC,2018.0,HenrHu00,2019-01-06,Injured Reserve,BAL,Knee,,TE
-Hunter Henry,LAC,2018.0,HenrHu00,2019-01-13,Questionable,NWE,Knee,,TE
 Austin Roberts,LAC,2018.0,RobeAu00,2018-09-09,Injured Reserve,KAN,Knee,1,
 Austin Roberts,LAC,2018.0,RobeAu00,2018-09-16,Injured Reserve,BUF,Knee,2,
 Austin Roberts,LAC,2018.0,RobeAu00,2018-09-23,Injured Reserve,LAR,Knee,3,
@@ -4240,8 +4089,6 @@ Austin Roberts,LAC,2018.0,RobeAu00,2018-12-09,Injured Reserve,CIN,Knee,14,
 Austin Roberts,LAC,2018.0,RobeAu00,2018-12-13,Injured Reserve,KAN,Knee,15,
 Austin Roberts,LAC,2018.0,RobeAu00,2018-12-22,Injured Reserve,BAL,Knee,16,
 Austin Roberts,LAC,2018.0,RobeAu00,2018-12-30,Injured Reserve,DEN,Knee,17,
-Austin Roberts,LAC,2018.0,RobeAu00,2019-01-06,Injured Reserve,BAL,Knee,,
-Austin Roberts,LAC,2018.0,RobeAu00,2019-01-13,Injured Reserve,NWE,Knee,,
 Artavis Scott,LAC,2018.0,ScotAr00,2018-09-09,Injured Reserve,KAN,Ankle,1,
 Artavis Scott,LAC,2018.0,ScotAr00,2018-09-16,Injured Reserve,BUF,Ankle,2,
 Artavis Scott,LAC,2018.0,ScotAr00,2018-09-23,Injured Reserve,LAR,Ankle,3,
@@ -4258,8 +4105,6 @@ Artavis Scott,LAC,2018.0,ScotAr00,2018-12-09,Injured Reserve,CIN,Ankle,14,
 Artavis Scott,LAC,2018.0,ScotAr00,2018-12-13,Injured Reserve,KAN,Ankle,15,
 Artavis Scott,LAC,2018.0,ScotAr00,2018-12-22,Injured Reserve,BAL,Ankle,16,
 Artavis Scott,LAC,2018.0,ScotAr00,2018-12-30,Injured Reserve,DEN,Ankle,17,
-Artavis Scott,LAC,2018.0,ScotAr00,2019-01-06,Injured Reserve,BAL,Ankle,,
-Artavis Scott,LAC,2018.0,ScotAr00,2019-01-13,Injured Reserve,NWE,Ankle,,
 Jason Verrett,LAC,2018.0,VerrJa00,2018-09-09,Injured Reserve,KAN,Achilles,1,CB
 Jason Verrett,LAC,2018.0,VerrJa00,2018-09-16,Injured Reserve,BUF,Achilles,2,CB
 Jason Verrett,LAC,2018.0,VerrJa00,2018-09-23,Injured Reserve,LAR,Achilles,3,CB
@@ -4276,8 +4121,6 @@ Jason Verrett,LAC,2018.0,VerrJa00,2018-12-09,Injured Reserve,CIN,Achilles,14,CB
 Jason Verrett,LAC,2018.0,VerrJa00,2018-12-13,Injured Reserve,KAN,Achilles,15,CB
 Jason Verrett,LAC,2018.0,VerrJa00,2018-12-22,Injured Reserve,BAL,Achilles,16,CB
 Jason Verrett,LAC,2018.0,VerrJa00,2018-12-30,Injured Reserve,DEN,Achilles,17,CB
-Jason Verrett,LAC,2018.0,VerrJa00,2019-01-06,Injured Reserve,BAL,Achilles,,CB
-Jason Verrett,LAC,2018.0,VerrJa00,2019-01-13,Injured Reserve,NWE,Achilles,,CB
 Jaylen Watkins,LAC,2018.0,WatkJa01,2018-09-09,Injured Reserve,KAN,Knee,1,CB
 Jaylen Watkins,LAC,2018.0,WatkJa01,2018-09-16,Injured Reserve,BUF,Knee,2,CB
 Jaylen Watkins,LAC,2018.0,WatkJa01,2018-09-23,Injured Reserve,LAR,Knee,3,CB
@@ -4294,8 +4137,6 @@ Jaylen Watkins,LAC,2018.0,WatkJa01,2018-12-09,Injured Reserve,CIN,Knee,14,CB
 Jaylen Watkins,LAC,2018.0,WatkJa01,2018-12-13,Injured Reserve,KAN,Knee,15,CB
 Jaylen Watkins,LAC,2018.0,WatkJa01,2018-12-22,Injured Reserve,BAL,Knee,16,CB
 Jaylen Watkins,LAC,2018.0,WatkJa01,2018-12-30,Injured Reserve,DEN,Knee,17,CB
-Jaylen Watkins,LAC,2018.0,WatkJa01,2019-01-06,Injured Reserve,BAL,Knee,,CB
-Jaylen Watkins,LAC,2018.0,WatkJa01,2019-01-13,Injured Reserve,NWE,Knee,,CB
 Joe Barksdale,LAC,2018.0,BarkJo00,2018-09-16,Out,BUF,Knee,2,T
 Joe Barksdale,LAC,2018.0,BarkJo00,2018-09-23,Out,LAR,Knee,3,T
 Joe Barksdale,LAC,2018.0,BarkJo00,2018-09-30,Out,SFO,Knee,4,T
@@ -4323,12 +4164,9 @@ Craig Mager,LAC,2018.0,MageCr00,2018-12-09,Injured Reserve,CIN,Hamstring,14,CB
 Craig Mager,LAC,2018.0,MageCr00,2018-12-13,Injured Reserve,KAN,Hamstring,15,CB
 Craig Mager,LAC,2018.0,MageCr00,2018-12-22,Injured Reserve,BAL,Hamstring,16,CB
 Craig Mager,LAC,2018.0,MageCr00,2018-12-30,Injured Reserve,DEN,Hamstring,17,CB
-Craig Mager,LAC,2018.0,MageCr00,2019-01-06,Injured Reserve,BAL,Hamstring,,CB
-Craig Mager,LAC,2018.0,MageCr00,2019-01-13,Injured Reserve,NWE,Hamstring,,CB
 Antonio Gates,LAC,2018.0,GateAn00,2018-09-23,Questionable,LAR,Illness,3,TE
 Antonio Gates,LAC,2018.0,GateAn00,2018-11-18,Questionable,DEN,Knee,11,TE
 Derek Watt,LAC,2018.0,WattDe00,2018-09-23,Questionable,LAR,Thumb,3,FB
-Derek Watt,LAC,2018.0,WattDe00,2019-01-13,Questionable,NWE,Shoulder,,FB
 Keenan Allen,LAC,2018.0,AlleKe00,2018-09-30,Questionable,SFO,Knee,4,WR
 Keenan Allen,LAC,2018.0,AlleKe00,2018-12-22,Questionable,BAL,Hip,16,WR
 Kyzir White,LAC,2018.0,WhitKy00,2018-09-30,Injured Reserve,SFO,Knee,4,S
@@ -4344,14 +4182,10 @@ Kyzir White,LAC,2018.0,WhitKy00,2018-12-09,Injured Reserve,CIN,Knee,14,S
 Kyzir White,LAC,2018.0,WhitKy00,2018-12-13,Injured Reserve,KAN,Knee,15,S
 Kyzir White,LAC,2018.0,WhitKy00,2018-12-22,Injured Reserve,BAL,Knee,16,S
 Kyzir White,LAC,2018.0,WhitKy00,2018-12-30,Injured Reserve,DEN,Knee,17,S
-Kyzir White,LAC,2018.0,WhitKy00,2019-01-06,Injured Reserve,BAL,Knee,,S
-Kyzir White,LAC,2018.0,WhitKy00,2019-01-13,Injured Reserve,NWE,Knee,,S
 Russell Okung,LAC,2018.0,OkunRu20,2018-10-07,Questionable,OAK,Groin,5,T
 Russell Okung,LAC,2018.0,OkunRu20,2018-10-14,Questionable,CLE,Groin,6,T
 Jatavis Brown,LAC,2018.0,BrowJa05,2018-10-14,Doubtful,CLE,Groin,6,OLB
 Jatavis Brown,LAC,2018.0,BrowJa05,2018-10-21,Questionable,TEN,Groin,7,OLB
-Jatavis Brown,LAC,2018.0,BrowJa05,2019-01-06,Injured Reserve,BAL,Ankle,,OLB
-Jatavis Brown,LAC,2018.0,BrowJa05,2019-01-13,Injured Reserve,NWE,Ankle,,OLB
 Caleb Sturgis,LAC,2018.0,SturCa00,2018-10-14,Questionable,CLE,rightQuadricep,6,K
 Caleb Sturgis,LAC,2018.0,SturCa00,2018-10-21,Questionable,TEN,rightQuadricep,7,K
 Melvin Gordon,LAC,2018.0,GordMe00,2018-10-21,Questionable,TEN,Hamstring,7,RB
@@ -4370,8 +4204,6 @@ Trevor Williams,LAC,2018.0,WillTr05,2018-12-09,Injured Reserve,CIN,Knee,14,CB
 Trevor Williams,LAC,2018.0,WillTr05,2018-12-13,Injured Reserve,KAN,Knee,15,CB
 Trevor Williams,LAC,2018.0,WillTr05,2018-12-22,Injured Reserve,BAL,Knee,16,CB
 Trevor Williams,LAC,2018.0,WillTr05,2018-12-30,Injured Reserve,DEN,Knee,17,CB
-Trevor Williams,LAC,2018.0,WillTr05,2019-01-06,Injured Reserve,BAL,Knee,,CB
-Trevor Williams,LAC,2018.0,WillTr05,2019-01-13,Injured Reserve,NWE,Knee,,CB
 Denzel Perryman,LAC,2018.0,PerrDe00,2018-11-18,Injured Reserve,DEN,Knee,11,ILB
 Denzel Perryman,LAC,2018.0,PerrDe00,2018-11-25,Injured Reserve,ARI,Knee,12,ILB
 Denzel Perryman,LAC,2018.0,PerrDe00,2018-12-02,Injured Reserve,PIT,Knee,13,ILB
@@ -4379,16 +4211,12 @@ Denzel Perryman,LAC,2018.0,PerrDe00,2018-12-09,Injured Reserve,CIN,Knee,14,ILB
 Denzel Perryman,LAC,2018.0,PerrDe00,2018-12-13,Injured Reserve,KAN,Knee,15,ILB
 Denzel Perryman,LAC,2018.0,PerrDe00,2018-12-22,Injured Reserve,BAL,Knee,16,ILB
 Denzel Perryman,LAC,2018.0,PerrDe00,2018-12-30,Injured Reserve,DEN,Knee,17,ILB
-Denzel Perryman,LAC,2018.0,PerrDe00,2019-01-06,Injured Reserve,BAL,Knee,,ILB
-Denzel Perryman,LAC,2018.0,PerrDe00,2019-01-13,Injured Reserve,NWE,Knee,,ILB
 Corey Liuget,LAC,2018.0,LiugCo00,2018-11-25,Injured Reserve,ARI,Knee,12,DT
 Corey Liuget,LAC,2018.0,LiugCo00,2018-12-02,Injured Reserve,PIT,Knee,13,DT
 Corey Liuget,LAC,2018.0,LiugCo00,2018-12-09,Injured Reserve,CIN,Knee,14,DT
 Corey Liuget,LAC,2018.0,LiugCo00,2018-12-13,Injured Reserve,KAN,Knee,15,DT
 Corey Liuget,LAC,2018.0,LiugCo00,2018-12-22,Injured Reserve,BAL,Knee,16,DT
 Corey Liuget,LAC,2018.0,LiugCo00,2018-12-30,Injured Reserve,DEN,Knee,17,DT
-Corey Liuget,LAC,2018.0,LiugCo00,2019-01-06,Injured Reserve,BAL,Knee,,DT
-Corey Liuget,LAC,2018.0,LiugCo00,2019-01-13,Injured Reserve,NWE,Knee,,DT
 Brandon Mebane,LAC,2018.0,MebaBr99,2018-11-25,Questionable,ARI,NotInjuryRelated,12,DT
 Brandon Mebane,LAC,2018.0,MebaBr99,2018-12-02,Out,PIT,NotInjuryRelated,13,DT
 Brandon Mebane,LAC,2018.0,MebaBr99,2018-12-09,Doubtful,CIN,NotInjuryRelated,14,DT
@@ -4401,8 +4229,6 @@ Sean Culkin,LAC,2018.0,CulkSe00,2018-12-22,Out,BAL,Back,16,TE
 Sean Culkin,LAC,2018.0,CulkSe00,2018-12-30,Questionable,DEN,Back,17,TE
 Austin Ekeler,LAC,2018.0,EkelAu00,2018-12-13,Out,KAN,Neck,15,RB
 Austin Ekeler,LAC,2018.0,EkelAu00,2018-12-22,Doubtful,BAL,Neck,16,RB
-Brandon Facyson,LAC,2018.0,FacyBr00,2019-01-13,Questionable,NWE,Concussion,,CB
-Kyle Wilson,LAC,2018.0,WilsKy00,2019-01-13,Questionable,NWE,Concussion,,LB
 Mark Barron,LAR,2018.0,BarrMa00,2018-09-10,Doubtful,OAK,Ankle,1,LB
 Mark Barron,LAR,2018.0,BarrMa00,2018-09-16,Doubtful,ARI,Ankle,2,LB
 Mark Barron,LAR,2018.0,BarrMa00,2018-09-23,Doubtful,LAC,Ankle,3,LB
@@ -4424,9 +4250,6 @@ Ryan Davis,LAR,2018.0,DaviRy00,2018-12-09,Injured Reserve,CHI,Ankle,14,
 Ryan Davis,LAR,2018.0,DaviRy00,2018-12-16,Injured Reserve,PHI,Ankle,15,
 Ryan Davis,LAR,2018.0,DaviRy00,2018-12-23,Injured Reserve,ARI,Ankle,16,
 Ryan Davis,LAR,2018.0,DaviRy00,2018-12-30,Injured Reserve,SFO,Ankle,17,
-Ryan Davis,LAR,2018.0,DaviRy00,2019-01-12,Injured Reserve,DAL,Ankle,,
-Ryan Davis,LAR,2018.0,DaviRy00,2019-01-20,Injured Reserve,NOR,Ankle,,
-Ryan Davis,LAR,2018.0,DaviRy00,2019-02-03,Injured Reserve,NWE,Ankle,,
 Morgan Fox,LAR,2018.0,FoxxMo00,2018-09-10,Injured Reserve,OAK,Knee,1,DL
 Morgan Fox,LAR,2018.0,FoxxMo00,2018-09-16,Injured Reserve,ARI,Knee,2,DL
 Morgan Fox,LAR,2018.0,FoxxMo00,2018-09-23,Injured Reserve,LAC,Knee,3,DL
@@ -4443,9 +4266,6 @@ Morgan Fox,LAR,2018.0,FoxxMo00,2018-12-09,Injured Reserve,CHI,Knee,14,DL
 Morgan Fox,LAR,2018.0,FoxxMo00,2018-12-16,Injured Reserve,PHI,Knee,15,DL
 Morgan Fox,LAR,2018.0,FoxxMo00,2018-12-23,Injured Reserve,ARI,Knee,16,DL
 Morgan Fox,LAR,2018.0,FoxxMo00,2018-12-30,Injured Reserve,SFO,Knee,17,DL
-Morgan Fox,LAR,2018.0,FoxxMo00,2019-01-12,Injured Reserve,DAL,Knee,,DL
-Morgan Fox,LAR,2018.0,FoxxMo00,2019-01-20,Injured Reserve,NOR,Knee,,DL
-Morgan Fox,LAR,2018.0,FoxxMo00,2019-02-03,Injured Reserve,NWE,Knee,,DL
 Ogbonnia Okoronkwo,LAR,2018.0,OkorOg00,2018-09-10,Injured Reserve,OAK,Foot,1,DE
 Ogbonnia Okoronkwo,LAR,2018.0,OkorOg00,2018-09-16,Injured Reserve,ARI,Foot,2,DE
 Ogbonnia Okoronkwo,LAR,2018.0,OkorOg00,2018-09-23,Injured Reserve,LAC,Foot,3,DE
@@ -4462,9 +4282,6 @@ Ogbonnia Okoronkwo,LAR,2018.0,OkorOg00,2018-12-09,Injured Reserve,CHI,Foot,14,DE
 Ogbonnia Okoronkwo,LAR,2018.0,OkorOg00,2018-12-16,Injured Reserve,PHI,Foot,15,DE
 Ogbonnia Okoronkwo,LAR,2018.0,OkorOg00,2018-12-23,Injured Reserve,ARI,Foot,16,DE
 Ogbonnia Okoronkwo,LAR,2018.0,OkorOg00,2018-12-30,Injured Reserve,SFO,Foot,17,DE
-Ogbonnia Okoronkwo,LAR,2018.0,OkorOg00,2019-01-12,Injured Reserve,DAL,Foot,,DE
-Ogbonnia Okoronkwo,LAR,2018.0,OkorOg00,2019-01-20,Injured Reserve,NOR,Foot,,DE
-Ogbonnia Okoronkwo,LAR,2018.0,OkorOg00,2019-02-03,Injured Reserve,NWE,Foot,,DE
 Kevin Peterson,LAR,2018.0,PeteKe01,2018-09-10,Injured Reserve,OAK,Knee,1,CB
 Kevin Peterson,LAR,2018.0,PeteKe01,2018-09-16,Injured Reserve,ARI,Knee,2,CB
 Kevin Peterson,LAR,2018.0,PeteKe01,2018-09-23,Injured Reserve,LAC,Knee,3,CB
@@ -4481,9 +4298,6 @@ Kevin Peterson,LAR,2018.0,PeteKe01,2018-12-09,Injured Reserve,CHI,Knee,14,CB
 Kevin Peterson,LAR,2018.0,PeteKe01,2018-12-16,Injured Reserve,PHI,Knee,15,CB
 Kevin Peterson,LAR,2018.0,PeteKe01,2018-12-23,Injured Reserve,ARI,Knee,16,CB
 Kevin Peterson,LAR,2018.0,PeteKe01,2018-12-30,Injured Reserve,SFO,Knee,17,CB
-Kevin Peterson,LAR,2018.0,PeteKe01,2019-01-12,Injured Reserve,DAL,Knee,,CB
-Kevin Peterson,LAR,2018.0,PeteKe01,2019-01-20,Injured Reserve,NOR,Knee,,CB
-Kevin Peterson,LAR,2018.0,PeteKe01,2019-02-03,Injured Reserve,NWE,Knee,,CB
 Garrett Sickels,LAR,2018.0,SickGa00,2018-09-10,Injured Reserve,OAK,Undisclosed,1,
 Garrett Sickels,LAR,2018.0,SickGa00,2018-09-16,Injured Reserve,ARI,Undisclosed,2,
 Garrett Sickels,LAR,2018.0,SickGa00,2018-09-23,Injured Reserve,LAC,Undisclosed,3,
@@ -4500,9 +4314,6 @@ Garrett Sickels,LAR,2018.0,SickGa00,2018-12-09,Injured Reserve,CHI,Undisclosed,1
 Garrett Sickels,LAR,2018.0,SickGa00,2018-12-16,Injured Reserve,PHI,Undisclosed,15,
 Garrett Sickels,LAR,2018.0,SickGa00,2018-12-23,Injured Reserve,ARI,Undisclosed,16,
 Garrett Sickels,LAR,2018.0,SickGa00,2018-12-30,Injured Reserve,SFO,Undisclosed,17,
-Garrett Sickels,LAR,2018.0,SickGa00,2019-01-12,Injured Reserve,DAL,Undisclosed,,
-Garrett Sickels,LAR,2018.0,SickGa00,2019-01-20,Injured Reserve,NOR,Undisclosed,,
-Garrett Sickels,LAR,2018.0,SickGa00,2019-02-03,Injured Reserve,NWE,Undisclosed,,
 Carlos Thompson,LAR,2018.0,ThomCa02,2018-09-10,Injured Reserve,OAK,Undisclosed,1,
 Carlos Thompson,LAR,2018.0,ThomCa02,2018-09-16,Injured Reserve,ARI,Undisclosed,2,
 Carlos Thompson,LAR,2018.0,ThomCa02,2018-09-23,Injured Reserve,LAC,Undisclosed,3,
@@ -4519,9 +4330,6 @@ Carlos Thompson,LAR,2018.0,ThomCa02,2018-12-09,Injured Reserve,CHI,Undisclosed,1
 Carlos Thompson,LAR,2018.0,ThomCa02,2018-12-16,Injured Reserve,PHI,Undisclosed,15,
 Carlos Thompson,LAR,2018.0,ThomCa02,2018-12-23,Injured Reserve,ARI,Undisclosed,16,
 Carlos Thompson,LAR,2018.0,ThomCa02,2018-12-30,Injured Reserve,SFO,Undisclosed,17,
-Carlos Thompson,LAR,2018.0,ThomCa02,2019-01-12,Injured Reserve,DAL,Undisclosed,,
-Carlos Thompson,LAR,2018.0,ThomCa02,2019-01-20,Injured Reserve,NOR,Undisclosed,,
-Carlos Thompson,LAR,2018.0,ThomCa02,2019-02-03,Injured Reserve,NWE,Undisclosed,,
 Pharoh Cooper,LAR,2018.0,CoopPh00,2018-09-16,Injured Reserve,ARI,Ankle,2,WR
 Pharoh Cooper,LAR,2018.0,CoopPh00,2018-09-23,Injured Reserve,LAC,Ankle,3,WR
 Pharoh Cooper,LAR,2018.0,CoopPh00,2018-09-27,Injured Reserve,MIN,Ankle,4,WR
@@ -4531,9 +4339,6 @@ Pharoh Cooper,LAR,2018.0,CoopPh00,2018-10-21,Injured Reserve,SFO,Ankle,7,WR
 Pharoh Cooper,LAR,2018.0,CoopPh00,2018-10-28,Injured Reserve,GNB,Ankle,8,WR
 Pharoh Cooper,LAR,2018.0,CoopPh00,2018-11-04,Injured Reserve,NOR,Ankle,9,WR
 Pharoh Cooper,LAR,2018.0,CoopPh00,2018-11-11,Injured Reserve,SEA,Ankle,10,WR
-Pharoh Cooper,LAR,2018.0,CoopPh00,2019-01-12,Injured Reserve,DAL,Ankle,,WR
-Pharoh Cooper,LAR,2018.0,CoopPh00,2019-01-20,Injured Reserve,NOR,Ankle,,WR
-Pharoh Cooper,LAR,2018.0,CoopPh00,2019-02-03,Injured Reserve,NWE,Ankle,,WR
 Mike Thomas,LAR,2018.0,ThomMi04,2018-09-16,Injured Reserve,ARI,Groin,2,WR
 Mike Thomas,LAR,2018.0,ThomMi04,2018-09-23,Injured Reserve,LAC,Groin,3,WR
 Mike Thomas,LAR,2018.0,ThomMi04,2018-09-27,Injured Reserve,MIN,Groin,4,WR
@@ -4549,9 +4354,6 @@ Mike Thomas,LAR,2018.0,ThomMi04,2018-12-09,Injured Reserve,CHI,Groin,14,WR
 Mike Thomas,LAR,2018.0,ThomMi04,2018-12-16,Injured Reserve,PHI,Groin,15,WR
 Mike Thomas,LAR,2018.0,ThomMi04,2018-12-23,Injured Reserve,ARI,Groin,16,WR
 Mike Thomas,LAR,2018.0,ThomMi04,2018-12-30,Injured Reserve,SFO,Groin,17,WR
-Mike Thomas,LAR,2018.0,ThomMi04,2019-01-12,Injured Reserve,DAL,Groin,,WR
-Mike Thomas,LAR,2018.0,ThomMi04,2019-01-20,Injured Reserve,NOR,Groin,,WR
-Mike Thomas,LAR,2018.0,ThomMi04,2019-02-03,Injured Reserve,NWE,Groin,,WR
 Greg Zuerlein,LAR,2018.0,ZuerGr00,2018-09-23,Out,LAC,Groin,3,K
 Greg Zuerlein,LAR,2018.0,ZuerGr00,2018-09-27,Out,MIN,Groin,4,K
 Greg Zuerlein,LAR,2018.0,ZuerGr00,2018-10-07,Out,SEA,rightGroin,5,K
@@ -4569,9 +4371,6 @@ Dominique Easley,LAR,2018.0,EaslDo00,2018-12-09,Injured Reserve,CHI,Knee,14,DT
 Dominique Easley,LAR,2018.0,EaslDo00,2018-12-16,Injured Reserve,PHI,Knee,15,DT
 Dominique Easley,LAR,2018.0,EaslDo00,2018-12-23,Injured Reserve,ARI,Knee,16,DT
 Dominique Easley,LAR,2018.0,EaslDo00,2018-12-30,Injured Reserve,SFO,Knee,17,DT
-Dominique Easley,LAR,2018.0,EaslDo00,2019-01-12,Injured Reserve,DAL,Knee,,DT
-Dominique Easley,LAR,2018.0,EaslDo00,2019-01-20,Injured Reserve,NOR,Knee,,DT
-Dominique Easley,LAR,2018.0,EaslDo00,2019-02-03,Injured Reserve,NWE,Knee,,DT
 Marcus Peters,LAR,2018.0,PeteMa00,2018-09-27,Questionable,MIN,Calf,4,CB
 Aqib Talib,LAR,2018.0,TaliAq99,2018-09-27,Injured Reserve,MIN,Ankle,4,DB
 Aqib Talib,LAR,2018.0,TaliAq99,2018-10-07,Injured Reserve,SEA,Ankle,5,DB
@@ -4590,9 +4389,6 @@ Cooper Kupp,LAR,2018.0,KuppCo00,2018-12-09,Injured Reserve,CHI,Knee,14,WR
 Cooper Kupp,LAR,2018.0,KuppCo00,2018-12-16,Injured Reserve,PHI,Knee,15,WR
 Cooper Kupp,LAR,2018.0,KuppCo00,2018-12-23,Injured Reserve,ARI,Knee,16,WR
 Cooper Kupp,LAR,2018.0,KuppCo00,2018-12-30,Injured Reserve,SFO,Knee,17,WR
-Cooper Kupp,LAR,2018.0,KuppCo00,2019-01-12,Injured Reserve,DAL,Knee,,WR
-Cooper Kupp,LAR,2018.0,KuppCo00,2019-01-20,Injured Reserve,NOR,Knee,,WR
-Cooper Kupp,LAR,2018.0,KuppCo00,2019-02-03,Injured Reserve,NWE,Knee,,WR
 Kendal Thompson,LAR,2018.0,ThomKe04,2018-10-21,Injured Reserve,SFO,Undisclosed,7,
 Kendal Thompson,LAR,2018.0,ThomKe04,2018-10-28,Injured Reserve,GNB,Undisclosed,8,
 Kendal Thompson,LAR,2018.0,ThomKe04,2018-11-04,Injured Reserve,NOR,Undisclosed,9,
@@ -4603,31 +4399,21 @@ Kendal Thompson,LAR,2018.0,ThomKe04,2018-12-09,Injured Reserve,CHI,Undisclosed,1
 Kendal Thompson,LAR,2018.0,ThomKe04,2018-12-16,Injured Reserve,PHI,Undisclosed,15,
 Kendal Thompson,LAR,2018.0,ThomKe04,2018-12-23,Injured Reserve,ARI,Undisclosed,16,
 Kendal Thompson,LAR,2018.0,ThomKe04,2018-12-30,Injured Reserve,SFO,Undisclosed,17,
-Kendal Thompson,LAR,2018.0,ThomKe04,2019-01-12,Injured Reserve,DAL,Undisclosed,,
-Kendal Thompson,LAR,2018.0,ThomKe04,2019-01-20,Injured Reserve,NOR,Undisclosed,,
-Kendal Thompson,LAR,2018.0,ThomKe04,2019-02-03,Injured Reserve,NWE,Undisclosed,,
 Trevon Young,LAR,2018.0,YounTr00,2018-10-28,Doubtful,GNB,Back,8,DE
 Sam Shields,LAR,2018.0,ShieSa00,2018-11-04,Questionable,NOR,Illness,9,DB
 Malcolm Brown,LAR,2018.0,BrowMa03,2018-12-09,Injured Reserve,CHI,Collarbone,14,RB
 Malcolm Brown,LAR,2018.0,BrowMa03,2018-12-16,Injured Reserve,PHI,Collarbone,15,RB
 Malcolm Brown,LAR,2018.0,BrowMa03,2018-12-23,Injured Reserve,ARI,Collarbone,16,RB
 Malcolm Brown,LAR,2018.0,BrowMa03,2018-12-30,Injured Reserve,SFO,Collarbone,17,RB
-Malcolm Brown,LAR,2018.0,BrowMa03,2019-01-12,Injured Reserve,DAL,Collarbone,,RB
-Malcolm Brown,LAR,2018.0,BrowMa03,2019-01-20,Injured Reserve,NOR,Collarbone,,RB
-Malcolm Brown,LAR,2018.0,BrowMa03,2019-02-03,Injured Reserve,NWE,Collarbone,,RB
 Dominique Hatfield,LAR,2018.0,HatfDo00,2018-12-16,Injured Reserve,PHI,Ankle,15,CB
 Dominique Hatfield,LAR,2018.0,HatfDo00,2018-12-23,Injured Reserve,ARI,Ankle,16,CB
 Dominique Hatfield,LAR,2018.0,HatfDo00,2018-12-30,Injured Reserve,SFO,Ankle,17,CB
-Dominique Hatfield,LAR,2018.0,HatfDo00,2019-01-12,Injured Reserve,DAL,Ankle,,CB
-Dominique Hatfield,LAR,2018.0,HatfDo00,2019-01-20,Injured Reserve,NOR,Ankle,,CB
-Dominique Hatfield,LAR,2018.0,HatfDo00,2019-02-03,Injured Reserve,NWE,Ankle,,CB
 Justin Davis,LAR,2018.0,DaviJu00,2018-12-23,Questionable,ARI,Shoulder,16,RB
 Justin Davis,LAR,2018.0,DaviJu00,2018-12-30,Questionable,SFO,Shoulder,17,RB
 Todd Gurley,LAR,2018.0,GurlTo01,2018-12-23,Questionable,ARI,Knee,16,RB
 Todd Gurley,LAR,2018.0,GurlTo01,2018-12-30,Out,SFO,Knee,17,RB
 Lamarcus Joyner,LAR,2018.0,JoynLa00,2018-12-30,Out,SFO,Ankle,17,CB
 Ethan Westbrooks,LAR,2018.0,WestEt00,2018-12-30,Questionable,SFO,Illness,17,DE
-Ethan Westbrooks,LAR,2018.0,WestEt00,2019-01-12,Questionable,DAL,Thigh,,DE
 Jake Brendel,MIA,2018.0,BrenJa01,2018-09-09,Injured Reserve,TEN,Calf,1,C
 Jake Brendel,MIA,2018.0,BrenJa01,2018-09-16,Injured Reserve,NYJ,Calf,2,C
 Jake Brendel,MIA,2018.0,BrenJa01,2018-09-23,Injured Reserve,OAK,Calf,3,C
@@ -4746,9 +4532,6 @@ Stephone Anthony,MIA,2018.0,AnthSt00,2018-10-07,Questionable,CIN,Hamstring,5,ILB
 Brandon Bolden,MIA,2018.0,BoldBr00,2018-10-07,Questionable,CIN,Hamstring,5,RB
 Brandon Bolden,NWE,2018.0,BoldBr00,2018-10-04,Injured Reserve,IND,Illness,5,RB
 Brandon Bolden,NWE,2018.0,BoldBr00,2018-10-29,Injured Reserve,BUF,Illness,8,RB
-Brandon Bolden,NWE,2018.0,BoldBr00,2019-01-13,Injured Reserve,LAC,Illness,,RB
-Brandon Bolden,NWE,2018.0,BoldBr00,2019-01-20,Injured Reserve,KAN,Illness,,RB
-Brandon Bolden,NWE,2018.0,BoldBr00,2019-02-03,Injured Reserve,LAR,Illness,,RB
 Luke Falk,MIA,2018.0,FalkLu00,2018-10-07,Out,CIN,leftWrist,5,QB
 Luke Falk,MIA,2018.0,FalkLu00,2018-10-14,Injured Reserve,CHI,Wrist,6,QB
 Luke Falk,MIA,2018.0,FalkLu00,2018-10-21,Injured Reserve,DET,Wrist,7,QB
@@ -5104,8 +4887,6 @@ Brandon Coleman,NOR,2018.0,ColeBr00,2018-12-09,Injured Reserve,TAM,Neck,14,
 Brandon Coleman,NOR,2018.0,ColeBr00,2018-12-17,Injured Reserve,CAR,Neck,15,
 Brandon Coleman,NOR,2018.0,ColeBr00,2018-12-23,Injured Reserve,PIT,Neck,16,
 Brandon Coleman,NOR,2018.0,ColeBr00,2018-12-30,Injured Reserve,CAR,Neck,17,
-Brandon Coleman,NOR,2018.0,ColeBr00,2019-01-13,Injured Reserve,PHI,Neck,,
-Brandon Coleman,NOR,2018.0,ColeBr00,2019-01-20,Injured Reserve,LAR,Neck,,
 Travin Dural,NOR,2018.0,DuraTr00,2018-09-09,Injured Reserve,TAM,Arm,1,
 Travin Dural,NOR,2018.0,DuraTr00,2018-09-16,Injured Reserve,CLE,Arm,2,
 Travin Dural,NOR,2018.0,DuraTr00,2018-09-23,Injured Reserve,ATL,Arm,3,
@@ -5122,8 +4903,6 @@ Travin Dural,NOR,2018.0,DuraTr00,2018-12-09,Injured Reserve,TAM,Arm,14,
 Travin Dural,NOR,2018.0,DuraTr00,2018-12-17,Injured Reserve,CAR,Arm,15,
 Travin Dural,NOR,2018.0,DuraTr00,2018-12-23,Injured Reserve,PIT,Arm,16,
 Travin Dural,NOR,2018.0,DuraTr00,2018-12-30,Injured Reserve,CAR,Arm,17,
-Travin Dural,NOR,2018.0,DuraTr00,2019-01-13,Injured Reserve,PHI,Arm,,
-Travin Dural,NOR,2018.0,DuraTr00,2019-01-20,Injured Reserve,LAR,Arm,,
 John Fullington,NOR,2018.0,FullJo00,2018-09-09,Injured Reserve,TAM,Neck,1,
 John Fullington,NOR,2018.0,FullJo00,2018-09-16,Injured Reserve,CLE,Neck,2,
 John Fullington,NOR,2018.0,FullJo00,2018-09-23,Injured Reserve,ATL,Neck,3,
@@ -5140,8 +4919,6 @@ John Fullington,NOR,2018.0,FullJo00,2018-12-09,Injured Reserve,TAM,Neck,14,
 John Fullington,NOR,2018.0,FullJo00,2018-12-17,Injured Reserve,CAR,Neck,15,
 John Fullington,NOR,2018.0,FullJo00,2018-12-23,Injured Reserve,PIT,Neck,16,
 John Fullington,NOR,2018.0,FullJo00,2018-12-30,Injured Reserve,CAR,Neck,17,
-John Fullington,NOR,2018.0,FullJo00,2019-01-13,Injured Reserve,PHI,Neck,,
-John Fullington,NOR,2018.0,FullJo00,2019-01-20,Injured Reserve,LAR,Neck,,
 Michael Hoomanawanui,NOR,2018.0,HoomMi00,2018-09-09,Injured Reserve,TAM,Neck,1,
 Michael Hoomanawanui,NOR,2018.0,HoomMi00,2018-09-16,Injured Reserve,CLE,Neck,2,
 Michael Hoomanawanui,NOR,2018.0,HoomMi00,2018-09-23,Injured Reserve,ATL,Neck,3,
@@ -5158,8 +4935,6 @@ Michael Hoomanawanui,NOR,2018.0,HoomMi00,2018-12-09,Injured Reserve,TAM,Neck,14,
 Michael Hoomanawanui,NOR,2018.0,HoomMi00,2018-12-17,Injured Reserve,CAR,Neck,15,
 Michael Hoomanawanui,NOR,2018.0,HoomMi00,2018-12-23,Injured Reserve,PIT,Neck,16,
 Michael Hoomanawanui,NOR,2018.0,HoomMi00,2018-12-30,Injured Reserve,CAR,Neck,17,
-Michael Hoomanawanui,NOR,2018.0,HoomMi00,2019-01-13,Injured Reserve,PHI,Neck,,
-Michael Hoomanawanui,NOR,2018.0,HoomMi00,2019-01-20,Injured Reserve,LAR,Neck,,
 Rickey Jefferson,NOR,2018.0,JeffRi00,2018-09-09,Injured Reserve,TAM,Knee,1,
 Rickey Jefferson,NOR,2018.0,JeffRi00,2018-09-16,Injured Reserve,CLE,Knee,2,
 Rickey Jefferson,NOR,2018.0,JeffRi00,2018-09-23,Injured Reserve,ATL,Knee,3,
@@ -5176,8 +4951,6 @@ Rickey Jefferson,NOR,2018.0,JeffRi00,2018-12-09,Injured Reserve,TAM,Knee,14,
 Rickey Jefferson,NOR,2018.0,JeffRi00,2018-12-17,Injured Reserve,CAR,Knee,15,
 Rickey Jefferson,NOR,2018.0,JeffRi00,2018-12-23,Injured Reserve,PIT,Knee,16,
 Rickey Jefferson,NOR,2018.0,JeffRi00,2018-12-30,Injured Reserve,CAR,Knee,17,
-Rickey Jefferson,NOR,2018.0,JeffRi00,2019-01-13,Injured Reserve,PHI,Knee,,
-Rickey Jefferson,NOR,2018.0,JeffRi00,2019-01-20,Injured Reserve,LAR,Knee,,
 Andrus Peat,NOR,2018.0,PeatAn00,2018-09-09,Questionable,TAM,Quadricep,1,OT
 Andrus Peat,NOR,2018.0,PeatAn00,2018-09-23,Questionable,ATL,Ankle,3,OT
 Andrus Peat,NOR,2018.0,PeatAn00,2018-10-21,Out,BAL,Concussion,7,OT
@@ -5197,8 +4970,6 @@ John Theus,NOR,2018.0,TheuJo00,2018-12-09,Injured Reserve,TAM,Illness,14,
 John Theus,NOR,2018.0,TheuJo00,2018-12-17,Injured Reserve,CAR,Illness,15,
 John Theus,NOR,2018.0,TheuJo00,2018-12-23,Injured Reserve,PIT,Illness,16,
 John Theus,NOR,2018.0,TheuJo00,2018-12-30,Injured Reserve,CAR,Illness,17,
-John Theus,NOR,2018.0,TheuJo00,2019-01-13,Injured Reserve,PHI,Illness,,
-John Theus,NOR,2018.0,TheuJo00,2019-01-20,Injured Reserve,LAR,Illness,,
 John Theus,TEN,2018.0,TheuJo00,2018-09-09,Injured Reserve,MIA,Illness,1,
 John Theus,TEN,2018.0,TheuJo00,2018-09-16,Injured Reserve,HOU,Illness,2,
 John Theus,TEN,2018.0,TheuJo00,2018-09-23,Injured Reserve,JAX,Illness,3,
@@ -5231,8 +5002,6 @@ Shane Vereen,NOR,2018.0,VereSh00,2018-12-09,Injured Reserve,TAM,Hand,14,
 Shane Vereen,NOR,2018.0,VereSh00,2018-12-17,Injured Reserve,CAR,Hand,15,
 Shane Vereen,NOR,2018.0,VereSh00,2018-12-23,Injured Reserve,PIT,Hand,16,
 Shane Vereen,NOR,2018.0,VereSh00,2018-12-30,Injured Reserve,CAR,Hand,17,
-Shane Vereen,NOR,2018.0,VereSh00,2019-01-13,Injured Reserve,PHI,Hand,,
-Shane Vereen,NOR,2018.0,VereSh00,2019-01-20,Injured Reserve,LAR,Hand,,
 Tyeler Davison,NOR,2018.0,DaviTy01,2018-09-16,Out,CLE,Foot,2,DT
 Tyeler Davison,NOR,2018.0,DaviTy01,2018-09-23,Out,ATL,Foot,3,DT
 Daniel Lasco,NOR,2018.0,LascDa00,2018-09-16,Injured Reserve,CLE,Neck,2,
@@ -5250,8 +5019,6 @@ Daniel Lasco,NOR,2018.0,LascDa00,2018-12-09,Injured Reserve,TAM,Neck,14,
 Daniel Lasco,NOR,2018.0,LascDa00,2018-12-17,Injured Reserve,CAR,Neck,15,
 Daniel Lasco,NOR,2018.0,LascDa00,2018-12-23,Injured Reserve,PIT,Neck,16,
 Daniel Lasco,NOR,2018.0,LascDa00,2018-12-30,Injured Reserve,CAR,Neck,17,
-Daniel Lasco,NOR,2018.0,LascDa00,2019-01-13,Injured Reserve,PHI,Neck,,
-Daniel Lasco,NOR,2018.0,LascDa00,2019-01-20,Injured Reserve,LAR,Neck,,
 Tommylee Lewis,NOR,2018.0,LewiTo00,2018-09-23,Injured Reserve,ATL,Knee,3,WR
 Tommylee Lewis,NOR,2018.0,LewiTo00,2018-09-30,Injured Reserve,NYG,Knee,4,WR
 Tommylee Lewis,NOR,2018.0,LewiTo00,2018-10-08,Injured Reserve,WAS,Knee,5,WR
@@ -5282,8 +5049,6 @@ Patrick Robinson,NOR,2018.0,RobiPa99,2018-12-09,Injured Reserve,TAM,Ankle,14,DB
 Patrick Robinson,NOR,2018.0,RobiPa99,2018-12-17,Injured Reserve,CAR,Ankle,15,DB
 Patrick Robinson,NOR,2018.0,RobiPa99,2018-12-23,Injured Reserve,PIT,Ankle,16,DB
 Patrick Robinson,NOR,2018.0,RobiPa99,2018-12-30,Injured Reserve,CAR,Ankle,17,DB
-Patrick Robinson,NOR,2018.0,RobiPa99,2019-01-13,Injured Reserve,PHI,Ankle,,DB
-Patrick Robinson,NOR,2018.0,RobiPa99,2019-01-20,Injured Reserve,LAR,Ankle,,DB
 Ted Ginn Jr.,NOR,2018.0,GinnTe00,2018-10-08,Injured Reserve,WAS,Knee,5,WR
 Ted Ginn Jr.,NOR,2018.0,GinnTe00,2018-10-21,Injured Reserve,BAL,Knee,7,WR
 Ted Ginn Jr.,NOR,2018.0,GinnTe00,2018-10-28,Injured Reserve,MIN,Knee,8,WR
@@ -5309,8 +5074,6 @@ Jay Bromley,NOR,2018.0,BromJa00,2018-12-09,Injured Reserve,TAM,Bicep,14,DT
 Jay Bromley,NOR,2018.0,BromJa00,2018-12-17,Injured Reserve,CAR,Bicep,15,DT
 Jay Bromley,NOR,2018.0,BromJa00,2018-12-23,Injured Reserve,PIT,Bicep,16,DT
 Jay Bromley,NOR,2018.0,BromJa00,2018-12-30,Injured Reserve,CAR,Bicep,17,DT
-Jay Bromley,NOR,2018.0,BromJa00,2019-01-13,Injured Reserve,PHI,Bicep,,DT
-Jay Bromley,NOR,2018.0,BromJa00,2019-01-20,Injured Reserve,LAR,Bicep,,DT
 Josh LeRibeus,NOR,2018.0,LeRiJo00,2018-10-28,Injured Reserve,MIN,Ankle,8,G
 Josh LeRibeus,NOR,2018.0,LeRiJo00,2018-11-04,Injured Reserve,LAR,Ankle,9,G
 Josh LeRibeus,NOR,2018.0,LeRiJo00,2018-11-11,Injured Reserve,CIN,Ankle,10,G
@@ -5321,8 +5084,6 @@ Josh LeRibeus,NOR,2018.0,LeRiJo00,2018-12-09,Injured Reserve,TAM,Ankle,14,G
 Josh LeRibeus,NOR,2018.0,LeRiJo00,2018-12-17,Injured Reserve,CAR,Ankle,15,G
 Josh LeRibeus,NOR,2018.0,LeRiJo00,2018-12-23,Injured Reserve,PIT,Ankle,16,G
 Josh LeRibeus,NOR,2018.0,LeRiJo00,2018-12-30,Injured Reserve,CAR,Ankle,17,G
-Josh LeRibeus,NOR,2018.0,LeRiJo00,2019-01-13,Injured Reserve,PHI,Ankle,,G
-Josh LeRibeus,NOR,2018.0,LeRiJo00,2019-01-20,Injured Reserve,LAR,Ankle,,G
 Mitchell Loewen,NOR,2018.0,LoewMi00,2018-10-28,Out,MIN,Neck,8,DE
 Dez Bryant,NOR,2018.0,BryaDe01,2018-11-11,Injured Reserve,CIN,Achilles,10,WR
 Dez Bryant,NOR,2018.0,BryaDe01,2018-11-18,Injured Reserve,PHI,Achilles,11,WR
@@ -5332,8 +5093,6 @@ Dez Bryant,NOR,2018.0,BryaDe01,2018-12-09,Injured Reserve,TAM,Achilles,14,WR
 Dez Bryant,NOR,2018.0,BryaDe01,2018-12-17,Injured Reserve,CAR,Achilles,15,WR
 Dez Bryant,NOR,2018.0,BryaDe01,2018-12-23,Injured Reserve,PIT,Achilles,16,WR
 Dez Bryant,NOR,2018.0,BryaDe01,2018-12-30,Injured Reserve,CAR,Achilles,17,WR
-Dez Bryant,NOR,2018.0,BryaDe01,2019-01-13,Injured Reserve,PHI,Achilles,,WR
-Dez Bryant,NOR,2018.0,BryaDe01,2019-01-20,Injured Reserve,LAR,Achilles,,WR
 Cameron Meredith,NOR,2018.0,MereCa00,2018-11-11,Injured Reserve,CIN,Knee,10,WR
 Cameron Meredith,NOR,2018.0,MereCa00,2018-11-18,Injured Reserve,PHI,Knee,11,WR
 Cameron Meredith,NOR,2018.0,MereCa00,2018-11-22,Injured Reserve,ATL,Knee,12,WR
@@ -5342,8 +5101,6 @@ Cameron Meredith,NOR,2018.0,MereCa00,2018-12-09,Injured Reserve,TAM,Knee,14,WR
 Cameron Meredith,NOR,2018.0,MereCa00,2018-12-17,Injured Reserve,CAR,Knee,15,WR
 Cameron Meredith,NOR,2018.0,MereCa00,2018-12-23,Injured Reserve,PIT,Knee,16,WR
 Cameron Meredith,NOR,2018.0,MereCa00,2018-12-30,Injured Reserve,CAR,Knee,17,WR
-Cameron Meredith,NOR,2018.0,MereCa00,2019-01-13,Injured Reserve,PHI,Knee,,WR
-Cameron Meredith,NOR,2018.0,MereCa00,2019-01-20,Injured Reserve,LAR,Knee,,WR
 Terron Armstead ,NOR,2018.0,ArmsTe00,2018-11-18,Out,PHI,Shoulder,11,OT
 Terron Armstead ,NOR,2018.0,ArmsTe00,2018-11-22,Out,ATL,Pectoral,12,OT
 Terron Armstead ,NOR,2018.0,ArmsTe00,2018-11-29,Out,DAL,Pectoral,13,OT
@@ -5354,13 +5111,6 @@ Tre'Quan Smith,NOR,2018.0,SmitTr03,2018-11-22,Questionable,ATL,Foot,12,WR
 Michael Ola,NOR,2018.0,OlaxMi00,2018-12-17,Injured Reserve,CAR,Ankle,15,T
 Michael Ola,NOR,2018.0,OlaxMi00,2018-12-23,Injured Reserve,PIT,Ankle,16,T
 Michael Ola,NOR,2018.0,OlaxMi00,2018-12-30,Injured Reserve,CAR,Ankle,17,T
-Michael Ola,NOR,2018.0,OlaxMi00,2019-01-13,Injured Reserve,PHI,Ankle,,T
-Michael Ola,NOR,2018.0,OlaxMi00,2019-01-20,Injured Reserve,LAR,Ankle,,T
-Simmie Cobbs,NOR,2018.0,CobbSi00,2019-01-13,Injured Reserve,PHI,Knee,,
-Simmie Cobbs,NOR,2018.0,CobbSi00,2019-01-20,Injured Reserve,LAR,Knee,,
-Keith Kirkwood,NOR,2018.0,KirkKe00,2019-01-20,Out,LAR,Calf,,WR
-Sheldon Rankins,NOR,2018.0,RankSh00,2019-01-20,Injured Reserve,LAR,Achilles,,DT
-Ben Watson,NOR,2018.0,WatsBe00,2019-01-20,Questionable,LAR,Illness,,TE
 Braxton Berrios,NWE,2018.0,BerrBr00,2018-09-09,Injured Reserve,HOU,Undisclosed,1,WR
 Braxton Berrios,NWE,2018.0,BerrBr00,2018-09-16,Injured Reserve,JAX,Undisclosed,2,WR
 Braxton Berrios,NWE,2018.0,BerrBr00,2018-09-23,Injured Reserve,DET,Undisclosed,3,WR
@@ -5377,9 +5127,6 @@ Braxton Berrios,NWE,2018.0,BerrBr00,2018-12-09,Injured Reserve,MIA,Undisclosed,1
 Braxton Berrios,NWE,2018.0,BerrBr00,2018-12-16,Injured Reserve,PIT,Undisclosed,15,WR
 Braxton Berrios,NWE,2018.0,BerrBr00,2018-12-23,Injured Reserve,BUF,Undisclosed,16,WR
 Braxton Berrios,NWE,2018.0,BerrBr00,2018-12-30,Injured Reserve,NYJ,Undisclosed,17,WR
-Braxton Berrios,NWE,2018.0,BerrBr00,2019-01-13,Injured Reserve,LAC,Undisclosed,,WR
-Braxton Berrios,NWE,2018.0,BerrBr00,2019-01-20,Injured Reserve,KAN,Undisclosed,,WR
-Braxton Berrios,NWE,2018.0,BerrBr00,2019-02-03,Injured Reserve,LAR,Undisclosed,,WR
 Kenny Britt,NWE,2018.0,BritKe00,2018-09-09,Injured Reserve,HOU,Hamstring,1,
 Kenny Britt,NWE,2018.0,BritKe00,2018-09-16,Injured Reserve,JAX,Hamstring,2,
 Kenny Britt,NWE,2018.0,BritKe00,2018-09-23,Injured Reserve,DET,Hamstring,3,
@@ -5396,9 +5143,6 @@ Kenny Britt,NWE,2018.0,BritKe00,2018-12-09,Injured Reserve,MIA,Hamstring,14,
 Kenny Britt,NWE,2018.0,BritKe00,2018-12-16,Injured Reserve,PIT,Hamstring,15,
 Kenny Britt,NWE,2018.0,BritKe00,2018-12-23,Injured Reserve,BUF,Hamstring,16,
 Kenny Britt,NWE,2018.0,BritKe00,2018-12-30,Injured Reserve,NYJ,Hamstring,17,
-Kenny Britt,NWE,2018.0,BritKe00,2019-01-13,Injured Reserve,LAC,Hamstring,,
-Kenny Britt,NWE,2018.0,BritKe00,2019-01-20,Injured Reserve,KAN,Hamstring,,
-Kenny Britt,NWE,2018.0,BritKe00,2019-02-03,Injured Reserve,LAR,Hamstring,,
 Marcus Cannon,NWE,2018.0,CannMa00,2018-09-09,Questionable,HOU,Calf,1,OL
 Marcus Cannon,NWE,2018.0,CannMa00,2018-09-16,Questionable,JAX,Calf,2,OL
 Marcus Cannon,NWE,2018.0,CannMa00,2018-09-23,Questionable,DET,Calf,3,OL
@@ -5429,9 +5173,6 @@ Duke Dawson,NWE,2018.0,DawsDu00,2018-12-09,Injured Reserve,MIA,Hamstring,14,CB
 Duke Dawson,NWE,2018.0,DawsDu00,2018-12-16,Injured Reserve,PIT,Hamstring,15,CB
 Duke Dawson,NWE,2018.0,DawsDu00,2018-12-23,Injured Reserve,BUF,Hamstring,16,CB
 Duke Dawson,NWE,2018.0,DawsDu00,2018-12-30,Injured Reserve,NYJ,Hamstring,17,CB
-Duke Dawson,NWE,2018.0,DawsDu00,2019-01-13,Injured Reserve,LAC,Hamstring,,CB
-Duke Dawson,NWE,2018.0,DawsDu00,2019-01-20,Injured Reserve,KAN,Hamstring,,CB
-Duke Dawson,NWE,2018.0,DawsDu00,2019-02-03,Injured Reserve,LAR,Hamstring,,CB
 Nate Ebner,NWE,2018.0,EbneNa00,2018-09-09,Questionable,HOU,Knee,1,DB
 Nate Ebner,NWE,2018.0,EbneNa00,2018-09-23,Questionable,DET,Hip,3,DB
 Nate Ebner,NWE,2018.0,EbneNa00,2018-09-30,Questionable,MIA,Hip,4,DB
@@ -5445,9 +5186,6 @@ Jacob Hollister,NWE,2018.0,HollJa03,2018-10-29,Out,BUF,Hamstring,8,TE
 Jacob Hollister,NWE,2018.0,HollJa03,2018-11-04,Questionable,GNB,Hamstring,9,TE
 Jacob Hollister,NWE,2018.0,HollJa03,2018-11-11,Questionable,TEN,Hamstring,10,TE
 Jacob Hollister,NWE,2018.0,HollJa03,2018-12-30,Injured Reserve,NYJ,Hamstring,17,TE
-Jacob Hollister,NWE,2018.0,HollJa03,2019-01-13,Injured Reserve,LAC,Hamstring,,TE
-Jacob Hollister,NWE,2018.0,HollJa03,2019-01-20,Injured Reserve,KAN,Hamstring,,TE
-Jacob Hollister,NWE,2018.0,HollJa03,2019-02-03,Injured Reserve,LAR,Hamstring,,TE
 Ryan Izzo,NWE,2018.0,IzzoRy00,2018-09-09,Injured Reserve,HOU,Ankle,1,TE
 Ryan Izzo,NWE,2018.0,IzzoRy00,2018-09-16,Injured Reserve,JAX,Ankle,2,TE
 Ryan Izzo,NWE,2018.0,IzzoRy00,2018-09-23,Injured Reserve,DET,Ankle,3,TE
@@ -5464,9 +5202,6 @@ Ryan Izzo,NWE,2018.0,IzzoRy00,2018-12-09,Injured Reserve,MIA,Ankle,14,TE
 Ryan Izzo,NWE,2018.0,IzzoRy00,2018-12-16,Injured Reserve,PIT,Ankle,15,TE
 Ryan Izzo,NWE,2018.0,IzzoRy00,2018-12-23,Injured Reserve,BUF,Ankle,16,TE
 Ryan Izzo,NWE,2018.0,IzzoRy00,2018-12-30,Injured Reserve,NYJ,Ankle,17,TE
-Ryan Izzo,NWE,2018.0,IzzoRy00,2019-01-13,Injured Reserve,LAC,Ankle,,TE
-Ryan Izzo,NWE,2018.0,IzzoRy00,2019-01-20,Injured Reserve,KAN,Ankle,,TE
-Ryan Izzo,NWE,2018.0,IzzoRy00,2019-02-03,Injured Reserve,LAR,Ankle,,TE
 Ulrick John,NWE,2018.0,JohnUl00,2018-09-09,Injured Reserve,HOU,Foot,1,
 Ulrick John,NWE,2018.0,JohnUl00,2018-09-16,Injured Reserve,JAX,Foot,2,
 Ulrick John,NWE,2018.0,JohnUl00,2018-09-23,Injured Reserve,DET,Foot,3,
@@ -5483,18 +5218,12 @@ Ulrick John,NWE,2018.0,JohnUl00,2018-12-09,Injured Reserve,MIA,Foot,14,
 Ulrick John,NWE,2018.0,JohnUl00,2018-12-16,Injured Reserve,PIT,Foot,15,
 Ulrick John,NWE,2018.0,JohnUl00,2018-12-23,Injured Reserve,BUF,Foot,16,
 Ulrick John,NWE,2018.0,JohnUl00,2018-12-30,Injured Reserve,NYJ,Foot,17,
-Ulrick John,NWE,2018.0,JohnUl00,2019-01-13,Injured Reserve,LAC,Foot,,
-Ulrick John,NWE,2018.0,JohnUl00,2019-01-20,Injured Reserve,KAN,Foot,,
-Ulrick John,NWE,2018.0,JohnUl00,2019-02-03,Injured Reserve,LAR,Foot,,
 Cyrus Jones,NWE,2018.0,JoneCy00,2018-09-09,Injured Reserve,HOU,Knee,1,CB
 Cyrus Jones,NWE,2018.0,JoneCy00,2018-09-16,Injured Reserve,JAX,Knee,2,CB
 Cyrus Jones,NWE,2018.0,JoneCy00,2018-10-04,Injured Reserve,IND,Knee,5,CB
 Cyrus Jones,NWE,2018.0,JoneCy00,2018-10-29,Injured Reserve,BUF,Knee,8,CB
 Cyrus Jones,NWE,2018.0,JoneCy00,2018-11-11,Injured Reserve,TEN,Knee,10,CB
 Cyrus Jones,NWE,2018.0,JoneCy00,2018-12-23,Injured Reserve,BUF,Knee,16,CB
-Cyrus Jones,NWE,2018.0,JoneCy00,2019-01-13,Injured Reserve,LAC,Knee,,CB
-Cyrus Jones,NWE,2018.0,JoneCy00,2019-01-20,Injured Reserve,KAN,Knee,,CB
-Cyrus Jones,NWE,2018.0,JoneCy00,2019-02-03,Injured Reserve,LAR,Knee,,CB
 Jordan Matthews,NWE,2018.0,MattJo00,2018-09-09,Injured Reserve,HOU,Hamstring,1,WR
 Jordan Matthews,NWE,2018.0,MattJo00,2018-09-16,Injured Reserve,JAX,Hamstring,2,WR
 Jordan Matthews,NWE,2018.0,MattJo00,2018-10-04,Injured Reserve,IND,Hamstring,5,WR
@@ -5502,8 +5231,6 @@ Jordan Matthews,NWE,2018.0,MattJo00,2018-10-14,Injured Reserve,KAN,Hamstring,6,W
 Jordan Matthews,NWE,2018.0,MattJo00,2018-10-29,Injured Reserve,BUF,Hamstring,8,WR
 Jordan Matthews,NWE,2018.0,MattJo00,2018-11-04,Injured Reserve,GNB,Hamstring,9,WR
 Jordan Matthews,NWE,2018.0,MattJo00,2018-12-02,Injured Reserve,MIN,Hamstring,13,WR
-Jordan Matthews,NWE,2018.0,MattJo00,2019-01-20,Injured Reserve,KAN,Hamstring,,WR
-Jordan Matthews,NWE,2018.0,MattJo00,2019-02-03,Injured Reserve,LAR,Hamstring,,WR
 Sony Michel,NWE,2018.0,MichSo00,2018-09-09,Questionable,HOU,Knee,1,RB
 Sony Michel,NWE,2018.0,MichSo00,2018-09-16,Questionable,JAX,Knee,2,RB
 Sony Michel,NWE,2018.0,MichSo00,2018-10-14,Questionable,KAN,Knee,6,RB
@@ -5528,9 +5255,6 @@ Christian Sam,NWE,2018.0,SamxCh00,2018-12-09,Injured Reserve,MIA,Undisclosed,14,
 Christian Sam,NWE,2018.0,SamxCh00,2018-12-16,Injured Reserve,PIT,Undisclosed,15,
 Christian Sam,NWE,2018.0,SamxCh00,2018-12-23,Injured Reserve,BUF,Undisclosed,16,
 Christian Sam,NWE,2018.0,SamxCh00,2018-12-30,Injured Reserve,NYJ,Undisclosed,17,
-Christian Sam,NWE,2018.0,SamxCh00,2019-01-13,Injured Reserve,LAC,Undisclosed,,
-Christian Sam,NWE,2018.0,SamxCh00,2019-01-20,Injured Reserve,KAN,Undisclosed,,
-Christian Sam,NWE,2018.0,SamxCh00,2019-02-03,Injured Reserve,LAR,Undisclosed,,
 Nate Theaker,NWE,2018.0,TheaNa00,2018-09-09,Injured Reserve,HOU,Undisclosed,1,
 Nate Theaker,NWE,2018.0,TheaNa00,2018-09-16,Injured Reserve,JAX,Undisclosed,2,
 Nate Theaker,NWE,2018.0,TheaNa00,2018-09-23,Injured Reserve,DET,Undisclosed,3,
@@ -5547,9 +5271,6 @@ Nate Theaker,NWE,2018.0,TheaNa00,2018-12-09,Injured Reserve,MIA,Undisclosed,14,
 Nate Theaker,NWE,2018.0,TheaNa00,2018-12-16,Injured Reserve,PIT,Undisclosed,15,
 Nate Theaker,NWE,2018.0,TheaNa00,2018-12-23,Injured Reserve,BUF,Undisclosed,16,
 Nate Theaker,NWE,2018.0,TheaNa00,2018-12-30,Injured Reserve,NYJ,Undisclosed,17,
-Nate Theaker,NWE,2018.0,TheaNa00,2019-01-13,Injured Reserve,LAC,Undisclosed,,
-Nate Theaker,NWE,2018.0,TheaNa00,2019-01-20,Injured Reserve,KAN,Undisclosed,,
-Nate Theaker,NWE,2018.0,TheaNa00,2019-02-03,Injured Reserve,LAR,Undisclosed,,
 Isaiah Wynn,NWE,2018.0,WynnIs00,2018-09-09,Injured Reserve,HOU,Achilles,1,OT
 Isaiah Wynn,NWE,2018.0,WynnIs00,2018-09-16,Injured Reserve,JAX,Achilles,2,OT
 Isaiah Wynn,NWE,2018.0,WynnIs00,2018-09-23,Injured Reserve,DET,Achilles,3,OT
@@ -5566,9 +5287,6 @@ Isaiah Wynn,NWE,2018.0,WynnIs00,2018-12-09,Injured Reserve,MIA,Achilles,14,OT
 Isaiah Wynn,NWE,2018.0,WynnIs00,2018-12-16,Injured Reserve,PIT,Achilles,15,OT
 Isaiah Wynn,NWE,2018.0,WynnIs00,2018-12-23,Injured Reserve,BUF,Achilles,16,OT
 Isaiah Wynn,NWE,2018.0,WynnIs00,2018-12-30,Injured Reserve,NYJ,Achilles,17,OT
-Isaiah Wynn,NWE,2018.0,WynnIs00,2019-01-13,Injured Reserve,LAC,Achilles,,OT
-Isaiah Wynn,NWE,2018.0,WynnIs00,2019-01-20,Injured Reserve,KAN,Achilles,,OT
-Isaiah Wynn,NWE,2018.0,WynnIs00,2019-02-03,Injured Reserve,LAR,Achilles,,OT
 Darren Andrews,NWE,2018.0,AndrDa01,2018-09-16,Injured Reserve,JAX,Knee,2,
 Darren Andrews,NWE,2018.0,AndrDa01,2018-09-23,Injured Reserve,DET,Knee,3,
 Darren Andrews,NWE,2018.0,AndrDa01,2018-09-30,Injured Reserve,MIA,Knee,4,
@@ -5584,9 +5302,6 @@ Darren Andrews,NWE,2018.0,AndrDa01,2018-12-09,Injured Reserve,MIA,Knee,14,
 Darren Andrews,NWE,2018.0,AndrDa01,2018-12-16,Injured Reserve,PIT,Knee,15,
 Darren Andrews,NWE,2018.0,AndrDa01,2018-12-23,Injured Reserve,BUF,Knee,16,
 Darren Andrews,NWE,2018.0,AndrDa01,2018-12-30,Injured Reserve,NYJ,Knee,17,
-Darren Andrews,NWE,2018.0,AndrDa01,2019-01-13,Injured Reserve,LAC,Knee,,
-Darren Andrews,NWE,2018.0,AndrDa01,2019-01-20,Injured Reserve,KAN,Knee,,
-Darren Andrews,NWE,2018.0,AndrDa01,2019-02-03,Injured Reserve,LAR,Knee,,
 Rex Burkhead,NWE,2018.0,BurkRe00,2018-09-16,Questionable,JAX,Concussion,2,RB
 Rex Burkhead,NWE,2018.0,BurkRe00,2018-09-30,Injured Reserve,MIA,Neck,4,RB
 Rex Burkhead,NWE,2018.0,BurkRe00,2018-10-04,Injured Reserve,IND,Neck,5,RB
@@ -5611,9 +5326,6 @@ Jeremy Hill,NWE,2018.0,HillJe01,2018-12-09,Injured Reserve,MIA,Knee,14,RB
 Jeremy Hill,NWE,2018.0,HillJe01,2018-12-16,Injured Reserve,PIT,Knee,15,RB
 Jeremy Hill,NWE,2018.0,HillJe01,2018-12-23,Injured Reserve,BUF,Knee,16,RB
 Jeremy Hill,NWE,2018.0,HillJe01,2018-12-30,Injured Reserve,NYJ,Knee,17,RB
-Jeremy Hill,NWE,2018.0,HillJe01,2019-01-13,Injured Reserve,LAC,Knee,,RB
-Jeremy Hill,NWE,2018.0,HillJe01,2019-01-20,Injured Reserve,KAN,Knee,,RB
-Jeremy Hill,NWE,2018.0,HillJe01,2019-02-03,Injured Reserve,LAR,Knee,,RB
 Patrick Chung,NWE,2018.0,ChunPa99,2018-09-23,Doubtful,DET,Concussion,3,DB
 Patrick Chung,NWE,2018.0,ChunPa99,2018-09-30,Questionable,MIA,Concussion,4,DB
 Trey Flowers,NWE,2018.0,FlowTr00,2018-09-23,Doubtful,DET,Concussion,3,DE
@@ -5632,9 +5344,6 @@ Eric Rowe,NWE,2018.0,RoweEr00,2018-12-09,Injured Reserve,MIA,Groin,14,CB
 Eric Rowe,NWE,2018.0,RoweEr00,2018-12-16,Injured Reserve,PIT,Groin,15,CB
 Eric Rowe,NWE,2018.0,RoweEr00,2018-12-23,Injured Reserve,BUF,Groin,16,CB
 Eric Rowe,NWE,2018.0,RoweEr00,2018-12-30,Injured Reserve,NYJ,Groin,17,CB
-Eric Rowe,NWE,2018.0,RoweEr00,2019-01-13,Injured Reserve,LAC,Groin,,CB
-Eric Rowe,NWE,2018.0,RoweEr00,2019-01-20,Injured Reserve,KAN,Groin,,CB
-Eric Rowe,NWE,2018.0,RoweEr00,2019-02-03,Injured Reserve,LAR,Groin,,CB
 Ja'Whaun Bentley,NWE,2018.0,BentJa00,2018-09-30,Injured Reserve,MIA,Arm,4,ILB
 Ja'Whaun Bentley,NWE,2018.0,BentJa00,2018-10-04,Injured Reserve,IND,Arm,5,ILB
 Ja'Whaun Bentley,NWE,2018.0,BentJa00,2018-10-14,Injured Reserve,KAN,Arm,6,ILB
@@ -5648,9 +5357,6 @@ Ja'Whaun Bentley,NWE,2018.0,BentJa00,2018-12-09,Injured Reserve,MIA,Arm,14,ILB
 Ja'Whaun Bentley,NWE,2018.0,BentJa00,2018-12-16,Injured Reserve,PIT,Arm,15,ILB
 Ja'Whaun Bentley,NWE,2018.0,BentJa00,2018-12-23,Injured Reserve,BUF,Arm,16,ILB
 Ja'Whaun Bentley,NWE,2018.0,BentJa00,2018-12-30,Injured Reserve,NYJ,Arm,17,ILB
-Ja'Whaun Bentley,NWE,2018.0,BentJa00,2019-01-13,Injured Reserve,LAC,Arm,,ILB
-Ja'Whaun Bentley,NWE,2018.0,BentJa00,2019-01-20,Injured Reserve,KAN,Arm,,ILB
-Ja'Whaun Bentley,NWE,2018.0,BentJa00,2019-02-03,Injured Reserve,LAR,Arm,,ILB
 Geneo Grissom,NWE,2018.0,GrisGe00,2018-09-30,Questionable,MIA,Ankle,4,OLB
 Geneo Grissom,NWE,2018.0,GrisGe00,2018-10-04,Questionable,IND,Ankle,5,OLB
 Geneo Grissom,NWE,2018.0,GrisGe00,2018-10-14,Questionable,KAN,Ankle,6,OLB
@@ -5684,7 +5390,6 @@ Julian Edelman,NWE,2018.0,EdelJu00,2018-10-21,Questionable,CHI,Heel,7,WR
 Julian Edelman,NWE,2018.0,EdelJu00,2018-11-04,Questionable,GNB,Ankle,9,WR
 Deatrich Wise Jr.,NWE,2018.0,WiseDe00,2018-10-21,Questionable,CHI,Ankle,7,DE
 Deatrich Wise Jr.,NWE,2018.0,WiseDe00,2018-10-29,Questionable,BUF,Ankle,8,DE
-Deatrich Wise Jr.,NWE,2018.0,WiseDe00,2019-01-13,Questionable,LAC,Ankle,,DE
 Trent Brown,NWE,2018.0,BrowTr02,2018-10-29,Questionable,BUF,Ankle,8,OT
 Trent Brown,NWE,2018.0,BrowTr02,2018-11-04,Questionable,GNB,Ankle,9,OT
 Trent Brown,NWE,2018.0,BrowTr02,2018-11-11,Questionable,TEN,Illness,10,OT
@@ -5700,9 +5405,6 @@ Brian Schwenke,NWE,2018.0,SchwBr00,2018-12-09,Injured Reserve,MIA,Foot,14,C
 Brian Schwenke,NWE,2018.0,SchwBr00,2018-12-16,Injured Reserve,PIT,Foot,15,C
 Brian Schwenke,NWE,2018.0,SchwBr00,2018-12-23,Injured Reserve,BUF,Foot,16,C
 Brian Schwenke,NWE,2018.0,SchwBr00,2018-12-30,Injured Reserve,NYJ,Foot,17,C
-Brian Schwenke,NWE,2018.0,SchwBr00,2019-01-13,Injured Reserve,LAC,Foot,,C
-Brian Schwenke,NWE,2018.0,SchwBr00,2019-01-20,Injured Reserve,KAN,Foot,,C
-Brian Schwenke,NWE,2018.0,SchwBr00,2019-02-03,Injured Reserve,LAR,Foot,,C
 Joe Cardona,NWE,2018.0,CardJo00,2018-11-04,Questionable,GNB,Shoulder,9,LS
 Nicholas Grigsby,NWE,2018.0,GrigNi01,2018-11-04,Questionable,GNB,Illness,9,LB
 Shaq Mason,NWE,2018.0,MasoSh01,2018-11-04,Out,GNB,Calf,9,G
@@ -6437,8 +6139,6 @@ Elie Bouka,PHI,2018.0,BoukEl00,2018-12-09,Injured Reserve,DAL,Undisclosed,14,
 Elie Bouka,PHI,2018.0,BoukEl00,2018-12-16,Injured Reserve,LAR,Undisclosed,15,
 Elie Bouka,PHI,2018.0,BoukEl00,2018-12-23,Injured Reserve,HOU,Undisclosed,16,
 Elie Bouka,PHI,2018.0,BoukEl00,2018-12-30,Injured Reserve,WAS,Undisclosed,17,
-Elie Bouka,PHI,2018.0,BoukEl00,2019-01-06,Injured Reserve,CHI,Undisclosed,,
-Elie Bouka,PHI,2018.0,BoukEl00,2019-01-13,Injured Reserve,NOR,Undisclosed,,
 Mack Hollins,PHI,2018.0,HollMa00,2018-09-06,Injured Reserve,ATL,Groin,1,WR
 Mack Hollins,PHI,2018.0,HollMa00,2018-09-16,Injured Reserve,TAM,Groin,2,WR
 Mack Hollins,PHI,2018.0,HollMa00,2018-09-23,Injured Reserve,IND,Groin,3,WR
@@ -6455,8 +6155,6 @@ Mack Hollins,PHI,2018.0,HollMa00,2018-12-09,Injured Reserve,DAL,Groin,14,WR
 Mack Hollins,PHI,2018.0,HollMa00,2018-12-16,Injured Reserve,LAR,Groin,15,WR
 Mack Hollins,PHI,2018.0,HollMa00,2018-12-23,Injured Reserve,HOU,Groin,16,WR
 Mack Hollins,PHI,2018.0,HollMa00,2018-12-30,Injured Reserve,WAS,Groin,17,WR
-Mack Hollins,PHI,2018.0,HollMa00,2019-01-06,Injured Reserve,CHI,Groin,,WR
-Mack Hollins,PHI,2018.0,HollMa00,2019-01-13,Injured Reserve,NOR,Groin,,WR
 Alshon Jeffery,PHI,2018.0,JeffAl00,2018-09-06,Out,ATL,Shoulder,1,WR
 Alshon Jeffery,PHI,2018.0,JeffAl00,2018-09-16,Out,TAM,Shoulder,2,WR
 Alshon Jeffery,PHI,2018.0,JeffAl00,2018-09-23,Questionable,IND,Shoulder,3,WR
@@ -6491,8 +6189,6 @@ Chris Maragos,PHI,2018.0,MaraCh99,2018-12-09,Injured Reserve,DAL,Knee,14,
 Chris Maragos,PHI,2018.0,MaraCh99,2018-12-16,Injured Reserve,LAR,Knee,15,
 Chris Maragos,PHI,2018.0,MaraCh99,2018-12-23,Injured Reserve,HOU,Knee,16,
 Chris Maragos,PHI,2018.0,MaraCh99,2018-12-30,Injured Reserve,WAS,Knee,17,
-Chris Maragos,PHI,2018.0,MaraCh99,2019-01-06,Injured Reserve,CHI,Knee,,
-Chris Maragos,PHI,2018.0,MaraCh99,2019-01-13,Injured Reserve,NOR,Knee,,
 Richard Rodgers,PHI,2018.0,RodgRi00,2018-09-06,Injured Reserve,ATL,Knee,1,TE
 Richard Rodgers,PHI,2018.0,RodgRi00,2018-09-16,Injured Reserve,TAM,Knee,2,TE
 Richard Rodgers,PHI,2018.0,RodgRi00,2018-09-23,Injured Reserve,IND,Knee,3,TE
@@ -6518,14 +6214,11 @@ Bryce Treggs,PHI,2018.0,TregBr00,2018-12-09,Injured Reserve,DAL,Undisclosed,14,
 Bryce Treggs,PHI,2018.0,TregBr00,2018-12-16,Injured Reserve,LAR,Undisclosed,15,
 Bryce Treggs,PHI,2018.0,TregBr00,2018-12-23,Injured Reserve,HOU,Undisclosed,16,
 Bryce Treggs,PHI,2018.0,TregBr00,2018-12-30,Injured Reserve,WAS,Undisclosed,17,
-Bryce Treggs,PHI,2018.0,TregBr00,2019-01-06,Injured Reserve,CHI,Undisclosed,,
-Bryce Treggs,PHI,2018.0,TregBr00,2019-01-13,Injured Reserve,NOR,Undisclosed,,
 Carson Wentz,PHI,2018.0,WentCa00,2018-09-06,Out,ATL,Knee,1,QB
 Carson Wentz,PHI,2018.0,WentCa00,2018-09-16,Out,TAM,Knee,2,QB
 Carson Wentz,PHI,2018.0,WentCa00,2018-12-16,Doubtful,LAR,Back,15,QB
 Carson Wentz,PHI,2018.0,WentCa00,2018-12-23,Out,HOU,Back,16,QB
 Carson Wentz,PHI,2018.0,WentCa00,2018-12-30,Out,WAS,Back,17,QB
-Carson Wentz,PHI,2018.0,WentCa00,2019-01-13,Out,NOR,Back,,QB
 Paul Worrilow,PHI,2018.0,WorrPa00,2018-09-06,Injured Reserve,ATL,Knee,1,LB
 Paul Worrilow,PHI,2018.0,WorrPa00,2018-09-16,Injured Reserve,TAM,Knee,2,LB
 Paul Worrilow,PHI,2018.0,WorrPa00,2018-09-23,Injured Reserve,IND,Knee,3,LB
@@ -6542,8 +6235,6 @@ Paul Worrilow,PHI,2018.0,WorrPa00,2018-12-09,Injured Reserve,DAL,Knee,14,LB
 Paul Worrilow,PHI,2018.0,WorrPa00,2018-12-16,Injured Reserve,LAR,Knee,15,LB
 Paul Worrilow,PHI,2018.0,WorrPa00,2018-12-23,Injured Reserve,HOU,Knee,16,LB
 Paul Worrilow,PHI,2018.0,WorrPa00,2018-12-30,Injured Reserve,WAS,Knee,17,LB
-Paul Worrilow,PHI,2018.0,WorrPa00,2019-01-06,Injured Reserve,CHI,Knee,,LB
-Paul Worrilow,PHI,2018.0,WorrPa00,2019-01-13,Injured Reserve,NOR,Knee,,LB
 Adam Zaruba,PHI,2018.0,ZaruAd00,2018-09-06,Injured Reserve,ATL,Undisclosed,1,
 Adam Zaruba,PHI,2018.0,ZaruAd00,2018-09-16,Injured Reserve,TAM,Undisclosed,2,
 Adam Zaruba,PHI,2018.0,ZaruAd00,2018-09-23,Injured Reserve,IND,Undisclosed,3,
@@ -6560,11 +6251,8 @@ Adam Zaruba,PHI,2018.0,ZaruAd00,2018-12-09,Injured Reserve,DAL,Undisclosed,14,
 Adam Zaruba,PHI,2018.0,ZaruAd00,2018-12-16,Injured Reserve,LAR,Undisclosed,15,
 Adam Zaruba,PHI,2018.0,ZaruAd00,2018-12-23,Injured Reserve,HOU,Undisclosed,16,
 Adam Zaruba,PHI,2018.0,ZaruAd00,2018-12-30,Injured Reserve,WAS,Undisclosed,17,
-Adam Zaruba,PHI,2018.0,ZaruAd00,2019-01-06,Injured Reserve,CHI,Undisclosed,,
-Adam Zaruba,PHI,2018.0,ZaruAd00,2019-01-13,Injured Reserve,NOR,Undisclosed,,
 Shelton Gibson,PHI,2018.0,GibsSh00,2018-09-16,Questionable,TAM,Knee,2,WR
 Shelton Gibson,PHI,2018.0,GibsSh00,2018-12-16,Questionable,LAR,Wrist,15,WR
-Shelton Gibson,PHI,2018.0,GibsSh00,2019-01-13,Questionable,NOR,Hamstring,,WR
 Darren Sproles,PHI,2018.0,SproDa00,2018-09-16,Out,TAM,Hamstring,2,RB
 Darren Sproles,PHI,2018.0,SproDa00,2018-09-23,Out,IND,Hamstring,3,RB
 Darren Sproles,PHI,2018.0,SproDa00,2018-09-30,Out,TEN,Hamstring,4,RB
@@ -6591,8 +6279,6 @@ Toby Weathersby,PHI,2018.0,WeatTo00,2018-12-09,Injured Reserve,DAL,Undisclosed,1
 Toby Weathersby,PHI,2018.0,WeatTo00,2018-12-16,Injured Reserve,LAR,Undisclosed,15,
 Toby Weathersby,PHI,2018.0,WeatTo00,2018-12-23,Injured Reserve,HOU,Undisclosed,16,
 Toby Weathersby,PHI,2018.0,WeatTo00,2018-12-30,Injured Reserve,WAS,Undisclosed,17,
-Toby Weathersby,PHI,2018.0,WeatTo00,2019-01-06,Injured Reserve,CHI,Undisclosed,,
-Toby Weathersby,PHI,2018.0,WeatTo00,2019-01-13,Injured Reserve,NOR,Undisclosed,,
 Jay Ajayi,PHI,2018.0,AjayJa00,2018-09-23,Out,IND,Back,3,RB
 Jay Ajayi,PHI,2018.0,AjayJa00,2018-10-11,Injured Reserve,NYG,Knee,6,RB
 Jay Ajayi,PHI,2018.0,AjayJa00,2018-10-21,Injured Reserve,CAR,Knee,7,RB
@@ -6605,20 +6291,15 @@ Jay Ajayi,PHI,2018.0,AjayJa00,2018-12-09,Injured Reserve,DAL,Knee,14,RB
 Jay Ajayi,PHI,2018.0,AjayJa00,2018-12-16,Injured Reserve,LAR,Knee,15,RB
 Jay Ajayi,PHI,2018.0,AjayJa00,2018-12-23,Injured Reserve,HOU,Knee,16,RB
 Jay Ajayi,PHI,2018.0,AjayJa00,2018-12-30,Injured Reserve,WAS,Knee,17,RB
-Jay Ajayi,PHI,2018.0,AjayJa00,2019-01-06,Injured Reserve,CHI,Knee,,RB
-Jay Ajayi,PHI,2018.0,AjayJa00,2019-01-13,Injured Reserve,NOR,Knee,,RB
 Corey Clement,PHI,2018.0,ClemCo00,2018-09-23,Questionable,IND,Quadricep,3,RB
 Corey Clement,PHI,2018.0,ClemCo00,2018-09-30,Questionable,TEN,Quadricep,4,RB
 Corey Clement,PHI,2018.0,ClemCo00,2018-10-07,Questionable,MIN,Quadricep,5,RB
 Corey Clement,PHI,2018.0,ClemCo00,2018-12-16,Injured Reserve,LAR,Knee,15,RB
 Corey Clement,PHI,2018.0,ClemCo00,2018-12-23,Injured Reserve,HOU,Knee,16,RB
 Corey Clement,PHI,2018.0,ClemCo00,2018-12-30,Injured Reserve,WAS,Knee,17,RB
-Corey Clement,PHI,2018.0,ClemCo00,2019-01-06,Injured Reserve,CHI,Knee,,RB
-Corey Clement,PHI,2018.0,ClemCo00,2019-01-13,Injured Reserve,NOR,Knee,,RB
 Kamu Grugier-Hill,PHI,2018.0,GrugKa00,2018-09-23,Questionable,IND,Groin,3,OLB
 Jason Peters,PHI,2018.0,PeteJa21,2018-09-23,Questionable,IND,Quadricep,3,T
 Jason Peters,PHI,2018.0,PeteJa21,2018-12-30,Questionable,WAS,Quadricep,17,T
-Jason Peters,PHI,2018.0,PeteJa21,2019-01-13,Questionable,NOR,Quadricep,,T
 Mike Wallace,PHI,2018.0,WallMi00,2018-09-23,Injured Reserve,IND,Shin,3,WR
 Mike Wallace,PHI,2018.0,WallMi00,2018-09-30,Injured Reserve,TEN,Shin,4,WR
 Mike Wallace,PHI,2018.0,WallMi00,2018-10-07,Injured Reserve,MIN,Shin,5,WR
@@ -6633,8 +6314,6 @@ Mike Wallace,PHI,2018.0,WallMi00,2018-12-09,Injured Reserve,DAL,Shin,14,WR
 Mike Wallace,PHI,2018.0,WallMi00,2018-12-16,Injured Reserve,LAR,Shin,15,WR
 Mike Wallace,PHI,2018.0,WallMi00,2018-12-23,Injured Reserve,HOU,Shin,16,WR
 Mike Wallace,PHI,2018.0,WallMi00,2018-12-30,Out,WAS,Ankle,17,WR
-Mike Wallace,PHI,2018.0,WallMi00,2019-01-06,Injured Reserve,CHI,Shin,,WR
-Mike Wallace,PHI,2018.0,WallMi00,2019-01-13,Questionable,NOR,Ankle,,WR
 Rodney McLeod,PHI,2018.0,McLeRo00,2018-09-30,Injured Reserve,TEN,Knee,4,S
 Rodney McLeod,PHI,2018.0,McLeRo00,2018-10-07,Injured Reserve,MIN,Knee,5,S
 Rodney McLeod,PHI,2018.0,McLeRo00,2018-10-11,Injured Reserve,NYG,Knee,6,S
@@ -6648,8 +6327,6 @@ Rodney McLeod,PHI,2018.0,McLeRo00,2018-12-09,Injured Reserve,DAL,Knee,14,S
 Rodney McLeod,PHI,2018.0,McLeRo00,2018-12-16,Injured Reserve,LAR,Knee,15,S
 Rodney McLeod,PHI,2018.0,McLeRo00,2018-12-23,Injured Reserve,HOU,Knee,16,S
 Rodney McLeod,PHI,2018.0,McLeRo00,2018-12-30,Injured Reserve,WAS,Knee,17,S
-Rodney McLeod,PHI,2018.0,McLeRo00,2019-01-06,Injured Reserve,CHI,Knee,,S
-Rodney McLeod,PHI,2018.0,McLeRo00,2019-01-13,Injured Reserve,NOR,Knee,,S
 Derek Barnett,PHI,2018.0,BarnDe01,2018-10-07,Out,MIN,Shoulder,5,DE
 Derek Barnett,PHI,2018.0,BarnDe01,2018-10-28,Injured Reserve,JAX,Shoulder,8,DE
 Derek Barnett,PHI,2018.0,BarnDe01,2018-11-11,Injured Reserve,DAL,Shoulder,10,DE
@@ -6660,8 +6337,6 @@ Derek Barnett,PHI,2018.0,BarnDe01,2018-12-09,Injured Reserve,DAL,Shoulder,14,DE
 Derek Barnett,PHI,2018.0,BarnDe01,2018-12-16,Injured Reserve,LAR,Shoulder,15,DE
 Derek Barnett,PHI,2018.0,BarnDe01,2018-12-23,Injured Reserve,HOU,Shoulder,16,DE
 Derek Barnett,PHI,2018.0,BarnDe01,2018-12-30,Injured Reserve,WAS,Shoulder,17,DE
-Derek Barnett,PHI,2018.0,BarnDe01,2019-01-06,Injured Reserve,CHI,Shoulder,,DE
-Derek Barnett,PHI,2018.0,BarnDe01,2019-01-13,Injured Reserve,NOR,Shoulder,,DE
 Haloti Ngata,PHI,2018.0,NgatHa20,2018-10-07,Questionable,MIN,Calf,5,DT
 Haloti Ngata,PHI,2018.0,NgatHa20,2018-10-11,Out,NYG,Calf,6,DT
 Haloti Ngata,PHI,2018.0,NgatHa20,2018-10-21,Questionable,CAR,Calf,7,DT
@@ -6671,7 +6346,6 @@ D.J. Alexander,PHI,2018.0,AlexD.00,2018-10-11,Out,NYG,Quadricep,6,OLB
 D.J. Alexander,PHI,2018.0,AlexD.00,2018-10-21,Out,CAR,Quadricep,7,OLB
 D.J. Alexander,PHI,2018.0,AlexD.00,2018-12-23,Questionable,HOU,Hamstring,16,OLB
 D.J. Alexander,PHI,2018.0,AlexD.00,2018-12-30,Out,WAS,Hamstring,17,OLB
-D.J. Alexander,PHI,2018.0,AlexD.00,2019-01-13,Questionable,NOR,Hamstring,,OLB
 Corey Graham,PHI,2018.0,GrahCo99,2018-10-11,Out,NYG,Hamstring,6,DB
 Corey Graham,PHI,2018.0,GrahCo99,2018-10-21,Out,CAR,Hamstring,7,DB
 Corey Graham,PHI,2018.0,GrahCo99,2018-10-28,Out,JAX,Hamstring,8,DB
@@ -6685,7 +6359,6 @@ Sidney Jones,PHI,2018.0,JoneSi00,2018-11-25,Out,NYG,Hamstring,12,CB
 Sidney Jones,PHI,2018.0,JoneSi00,2018-12-16,Out,LAR,Hamstring,15,CB
 Sidney Jones,PHI,2018.0,JoneSi00,2018-12-23,Out,HOU,Hamstring,16,CB
 Sidney Jones,PHI,2018.0,JoneSi00,2018-12-30,Out,WAS,Hamstring,17,CB
-Sidney Jones,PHI,2018.0,JoneSi00,2019-01-13,Questionable,NOR,Hamstring,,CB
 Destiny Vaeao,PHI,2018.0,VaeaDe01,2018-10-21,Injured Reserve,CAR,Undisclosed,7,DT
 Destiny Vaeao,PHI,2018.0,VaeaDe01,2018-10-28,Injured Reserve,JAX,Undisclosed,8,DT
 Destiny Vaeao,PHI,2018.0,VaeaDe01,2018-11-11,Injured Reserve,DAL,Undisclosed,10,DT
@@ -6696,8 +6369,6 @@ Destiny Vaeao,PHI,2018.0,VaeaDe01,2018-12-09,Injured Reserve,DAL,Undisclosed,14,
 Destiny Vaeao,PHI,2018.0,VaeaDe01,2018-12-16,Injured Reserve,LAR,Undisclosed,15,DT
 Destiny Vaeao,PHI,2018.0,VaeaDe01,2018-12-23,Injured Reserve,HOU,Undisclosed,16,DT
 Destiny Vaeao,PHI,2018.0,VaeaDe01,2018-12-30,Injured Reserve,WAS,Undisclosed,17,DT
-Destiny Vaeao,PHI,2018.0,VaeaDe01,2019-01-06,Injured Reserve,CHI,Undisclosed,,DT
-Destiny Vaeao,PHI,2018.0,VaeaDe01,2019-01-13,Injured Reserve,NOR,Undisclosed,,DT
 Jalen Mills,PHI,2018.0,MillJa02,2018-11-11,Injured Reserve,DAL,Foot,10,CB
 Jalen Mills,PHI,2018.0,MillJa02,2018-11-18,Injured Reserve,NOR,Foot,11,CB
 Jalen Mills,PHI,2018.0,MillJa02,2018-11-25,Injured Reserve,NYG,Foot,12,CB
@@ -6706,14 +6377,10 @@ Jalen Mills,PHI,2018.0,MillJa02,2018-12-09,Out,DAL,Foot,14,CB
 Jalen Mills,PHI,2018.0,MillJa02,2018-12-16,Injured Reserve,LAR,Foot,15,CB
 Jalen Mills,PHI,2018.0,MillJa02,2018-12-23,Injured Reserve,HOU,Foot,16,CB
 Jalen Mills,PHI,2018.0,MillJa02,2018-12-30,Injured Reserve,WAS,Foot,17,CB
-Jalen Mills,PHI,2018.0,MillJa02,2019-01-06,Injured Reserve,CHI,Foot,,CB
-Jalen Mills,PHI,2018.0,MillJa02,2019-01-13,Injured Reserve,NOR,Foot,,CB
 Josh Sweat,PHI,2018.0,SweaJo00,2018-11-11,Questionable,DAL,Hip,10,DE
 Josh Sweat,PHI,2018.0,SweaJo00,2018-12-16,Injured Reserve,LAR,Ankle,15,DE
 Josh Sweat,PHI,2018.0,SweaJo00,2018-12-23,Injured Reserve,HOU,Ankle,16,DE
 Josh Sweat,PHI,2018.0,SweaJo00,2018-12-30,Injured Reserve,WAS,Ankle,17,DE
-Josh Sweat,PHI,2018.0,SweaJo00,2019-01-06,Injured Reserve,CHI,Ankle,,DE
-Josh Sweat,PHI,2018.0,SweaJo00,2019-01-13,Injured Reserve,NOR,Ankle,,DE
 Ronald Darby,PHI,2018.0,DarbRo00,2018-11-18,Out,NOR,Knee,11,CB
 Ronald Darby,PHI,2018.0,DarbRo00,2018-11-25,Injured Reserve,NYG,Knee,12,CB
 Ronald Darby,PHI,2018.0,DarbRo00,2018-12-03,Injured Reserve,WAS,Knee,13,CB
@@ -6721,8 +6388,6 @@ Ronald Darby,PHI,2018.0,DarbRo00,2018-12-09,Injured Reserve,DAL,Knee,14,CB
 Ronald Darby,PHI,2018.0,DarbRo00,2018-12-16,Injured Reserve,LAR,Knee,15,CB
 Ronald Darby,PHI,2018.0,DarbRo00,2018-12-23,Injured Reserve,HOU,Knee,16,CB
 Ronald Darby,PHI,2018.0,DarbRo00,2018-12-30,Injured Reserve,WAS,Knee,17,CB
-Ronald Darby,PHI,2018.0,DarbRo00,2019-01-06,Injured Reserve,CHI,Knee,,CB
-Ronald Darby,PHI,2018.0,DarbRo00,2019-01-13,Injured Reserve,NOR,Knee,,CB
 Joshua Perkins,PHI,2018.0,PerkJo02,2018-11-18,Out,NOR,Knee,11,TE
 Joshua Perkins,PHI,2018.0,PerkJo02,2018-11-25,Injured Reserve,NYG,Knee,12,TE
 Joshua Perkins,PHI,2018.0,PerkJo02,2018-12-03,Injured Reserve,WAS,Knee,13,TE
@@ -6730,8 +6395,6 @@ Joshua Perkins,PHI,2018.0,PerkJo02,2018-12-09,Injured Reserve,DAL,Knee,14,TE
 Joshua Perkins,PHI,2018.0,PerkJo02,2018-12-16,Injured Reserve,LAR,Knee,15,TE
 Joshua Perkins,PHI,2018.0,PerkJo02,2018-12-23,Injured Reserve,HOU,Knee,16,TE
 Joshua Perkins,PHI,2018.0,PerkJo02,2018-12-30,Injured Reserve,WAS,Knee,17,TE
-Joshua Perkins,PHI,2018.0,PerkJo02,2019-01-06,Injured Reserve,CHI,Knee,,TE
-Joshua Perkins,PHI,2018.0,PerkJo02,2019-01-13,Injured Reserve,NOR,Knee,,TE
 Rasul Douglas,PHI,2018.0,DougRa00,2018-11-25,Questionable,NYG,Knee,12,CB
 Jordan Hicks,PHI,2018.0,HickJo00,2018-11-25,Out,NYG,Calf,12,OLB
 Jordan Hicks,PHI,2018.0,HickJo00,2018-12-03,Out,WAS,Calf,13,OLB
@@ -6748,12 +6411,9 @@ Michael Bennett,PHI,2018.0,BennMi99,2018-12-09,Questionable,DAL,Foot,14,DE
 Michael Bennett,PHI,2018.0,BennMi99,2018-12-16,Questionable,LAR,Foot,15,DE
 Michael Bennett,PHI,2018.0,BennMi99,2018-12-23,Questionable,HOU,Foot,16,DE
 Michael Bennett,PHI,2018.0,BennMi99,2018-12-30,Questionable,WAS,Foot,17,DE
-Michael Bennett,PHI,2018.0,BennMi99,2019-01-13,Questionable,NOR,Foot,,DE
 Jordan Mailata,PHI,2018.0,MailJo00,2018-12-16,Injured Reserve,LAR,Back,15,T
 Jordan Mailata,PHI,2018.0,MailJo00,2018-12-23,Injured Reserve,HOU,Back,16,T
 Jordan Mailata,PHI,2018.0,MailJo00,2018-12-30,Injured Reserve,WAS,Back,17,T
-Jordan Mailata,PHI,2018.0,MailJo00,2019-01-06,Injured Reserve,CHI,Back,,T
-Jordan Mailata,PHI,2018.0,MailJo00,2019-01-13,Injured Reserve,NOR,Back,,T
 Isaac Seumalo,PHI,2018.0,SeumIs00,2018-12-16,Out,LAR,Pectoral,15,OG
 Isaac Seumalo,PHI,2018.0,SeumIs00,2018-12-23,Out,HOU,Pectoral,16,OG
 Isaac Seumalo,PHI,2018.0,SeumIs00,2018-12-30,Out,WAS,Pectoral,17,OG
@@ -6979,7 +6639,6 @@ Kam Chancellor,SEA,2018.0,ChanKa99,2018-12-10,Injured Reserve,MIN,Neck,14,
 Kam Chancellor,SEA,2018.0,ChanKa99,2018-12-16,Injured Reserve,SFO,Neck,15,
 Kam Chancellor,SEA,2018.0,ChanKa99,2018-12-23,Injured Reserve,KAN,Neck,16,
 Kam Chancellor,SEA,2018.0,ChanKa99,2018-12-30,Injured Reserve,ARI,Neck,17,
-Kam Chancellor,SEA,2018.0,ChanKa99,2019-01-05,Injured Reserve,DAL,Neck,,
 Austin Davis,SEA,2018.0,DaviAu00,2018-09-09,Injured Reserve,DEN,Undisclosed,1,
 Austin Davis,SEA,2018.0,DaviAu00,2018-09-17,Injured Reserve,CHI,Undisclosed,2,
 Austin Davis,SEA,2018.0,DaviAu00,2018-09-23,Injured Reserve,DAL,Undisclosed,3,
@@ -6996,7 +6655,6 @@ Austin Davis,SEA,2018.0,DaviAu00,2018-12-10,Injured Reserve,MIN,Undisclosed,14,
 Austin Davis,SEA,2018.0,DaviAu00,2018-12-16,Injured Reserve,SFO,Undisclosed,15,
 Austin Davis,SEA,2018.0,DaviAu00,2018-12-23,Injured Reserve,KAN,Undisclosed,16,
 Austin Davis,SEA,2018.0,DaviAu00,2018-12-30,Injured Reserve,ARI,Undisclosed,17,
-Austin Davis,SEA,2018.0,DaviAu00,2019-01-05,Injured Reserve,DAL,Undisclosed,,
 Ed Dickson,SEA,2018.0,DickEd00,2018-09-09,Injured Reserve,DEN,Groin,1,TE
 Ed Dickson,SEA,2018.0,DickEd00,2018-09-17,Injured Reserve,CHI,Groin,2,TE
 Ed Dickson,SEA,2018.0,DickEd00,2018-09-23,Injured Reserve,DAL,Groin,3,TE
@@ -7026,7 +6684,6 @@ Dontae Johnson,SEA,2018.0,JohnDo02,2018-12-10,Injured Reserve,MIN,Foot,14,FS
 Dontae Johnson,SEA,2018.0,JohnDo02,2018-12-16,Injured Reserve,SFO,Foot,15,FS
 Dontae Johnson,SEA,2018.0,JohnDo02,2018-12-23,Injured Reserve,KAN,Foot,16,FS
 Dontae Johnson,SEA,2018.0,JohnDo02,2018-12-30,Injured Reserve,ARI,Foot,17,FS
-Dontae Johnson,SEA,2018.0,JohnDo02,2019-01-05,Injured Reserve,DAL,Foot,,FS
 Jamarco Jones,SEA,2018.0,JoneJa08,2018-09-09,Injured Reserve,DEN,Ankle,1,OT
 Jamarco Jones,SEA,2018.0,JoneJa08,2018-09-17,Injured Reserve,CHI,Ankle,2,OT
 Jamarco Jones,SEA,2018.0,JoneJa08,2018-09-23,Injured Reserve,DAL,Ankle,3,OT
@@ -7043,7 +6700,6 @@ Jamarco Jones,SEA,2018.0,JoneJa08,2018-12-10,Injured Reserve,MIN,Ankle,14,OT
 Jamarco Jones,SEA,2018.0,JoneJa08,2018-12-16,Injured Reserve,SFO,Ankle,15,OT
 Jamarco Jones,SEA,2018.0,JoneJa08,2018-12-23,Injured Reserve,KAN,Ankle,16,OT
 Jamarco Jones,SEA,2018.0,JoneJa08,2018-12-30,Injured Reserve,ARI,Ankle,17,OT
-Jamarco Jones,SEA,2018.0,JoneJa08,2019-01-05,Injured Reserve,DAL,Ankle,,OT
 Byron Maxwell,SEA,2018.0,MaxwBy00,2018-09-09,Injured Reserve,DEN,Hip,1,
 Byron Maxwell,SEA,2018.0,MaxwBy00,2018-09-17,Injured Reserve,CHI,Hip,2,
 Byron Maxwell,SEA,2018.0,MaxwBy00,2018-09-23,Injured Reserve,DAL,Hip,3,
@@ -7060,7 +6716,6 @@ Byron Maxwell,SEA,2018.0,MaxwBy00,2018-12-10,Injured Reserve,MIN,Hip,14,
 Byron Maxwell,SEA,2018.0,MaxwBy00,2018-12-16,Injured Reserve,SFO,Hip,15,
 Byron Maxwell,SEA,2018.0,MaxwBy00,2018-12-23,Injured Reserve,KAN,Hip,16,
 Byron Maxwell,SEA,2018.0,MaxwBy00,2018-12-30,Injured Reserve,ARI,Hip,17,
-Byron Maxwell,SEA,2018.0,MaxwBy00,2019-01-05,Injured Reserve,DAL,Hip,,
 Malik McDowell,SEA,2018.0,McDoMa00,2018-09-09,Injured Reserve,DEN,Head,1,
 Malik McDowell,SEA,2018.0,McDoMa00,2018-09-17,Injured Reserve,CHI,Head,2,
 Malik McDowell,SEA,2018.0,McDoMa00,2018-09-23,Injured Reserve,DAL,Head,3,
@@ -7077,7 +6732,6 @@ Malik McDowell,SEA,2018.0,McDoMa00,2018-12-10,Injured Reserve,MIN,Head,14,
 Malik McDowell,SEA,2018.0,McDoMa00,2018-12-16,Injured Reserve,SFO,Head,15,
 Malik McDowell,SEA,2018.0,McDoMa00,2018-12-23,Injured Reserve,KAN,Head,16,
 Malik McDowell,SEA,2018.0,McDoMa00,2018-12-30,Injured Reserve,ARI,Head,17,
-Malik McDowell,SEA,2018.0,McDoMa00,2019-01-05,Injured Reserve,DAL,Head,,
 J.D. McKissic,SEA,2018.0,McKiJ.00,2018-09-09,Injured Reserve,DEN,Foot,1,WR
 J.D. McKissic,SEA,2018.0,McKiJ.00,2018-09-17,Injured Reserve,CHI,Foot,2,WR
 J.D. McKissic,SEA,2018.0,McKiJ.00,2018-09-23,Injured Reserve,DAL,Foot,3,WR
@@ -7105,7 +6759,6 @@ Erik Walden,SEA,2018.0,WaldEr99,2018-12-10,Injured Reserve,MIN,Hip,14,
 Erik Walden,SEA,2018.0,WaldEr99,2018-12-16,Injured Reserve,SFO,Hip,15,
 Erik Walden,SEA,2018.0,WaldEr99,2018-12-23,Injured Reserve,KAN,Hip,16,
 Erik Walden,SEA,2018.0,WaldEr99,2018-12-30,Injured Reserve,ARI,Hip,17,
-Erik Walden,SEA,2018.0,WaldEr99,2019-01-05,Injured Reserve,DAL,Hip,,
 K.J. Wright,SEA,2018.0,WrigK.00,2018-09-09,Out,DEN,Knee,1,LB
 K.J. Wright,SEA,2018.0,WrigK.00,2018-09-17,Out,CHI,Knee,2,LB
 K.J. Wright,SEA,2018.0,WrigK.00,2018-09-23,Out,DAL,Knee,3,LB
@@ -7134,7 +6787,6 @@ Ricky Ali'ifua,SEA,2018.0,AliiRi00,2018-12-10,Injured Reserve,MIN,Concussion,14,
 Ricky Ali'ifua,SEA,2018.0,AliiRi00,2018-12-16,Injured Reserve,SFO,Concussion,15,
 Ricky Ali'ifua,SEA,2018.0,AliiRi00,2018-12-23,Injured Reserve,KAN,Concussion,16,
 Ricky Ali'ifua,SEA,2018.0,AliiRi00,2018-12-30,Injured Reserve,ARI,Concussion,17,
-Ricky Ali'ifua,SEA,2018.0,AliiRi00,2019-01-05,Injured Reserve,DAL,Concussion,,
 Doug Baldwin,SEA,2018.0,BaldDo00,2018-09-17,Out,CHI,Knee,2,WR
 Doug Baldwin,SEA,2018.0,BaldDo00,2018-09-23,Out,DAL,Knee,3,WR
 Doug Baldwin,SEA,2018.0,BaldDo00,2018-09-30,Questionable,ARI,Knee,4,WR
@@ -7156,7 +6808,6 @@ Emmanuel Beal,SEA,2018.0,BealEm00,2018-12-10,Injured Reserve,MIN,Undisclosed,14,
 Emmanuel Beal,SEA,2018.0,BealEm00,2018-12-16,Injured Reserve,SFO,Undisclosed,15,
 Emmanuel Beal,SEA,2018.0,BealEm00,2018-12-23,Injured Reserve,KAN,Undisclosed,16,
 Emmanuel Beal,SEA,2018.0,BealEm00,2018-12-30,Injured Reserve,ARI,Undisclosed,17,
-Emmanuel Beal,SEA,2018.0,BealEm00,2019-01-05,Injured Reserve,DAL,Undisclosed,,
 Amara Darboh,SEA,2018.0,DarbAm00,2018-09-17,Injured Reserve,CHI,Knee,2,
 Amara Darboh,SEA,2018.0,DarbAm00,2018-09-23,Injured Reserve,DAL,Knee,3,
 Amara Darboh,SEA,2018.0,DarbAm00,2018-09-30,Injured Reserve,ARI,Knee,4,
@@ -7172,7 +6823,6 @@ Amara Darboh,SEA,2018.0,DarbAm00,2018-12-10,Injured Reserve,MIN,Knee,14,
 Amara Darboh,SEA,2018.0,DarbAm00,2018-12-16,Injured Reserve,SFO,Knee,15,
 Amara Darboh,SEA,2018.0,DarbAm00,2018-12-23,Injured Reserve,KAN,Knee,16,
 Amara Darboh,SEA,2018.0,DarbAm00,2018-12-30,Injured Reserve,ARI,Knee,17,
-Amara Darboh,SEA,2018.0,DarbAm00,2019-01-05,Injured Reserve,DAL,Knee,,
 Tre Flowers,SEA,2018.0,FlowTr01,2018-09-17,Doubtful,CHI,Hamstring,2,SS
 Shaquill Griffin,SEA,2018.0,GrifSh00,2018-09-17,Questionable,CHI,Thigh,2,DB
 Shaquill Griffin,SEA,2018.0,GrifSh00,2018-12-23,Questionable,KAN,Hip,16,DB
@@ -7191,11 +6841,9 @@ Khalid Hill,SEA,2018.0,HillKh00,2018-12-10,Injured Reserve,MIN,Shoulder,14,
 Khalid Hill,SEA,2018.0,HillKh00,2018-12-16,Injured Reserve,SFO,Shoulder,15,
 Khalid Hill,SEA,2018.0,HillKh00,2018-12-23,Injured Reserve,KAN,Shoulder,16,
 Khalid Hill,SEA,2018.0,HillKh00,2018-12-30,Injured Reserve,ARI,Shoulder,17,
-Khalid Hill,SEA,2018.0,HillKh00,2019-01-05,Injured Reserve,DAL,Shoulder,,
 Lano Hill,SEA,2018.0,HillDe02,2018-09-17,Doubtful,CHI,Hamstring,2,FS
 Lano Hill,SEA,2018.0,HillDe02,2018-09-30,Questionable,ARI,Hamstring,4,FS
 Lano Hill,SEA,2018.0,HillDe02,2018-11-15,Questionable,GNB,Quadricep,11,FS
-Lano Hill,SEA,2018.0,HillDe02,2019-01-05,Injured Reserve,DAL,Hip,,FS
 T.J. Mutcherson,SEA,2018.0,MutcT.00,2018-09-17,Injured Reserve,CHI,Knee,2,
 T.J. Mutcherson,SEA,2018.0,MutcT.00,2018-09-23,Injured Reserve,DAL,Knee,3,
 T.J. Mutcherson,SEA,2018.0,MutcT.00,2018-09-30,Injured Reserve,ARI,Knee,4,
@@ -7211,7 +6859,6 @@ T.J. Mutcherson,SEA,2018.0,MutcT.00,2018-12-10,Injured Reserve,MIN,Knee,14,
 T.J. Mutcherson,SEA,2018.0,MutcT.00,2018-12-16,Injured Reserve,SFO,Knee,15,
 T.J. Mutcherson,SEA,2018.0,MutcT.00,2018-12-23,Injured Reserve,KAN,Knee,16,
 T.J. Mutcherson,SEA,2018.0,MutcT.00,2018-12-30,Injured Reserve,ARI,Knee,17,
-T.J. Mutcherson,SEA,2018.0,MutcT.00,2019-01-05,Injured Reserve,DAL,Knee,,
 Bobby Wagner,SEA,2018.0,WagnBo00,2018-09-17,Out,CHI,Groin,2,ILB
 Justin Britt,SEA,2018.0,BritJu00,2018-09-23,Questionable,DAL,Shoulder,3,OT
 Jermaine Grace,SEA,2018.0,GracJe00,2018-09-23,Injured Reserve,DAL,Undisclosed,3,LB
@@ -7228,12 +6875,10 @@ Jermaine Grace,SEA,2018.0,GracJe00,2018-12-10,Injured Reserve,MIN,Undisclosed,14
 Jermaine Grace,SEA,2018.0,GracJe00,2018-12-16,Injured Reserve,SFO,Undisclosed,15,LB
 Jermaine Grace,SEA,2018.0,GracJe00,2018-12-23,Injured Reserve,KAN,Undisclosed,16,LB
 Jermaine Grace,SEA,2018.0,GracJe00,2018-12-30,Injured Reserve,ARI,Undisclosed,17,LB
-Jermaine Grace,SEA,2018.0,GracJe00,2019-01-05,Injured Reserve,DAL,Undisclosed,,LB
 Mychal Kendricks,SEA,2018.0,KendMy00,2018-09-23,Questionable,DAL,Ankle,3,ILB
 Mychal Kendricks,SEA,2018.0,KendMy00,2018-12-16,Injured Reserve,SFO,Knee,15,ILB
 Mychal Kendricks,SEA,2018.0,KendMy00,2018-12-23,Injured Reserve,KAN,Knee,16,ILB
 Mychal Kendricks,SEA,2018.0,KendMy00,2018-12-30,Injured Reserve,ARI,Knee,17,ILB
-Mychal Kendricks,SEA,2018.0,KendMy00,2019-01-05,Injured Reserve,DAL,Knee,,ILB
 Ethan Pocic,SEA,2018.0,PociEt00,2018-09-23,Out,DAL,Ankle,3,C
 Ethan Pocic,SEA,2018.0,PociEt00,2018-09-30,Doubtful,ARI,Ankle,4,C
 Ethan Pocic,SEA,2018.0,PociEt00,2018-10-07,Questionable,LAR,Ankle,5,C
@@ -7254,7 +6899,6 @@ C.J. Prosise,SEA,2018.0,ProsC.00,2018-12-10,Injured Reserve,MIN,Abdominal,14,RB
 C.J. Prosise,SEA,2018.0,ProsC.00,2018-12-16,Injured Reserve,SFO,Abdominal,15,RB
 C.J. Prosise,SEA,2018.0,ProsC.00,2018-12-23,Injured Reserve,KAN,Abdominal,16,RB
 C.J. Prosise,SEA,2018.0,ProsC.00,2018-12-30,Injured Reserve,ARI,Abdominal,17,RB
-C.J. Prosise,SEA,2018.0,ProsC.00,2019-01-05,Injured Reserve,DAL,Abdominal,,RB
 Frank Clark,SEA,2018.0,ClarFr01,2018-10-07,Questionable,LAR,Illness,5,DE
 Will Dissly,SEA,2018.0,DissWi00,2018-10-07,Injured Reserve,LAR,Knee,5,TE
 Will Dissly,SEA,2018.0,DissWi00,2018-10-14,Injured Reserve,OAK,Knee,6,TE
@@ -7268,7 +6912,6 @@ Will Dissly,SEA,2018.0,DissWi00,2018-12-10,Injured Reserve,MIN,Knee,14,TE
 Will Dissly,SEA,2018.0,DissWi00,2018-12-16,Injured Reserve,SFO,Knee,15,TE
 Will Dissly,SEA,2018.0,DissWi00,2018-12-23,Injured Reserve,KAN,Knee,16,TE
 Will Dissly,SEA,2018.0,DissWi00,2018-12-30,Injured Reserve,ARI,Knee,17,TE
-Will Dissly,SEA,2018.0,DissWi00,2019-01-05,Injured Reserve,DAL,Knee,,TE
 Earl Thomas,SEA,2018.0,ThomEa99,2018-10-07,Injured Reserve,LAR,Holdout,5,DB
 Earl Thomas,SEA,2018.0,ThomEa99,2018-10-14,Injured Reserve,OAK,Holdout,6,DB
 Earl Thomas,SEA,2018.0,ThomEa99,2018-10-28,Injured Reserve,DET,Holdout,8,DB
@@ -7281,14 +6924,12 @@ Earl Thomas,SEA,2018.0,ThomEa99,2018-12-10,Injured Reserve,MIN,Holdout,14,DB
 Earl Thomas,SEA,2018.0,ThomEa99,2018-12-16,Injured Reserve,SFO,Holdout,15,DB
 Earl Thomas,SEA,2018.0,ThomEa99,2018-12-23,Injured Reserve,KAN,Holdout,16,DB
 Earl Thomas,SEA,2018.0,ThomEa99,2018-12-30,Injured Reserve,ARI,Holdout,17,DB
-Earl Thomas,SEA,2018.0,ThomEa99,2019-01-05,Injured Reserve,DAL,Holdout,,DB
 Nick Vannett,SEA,2018.0,VannNi00,2018-10-14,Questionable,OAK,Back,6,TE
 Jordan Simmons,SEA,2018.0,SimmJo00,2018-10-28,Doubtful,DET,Calf,8,G
 Jordan Simmons,SEA,2018.0,SimmJo00,2018-11-04,Doubtful,LAC,Calf,9,G
 Jordan Simmons,SEA,2018.0,SimmJo00,2018-11-11,Questionable,LAR,Calf,10,G
 Jordan Simmons,SEA,2018.0,SimmJo00,2018-12-23,Injured Reserve,KAN,Knee,16,G
 Jordan Simmons,SEA,2018.0,SimmJo00,2018-12-30,Injured Reserve,ARI,Knee,17,G
-Jordan Simmons,SEA,2018.0,SimmJo00,2019-01-05,Injured Reserve,DAL,Knee,,G
 Neiko Thorpe,SEA,2018.0,ThorNe00,2018-10-28,Doubtful,DET,Groin,8,DB
 Neiko Thorpe,SEA,2018.0,ThorNe00,2018-11-04,Doubtful,LAC,Groin,9,DB
 Neiko Thorpe,SEA,2018.0,ThorNe00,2018-11-11,Doubtful,LAR,Groin,10,DB
@@ -7302,7 +6943,6 @@ T.J. Green,SEA,2018.0,GreeT.00,2018-12-10,Injured Reserve,MIN,Personal,14,FS
 T.J. Green,SEA,2018.0,GreeT.00,2018-12-16,Injured Reserve,SFO,Personal,15,FS
 T.J. Green,SEA,2018.0,GreeT.00,2018-12-23,Injured Reserve,KAN,Personal,16,FS
 T.J. Green,SEA,2018.0,GreeT.00,2018-12-30,Injured Reserve,ARI,Personal,17,FS
-T.J. Green,SEA,2018.0,GreeT.00,2019-01-05,Injured Reserve,DAL,Personal,,FS
 Bradley McDougald,SEA,2018.0,McDoBr01,2018-11-04,Questionable,LAC,Knee,9,FS
 Bradley McDougald,SEA,2018.0,McDoBr01,2018-11-11,Questionable,LAR,Knee,10,FS
 Bradley McDougald,SEA,2018.0,McDoBr01,2018-12-16,Questionable,SFO,Knee,15,FS
