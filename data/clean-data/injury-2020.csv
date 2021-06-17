@@ -17,18 +17,18 @@ Kylie Fitts,ARI,2020.0,/players/F/FittKy00,2020-10-25,Questionable,SEA,Hamstring
 Kylie Fitts,ARI,2020.0,/players/F/FittKy00,2020-12-20,Out,PHI,Hamstring,15,DE
 Kylie Fitts,ARI,2020.0,/players/F/FittKy00,2020-12-26,Questionable,SFO,Hamstring,16,DE
 Kylie Fitts,ARI,2020.0,/players/F/FittKy00,2021-01-03,Injured Reserve,LAR,,17,DE
-Jalen Thompson,ARI,2020.0,/players/T/ThomJa04,2020-09-20,Injured Reserve,WAS,,2,
-Jalen Thompson,ARI,2020.0,/players/T/ThomJa04,2020-09-27,Injured Reserve,DET,,3,
-Jalen Thompson,ARI,2020.0,/players/T/ThomJa04,2020-10-04,Injured Reserve,CAR,,4,
-Jalen Thompson,ARI,2020.0,/players/T/ThomJa04,2020-10-11,Injured Reserve,NYJ,,5,
-Jalen Thompson,ARI,2020.0,/players/T/ThomJa04,2020-10-19,Injured Reserve,DAL,,6,
-Jalen Thompson,ARI,2020.0,/players/T/ThomJa04,2020-10-25,Injured Reserve,SEA,,7,
-Jalen Thompson,ARI,2020.0,/players/T/ThomJa04,2020-11-08,Injured Reserve,MIA,,9,
-Jalen Thompson,ARI,2020.0,/players/T/ThomJa04,2020-11-29,Out,NWE,Ankle,12,
-Jalen Thompson,ARI,2020.0,/players/T/ThomJa04,2020-12-06,Out,LAR,Ankle,13,
-Jalen Thompson,ARI,2020.0,/players/T/ThomJa04,2020-12-13,Out,NYG,Ankle,14,
-Jalen Thompson,ARI,2020.0,/players/T/ThomJa04,2020-12-20,Out,PHI,Ankle,15,
-Jalen Thompson,ARI,2020.0,/players/T/ThomJa04,2020-12-26,Questionable,SFO,Ankle,16,
+Jalen Thompson,ARI,2020.0,/players/T/ThomJa04,2020-09-20,Injured Reserve,WAS,,2,S
+Jalen Thompson,ARI,2020.0,/players/T/ThomJa04,2020-09-27,Injured Reserve,DET,,3,S
+Jalen Thompson,ARI,2020.0,/players/T/ThomJa04,2020-10-04,Injured Reserve,CAR,,4,S
+Jalen Thompson,ARI,2020.0,/players/T/ThomJa04,2020-10-11,Injured Reserve,NYJ,,5,S
+Jalen Thompson,ARI,2020.0,/players/T/ThomJa04,2020-10-19,Injured Reserve,DAL,,6,S
+Jalen Thompson,ARI,2020.0,/players/T/ThomJa04,2020-10-25,Injured Reserve,SEA,,7,S
+Jalen Thompson,ARI,2020.0,/players/T/ThomJa04,2020-11-08,Injured Reserve,MIA,,9,S
+Jalen Thompson,ARI,2020.0,/players/T/ThomJa04,2020-11-29,Out,NWE,Ankle,12,S
+Jalen Thompson,ARI,2020.0,/players/T/ThomJa04,2020-12-06,Out,LAR,Ankle,13,S
+Jalen Thompson,ARI,2020.0,/players/T/ThomJa04,2020-12-13,Out,NYG,Ankle,14,S
+Jalen Thompson,ARI,2020.0,/players/T/ThomJa04,2020-12-20,Out,PHI,Ankle,15,S
+Jalen Thompson,ARI,2020.0,/players/T/ThomJa04,2020-12-26,Questionable,SFO,Ankle,16,S
 Maxx Williams,ARI,2020.0,/players/W/WillMa04,2020-09-20,Out,WAS,Ankle,2,TE
 Maxx Williams,ARI,2020.0,/players/W/WillMa04,2020-09-27,Injured Reserve,DET,,3,TE
 Maxx Williams,ARI,2020.0,/players/W/WillMa04,2020-10-04,Injured Reserve,CAR,,4,TE
@@ -2953,7 +2953,7 @@ Eddie Vanderdoes,HOU,2020.0,/players/V/VandEd00,2020-12-13,Injured Reserve,CHI,,
 Eddie Vanderdoes,HOU,2020.0,/players/V/VandEd00,2020-12-20,Injured Reserve,IND,,15,
 Eddie Vanderdoes,HOU,2020.0,/players/V/VandEd00,2020-12-27,Injured Reserve,CIN,,16,
 Eddie Vanderdoes,HOU,2020.0,/players/V/VandEd00,2021-01-03,Injured Reserve,TEN,,17,
-Tytus Howard,HOU,2020.0,/players/H/HowaTy00,2020-09-20,Questionable,BAL,Ankle,2,
+Tytus Howard,HOU,2020.0,/players/H/HowaTy00,2020-09-20,Questionable,BAL,Ankle,2,T
 Duke Johnson,HOU,2020.0,/players/J/JohnDu00,2020-09-20,Questionable,BAL,Ankle,2,RB
 Duke Johnson,HOU,2020.0,/players/J/JohnDu00,2020-09-27,Questionable,PIT,Ankle,3,RB
 Duke Johnson,HOU,2020.0,/players/J/JohnDu00,2020-12-20,Questionable,IND,Neck,15,RB
@@ -3380,11 +3380,11 @@ Dontavius Russell,JAX,2020.0,/players/R/RussDo00,2020-12-13,Injured Reserve,TEN,
 Dontavius Russell,JAX,2020.0,/players/R/RussDo00,2020-12-20,Injured Reserve,BAL,,15,
 Dontavius Russell,JAX,2020.0,/players/R/RussDo00,2020-12-27,Injured Reserve,CHI,,16,
 Dontavius Russell,JAX,2020.0,/players/R/RussDo00,2021-01-03,Injured Reserve,IND,,17,
-Quincy Williams,JAX,2020.0,/players/W/WillQu01,2020-09-13,Injured Reserve,IND,,1,
-Quincy Williams,JAX,2020.0,/players/W/WillQu01,2020-09-20,Injured Reserve,TEN,,2,
-Quincy Williams,JAX,2020.0,/players/W/WillQu01,2020-09-24,Injured Reserve,MIA,,3,
-Quincy Williams,JAX,2020.0,/players/W/WillQu01,2020-10-04,Injured Reserve,CIN,,4,
-Quincy Williams,JAX,2020.0,/players/W/WillQu01,2020-10-11,Injured Reserve,HOU,,5,
+Quincy Williams,JAX,2020.0,/players/W/WillQu01,2020-09-13,Injured Reserve,IND,,1,LB
+Quincy Williams,JAX,2020.0,/players/W/WillQu01,2020-09-20,Injured Reserve,TEN,,2,LB
+Quincy Williams,JAX,2020.0,/players/W/WillQu01,2020-09-24,Injured Reserve,MIA,,3,LB
+Quincy Williams,JAX,2020.0,/players/W/WillQu01,2020-10-04,Injured Reserve,CIN,,4,LB
+Quincy Williams,JAX,2020.0,/players/W/WillQu01,2020-10-11,Injured Reserve,HOU,,5,LB
 Al Woods,JAX,2020.0,/players/W/WoodAl99,2020-09-13,Injured Reserve,IND,,1,
 Al Woods,JAX,2020.0,/players/W/WoodAl99,2020-09-20,Injured Reserve,TEN,,2,
 Al Woods,JAX,2020.0,/players/W/WoodAl99,2020-09-24,Injured Reserve,MIA,,3,
@@ -5173,12 +5173,12 @@ Cody Core,NYG,2020.0,/players/C/CoreCo00,2020-12-13,Injured Reserve,ARI,,14,
 Cody Core,NYG,2020.0,/players/C/CoreCo00,2020-12-20,Injured Reserve,CLE,,15,
 Cody Core,NYG,2020.0,/players/C/CoreCo00,2020-12-27,Injured Reserve,BAL,,16,
 Cody Core,NYG,2020.0,/players/C/CoreCo00,2021-01-03,Injured Reserve,DAL,,17,
-Tae Crowder,NYG,2020.0,/players/C/CrowTa00,2020-09-14,Questionable,PIT,Hamstring,1,
-Tae Crowder,NYG,2020.0,/players/C/CrowTa00,2020-10-22,Injured Reserve,PHI,,7,
-Tae Crowder,NYG,2020.0,/players/C/CrowTa00,2020-11-02,Injured Reserve,TAM,,8,
-Tae Crowder,NYG,2020.0,/players/C/CrowTa00,2020-11-08,Injured Reserve,WAS,,9,
-Tae Crowder,NYG,2020.0,/players/C/CrowTa00,2020-11-15,Injured Reserve,PHI,,10,
-Tae Crowder,NYG,2020.0,/players/C/CrowTa00,2020-11-29,Injured Reserve,CIN,,12,
+Tae Crowder,NYG,2020.0,/players/C/CrowTa00,2020-09-14,Questionable,PIT,Hamstring,1,LB
+Tae Crowder,NYG,2020.0,/players/C/CrowTa00,2020-10-22,Injured Reserve,PHI,,7,LB
+Tae Crowder,NYG,2020.0,/players/C/CrowTa00,2020-11-02,Injured Reserve,TAM,,8,LB
+Tae Crowder,NYG,2020.0,/players/C/CrowTa00,2020-11-08,Injured Reserve,WAS,,9,LB
+Tae Crowder,NYG,2020.0,/players/C/CrowTa00,2020-11-15,Injured Reserve,PHI,,10,LB
+Tae Crowder,NYG,2020.0,/players/C/CrowTa00,2020-11-29,Injured Reserve,CIN,,12,LB
 Jaquarius Landrews,NYG,2020.0,/players/L/LandJa01,2020-09-14,Injured Reserve,PIT,,1,
 Jaquarius Landrews,NYG,2020.0,/players/L/LandJa01,2020-09-20,Injured Reserve,CHI,,2,
 Jaquarius Landrews,NYG,2020.0,/players/L/LandJa01,2020-09-27,Injured Reserve,SFO,,3,

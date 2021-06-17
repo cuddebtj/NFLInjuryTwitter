@@ -248,7 +248,7 @@ Kevin Peterson,ARI,2019.0,/players/P/PeteKe01,2019-12-15,Questionable,CLE,Should
 Kevin Peterson,ARI,2019.0,/players/P/PeteKe01,2019-12-22,Injured Reserve,SEA,,16,CB
 Kevin Peterson,ARI,2019.0,/players/P/PeteKe01,2019-12-29,Injured Reserve,LAR,,17,CB
 A.Q. Shipley,ARI,2019.0,/players/S/ShipA.20,2019-12-08,Questionable,PIT,Illness,14,C
-Jalen Thompson,ARI,2019.0,/players/T/ThomJa04,2019-12-08,Questionable,PIT,Concussion,14,
+Jalen Thompson,ARI,2019.0,/players/T/ThomJa04,2019-12-08,Questionable,PIT,Concussion,14,S
 Rodney Gunter,ARI,2019.0,/players/G/GuntRo00,2019-12-15,Injured Reserve,CLE,,15,DT
 Rodney Gunter,ARI,2019.0,/players/G/GuntRo00,2019-12-22,Injured Reserve,SEA,,16,DT
 Rodney Gunter,ARI,2019.0,/players/G/GuntRo00,2019-12-29,Injured Reserve,LAR,,17,DT
@@ -2597,15 +2597,15 @@ Duke Ejiofor,HOU,2019.0,/players/E/EjioDu00,2019-12-08,Injured Reserve,DEN,,14,
 Duke Ejiofor,HOU,2019.0,/players/E/EjioDu00,2019-12-15,Injured Reserve,TEN,,15,
 Duke Ejiofor,HOU,2019.0,/players/E/EjioDu00,2019-12-21,Injured Reserve,TAM,,16,
 Duke Ejiofor,HOU,2019.0,/players/E/EjioDu00,2019-12-29,Injured Reserve,TEN,,17,
-Tytus Howard,HOU,2019.0,/players/H/HowaTy00,2019-09-09,Questionable,NOR,Finger,1,
-Tytus Howard,HOU,2019.0,/players/H/HowaTy00,2019-10-20,Out,IND,Knee,7,
-Tytus Howard,HOU,2019.0,/players/H/HowaTy00,2019-10-27,Out,OAK,Knee,8,
-Tytus Howard,HOU,2019.0,/players/H/HowaTy00,2019-11-03,Questionable,JAX,Knee,9,
-Tytus Howard,HOU,2019.0,/players/H/HowaTy00,2019-12-01,Doubtful,NWE,Knee,13,
-Tytus Howard,HOU,2019.0,/players/H/HowaTy00,2019-12-08,Injured Reserve,DEN,,14,
-Tytus Howard,HOU,2019.0,/players/H/HowaTy00,2019-12-15,Injured Reserve,TEN,,15,
-Tytus Howard,HOU,2019.0,/players/H/HowaTy00,2019-12-21,Injured Reserve,TAM,,16,
-Tytus Howard,HOU,2019.0,/players/H/HowaTy00,2019-12-29,Injured Reserve,TEN,,17,
+Tytus Howard,HOU,2019.0,/players/H/HowaTy00,2019-09-09,Questionable,NOR,Finger,1,T
+Tytus Howard,HOU,2019.0,/players/H/HowaTy00,2019-10-20,Out,IND,Knee,7,T
+Tytus Howard,HOU,2019.0,/players/H/HowaTy00,2019-10-27,Out,OAK,Knee,8,T
+Tytus Howard,HOU,2019.0,/players/H/HowaTy00,2019-11-03,Questionable,JAX,Knee,9,T
+Tytus Howard,HOU,2019.0,/players/H/HowaTy00,2019-12-01,Doubtful,NWE,Knee,13,T
+Tytus Howard,HOU,2019.0,/players/H/HowaTy00,2019-12-08,Injured Reserve,DEN,,14,T
+Tytus Howard,HOU,2019.0,/players/H/HowaTy00,2019-12-15,Injured Reserve,TEN,,15,T
+Tytus Howard,HOU,2019.0,/players/H/HowaTy00,2019-12-21,Injured Reserve,TAM,,16,T
+Tytus Howard,HOU,2019.0,/players/H/HowaTy00,2019-12-29,Injured Reserve,TEN,,17,T
 Chris Landrum,HOU,2019.0,/players/L/LandCh00,2019-09-09,Injured Reserve,NOR,,1,
 Chris Landrum,HOU,2019.0,/players/L/LandCh00,2019-09-15,Injured Reserve,JAX,,2,
 Chris Landrum,HOU,2019.0,/players/L/LandCh00,2019-09-22,Injured Reserve,LAC,,3,
@@ -3342,11 +3342,11 @@ Najee Goode,JAX,2019.0,/players/G/GoodNa00,2019-12-22,Injured Reserve,ATL,,16,IL
 Najee Goode,JAX,2019.0,/players/G/GoodNa00,2019-12-29,Injured Reserve,IND,,17,ILB
 Leon Jacobs,JAX,2019.0,/players/J/JacoLe00,2019-10-27,Out,NYJ,Hamstring,8,OLB
 Leon Jacobs,JAX,2019.0,/players/J/JacoLe00,2019-11-03,Out,HOU,Hamstring,9,OLB
-Quincy Williams,JAX,2019.0,/players/W/WillQu01,2019-10-27,Out,NYJ,Hamstring,8,
-Quincy Williams,JAX,2019.0,/players/W/WillQu01,2019-11-03,Out,HOU,Hamstring,9,
-Quincy Williams,JAX,2019.0,/players/W/WillQu01,2019-12-15,Injured Reserve,OAK,,15,
-Quincy Williams,JAX,2019.0,/players/W/WillQu01,2019-12-22,Injured Reserve,ATL,,16,
-Quincy Williams,JAX,2019.0,/players/W/WillQu01,2019-12-29,Injured Reserve,IND,,17,
+Quincy Williams,JAX,2019.0,/players/W/WillQu01,2019-10-27,Out,NYJ,Hamstring,8,LB
+Quincy Williams,JAX,2019.0,/players/W/WillQu01,2019-11-03,Out,HOU,Hamstring,9,LB
+Quincy Williams,JAX,2019.0,/players/W/WillQu01,2019-12-15,Injured Reserve,OAK,,15,LB
+Quincy Williams,JAX,2019.0,/players/W/WillQu01,2019-12-22,Injured Reserve,ATL,,16,LB
+Quincy Williams,JAX,2019.0,/players/W/WillQu01,2019-12-29,Injured Reserve,IND,,17,LB
 Seth Devalve,JAX,2019.0,/players/D/DevaSe00,2019-11-17,Doubtful,IND,Oblique,11,TE
 Seth Devalve,JAX,2019.0,/players/D/DevaSe00,2019-11-24,Out,TEN,Oblique,12,TE
 Seth Devalve,JAX,2019.0,/players/D/DevaSe00,2019-12-01,Out,TAM,Oblique,13,TE
@@ -3734,8 +3734,8 @@ Andrew Vollert,LAC,2019.0,/players/V/VollAn00,2019-12-08,Injured Reserve,JAX,,14
 Andrew Vollert,LAC,2019.0,/players/V/VollAn00,2019-12-15,Injured Reserve,MIN,,15,
 Andrew Vollert,LAC,2019.0,/players/V/VollAn00,2019-12-22,Injured Reserve,OAK,,16,
 Andrew Vollert,LAC,2019.0,/players/V/VollAn00,2019-12-29,Injured Reserve,KAN,,17,
-Michael Davis,LAC,2019.0,/players/D/DaviMi03,2019-09-15,Doubtful,DET,Hamstring,2,
-Michael Davis,LAC,2019.0,/players/D/DaviMi03,2019-09-22,Doubtful,HOU,Hamstring,3,
+Michael Davis,LAC,2019.0,/players/D/DaviMi03,2019-09-15,Doubtful,DET,Hamstring,2,CB
+Michael Davis,LAC,2019.0,/players/D/DaviMi03,2019-09-22,Doubtful,HOU,Hamstring,3,CB
 Hunter Henry,LAC,2019.0,/players/H/HenrHu00,2019-09-15,Out,DET,Knee,2,TE
 Hunter Henry,LAC,2019.0,/players/H/HenrHu00,2019-09-22,Out,HOU,Knee,3,TE
 Hunter Henry,LAC,2019.0,/players/H/HenrHu00,2019-09-29,Out,MIA,Knee,4,TE
@@ -5000,17 +5000,17 @@ George Asafo-Adjei,NYG,2019.0,/players/A/AsafGe00,2019-12-09,Injured Reserve,PHI
 George Asafo-Adjei,NYG,2019.0,/players/A/AsafGe00,2019-12-15,Injured Reserve,MIA,,15,
 George Asafo-Adjei,NYG,2019.0,/players/A/AsafGe00,2019-12-22,Injured Reserve,WAS,,16,
 George Asafo-Adjei,NYG,2019.0,/players/A/AsafGe00,2019-12-29,Injured Reserve,PHI,,17,
-Sam Beal,NYG,2019.0,/players/B/BealSa00,2019-09-08,Injured Reserve,DAL,,1,
-Sam Beal,NYG,2019.0,/players/B/BealSa00,2019-09-15,Injured Reserve,BUF,,2,
-Sam Beal,NYG,2019.0,/players/B/BealSa00,2019-09-22,Injured Reserve,TAM,,3,
-Sam Beal,NYG,2019.0,/players/B/BealSa00,2019-09-29,Injured Reserve,WAS,,4,
-Sam Beal,NYG,2019.0,/players/B/BealSa00,2019-10-06,Injured Reserve,MIN,,5,
-Sam Beal,NYG,2019.0,/players/B/BealSa00,2019-10-10,Injured Reserve,NWE,,6,
-Sam Beal,NYG,2019.0,/players/B/BealSa00,2019-10-20,Injured Reserve,ARI,,7,
-Sam Beal,NYG,2019.0,/players/B/BealSa00,2019-10-27,Injured Reserve,DET,,8,
-Sam Beal,NYG,2019.0,/players/B/BealSa00,2019-11-04,Injured Reserve,DAL,,9,
-Sam Beal,NYG,2019.0,/players/B/BealSa00,2019-11-10,Injured Reserve,NYJ,,10,
-Sam Beal,NYG,2019.0,/players/B/BealSa00,2019-12-29,Questionable,PHI,Shoulder,17,
+Sam Beal,NYG,2019.0,/players/B/BealSa00,2019-09-08,Injured Reserve,DAL,,1,CB
+Sam Beal,NYG,2019.0,/players/B/BealSa00,2019-09-15,Injured Reserve,BUF,,2,CB
+Sam Beal,NYG,2019.0,/players/B/BealSa00,2019-09-22,Injured Reserve,TAM,,3,CB
+Sam Beal,NYG,2019.0,/players/B/BealSa00,2019-09-29,Injured Reserve,WAS,,4,CB
+Sam Beal,NYG,2019.0,/players/B/BealSa00,2019-10-06,Injured Reserve,MIN,,5,CB
+Sam Beal,NYG,2019.0,/players/B/BealSa00,2019-10-10,Injured Reserve,NWE,,6,CB
+Sam Beal,NYG,2019.0,/players/B/BealSa00,2019-10-20,Injured Reserve,ARI,,7,CB
+Sam Beal,NYG,2019.0,/players/B/BealSa00,2019-10-27,Injured Reserve,DET,,8,CB
+Sam Beal,NYG,2019.0,/players/B/BealSa00,2019-11-04,Injured Reserve,DAL,,9,CB
+Sam Beal,NYG,2019.0,/players/B/BealSa00,2019-11-10,Injured Reserve,NYJ,,10,CB
+Sam Beal,NYG,2019.0,/players/B/BealSa00,2019-12-29,Questionable,PHI,Shoulder,17,CB
 Corey Coleman,NYG,2019.0,/players/C/ColeCo00,2019-09-08,Injured Reserve,DAL,,1,
 Corey Coleman,NYG,2019.0,/players/C/ColeCo00,2019-09-15,Injured Reserve,BUF,,2,
 Corey Coleman,NYG,2019.0,/players/C/ColeCo00,2019-09-22,Injured Reserve,TAM,,3,
@@ -6125,9 +6125,9 @@ James Conner,PIT,2019.0,/players/C/ConnJa00,2019-12-15,Questionable,BUF,Shoulder
 James Conner,PIT,2019.0,/players/C/ConnJa00,2019-12-29,Out,BAL,Quadricep,17,RB
 Ramon Foster,PIT,2019.0,/players/F/FostRa21,2019-11-03,Out,IND,Concussion,9,T
 Ramon Foster,PIT,2019.0,/players/F/FostRa21,2019-11-10,Out,LAR,Concussion,10,T
-Benny Snell Jr.,PIT,2019.0,/players/S/SnelBe00,2019-11-03,Out,IND,Knee,9,
-Benny Snell Jr.,PIT,2019.0,/players/S/SnelBe00,2019-11-10,Out,LAR,Knee,10,
-Benny Snell Jr.,PIT,2019.0,/players/S/SnelBe00,2019-11-14,Out,CLE,Knee,11,
+Benny Snell Jr.,PIT,2019.0,/players/S/SnelBe00,2019-11-03,Out,IND,Knee,9,RB
+Benny Snell Jr.,PIT,2019.0,/players/S/SnelBe00,2019-11-10,Out,LAR,Knee,10,RB
+Benny Snell Jr.,PIT,2019.0,/players/S/SnelBe00,2019-11-14,Out,CLE,Knee,11,RB
 Ryan Switzer,PIT,2019.0,/players/S/SwitRy00,2019-11-14,Out,CLE,Back,11,WR
 Ryan Switzer,PIT,2019.0,/players/S/SwitRy00,2019-11-24,Injured Reserve,CIN,,12,WR
 Ryan Switzer,PIT,2019.0,/players/S/SwitRy00,2019-12-01,Injured Reserve,CLE,,13,WR
