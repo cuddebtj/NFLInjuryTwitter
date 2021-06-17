@@ -221,7 +221,7 @@ Address,Player,Position,First_Year,Last_Year
 /players/A/AlecCh00,Chas Alecxih,DT,2012,2014
 /players/A/AlexKe20,Keith Alex,G,1993,1993
 /players/A/AlexSt20,Steve Alexakos,G,1970,1971
-/players/A/AlexAd00,Adonis Alexander,,2018,2018
+/players/A/AlexAd00,Adonis Alexander,CB,2018,2018
 /players/A/AlexAl00,Alvester Alexander,RB,2012,2012
 /players/A/AlexBr20,Brent Alexander,DB,1994,2005
 /players/A/AlexBr21,Bruce Alexander,DB,1989,1993
@@ -1415,7 +1415,7 @@ Address,Player,Position,First_Year,Last_Year
 /players/B/BeadZa20,Zane Beadles,T,2010,2018
 /players/B/BealJe00,Jeremy Beal,DL,2012,2012
 /players/B/BealNo20,Norm Beal,DB,1962,1962
-/players/B/BealSa00,Sam Beal,,2019,2019
+/players/B/BealSa00,Sam Beal,CB,2019,2019
 /players/B/BealBi20,Bill Bealles,T,1987,1987
 /players/B/BealAl00,Alyn Beals,E-DE,1946,1951
 /players/B/BealSh20,Shawn Beals,WR,1988,1988
@@ -5162,7 +5162,7 @@ Address,Player,Position,First_Year,Last_Year
 /players/C/CrowEa20,Earl Crowder,BB,1939,1940
 /players/C/CrowJa00,Jamison Crowder,WR,2015,2020
 /players/C/CrowRa20,Randy Crowder,DT-NT-DE,1974,1980
-/players/C/CrowTa00,Tae Crowder,,2020,2020
+/players/C/CrowTa00,Tae Crowder,LB,2020,2020
 /players/C/CrowTi99,Tim Crowder,DE,2007,2011
 /players/C/CrowLa00,Larry Crowe,RB,1972,1975
 /players/C/CrowPa20,Paul Crowe,B,1948,1951
@@ -5603,7 +5603,7 @@ Address,Player,Position,First_Year,Last_Year
 /players/D/DaviLo20,Lorenzo Davis,WR,1990,1990
 /players/D/DaviMa20,Marvin Davis,DE,1966,1966
 /players/D/DaviMa21,Marvin Davis,LB,1974,1974
-/players/D/DaviMi03,Michael Davis,,2017,2020
+/players/D/DaviMi03,Michael Davis,CB,2017,2020
 /players/D/DaviMi20,Mike Davis ,DB,1978,1987
 /players/D/DaviMi21,Mike Davis,DB,1994,1995
 /players/D/DaviMi01,Mike Davis,RB,2015,2020
@@ -11002,7 +11002,7 @@ Address,Player,Position,First_Year,Last_Year
 /players/H/HowaTr01,Travis Howard,CB,2014,2014
 /players/H/HowaTu20,Tubby Howard,E-HB,1921,1922
 /players/H/HowaTy20,Ty Howard,DB,1997,2000
-/players/H/HowaTy00,Tytus Howard,,2019,2020
+/players/H/HowaTy00,Tytus Howard,T,2019,2020
 /players/H/HowaWi00,William Howard,RB,1988,1989
 /players/H/HowaWi20,Willie Howard,DE,2001,2001
 /players/H/HowaXa00,Xavien Howard,CB,2016,2020
@@ -20611,7 +20611,7 @@ Address,Player,Position,First_Year,Last_Year
 /players/S/SabuTi20,Tino Sabuco,C,1949,1949
 /players/S/SaccTo00,Tony Sacca,QB,1992,1992
 /players/S/SaccFr20,Frank Sacco,LB,1987,1987
-/players/S/SachLe20,Lenny Sachs,,1920,1926
+/players/S/SachLe20,Lenny Sachs,DE,1920,1926
 /players/S/SachFr20,Frank Sachse,B,1943,1945
 /players/S/SachJa20,Jack Sachse,C-LB,1945,1945
 /players/S/SackJo20,John Sack,G,1923,1926
@@ -22149,7 +22149,7 @@ Address,Player,Position,First_Year,Last_Year
 /players/S/SmitTo02,Torrey Smith,WR,2011,2018
 /players/S/SmitTr20,Travian Smith,LB,1998,2004
 /players/S/SmitTr03,Tre'Quan Smith,WR,2018,2020
-/players/S/SmitTr04,Tremon Smith,,2018,2020
+/players/S/SmitTr04,Tremon Smith,CB,2018,2020
 /players/S/SmitTr01,Trent Smith,TE,2005,2005
 /players/S/SmitTr00,Troy Smith,WR,1999,1999
 /players/S/SmitTr02,Troy Smith,QB,2007,2010
@@ -22193,7 +22193,7 @@ Address,Player,Position,First_Year,Last_Year
 /players/S/SnedBo20,Bob Sneddon,DB-HB-WB,1944,1946
 /players/S/SneeCh20,Chris Snee,G,2004,2013
 /players/S/SneeLJ00,L'Jarius Sneed,S,2020,2020
-/players/S/SnelBe00,Benny Snell Jr.,,2019,2020
+/players/S/SnelBe00,Benny Snell Jr.,RB,2019,2020
 /players/S/SnelDo20,Donald Snell,WR,1987,1987
 /players/S/SnelGe20,George Snell,B,1926,1927
 /players/S/SnelMa00,Matt Snell,RB,1964,1972
@@ -23637,7 +23637,7 @@ Address,Player,Position,First_Year,Last_Year
 /players/T/ThomHa20,Hal Thompson,E-DE,1947,1948
 /players/T/ThomHa21,Harry Thompson,G,1950,1955
 /players/T/ThomJa00,Jack Thompson,QB,1979,1984
-/players/T/ThomJa04,Jalen Thompson,,2019,2020
+/players/T/ThomJa04,Jalen Thompson,S,2019,2020
 /players/T/ThomJa01,James Thompson,WR,1978,1978
 /players/T/ThomJa21,Jamie Thompson,DB,2006,2006
 /players/T/ThomJe99,Jeremy Thompson,DE,2008,2009
@@ -25781,7 +25781,7 @@ Address,Player,Position,First_Year,Last_Year
 /players/W/WillPo20,Pop Williams,B,1928,1932
 /players/W/WillPr01,Preston Williams,WR,2019,2020
 /players/W/WillPr20,Pryor Williams,G-C,1921,1921
-/players/W/WillQu01,Quincy Williams,,2019,2020
+/players/W/WillQu01,Quincy Williams,LB,2019,2020
 /players/W/WillQu00,Quinnen Williams,DL,2019,2020
 /players/W/WillQu20,Quintin Williams,DB,2004,2004
 /players/W/WillRa03,Raequan Williams,DT,2020,2020
