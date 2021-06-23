@@ -238,22 +238,22 @@ Josh Mauro,ARI,2015.0,/players/M/MaurJo00,2015-12-27,Out,GNB,Calf,16,DE
 Josh Mauro,ARI,2015.0,/players/M/MaurJo00,2016-01-03,Out,SEA,Calf,17,DE
 Carson Palmer,ARI,2015.0,/players/P/PalmCa00,2015-12-27,Probable,GNB,rightFinger,16,QB
 Carson Palmer,ARI,2015.0,/players/P/PalmCa00,2016-01-03,Probable,SEA,rightFinger,17,QB
-Jon Asamoah,ATL,2015.0,/players/A/AsamJo20,2015-09-14,Injured Reserve,PHI,Hip,1,G
-Jon Asamoah,ATL,2015.0,/players/A/AsamJo20,2015-09-20,Injured Reserve,NYG,Hip,2,G
-Jon Asamoah,ATL,2015.0,/players/A/AsamJo20,2015-09-27,Injured Reserve,DAL,Hip,3,G
-Jon Asamoah,ATL,2015.0,/players/A/AsamJo20,2015-10-04,Injured Reserve,HOU,Hip,4,G
-Jon Asamoah,ATL,2015.0,/players/A/AsamJo20,2015-10-11,Injured Reserve,WAS,Hip,5,G
-Jon Asamoah,ATL,2015.0,/players/A/AsamJo20,2015-10-15,Injured Reserve,NOR,Hip,6,G
-Jon Asamoah,ATL,2015.0,/players/A/AsamJo20,2015-10-25,Injured Reserve,TEN,Hip,7,G
-Jon Asamoah,ATL,2015.0,/players/A/AsamJo20,2015-11-01,Injured Reserve,TAM,Hip,8,G
-Jon Asamoah,ATL,2015.0,/players/A/AsamJo20,2015-11-08,Injured Reserve,SFO,Hip,9,G
-Jon Asamoah,ATL,2015.0,/players/A/AsamJo20,2015-11-22,Injured Reserve,IND,Hip,11,G
-Jon Asamoah,ATL,2015.0,/players/A/AsamJo20,2015-11-29,Injured Reserve,MIN,Hip,12,G
-Jon Asamoah,ATL,2015.0,/players/A/AsamJo20,2015-12-06,Injured Reserve,TAM,Hip,13,G
-Jon Asamoah,ATL,2015.0,/players/A/AsamJo20,2015-12-13,Injured Reserve,CAR,Hip,14,G
-Jon Asamoah,ATL,2015.0,/players/A/AsamJo20,2015-12-20,Injured Reserve,JAX,Hip,15,G
-Jon Asamoah,ATL,2015.0,/players/A/AsamJo20,2015-12-27,Injured Reserve,CAR,Hip,16,G
-Jon Asamoah,ATL,2015.0,/players/A/AsamJo20,2016-01-03,Injured Reserve,NOR,Hip,17,G
+Jon Asamoah,ATL,2015.0,/players/A/AsamJo20,2015-09-14,Injured Reserve,PHI,Hip,1,
+Jon Asamoah,ATL,2015.0,/players/A/AsamJo20,2015-09-20,Injured Reserve,NYG,Hip,2,
+Jon Asamoah,ATL,2015.0,/players/A/AsamJo20,2015-09-27,Injured Reserve,DAL,Hip,3,
+Jon Asamoah,ATL,2015.0,/players/A/AsamJo20,2015-10-04,Injured Reserve,HOU,Hip,4,
+Jon Asamoah,ATL,2015.0,/players/A/AsamJo20,2015-10-11,Injured Reserve,WAS,Hip,5,
+Jon Asamoah,ATL,2015.0,/players/A/AsamJo20,2015-10-15,Injured Reserve,NOR,Hip,6,
+Jon Asamoah,ATL,2015.0,/players/A/AsamJo20,2015-10-25,Injured Reserve,TEN,Hip,7,
+Jon Asamoah,ATL,2015.0,/players/A/AsamJo20,2015-11-01,Injured Reserve,TAM,Hip,8,
+Jon Asamoah,ATL,2015.0,/players/A/AsamJo20,2015-11-08,Injured Reserve,SFO,Hip,9,
+Jon Asamoah,ATL,2015.0,/players/A/AsamJo20,2015-11-22,Injured Reserve,IND,Hip,11,
+Jon Asamoah,ATL,2015.0,/players/A/AsamJo20,2015-11-29,Injured Reserve,MIN,Hip,12,
+Jon Asamoah,ATL,2015.0,/players/A/AsamJo20,2015-12-06,Injured Reserve,TAM,Hip,13,
+Jon Asamoah,ATL,2015.0,/players/A/AsamJo20,2015-12-13,Injured Reserve,CAR,Hip,14,
+Jon Asamoah,ATL,2015.0,/players/A/AsamJo20,2015-12-20,Injured Reserve,JAX,Hip,15,
+Jon Asamoah,ATL,2015.0,/players/A/AsamJo20,2015-12-27,Injured Reserve,CAR,Hip,16,
+Jon Asamoah,ATL,2015.0,/players/A/AsamJo20,2016-01-03,Injured Reserve,NOR,Hip,17,
 Joplo Bartu,ATL,2015.0,/players/B/BartJo01,2015-09-14,Probable,PHI,Quadricep,1,LB
 Devonta Freeman,ATL,2015.0,/players/F/FreeDe00,2015-09-14,Probable,PHI,Hamstring,1,RB
 Devonta Freeman,ATL,2015.0,/players/F/FreeDe00,2015-10-04,Probable,HOU,Toe,4,RB
@@ -276,57 +276,57 @@ Devin Hester,ATL,2015.0,/players/H/HestDe99,2015-12-13,Probable,CAR,Toe,14,WR-PR
 Devin Hester,ATL,2015.0,/players/H/HestDe99,2015-12-20,Probable,JAX,Toe,15,WR-PR
 Devin Hester,ATL,2015.0,/players/H/HestDe99,2015-12-27,Probable,CAR,Toe,16,WR-PR
 Devin Hester,ATL,2015.0,/players/H/HestDe99,2016-01-03,Probable,NOR,Toe,17,WR-PR
-Lamar Holmes,ATL,2015.0,/players/H/HolmLa00,2015-09-14,Physically Unable to Perform,PHI,Foot,1,T
-Lamar Holmes,ATL,2015.0,/players/H/HolmLa00,2015-09-20,Physically Unable to Perform,NYG,Foot,2,T
-Lamar Holmes,ATL,2015.0,/players/H/HolmLa00,2015-09-27,Physically Unable to Perform,DAL,Foot,3,T
-Lamar Holmes,ATL,2015.0,/players/H/HolmLa00,2015-10-04,Physically Unable to Perform,HOU,Foot,4,T
-Lamar Holmes,ATL,2015.0,/players/H/HolmLa00,2015-10-11,Physically Unable to Perform,WAS,Foot,5,T
-Lamar Holmes,ATL,2015.0,/players/H/HolmLa00,2015-10-15,Physically Unable to Perform,NOR,Foot,6,T
-Lamar Holmes,ATL,2015.0,/players/H/HolmLa00,2015-10-25,Physically Unable to Perform,TEN,Foot,7,T
-Lamar Holmes,ATL,2015.0,/players/H/HolmLa00,2015-11-01,Physically Unable to Perform,TAM,Foot,8,T
-Lamar Holmes,ATL,2015.0,/players/H/HolmLa00,2015-11-08,Physically Unable to Perform,SFO,Foot,9,T
-Lamar Holmes,ATL,2015.0,/players/H/HolmLa00,2015-11-22,Physically Unable to Perform,IND,Foot,11,T
-Lamar Holmes,ATL,2015.0,/players/H/HolmLa00,2015-11-29,Physically Unable to Perform,MIN,Foot,12,T
-Lamar Holmes,ATL,2015.0,/players/H/HolmLa00,2015-12-06,Physically Unable to Perform,TAM,Foot,13,T
-Lamar Holmes,ATL,2015.0,/players/H/HolmLa00,2015-12-13,Physically Unable to Perform,CAR,Foot,14,T
-Lamar Holmes,ATL,2015.0,/players/H/HolmLa00,2015-12-20,Physically Unable to Perform,JAX,Foot,15,T
-Lamar Holmes,ATL,2015.0,/players/H/HolmLa00,2015-12-27,Physically Unable to Perform,CAR,Foot,16,T
-Lamar Holmes,ATL,2015.0,/players/H/HolmLa00,2016-01-03,Physically Unable to Perform,NOR,Foot,17,T
-Travis Howard,ATL,2015.0,/players/H/HowaTr01,2015-09-14,Injured Reserve,PHI,Undisclosed,1,CB
-Travis Howard,ATL,2015.0,/players/H/HowaTr01,2015-09-20,Injured Reserve,NYG,Undisclosed,2,CB
-Travis Howard,ATL,2015.0,/players/H/HowaTr01,2015-09-27,Injured Reserve,DAL,Undisclosed,3,CB
-Travis Howard,ATL,2015.0,/players/H/HowaTr01,2015-10-04,Injured Reserve,HOU,Undisclosed,4,CB
-Travis Howard,ATL,2015.0,/players/H/HowaTr01,2015-10-11,Injured Reserve,WAS,Undisclosed,5,CB
-Travis Howard,ATL,2015.0,/players/H/HowaTr01,2015-10-15,Injured Reserve,NOR,Undisclosed,6,CB
-Travis Howard,ATL,2015.0,/players/H/HowaTr01,2015-10-25,Injured Reserve,TEN,Undisclosed,7,CB
-Travis Howard,ATL,2015.0,/players/H/HowaTr01,2015-11-01,Injured Reserve,TAM,Undisclosed,8,CB
-Travis Howard,ATL,2015.0,/players/H/HowaTr01,2015-11-08,Injured Reserve,SFO,Undisclosed,9,CB
-Travis Howard,ATL,2015.0,/players/H/HowaTr01,2015-11-22,Injured Reserve,IND,Undisclosed,11,CB
-Travis Howard,ATL,2015.0,/players/H/HowaTr01,2015-11-29,Injured Reserve,MIN,Undisclosed,12,CB
-Travis Howard,ATL,2015.0,/players/H/HowaTr01,2015-12-06,Injured Reserve,TAM,Undisclosed,13,CB
-Travis Howard,ATL,2015.0,/players/H/HowaTr01,2015-12-13,Injured Reserve,CAR,Undisclosed,14,CB
-Travis Howard,ATL,2015.0,/players/H/HowaTr01,2015-12-20,Injured Reserve,JAX,Undisclosed,15,CB
-Travis Howard,ATL,2015.0,/players/H/HowaTr01,2015-12-27,Injured Reserve,CAR,Undisclosed,16,CB
-Travis Howard,ATL,2015.0,/players/H/HowaTr01,2016-01-03,Injured Reserve,NOR,Undisclosed,17,CB
+Lamar Holmes,ATL,2015.0,/players/H/HolmLa00,2015-09-14,Physically Unable to Perform,PHI,Foot,1,
+Lamar Holmes,ATL,2015.0,/players/H/HolmLa00,2015-09-20,Physically Unable to Perform,NYG,Foot,2,
+Lamar Holmes,ATL,2015.0,/players/H/HolmLa00,2015-09-27,Physically Unable to Perform,DAL,Foot,3,
+Lamar Holmes,ATL,2015.0,/players/H/HolmLa00,2015-10-04,Physically Unable to Perform,HOU,Foot,4,
+Lamar Holmes,ATL,2015.0,/players/H/HolmLa00,2015-10-11,Physically Unable to Perform,WAS,Foot,5,
+Lamar Holmes,ATL,2015.0,/players/H/HolmLa00,2015-10-15,Physically Unable to Perform,NOR,Foot,6,
+Lamar Holmes,ATL,2015.0,/players/H/HolmLa00,2015-10-25,Physically Unable to Perform,TEN,Foot,7,
+Lamar Holmes,ATL,2015.0,/players/H/HolmLa00,2015-11-01,Physically Unable to Perform,TAM,Foot,8,
+Lamar Holmes,ATL,2015.0,/players/H/HolmLa00,2015-11-08,Physically Unable to Perform,SFO,Foot,9,
+Lamar Holmes,ATL,2015.0,/players/H/HolmLa00,2015-11-22,Physically Unable to Perform,IND,Foot,11,
+Lamar Holmes,ATL,2015.0,/players/H/HolmLa00,2015-11-29,Physically Unable to Perform,MIN,Foot,12,
+Lamar Holmes,ATL,2015.0,/players/H/HolmLa00,2015-12-06,Physically Unable to Perform,TAM,Foot,13,
+Lamar Holmes,ATL,2015.0,/players/H/HolmLa00,2015-12-13,Physically Unable to Perform,CAR,Foot,14,
+Lamar Holmes,ATL,2015.0,/players/H/HolmLa00,2015-12-20,Physically Unable to Perform,JAX,Foot,15,
+Lamar Holmes,ATL,2015.0,/players/H/HolmLa00,2015-12-27,Physically Unable to Perform,CAR,Foot,16,
+Lamar Holmes,ATL,2015.0,/players/H/HolmLa00,2016-01-03,Physically Unable to Perform,NOR,Foot,17,
+Travis Howard,ATL,2015.0,/players/H/HowaTr01,2015-09-14,Injured Reserve,PHI,Undisclosed,1,
+Travis Howard,ATL,2015.0,/players/H/HowaTr01,2015-09-20,Injured Reserve,NYG,Undisclosed,2,
+Travis Howard,ATL,2015.0,/players/H/HowaTr01,2015-09-27,Injured Reserve,DAL,Undisclosed,3,
+Travis Howard,ATL,2015.0,/players/H/HowaTr01,2015-10-04,Injured Reserve,HOU,Undisclosed,4,
+Travis Howard,ATL,2015.0,/players/H/HowaTr01,2015-10-11,Injured Reserve,WAS,Undisclosed,5,
+Travis Howard,ATL,2015.0,/players/H/HowaTr01,2015-10-15,Injured Reserve,NOR,Undisclosed,6,
+Travis Howard,ATL,2015.0,/players/H/HowaTr01,2015-10-25,Injured Reserve,TEN,Undisclosed,7,
+Travis Howard,ATL,2015.0,/players/H/HowaTr01,2015-11-01,Injured Reserve,TAM,Undisclosed,8,
+Travis Howard,ATL,2015.0,/players/H/HowaTr01,2015-11-08,Injured Reserve,SFO,Undisclosed,9,
+Travis Howard,ATL,2015.0,/players/H/HowaTr01,2015-11-22,Injured Reserve,IND,Undisclosed,11,
+Travis Howard,ATL,2015.0,/players/H/HowaTr01,2015-11-29,Injured Reserve,MIN,Undisclosed,12,
+Travis Howard,ATL,2015.0,/players/H/HowaTr01,2015-12-06,Injured Reserve,TAM,Undisclosed,13,
+Travis Howard,ATL,2015.0,/players/H/HowaTr01,2015-12-13,Injured Reserve,CAR,Undisclosed,14,
+Travis Howard,ATL,2015.0,/players/H/HowaTr01,2015-12-20,Injured Reserve,JAX,Undisclosed,15,
+Travis Howard,ATL,2015.0,/players/H/HowaTr01,2015-12-27,Injured Reserve,CAR,Undisclosed,16,
+Travis Howard,ATL,2015.0,/players/H/HowaTr01,2016-01-03,Injured Reserve,NOR,Undisclosed,17,
 Jake Matthews,ATL,2015.0,/players/M/MattJa00,2015-09-14,Probable,PHI,Back,1,OT
 Jake Matthews,ATL,2015.0,/players/M/MattJa00,2015-09-20,Probable,NYG,Back,2,OT
 Jake Matthews,ATL,2015.0,/players/M/MattJa00,2015-12-27,Probable,CAR,Back,16,OT
-Collin Mooney,ATL,2015.0,/players/M/MoonCo00,2015-09-14,Injured Reserve,PHI,Undisclosed,1,RB
-Collin Mooney,ATL,2015.0,/players/M/MoonCo00,2015-09-20,Injured Reserve,NYG,Undisclosed,2,RB
-Collin Mooney,ATL,2015.0,/players/M/MoonCo00,2015-09-27,Injured Reserve,DAL,Undisclosed,3,RB
-Collin Mooney,ATL,2015.0,/players/M/MoonCo00,2015-10-04,Injured Reserve,HOU,Undisclosed,4,RB
-Collin Mooney,ATL,2015.0,/players/M/MoonCo00,2015-10-11,Injured Reserve,WAS,Undisclosed,5,RB
-Collin Mooney,ATL,2015.0,/players/M/MoonCo00,2015-10-15,Injured Reserve,NOR,Undisclosed,6,RB
-Collin Mooney,ATL,2015.0,/players/M/MoonCo00,2015-10-25,Injured Reserve,TEN,Undisclosed,7,RB
-Collin Mooney,ATL,2015.0,/players/M/MoonCo00,2015-11-01,Injured Reserve,TAM,Undisclosed,8,RB
-Collin Mooney,ATL,2015.0,/players/M/MoonCo00,2015-11-08,Injured Reserve,SFO,Undisclosed,9,RB
-Collin Mooney,ATL,2015.0,/players/M/MoonCo00,2015-11-22,Injured Reserve,IND,Undisclosed,11,RB
-Collin Mooney,ATL,2015.0,/players/M/MoonCo00,2015-11-29,Injured Reserve,MIN,Undisclosed,12,RB
-Collin Mooney,ATL,2015.0,/players/M/MoonCo00,2015-12-06,Injured Reserve,TAM,Undisclosed,13,RB
-Collin Mooney,ATL,2015.0,/players/M/MoonCo00,2015-12-13,Injured Reserve,CAR,Undisclosed,14,RB
-Collin Mooney,ATL,2015.0,/players/M/MoonCo00,2015-12-20,Injured Reserve,JAX,Undisclosed,15,RB
-Collin Mooney,ATL,2015.0,/players/M/MoonCo00,2015-12-27,Injured Reserve,CAR,Undisclosed,16,RB
-Collin Mooney,ATL,2015.0,/players/M/MoonCo00,2016-01-03,Injured Reserve,NOR,Undisclosed,17,RB
+Collin Mooney,ATL,2015.0,/players/M/MoonCo00,2015-09-14,Injured Reserve,PHI,Undisclosed,1,
+Collin Mooney,ATL,2015.0,/players/M/MoonCo00,2015-09-20,Injured Reserve,NYG,Undisclosed,2,
+Collin Mooney,ATL,2015.0,/players/M/MoonCo00,2015-09-27,Injured Reserve,DAL,Undisclosed,3,
+Collin Mooney,ATL,2015.0,/players/M/MoonCo00,2015-10-04,Injured Reserve,HOU,Undisclosed,4,
+Collin Mooney,ATL,2015.0,/players/M/MoonCo00,2015-10-11,Injured Reserve,WAS,Undisclosed,5,
+Collin Mooney,ATL,2015.0,/players/M/MoonCo00,2015-10-15,Injured Reserve,NOR,Undisclosed,6,
+Collin Mooney,ATL,2015.0,/players/M/MoonCo00,2015-10-25,Injured Reserve,TEN,Undisclosed,7,
+Collin Mooney,ATL,2015.0,/players/M/MoonCo00,2015-11-01,Injured Reserve,TAM,Undisclosed,8,
+Collin Mooney,ATL,2015.0,/players/M/MoonCo00,2015-11-08,Injured Reserve,SFO,Undisclosed,9,
+Collin Mooney,ATL,2015.0,/players/M/MoonCo00,2015-11-22,Injured Reserve,IND,Undisclosed,11,
+Collin Mooney,ATL,2015.0,/players/M/MoonCo00,2015-11-29,Injured Reserve,MIN,Undisclosed,12,
+Collin Mooney,ATL,2015.0,/players/M/MoonCo00,2015-12-06,Injured Reserve,TAM,Undisclosed,13,
+Collin Mooney,ATL,2015.0,/players/M/MoonCo00,2015-12-13,Injured Reserve,CAR,Undisclosed,14,
+Collin Mooney,ATL,2015.0,/players/M/MoonCo00,2015-12-20,Injured Reserve,JAX,Undisclosed,15,
+Collin Mooney,ATL,2015.0,/players/M/MoonCo00,2015-12-27,Injured Reserve,CAR,Undisclosed,16,
+Collin Mooney,ATL,2015.0,/players/M/MoonCo00,2016-01-03,Injured Reserve,NOR,Undisclosed,17,
 Brooks Reed,ATL,2015.0,/players/R/ReedBr00,2015-09-14,Out,PHI,Groin,1,DL
 Brooks Reed,ATL,2015.0,/players/R/ReedBr00,2015-09-20,Out,NYG,Groin,2,DL
 Brooks Reed,ATL,2015.0,/players/R/ReedBr00,2015-09-27,Out,DAL,Groin,3,DL
@@ -511,22 +511,22 @@ Dennis Pitta,BAL,2015.0,/players/P/PittDe00,2015-12-13,Injured Reserve,SEA,Hip,1
 Dennis Pitta,BAL,2015.0,/players/P/PittDe00,2015-12-20,Injured Reserve,KAN,Hip,15,TE
 Dennis Pitta,BAL,2015.0,/players/P/PittDe00,2015-12-27,Injured Reserve,PIT,Hip,16,TE
 Dennis Pitta,BAL,2015.0,/players/P/PittDe00,2016-01-03,Injured Reserve,CIN,Hip,17,TE
-Allen Reisner,BAL,2015.0,/players/R/ReisAl00,2015-09-13,Injured Reserve,DEN,Ankle,1,TE
-Allen Reisner,BAL,2015.0,/players/R/ReisAl00,2015-09-20,Injured Reserve,OAK,Ankle,2,TE
-Allen Reisner,BAL,2015.0,/players/R/ReisAl00,2015-09-27,Injured Reserve,CIN,Ankle,3,TE
-Allen Reisner,BAL,2015.0,/players/R/ReisAl00,2015-10-01,Injured Reserve,PIT,Ankle,4,TE
-Allen Reisner,BAL,2015.0,/players/R/ReisAl00,2015-10-11,Injured Reserve,CLE,Ankle,5,TE
-Allen Reisner,BAL,2015.0,/players/R/ReisAl00,2015-10-18,Injured Reserve,SFO,Ankle,6,TE
-Allen Reisner,BAL,2015.0,/players/R/ReisAl00,2015-10-26,Injured Reserve,ARI,Ankle,7,TE
-Allen Reisner,BAL,2015.0,/players/R/ReisAl00,2015-11-01,Injured Reserve,SDG,Ankle,8,TE
-Allen Reisner,BAL,2015.0,/players/R/ReisAl00,2015-11-15,Injured Reserve,JAX,Ankle,10,TE
-Allen Reisner,BAL,2015.0,/players/R/ReisAl00,2015-11-22,Injured Reserve,STL,Ankle,11,TE
-Allen Reisner,BAL,2015.0,/players/R/ReisAl00,2015-11-30,Injured Reserve,CLE,Ankle,12,TE
-Allen Reisner,BAL,2015.0,/players/R/ReisAl00,2015-12-06,Injured Reserve,MIA,Ankle,13,TE
-Allen Reisner,BAL,2015.0,/players/R/ReisAl00,2015-12-13,Injured Reserve,SEA,Ankle,14,TE
-Allen Reisner,BAL,2015.0,/players/R/ReisAl00,2015-12-20,Injured Reserve,KAN,Ankle,15,TE
-Allen Reisner,BAL,2015.0,/players/R/ReisAl00,2015-12-27,Injured Reserve,PIT,Ankle,16,TE
-Allen Reisner,BAL,2015.0,/players/R/ReisAl00,2016-01-03,Injured Reserve,CIN,Ankle,17,TE
+Allen Reisner,BAL,2015.0,/players/R/ReisAl00,2015-09-13,Injured Reserve,DEN,Ankle,1,
+Allen Reisner,BAL,2015.0,/players/R/ReisAl00,2015-09-20,Injured Reserve,OAK,Ankle,2,
+Allen Reisner,BAL,2015.0,/players/R/ReisAl00,2015-09-27,Injured Reserve,CIN,Ankle,3,
+Allen Reisner,BAL,2015.0,/players/R/ReisAl00,2015-10-01,Injured Reserve,PIT,Ankle,4,
+Allen Reisner,BAL,2015.0,/players/R/ReisAl00,2015-10-11,Injured Reserve,CLE,Ankle,5,
+Allen Reisner,BAL,2015.0,/players/R/ReisAl00,2015-10-18,Injured Reserve,SFO,Ankle,6,
+Allen Reisner,BAL,2015.0,/players/R/ReisAl00,2015-10-26,Injured Reserve,ARI,Ankle,7,
+Allen Reisner,BAL,2015.0,/players/R/ReisAl00,2015-11-01,Injured Reserve,SDG,Ankle,8,
+Allen Reisner,BAL,2015.0,/players/R/ReisAl00,2015-11-15,Injured Reserve,JAX,Ankle,10,
+Allen Reisner,BAL,2015.0,/players/R/ReisAl00,2015-11-22,Injured Reserve,STL,Ankle,11,
+Allen Reisner,BAL,2015.0,/players/R/ReisAl00,2015-11-30,Injured Reserve,CLE,Ankle,12,
+Allen Reisner,BAL,2015.0,/players/R/ReisAl00,2015-12-06,Injured Reserve,MIA,Ankle,13,
+Allen Reisner,BAL,2015.0,/players/R/ReisAl00,2015-12-13,Injured Reserve,SEA,Ankle,14,
+Allen Reisner,BAL,2015.0,/players/R/ReisAl00,2015-12-20,Injured Reserve,KAN,Ankle,15,
+Allen Reisner,BAL,2015.0,/players/R/ReisAl00,2015-12-27,Injured Reserve,PIT,Ankle,16,
+Allen Reisner,BAL,2015.0,/players/R/ReisAl00,2016-01-03,Injured Reserve,CIN,Ankle,17,
 Daryl Smith,BAL,2015.0,/players/S/SmitDa24,2015-09-13,Probable,DEN,NotInjuryRelated,1,LB
 Daryl Smith,BAL,2015.0,/players/S/SmitDa24,2015-09-20,Probable,OAK,NotInjuryRelated,2,LB
 Daryl Smith,BAL,2015.0,/players/S/SmitDa24,2015-10-11,Probable,CLE,NotInjuryRelated,5,LB
@@ -728,13 +728,13 @@ Joe Flacco,BAL,2015.0,/players/F/FlacJo00,2015-12-13,Injured Reserve,SEA,Knee,14
 Joe Flacco,BAL,2015.0,/players/F/FlacJo00,2015-12-20,Injured Reserve,KAN,Knee,15,QB
 Joe Flacco,BAL,2015.0,/players/F/FlacJo00,2015-12-27,Injured Reserve,PIT,Knee,16,QB
 Joe Flacco,BAL,2015.0,/players/F/FlacJo00,2016-01-03,Injured Reserve,CIN,Knee,17,QB
-Chase Ford,BAL,2015.0,/players/F/FordCh00,2015-11-30,Doubtful,CLE,Shoulder,12,TE
-Chase Ford,BAL,2015.0,/players/F/FordCh00,2015-12-06,Injured Reserve,MIA,Shoulder,13,TE
-Chase Ford,BAL,2015.0,/players/F/FordCh00,2015-12-13,Injured Reserve,SEA,Shoulder,14,TE
-Chase Ford,BAL,2015.0,/players/F/FordCh00,2015-12-20,Injured Reserve,KAN,Shoulder,15,TE
-Chase Ford,BAL,2015.0,/players/F/FordCh00,2015-12-27,Injured Reserve,PIT,Shoulder,16,TE
-Chase Ford,BAL,2015.0,/players/F/FordCh00,2016-01-03,Injured Reserve,CIN,Shoulder,17,TE
-Chase Ford,MIN,2015.0,/players/F/FordCh00,2015-09-14,Probable,SFO,Shoulder,1,TE
+Chase Ford,BAL,2015.0,/players/F/FordCh00,2015-11-30,Doubtful,CLE,Shoulder,12,
+Chase Ford,BAL,2015.0,/players/F/FordCh00,2015-12-06,Injured Reserve,MIA,Shoulder,13,
+Chase Ford,BAL,2015.0,/players/F/FordCh00,2015-12-13,Injured Reserve,SEA,Shoulder,14,
+Chase Ford,BAL,2015.0,/players/F/FordCh00,2015-12-20,Injured Reserve,KAN,Shoulder,15,
+Chase Ford,BAL,2015.0,/players/F/FordCh00,2015-12-27,Injured Reserve,PIT,Shoulder,16,
+Chase Ford,BAL,2015.0,/players/F/FordCh00,2016-01-03,Injured Reserve,CIN,Shoulder,17,
+Chase Ford,MIN,2015.0,/players/F/FordCh00,2015-09-14,Probable,SFO,Shoulder,1,
 Shareece Wright,BAL,2015.0,/players/W/WrigSh00,2015-11-30,Questionable,CLE,Back,12,DB
 Ricky Wagner,BAL,2015.0,/players/W/WagnRi00,2015-12-06,Probable,MIA,NotInjuryRelated,13,OT
 Ricky Wagner,BAL,2015.0,/players/W/WagnRi00,2015-12-13,Probable,SEA,Ankle,14,OT
@@ -807,22 +807,22 @@ Leodis McKelvin,BUF,2015.0,/players/M/McKeLe99,2015-10-04,Injured Reserve,NYG,Kn
 Leodis McKelvin,BUF,2015.0,/players/M/McKeLe99,2015-10-11,Injured Reserve,TEN,Knee,5,DB
 Leodis McKelvin,BUF,2015.0,/players/M/McKeLe99,2015-10-18,Injured Reserve,CIN,Knee,6,DB
 Leodis McKelvin,BUF,2015.0,/players/M/McKeLe99,2015-10-25,Injured Reserve,JAX,Knee,7,DB
-Ty Powell,BUF,2015.0,/players/P/PoweTy00,2015-09-13,Injured Reserve,IND,Knee,1,OLB
-Ty Powell,BUF,2015.0,/players/P/PoweTy00,2015-09-20,Injured Reserve,NWE,Knee,2,OLB
-Ty Powell,BUF,2015.0,/players/P/PoweTy00,2015-09-27,Injured Reserve,MIA,Knee,3,OLB
-Ty Powell,BUF,2015.0,/players/P/PoweTy00,2015-10-04,Injured Reserve,NYG,Knee,4,OLB
-Ty Powell,BUF,2015.0,/players/P/PoweTy00,2015-10-11,Injured Reserve,TEN,Knee,5,OLB
-Ty Powell,BUF,2015.0,/players/P/PoweTy00,2015-10-18,Injured Reserve,CIN,Knee,6,OLB
-Ty Powell,BUF,2015.0,/players/P/PoweTy00,2015-10-25,Injured Reserve,JAX,Knee,7,OLB
-Ty Powell,BUF,2015.0,/players/P/PoweTy00,2015-11-08,Injured Reserve,MIA,Knee,9,OLB
-Ty Powell,BUF,2015.0,/players/P/PoweTy00,2015-11-12,Injured Reserve,NYJ,Knee,10,OLB
-Ty Powell,BUF,2015.0,/players/P/PoweTy00,2015-11-23,Injured Reserve,NWE,Knee,11,OLB
-Ty Powell,BUF,2015.0,/players/P/PoweTy00,2015-11-29,Injured Reserve,KAN,Knee,12,OLB
-Ty Powell,BUF,2015.0,/players/P/PoweTy00,2015-12-06,Injured Reserve,HOU,Knee,13,OLB
-Ty Powell,BUF,2015.0,/players/P/PoweTy00,2015-12-13,Injured Reserve,PHI,Knee,14,OLB
-Ty Powell,BUF,2015.0,/players/P/PoweTy00,2015-12-20,Injured Reserve,WAS,Knee,15,OLB
-Ty Powell,BUF,2015.0,/players/P/PoweTy00,2015-12-27,Injured Reserve,DAL,Knee,16,OLB
-Ty Powell,BUF,2015.0,/players/P/PoweTy00,2016-01-03,Injured Reserve,NYJ,Knee,17,OLB
+Ty Powell,BUF,2015.0,/players/P/PoweTy00,2015-09-13,Injured Reserve,IND,Knee,1,
+Ty Powell,BUF,2015.0,/players/P/PoweTy00,2015-09-20,Injured Reserve,NWE,Knee,2,
+Ty Powell,BUF,2015.0,/players/P/PoweTy00,2015-09-27,Injured Reserve,MIA,Knee,3,
+Ty Powell,BUF,2015.0,/players/P/PoweTy00,2015-10-04,Injured Reserve,NYG,Knee,4,
+Ty Powell,BUF,2015.0,/players/P/PoweTy00,2015-10-11,Injured Reserve,TEN,Knee,5,
+Ty Powell,BUF,2015.0,/players/P/PoweTy00,2015-10-18,Injured Reserve,CIN,Knee,6,
+Ty Powell,BUF,2015.0,/players/P/PoweTy00,2015-10-25,Injured Reserve,JAX,Knee,7,
+Ty Powell,BUF,2015.0,/players/P/PoweTy00,2015-11-08,Injured Reserve,MIA,Knee,9,
+Ty Powell,BUF,2015.0,/players/P/PoweTy00,2015-11-12,Injured Reserve,NYJ,Knee,10,
+Ty Powell,BUF,2015.0,/players/P/PoweTy00,2015-11-23,Injured Reserve,NWE,Knee,11,
+Ty Powell,BUF,2015.0,/players/P/PoweTy00,2015-11-29,Injured Reserve,KAN,Knee,12,
+Ty Powell,BUF,2015.0,/players/P/PoweTy00,2015-12-06,Injured Reserve,HOU,Knee,13,
+Ty Powell,BUF,2015.0,/players/P/PoweTy00,2015-12-13,Injured Reserve,PHI,Knee,14,
+Ty Powell,BUF,2015.0,/players/P/PoweTy00,2015-12-20,Injured Reserve,WAS,Knee,15,
+Ty Powell,BUF,2015.0,/players/P/PoweTy00,2015-12-27,Injured Reserve,DAL,Knee,16,
+Ty Powell,BUF,2015.0,/players/P/PoweTy00,2016-01-03,Injured Reserve,NYJ,Knee,17,
 Tony Steward,BUF,2015.0,/players/S/StewTo01,2015-09-13,Out,IND,Knee,1,OLB
 Tony Steward,BUF,2015.0,/players/S/StewTo01,2015-09-20,Out,NWE,Knee,2,OLB
 Tony Steward,BUF,2015.0,/players/S/StewTo01,2015-09-27,Questionable,MIA,Knee,3,OLB
@@ -850,22 +850,22 @@ Robert Woods,BUF,2015.0,/players/W/WoodRo02,2015-09-13,Probable,IND,Hip,1,WR
 Robert Woods,BUF,2015.0,/players/W/WoodRo02,2015-12-20,Probable,WAS,Hip,15,WR
 Robert Woods,BUF,2015.0,/players/W/WoodRo02,2015-12-27,Injured Reserve,DAL,Groin,16,WR
 Robert Woods,BUF,2015.0,/players/W/WoodRo02,2016-01-03,Injured Reserve,NYJ,Groin,17,WR
-Jarius Wynn,BUF,2015.0,/players/W/WynnJa99,2015-09-13,Injured Reserve,IND,Knee,1,DE
-Jarius Wynn,BUF,2015.0,/players/W/WynnJa99,2015-09-20,Injured Reserve,NWE,Knee,2,DE
-Jarius Wynn,BUF,2015.0,/players/W/WynnJa99,2015-09-27,Injured Reserve,MIA,Knee,3,DE
-Jarius Wynn,BUF,2015.0,/players/W/WynnJa99,2015-10-04,Injured Reserve,NYG,Knee,4,DE
-Jarius Wynn,BUF,2015.0,/players/W/WynnJa99,2015-10-11,Injured Reserve,TEN,Knee,5,DE
-Jarius Wynn,BUF,2015.0,/players/W/WynnJa99,2015-10-18,Injured Reserve,CIN,Knee,6,DE
-Jarius Wynn,BUF,2015.0,/players/W/WynnJa99,2015-10-25,Injured Reserve,JAX,Knee,7,DE
-Jarius Wynn,BUF,2015.0,/players/W/WynnJa99,2015-11-08,Injured Reserve,MIA,Knee,9,DE
-Jarius Wynn,BUF,2015.0,/players/W/WynnJa99,2015-11-12,Injured Reserve,NYJ,Knee,10,DE
-Jarius Wynn,BUF,2015.0,/players/W/WynnJa99,2015-11-23,Injured Reserve,NWE,Knee,11,DE
-Jarius Wynn,BUF,2015.0,/players/W/WynnJa99,2015-11-29,Injured Reserve,KAN,Knee,12,DE
-Jarius Wynn,BUF,2015.0,/players/W/WynnJa99,2015-12-06,Injured Reserve,HOU,Knee,13,DE
-Jarius Wynn,BUF,2015.0,/players/W/WynnJa99,2015-12-13,Injured Reserve,PHI,Knee,14,DE
-Jarius Wynn,BUF,2015.0,/players/W/WynnJa99,2015-12-20,Injured Reserve,WAS,Knee,15,DE
-Jarius Wynn,BUF,2015.0,/players/W/WynnJa99,2015-12-27,Injured Reserve,DAL,Knee,16,DE
-Jarius Wynn,BUF,2015.0,/players/W/WynnJa99,2016-01-03,Injured Reserve,NYJ,Knee,17,DE
+Jarius Wynn,BUF,2015.0,/players/W/WynnJa99,2015-09-13,Injured Reserve,IND,Knee,1,
+Jarius Wynn,BUF,2015.0,/players/W/WynnJa99,2015-09-20,Injured Reserve,NWE,Knee,2,
+Jarius Wynn,BUF,2015.0,/players/W/WynnJa99,2015-09-27,Injured Reserve,MIA,Knee,3,
+Jarius Wynn,BUF,2015.0,/players/W/WynnJa99,2015-10-04,Injured Reserve,NYG,Knee,4,
+Jarius Wynn,BUF,2015.0,/players/W/WynnJa99,2015-10-11,Injured Reserve,TEN,Knee,5,
+Jarius Wynn,BUF,2015.0,/players/W/WynnJa99,2015-10-18,Injured Reserve,CIN,Knee,6,
+Jarius Wynn,BUF,2015.0,/players/W/WynnJa99,2015-10-25,Injured Reserve,JAX,Knee,7,
+Jarius Wynn,BUF,2015.0,/players/W/WynnJa99,2015-11-08,Injured Reserve,MIA,Knee,9,
+Jarius Wynn,BUF,2015.0,/players/W/WynnJa99,2015-11-12,Injured Reserve,NYJ,Knee,10,
+Jarius Wynn,BUF,2015.0,/players/W/WynnJa99,2015-11-23,Injured Reserve,NWE,Knee,11,
+Jarius Wynn,BUF,2015.0,/players/W/WynnJa99,2015-11-29,Injured Reserve,KAN,Knee,12,
+Jarius Wynn,BUF,2015.0,/players/W/WynnJa99,2015-12-06,Injured Reserve,HOU,Knee,13,
+Jarius Wynn,BUF,2015.0,/players/W/WynnJa99,2015-12-13,Injured Reserve,PHI,Knee,14,
+Jarius Wynn,BUF,2015.0,/players/W/WynnJa99,2015-12-20,Injured Reserve,WAS,Knee,15,
+Jarius Wynn,BUF,2015.0,/players/W/WynnJa99,2015-12-27,Injured Reserve,DAL,Knee,16,
+Jarius Wynn,BUF,2015.0,/players/W/WynnJa99,2016-01-03,Injured Reserve,NYJ,Knee,17,
 Corey Graham,BUF,2015.0,/players/G/GrahCo99,2015-09-20,Probable,NWE,Concussion,2,DB
 Corey Graham,BUF,2015.0,/players/G/GrahCo99,2015-10-11,Probable,TEN,Shoulder,5,DB
 Corey Graham,BUF,2015.0,/players/G/GrahCo99,2015-10-25,Probable,JAX,Groin,7,DB
@@ -1041,22 +1041,22 @@ Richie Brockel,CAR,2015.0,/players/B/BrocRi00,2015-12-13,Injured Reserve,ATL,Ham
 Richie Brockel,CAR,2015.0,/players/B/BrocRi00,2015-12-20,Injured Reserve,NYG,Hamstring,15,TE
 Richie Brockel,CAR,2015.0,/players/B/BrocRi00,2015-12-27,Injured Reserve,ATL,Hamstring,16,TE
 Richie Brockel,CAR,2015.0,/players/B/BrocRi00,2016-01-03,Injured Reserve,TAM,Hamstring,17,TE
-Nate Chandler,CAR,2015.0,/players/C/ChanNa00,2015-09-13,Injured Reserve,JAX,Knee,1,DT
-Nate Chandler,CAR,2015.0,/players/C/ChanNa00,2015-09-20,Injured Reserve,HOU,Knee,2,DT
-Nate Chandler,CAR,2015.0,/players/C/ChanNa00,2015-09-27,Injured Reserve,NOR,Knee,3,DT
-Nate Chandler,CAR,2015.0,/players/C/ChanNa00,2015-10-04,Injured Reserve,TAM,Knee,4,DT
-Nate Chandler,CAR,2015.0,/players/C/ChanNa00,2015-10-18,Injured Reserve,SEA,Knee,6,DT
-Nate Chandler,CAR,2015.0,/players/C/ChanNa00,2015-10-25,Injured Reserve,PHI,Knee,7,DT
-Nate Chandler,CAR,2015.0,/players/C/ChanNa00,2015-11-02,Injured Reserve,IND,Knee,8,DT
-Nate Chandler,CAR,2015.0,/players/C/ChanNa00,2015-11-08,Injured Reserve,GNB,Knee,9,DT
-Nate Chandler,CAR,2015.0,/players/C/ChanNa00,2015-11-15,Injured Reserve,TEN,Knee,10,DT
-Nate Chandler,CAR,2015.0,/players/C/ChanNa00,2015-11-22,Injured Reserve,WAS,Knee,11,DT
-Nate Chandler,CAR,2015.0,/players/C/ChanNa00,2015-11-26,Injured Reserve,DAL,Knee,12,DT
-Nate Chandler,CAR,2015.0,/players/C/ChanNa00,2015-12-06,Injured Reserve,NOR,Knee,13,DT
-Nate Chandler,CAR,2015.0,/players/C/ChanNa00,2015-12-13,Injured Reserve,ATL,Knee,14,DT
-Nate Chandler,CAR,2015.0,/players/C/ChanNa00,2015-12-20,Injured Reserve,NYG,Knee,15,DT
-Nate Chandler,CAR,2015.0,/players/C/ChanNa00,2015-12-27,Injured Reserve,ATL,Knee,16,DT
-Nate Chandler,CAR,2015.0,/players/C/ChanNa00,2016-01-03,Injured Reserve,TAM,Knee,17,DT
+Nate Chandler,CAR,2015.0,/players/C/ChanNa00,2015-09-13,Injured Reserve,JAX,Knee,1,
+Nate Chandler,CAR,2015.0,/players/C/ChanNa00,2015-09-20,Injured Reserve,HOU,Knee,2,
+Nate Chandler,CAR,2015.0,/players/C/ChanNa00,2015-09-27,Injured Reserve,NOR,Knee,3,
+Nate Chandler,CAR,2015.0,/players/C/ChanNa00,2015-10-04,Injured Reserve,TAM,Knee,4,
+Nate Chandler,CAR,2015.0,/players/C/ChanNa00,2015-10-18,Injured Reserve,SEA,Knee,6,
+Nate Chandler,CAR,2015.0,/players/C/ChanNa00,2015-10-25,Injured Reserve,PHI,Knee,7,
+Nate Chandler,CAR,2015.0,/players/C/ChanNa00,2015-11-02,Injured Reserve,IND,Knee,8,
+Nate Chandler,CAR,2015.0,/players/C/ChanNa00,2015-11-08,Injured Reserve,GNB,Knee,9,
+Nate Chandler,CAR,2015.0,/players/C/ChanNa00,2015-11-15,Injured Reserve,TEN,Knee,10,
+Nate Chandler,CAR,2015.0,/players/C/ChanNa00,2015-11-22,Injured Reserve,WAS,Knee,11,
+Nate Chandler,CAR,2015.0,/players/C/ChanNa00,2015-11-26,Injured Reserve,DAL,Knee,12,
+Nate Chandler,CAR,2015.0,/players/C/ChanNa00,2015-12-06,Injured Reserve,NOR,Knee,13,
+Nate Chandler,CAR,2015.0,/players/C/ChanNa00,2015-12-13,Injured Reserve,ATL,Knee,14,
+Nate Chandler,CAR,2015.0,/players/C/ChanNa00,2015-12-20,Injured Reserve,NYG,Knee,15,
+Nate Chandler,CAR,2015.0,/players/C/ChanNa00,2015-12-27,Injured Reserve,ATL,Knee,16,
+Nate Chandler,CAR,2015.0,/players/C/ChanNa00,2016-01-03,Injured Reserve,TAM,Knee,17,
 Ryan Kalil,CAR,2015.0,/players/K/KaliRy20,2015-09-13,Probable,JAX,Knee,1,C
 Ryan Kalil,CAR,2015.0,/players/K/KaliRy20,2015-11-02,Doubtful,IND,Ankle,8,C
 Ryan Kalil,CAR,2015.0,/players/K/KaliRy20,2015-11-08,Probable,GNB,Ankle,9,C
@@ -1237,22 +1237,22 @@ Alshon Jeffery,CHI,2015.0,/players/J/JeffAl00,2015-11-26,Questionable,GNB,Groin,
 Alshon Jeffery,CHI,2015.0,/players/J/JeffAl00,2015-12-20,Questionable,MIN,Calf,15,WR
 Alshon Jeffery,CHI,2015.0,/players/J/JeffAl00,2015-12-27,Injured Reserve,TAM,Hamstring,16,WR
 Alshon Jeffery,CHI,2015.0,/players/J/JeffAl00,2016-01-03,Injured Reserve,DET,Hamstring,17,WR
-Ryan Mundy,CHI,2015.0,/players/M/MundRy00,2015-09-13,Injured Reserve,GNB,Hip,1,DB
-Ryan Mundy,CHI,2015.0,/players/M/MundRy00,2015-09-20,Injured Reserve,ARI,Hip,2,DB
-Ryan Mundy,CHI,2015.0,/players/M/MundRy00,2015-09-27,Injured Reserve,SEA,Hip,3,DB
-Ryan Mundy,CHI,2015.0,/players/M/MundRy00,2015-10-04,Injured Reserve,OAK,Hip,4,DB
-Ryan Mundy,CHI,2015.0,/players/M/MundRy00,2015-10-11,Injured Reserve,KAN,Hip,5,DB
-Ryan Mundy,CHI,2015.0,/players/M/MundRy00,2015-10-18,Injured Reserve,DET,Hip,6,DB
-Ryan Mundy,CHI,2015.0,/players/M/MundRy00,2015-11-01,Injured Reserve,MIN,Hip,8,DB
-Ryan Mundy,CHI,2015.0,/players/M/MundRy00,2015-11-09,Injured Reserve,SDG,Hip,9,DB
-Ryan Mundy,CHI,2015.0,/players/M/MundRy00,2015-11-15,Injured Reserve,STL,Hip,10,DB
-Ryan Mundy,CHI,2015.0,/players/M/MundRy00,2015-11-22,Injured Reserve,DEN,Hip,11,DB
-Ryan Mundy,CHI,2015.0,/players/M/MundRy00,2015-11-26,Injured Reserve,GNB,Hip,12,DB
-Ryan Mundy,CHI,2015.0,/players/M/MundRy00,2015-12-06,Injured Reserve,SFO,Hip,13,DB
-Ryan Mundy,CHI,2015.0,/players/M/MundRy00,2015-12-13,Injured Reserve,WAS,Hip,14,DB
-Ryan Mundy,CHI,2015.0,/players/M/MundRy00,2015-12-20,Injured Reserve,MIN,Hip,15,DB
-Ryan Mundy,CHI,2015.0,/players/M/MundRy00,2015-12-27,Injured Reserve,TAM,Hip,16,DB
-Ryan Mundy,CHI,2015.0,/players/M/MundRy00,2016-01-03,Injured Reserve,DET,Hip,17,DB
+Ryan Mundy,CHI,2015.0,/players/M/MundRy00,2015-09-13,Injured Reserve,GNB,Hip,1,
+Ryan Mundy,CHI,2015.0,/players/M/MundRy00,2015-09-20,Injured Reserve,ARI,Hip,2,
+Ryan Mundy,CHI,2015.0,/players/M/MundRy00,2015-09-27,Injured Reserve,SEA,Hip,3,
+Ryan Mundy,CHI,2015.0,/players/M/MundRy00,2015-10-04,Injured Reserve,OAK,Hip,4,
+Ryan Mundy,CHI,2015.0,/players/M/MundRy00,2015-10-11,Injured Reserve,KAN,Hip,5,
+Ryan Mundy,CHI,2015.0,/players/M/MundRy00,2015-10-18,Injured Reserve,DET,Hip,6,
+Ryan Mundy,CHI,2015.0,/players/M/MundRy00,2015-11-01,Injured Reserve,MIN,Hip,8,
+Ryan Mundy,CHI,2015.0,/players/M/MundRy00,2015-11-09,Injured Reserve,SDG,Hip,9,
+Ryan Mundy,CHI,2015.0,/players/M/MundRy00,2015-11-15,Injured Reserve,STL,Hip,10,
+Ryan Mundy,CHI,2015.0,/players/M/MundRy00,2015-11-22,Injured Reserve,DEN,Hip,11,
+Ryan Mundy,CHI,2015.0,/players/M/MundRy00,2015-11-26,Injured Reserve,GNB,Hip,12,
+Ryan Mundy,CHI,2015.0,/players/M/MundRy00,2015-12-06,Injured Reserve,SFO,Hip,13,
+Ryan Mundy,CHI,2015.0,/players/M/MundRy00,2015-12-13,Injured Reserve,WAS,Hip,14,
+Ryan Mundy,CHI,2015.0,/players/M/MundRy00,2015-12-20,Injured Reserve,MIN,Hip,15,
+Ryan Mundy,CHI,2015.0,/players/M/MundRy00,2015-12-27,Injured Reserve,TAM,Hip,16,
+Ryan Mundy,CHI,2015.0,/players/M/MundRy00,2016-01-03,Injured Reserve,DET,Hip,17,
 Senorise Perry,CHI,2015.0,/players/P/PerrSe00,2015-09-13,Injured Reserve,GNB,Foot,1,RB
 Senorise Perry,CHI,2015.0,/players/P/PerrSe00,2015-09-20,Injured Reserve,ARI,Foot,2,RB
 Senorise Perry,CHI,2015.0,/players/P/PerrSe00,2015-09-27,Injured Reserve,SEA,Foot,3,RB
@@ -1632,22 +1632,22 @@ Russell Bodine,CIN,2015.0,/players/B/BodiRu00,2015-12-20,Probable,SFO,Finger,15,
 Vincent Rey,CIN,2015.0,/players/R/ReyxVi00,2015-12-28,Probable,DEN,Hamstring,16,LB
 Dwayne Bowe,CLE,2015.0,/players/B/BoweDw00,2015-09-13,Questionable,NYJ,Hamstring,1,WR
 Dwayne Bowe,CLE,2015.0,/players/B/BoweDw00,2015-09-20,Questionable,TEN,Hamstring,2,WR
-Michael Bowie,CLE,2015.0,/players/B/BowiMi00,2015-09-13,Injured Reserve,NYJ,Shoulder,1,T
-Michael Bowie,CLE,2015.0,/players/B/BowiMi00,2015-09-20,Injured Reserve,TEN,Shoulder,2,T
-Michael Bowie,CLE,2015.0,/players/B/BowiMi00,2015-09-27,Injured Reserve,OAK,Shoulder,3,T
-Michael Bowie,CLE,2015.0,/players/B/BowiMi00,2015-10-04,Injured Reserve,SDG,Shoulder,4,T
-Michael Bowie,CLE,2015.0,/players/B/BowiMi00,2015-10-11,Injured Reserve,BAL,Shoulder,5,T
-Michael Bowie,CLE,2015.0,/players/B/BowiMi00,2015-10-18,Injured Reserve,DEN,Shoulder,6,T
-Michael Bowie,CLE,2015.0,/players/B/BowiMi00,2015-10-25,Injured Reserve,STL,Shoulder,7,T
-Michael Bowie,CLE,2015.0,/players/B/BowiMi00,2015-11-01,Injured Reserve,ARI,Shoulder,8,T
-Michael Bowie,CLE,2015.0,/players/B/BowiMi00,2015-11-05,Injured Reserve,CIN,Shoulder,9,T
-Michael Bowie,CLE,2015.0,/players/B/BowiMi00,2015-11-15,Injured Reserve,PIT,Shoulder,10,T
-Michael Bowie,CLE,2015.0,/players/B/BowiMi00,2015-11-30,Injured Reserve,BAL,Shoulder,12,T
-Michael Bowie,CLE,2015.0,/players/B/BowiMi00,2015-12-06,Injured Reserve,CIN,Shoulder,13,T
-Michael Bowie,CLE,2015.0,/players/B/BowiMi00,2015-12-13,Injured Reserve,SFO,Shoulder,14,T
-Michael Bowie,CLE,2015.0,/players/B/BowiMi00,2015-12-20,Injured Reserve,SEA,Shoulder,15,T
-Michael Bowie,CLE,2015.0,/players/B/BowiMi00,2015-12-27,Injured Reserve,KAN,Shoulder,16,T
-Michael Bowie,CLE,2015.0,/players/B/BowiMi00,2016-01-03,Injured Reserve,PIT,Shoulder,17,T
+Michael Bowie,CLE,2015.0,/players/B/BowiMi00,2015-09-13,Injured Reserve,NYJ,Shoulder,1,
+Michael Bowie,CLE,2015.0,/players/B/BowiMi00,2015-09-20,Injured Reserve,TEN,Shoulder,2,
+Michael Bowie,CLE,2015.0,/players/B/BowiMi00,2015-09-27,Injured Reserve,OAK,Shoulder,3,
+Michael Bowie,CLE,2015.0,/players/B/BowiMi00,2015-10-04,Injured Reserve,SDG,Shoulder,4,
+Michael Bowie,CLE,2015.0,/players/B/BowiMi00,2015-10-11,Injured Reserve,BAL,Shoulder,5,
+Michael Bowie,CLE,2015.0,/players/B/BowiMi00,2015-10-18,Injured Reserve,DEN,Shoulder,6,
+Michael Bowie,CLE,2015.0,/players/B/BowiMi00,2015-10-25,Injured Reserve,STL,Shoulder,7,
+Michael Bowie,CLE,2015.0,/players/B/BowiMi00,2015-11-01,Injured Reserve,ARI,Shoulder,8,
+Michael Bowie,CLE,2015.0,/players/B/BowiMi00,2015-11-05,Injured Reserve,CIN,Shoulder,9,
+Michael Bowie,CLE,2015.0,/players/B/BowiMi00,2015-11-15,Injured Reserve,PIT,Shoulder,10,
+Michael Bowie,CLE,2015.0,/players/B/BowiMi00,2015-11-30,Injured Reserve,BAL,Shoulder,12,
+Michael Bowie,CLE,2015.0,/players/B/BowiMi00,2015-12-06,Injured Reserve,CIN,Shoulder,13,
+Michael Bowie,CLE,2015.0,/players/B/BowiMi00,2015-12-13,Injured Reserve,SFO,Shoulder,14,
+Michael Bowie,CLE,2015.0,/players/B/BowiMi00,2015-12-20,Injured Reserve,SEA,Shoulder,15,
+Michael Bowie,CLE,2015.0,/players/B/BowiMi00,2015-12-27,Injured Reserve,KAN,Shoulder,16,
+Michael Bowie,CLE,2015.0,/players/B/BowiMi00,2016-01-03,Injured Reserve,PIT,Shoulder,17,
 Pierre Desir,CLE,2015.0,/players/D/DesiPi00,2015-09-13,Probable,NYJ,Concussion,1,CB
 Ifo Ekpre-Olomu,CLE,2015.0,/players/E/EkprIf00,2015-09-13,Injured Reserve,NYJ,Knee,1,
 Ifo Ekpre-Olomu,CLE,2015.0,/players/E/EkprIf00,2015-09-20,Injured Reserve,TEN,Knee,2,
@@ -1734,22 +1734,22 @@ Mitchell Schwartz,CLE,2015.0,/players/S/SchwMi00,2015-09-27,Probable,OAK,Thumb,3
 Mitchell Schwartz,CLE,2015.0,/players/S/SchwMi00,2015-10-04,Probable,SDG,Thumb,4,T
 Mitchell Schwartz,CLE,2015.0,/players/S/SchwMi00,2015-10-11,Probable,BAL,Thumb,5,T
 Mitchell Schwartz,CLE,2015.0,/players/S/SchwMi00,2015-10-18,Probable,DEN,Thumb,6,T
-Connor Shaw,CLE,2015.0,/players/S/ShawCo00,2015-09-13,Injured Reserve,NYJ,Thumb,1,QB
-Connor Shaw,CLE,2015.0,/players/S/ShawCo00,2015-09-20,Injured Reserve,TEN,Thumb,2,QB
-Connor Shaw,CLE,2015.0,/players/S/ShawCo00,2015-09-27,Injured Reserve,OAK,Thumb,3,QB
-Connor Shaw,CLE,2015.0,/players/S/ShawCo00,2015-10-04,Injured Reserve,SDG,Thumb,4,QB
-Connor Shaw,CLE,2015.0,/players/S/ShawCo00,2015-10-11,Injured Reserve,BAL,Thumb,5,QB
-Connor Shaw,CLE,2015.0,/players/S/ShawCo00,2015-10-18,Injured Reserve,DEN,Thumb,6,QB
-Connor Shaw,CLE,2015.0,/players/S/ShawCo00,2015-10-25,Injured Reserve,STL,Thumb,7,QB
-Connor Shaw,CLE,2015.0,/players/S/ShawCo00,2015-11-01,Injured Reserve,ARI,Thumb,8,QB
-Connor Shaw,CLE,2015.0,/players/S/ShawCo00,2015-11-05,Injured Reserve,CIN,Thumb,9,QB
-Connor Shaw,CLE,2015.0,/players/S/ShawCo00,2015-11-15,Injured Reserve,PIT,Thumb,10,QB
-Connor Shaw,CLE,2015.0,/players/S/ShawCo00,2015-11-30,Injured Reserve,BAL,Thumb,12,QB
-Connor Shaw,CLE,2015.0,/players/S/ShawCo00,2015-12-06,Injured Reserve,CIN,Thumb,13,QB
-Connor Shaw,CLE,2015.0,/players/S/ShawCo00,2015-12-13,Injured Reserve,SFO,Thumb,14,QB
-Connor Shaw,CLE,2015.0,/players/S/ShawCo00,2015-12-20,Injured Reserve,SEA,Thumb,15,QB
-Connor Shaw,CLE,2015.0,/players/S/ShawCo00,2015-12-27,Injured Reserve,KAN,Thumb,16,QB
-Connor Shaw,CLE,2015.0,/players/S/ShawCo00,2016-01-03,Injured Reserve,PIT,Thumb,17,QB
+Connor Shaw,CLE,2015.0,/players/S/ShawCo00,2015-09-13,Injured Reserve,NYJ,Thumb,1,
+Connor Shaw,CLE,2015.0,/players/S/ShawCo00,2015-09-20,Injured Reserve,TEN,Thumb,2,
+Connor Shaw,CLE,2015.0,/players/S/ShawCo00,2015-09-27,Injured Reserve,OAK,Thumb,3,
+Connor Shaw,CLE,2015.0,/players/S/ShawCo00,2015-10-04,Injured Reserve,SDG,Thumb,4,
+Connor Shaw,CLE,2015.0,/players/S/ShawCo00,2015-10-11,Injured Reserve,BAL,Thumb,5,
+Connor Shaw,CLE,2015.0,/players/S/ShawCo00,2015-10-18,Injured Reserve,DEN,Thumb,6,
+Connor Shaw,CLE,2015.0,/players/S/ShawCo00,2015-10-25,Injured Reserve,STL,Thumb,7,
+Connor Shaw,CLE,2015.0,/players/S/ShawCo00,2015-11-01,Injured Reserve,ARI,Thumb,8,
+Connor Shaw,CLE,2015.0,/players/S/ShawCo00,2015-11-05,Injured Reserve,CIN,Thumb,9,
+Connor Shaw,CLE,2015.0,/players/S/ShawCo00,2015-11-15,Injured Reserve,PIT,Thumb,10,
+Connor Shaw,CLE,2015.0,/players/S/ShawCo00,2015-11-30,Injured Reserve,BAL,Thumb,12,
+Connor Shaw,CLE,2015.0,/players/S/ShawCo00,2015-12-06,Injured Reserve,CIN,Thumb,13,
+Connor Shaw,CLE,2015.0,/players/S/ShawCo00,2015-12-13,Injured Reserve,SFO,Thumb,14,
+Connor Shaw,CLE,2015.0,/players/S/ShawCo00,2015-12-20,Injured Reserve,SEA,Thumb,15,
+Connor Shaw,CLE,2015.0,/players/S/ShawCo00,2015-12-27,Injured Reserve,KAN,Thumb,16,
+Connor Shaw,CLE,2015.0,/players/S/ShawCo00,2016-01-03,Injured Reserve,PIT,Thumb,17,
 Randall Telfer,CLE,2015.0,/players/T/TelfRa00,2015-09-13,Injured Reserve,NYJ,Foot,1,TE
 Randall Telfer,CLE,2015.0,/players/T/TelfRa00,2015-09-20,Injured Reserve,TEN,Foot,2,TE
 Randall Telfer,CLE,2015.0,/players/T/TelfRa00,2015-09-27,Injured Reserve,OAK,Foot,3,TE
@@ -2166,22 +2166,22 @@ Kenny Anunike,DEN,2015.0,/players/A/AnunKe00,2015-09-17,Out,KAN,Knee,2,DE
 Kenny Anunike,DEN,2015.0,/players/A/AnunKe00,2015-09-27,Questionable,DET,Knee,3,DE
 Kenny Anunike,DEN,2015.0,/players/A/AnunKe00,2015-10-04,Probable,MIN,Knee,4,DE
 Kenny Anunike,DEN,2015.0,/players/A/AnunKe00,2015-10-18,Probable,CLE,Knee,6,DE
-Marvin Austin,DEN,2015.0,/players/A/AustMa00,2015-09-13,Injured Reserve,BAL,Groin,1,DL
-Marvin Austin,DEN,2015.0,/players/A/AustMa00,2015-09-17,Injured Reserve,KAN,Groin,2,DL
-Marvin Austin,DEN,2015.0,/players/A/AustMa00,2015-09-27,Injured Reserve,DET,Groin,3,DL
-Marvin Austin,DEN,2015.0,/players/A/AustMa00,2015-10-04,Injured Reserve,MIN,Groin,4,DL
-Marvin Austin,DEN,2015.0,/players/A/AustMa00,2015-10-11,Injured Reserve,OAK,Groin,5,DL
-Marvin Austin,DEN,2015.0,/players/A/AustMa00,2015-10-18,Injured Reserve,CLE,Groin,6,DL
-Marvin Austin,DEN,2015.0,/players/A/AustMa00,2015-11-01,Injured Reserve,GNB,Groin,8,DL
-Marvin Austin,DEN,2015.0,/players/A/AustMa00,2015-11-08,Injured Reserve,IND,Groin,9,DL
-Marvin Austin,DEN,2015.0,/players/A/AustMa00,2015-11-15,Injured Reserve,KAN,Groin,10,DL
-Marvin Austin,DEN,2015.0,/players/A/AustMa00,2015-11-22,Injured Reserve,CHI,Groin,11,DL
-Marvin Austin,DEN,2015.0,/players/A/AustMa00,2015-11-29,Injured Reserve,NWE,Groin,12,DL
-Marvin Austin,DEN,2015.0,/players/A/AustMa00,2015-12-06,Injured Reserve,SDG,Groin,13,DL
-Marvin Austin,DEN,2015.0,/players/A/AustMa00,2015-12-13,Injured Reserve,OAK,Groin,14,DL
-Marvin Austin,DEN,2015.0,/players/A/AustMa00,2015-12-20,Injured Reserve,PIT,Groin,15,DL
-Marvin Austin,DEN,2015.0,/players/A/AustMa00,2015-12-28,Injured Reserve,CIN,Groin,16,DL
-Marvin Austin,DEN,2015.0,/players/A/AustMa00,2016-01-03,Injured Reserve,SDG,Groin,17,DL
+Marvin Austin,DEN,2015.0,/players/A/AustMa00,2015-09-13,Injured Reserve,BAL,Groin,1,
+Marvin Austin,DEN,2015.0,/players/A/AustMa00,2015-09-17,Injured Reserve,KAN,Groin,2,
+Marvin Austin,DEN,2015.0,/players/A/AustMa00,2015-09-27,Injured Reserve,DET,Groin,3,
+Marvin Austin,DEN,2015.0,/players/A/AustMa00,2015-10-04,Injured Reserve,MIN,Groin,4,
+Marvin Austin,DEN,2015.0,/players/A/AustMa00,2015-10-11,Injured Reserve,OAK,Groin,5,
+Marvin Austin,DEN,2015.0,/players/A/AustMa00,2015-10-18,Injured Reserve,CLE,Groin,6,
+Marvin Austin,DEN,2015.0,/players/A/AustMa00,2015-11-01,Injured Reserve,GNB,Groin,8,
+Marvin Austin,DEN,2015.0,/players/A/AustMa00,2015-11-08,Injured Reserve,IND,Groin,9,
+Marvin Austin,DEN,2015.0,/players/A/AustMa00,2015-11-15,Injured Reserve,KAN,Groin,10,
+Marvin Austin,DEN,2015.0,/players/A/AustMa00,2015-11-22,Injured Reserve,CHI,Groin,11,
+Marvin Austin,DEN,2015.0,/players/A/AustMa00,2015-11-29,Injured Reserve,NWE,Groin,12,
+Marvin Austin,DEN,2015.0,/players/A/AustMa00,2015-12-06,Injured Reserve,SDG,Groin,13,
+Marvin Austin,DEN,2015.0,/players/A/AustMa00,2015-12-13,Injured Reserve,OAK,Groin,14,
+Marvin Austin,DEN,2015.0,/players/A/AustMa00,2015-12-20,Injured Reserve,PIT,Groin,15,
+Marvin Austin,DEN,2015.0,/players/A/AustMa00,2015-12-28,Injured Reserve,CIN,Groin,16,
+Marvin Austin,DEN,2015.0,/players/A/AustMa00,2016-01-03,Injured Reserve,SDG,Groin,17,
 Omar Bolden,DEN,2015.0,/players/B/BoldOm00,2015-09-13,Probable,BAL,Ribcage,1,CB
 Omar Bolden,DEN,2015.0,/players/B/BoldOm00,2015-09-17,Doubtful,KAN,Foot,2,CB
 Omar Bolden,DEN,2015.0,/players/B/BoldOm00,2015-09-27,Questionable,DET,Foot,3,CB
@@ -2459,22 +2459,22 @@ Eric Ebron,DET,2015.0,/players/E/EbroEr00,2015-10-18,Out,CHI,Knee,6,TE
 Eric Ebron,DET,2015.0,/players/E/EbroEr00,2015-10-25,Probable,MIN,Knee,7,TE
 Eric Ebron,DET,2015.0,/players/E/EbroEr00,2015-11-26,Probable,PHI,Quadricep,12,TE
 Eric Ebron,DET,2015.0,/players/E/EbroEr00,2015-12-21,Questionable,NOR,Illness,15,TE
-Darren Keyton,DET,2015.0,/players/K/KeytDa00,2015-09-13,Injured Reserve,SDG,Knee,1,G
-Darren Keyton,DET,2015.0,/players/K/KeytDa00,2015-09-20,Injured Reserve,MIN,Knee,2,G
-Darren Keyton,DET,2015.0,/players/K/KeytDa00,2015-09-27,Injured Reserve,DEN,Knee,3,G
-Darren Keyton,DET,2015.0,/players/K/KeytDa00,2015-10-05,Injured Reserve,SEA,Knee,4,G
-Darren Keyton,DET,2015.0,/players/K/KeytDa00,2015-10-11,Injured Reserve,ARI,Knee,5,G
-Darren Keyton,DET,2015.0,/players/K/KeytDa00,2015-10-18,Injured Reserve,CHI,Knee,6,G
-Darren Keyton,DET,2015.0,/players/K/KeytDa00,2015-10-25,Injured Reserve,MIN,Knee,7,G
-Darren Keyton,DET,2015.0,/players/K/KeytDa00,2015-11-01,Injured Reserve,KAN,Knee,8,G
-Darren Keyton,DET,2015.0,/players/K/KeytDa00,2015-11-15,Injured Reserve,GNB,Knee,10,G
-Darren Keyton,DET,2015.0,/players/K/KeytDa00,2015-11-22,Injured Reserve,OAK,Knee,11,G
-Darren Keyton,DET,2015.0,/players/K/KeytDa00,2015-11-26,Injured Reserve,PHI,Knee,12,G
-Darren Keyton,DET,2015.0,/players/K/KeytDa00,2015-12-03,Injured Reserve,GNB,Knee,13,G
-Darren Keyton,DET,2015.0,/players/K/KeytDa00,2015-12-13,Injured Reserve,STL,Knee,14,G
-Darren Keyton,DET,2015.0,/players/K/KeytDa00,2015-12-21,Injured Reserve,NOR,Knee,15,G
-Darren Keyton,DET,2015.0,/players/K/KeytDa00,2015-12-27,Injured Reserve,SFO,Knee,16,G
-Darren Keyton,DET,2015.0,/players/K/KeytDa00,2016-01-03,Injured Reserve,CHI,Knee,17,G
+Darren Keyton,DET,2015.0,/players/K/KeytDa00,2015-09-13,Injured Reserve,SDG,Knee,1,
+Darren Keyton,DET,2015.0,/players/K/KeytDa00,2015-09-20,Injured Reserve,MIN,Knee,2,
+Darren Keyton,DET,2015.0,/players/K/KeytDa00,2015-09-27,Injured Reserve,DEN,Knee,3,
+Darren Keyton,DET,2015.0,/players/K/KeytDa00,2015-10-05,Injured Reserve,SEA,Knee,4,
+Darren Keyton,DET,2015.0,/players/K/KeytDa00,2015-10-11,Injured Reserve,ARI,Knee,5,
+Darren Keyton,DET,2015.0,/players/K/KeytDa00,2015-10-18,Injured Reserve,CHI,Knee,6,
+Darren Keyton,DET,2015.0,/players/K/KeytDa00,2015-10-25,Injured Reserve,MIN,Knee,7,
+Darren Keyton,DET,2015.0,/players/K/KeytDa00,2015-11-01,Injured Reserve,KAN,Knee,8,
+Darren Keyton,DET,2015.0,/players/K/KeytDa00,2015-11-15,Injured Reserve,GNB,Knee,10,
+Darren Keyton,DET,2015.0,/players/K/KeytDa00,2015-11-22,Injured Reserve,OAK,Knee,11,
+Darren Keyton,DET,2015.0,/players/K/KeytDa00,2015-11-26,Injured Reserve,PHI,Knee,12,
+Darren Keyton,DET,2015.0,/players/K/KeytDa00,2015-12-03,Injured Reserve,GNB,Knee,13,
+Darren Keyton,DET,2015.0,/players/K/KeytDa00,2015-12-13,Injured Reserve,STL,Knee,14,
+Darren Keyton,DET,2015.0,/players/K/KeytDa00,2015-12-21,Injured Reserve,NOR,Knee,15,
+Darren Keyton,DET,2015.0,/players/K/KeytDa00,2015-12-27,Injured Reserve,SFO,Knee,16,
+Darren Keyton,DET,2015.0,/players/K/KeytDa00,2016-01-03,Injured Reserve,CHI,Knee,17,
 DeAndre Levy,DET,2015.0,/players/L/LevyDe99,2015-09-13,Injured Reserve,SDG,Hip,1,LB
 DeAndre Levy,DET,2015.0,/players/L/LevyDe99,2015-09-20,Injured Reserve,MIN,Hip,2,LB
 DeAndre Levy,DET,2015.0,/players/L/LevyDe99,2015-09-27,Injured Reserve,DEN,Hip,3,LB
@@ -3285,7 +3285,7 @@ Rahim Moore,HOU,2015.0,/players/M/MoorRa00,2016-01-03,Probable,JAX,Illness,17,FS
 T.J. Yates,HOU,2015.0,/players/Y/YateT.00,2015-12-27,Injured Reserve,TEN,Knee,16,QB
 T.J. Yates,HOU,2015.0,/players/Y/YateT.00,2016-01-03,Injured Reserve,JAX,Knee,17,QB
 Jeoffrey Pagan,HOU,2015.0,/players/P/PagaJe00,2016-01-03,Questionable,JAX,Illness,17,DE
-Vick Ballard,IND,2015.0,/players/B/BallVi00,2015-09-13,Out,BUF,Hamstring,1,RB
+Vick Ballard,IND,2015.0,/players/B/BallVi00,2015-09-13,Out,BUF,Hamstring,1,
 Dan Herron,IND,2015.0,/players/H/HerrDa00,2015-09-13,Injured Reserve,BUF,Knee,1,RB
 Dan Herron,IND,2015.0,/players/H/HerrDa00,2015-09-21,Injured Reserve,NYJ,Knee,2,RB
 Dan Herron,IND,2015.0,/players/H/HerrDa00,2015-09-27,Injured Reserve,TEN,Knee,3,RB
@@ -3887,22 +3887,22 @@ Chris Conley,KAN,2015.0,/players/C/ConlCh00,2015-09-13,Probable,HOU,Knee,1,WR
 Chris Conley,KAN,2015.0,/players/C/ConlCh00,2015-10-04,Probable,CIN,Shoulder,4,WR
 Chris Conley,KAN,2015.0,/players/C/ConlCh00,2015-11-29,Probable,BUF,Hand,12,WR
 Chris Conley,KAN,2015.0,/players/C/ConlCh00,2015-12-06,Probable,OAK,Hand,13,WR
-Paul Fanaika,KAN,2015.0,/players/F/FanaPa20,2015-09-13,Injured Reserve,HOU,Undisclosed,1,G
-Paul Fanaika,KAN,2015.0,/players/F/FanaPa20,2015-09-17,Injured Reserve,DEN,Undisclosed,2,G
-Paul Fanaika,KAN,2015.0,/players/F/FanaPa20,2015-09-28,Injured Reserve,GNB,Undisclosed,3,G
-Paul Fanaika,KAN,2015.0,/players/F/FanaPa20,2015-10-04,Injured Reserve,CIN,Undisclosed,4,G
-Paul Fanaika,KAN,2015.0,/players/F/FanaPa20,2015-10-11,Injured Reserve,CHI,Undisclosed,5,G
-Paul Fanaika,KAN,2015.0,/players/F/FanaPa20,2015-10-18,Injured Reserve,MIN,Undisclosed,6,G
-Paul Fanaika,KAN,2015.0,/players/F/FanaPa20,2015-10-25,Injured Reserve,PIT,Undisclosed,7,G
-Paul Fanaika,KAN,2015.0,/players/F/FanaPa20,2015-11-01,Injured Reserve,DET,Undisclosed,8,G
-Paul Fanaika,KAN,2015.0,/players/F/FanaPa20,2015-11-15,Injured Reserve,DEN,Undisclosed,10,G
-Paul Fanaika,KAN,2015.0,/players/F/FanaPa20,2015-11-22,Injured Reserve,SDG,Undisclosed,11,G
-Paul Fanaika,KAN,2015.0,/players/F/FanaPa20,2015-11-29,Injured Reserve,BUF,Undisclosed,12,G
-Paul Fanaika,KAN,2015.0,/players/F/FanaPa20,2015-12-06,Injured Reserve,OAK,Undisclosed,13,G
-Paul Fanaika,KAN,2015.0,/players/F/FanaPa20,2015-12-13,Injured Reserve,SDG,Undisclosed,14,G
-Paul Fanaika,KAN,2015.0,/players/F/FanaPa20,2015-12-20,Injured Reserve,BAL,Undisclosed,15,G
-Paul Fanaika,KAN,2015.0,/players/F/FanaPa20,2015-12-27,Injured Reserve,CLE,Undisclosed,16,G
-Paul Fanaika,KAN,2015.0,/players/F/FanaPa20,2016-01-03,Injured Reserve,OAK,Undisclosed,17,G
+Paul Fanaika,KAN,2015.0,/players/F/FanaPa20,2015-09-13,Injured Reserve,HOU,Undisclosed,1,
+Paul Fanaika,KAN,2015.0,/players/F/FanaPa20,2015-09-17,Injured Reserve,DEN,Undisclosed,2,
+Paul Fanaika,KAN,2015.0,/players/F/FanaPa20,2015-09-28,Injured Reserve,GNB,Undisclosed,3,
+Paul Fanaika,KAN,2015.0,/players/F/FanaPa20,2015-10-04,Injured Reserve,CIN,Undisclosed,4,
+Paul Fanaika,KAN,2015.0,/players/F/FanaPa20,2015-10-11,Injured Reserve,CHI,Undisclosed,5,
+Paul Fanaika,KAN,2015.0,/players/F/FanaPa20,2015-10-18,Injured Reserve,MIN,Undisclosed,6,
+Paul Fanaika,KAN,2015.0,/players/F/FanaPa20,2015-10-25,Injured Reserve,PIT,Undisclosed,7,
+Paul Fanaika,KAN,2015.0,/players/F/FanaPa20,2015-11-01,Injured Reserve,DET,Undisclosed,8,
+Paul Fanaika,KAN,2015.0,/players/F/FanaPa20,2015-11-15,Injured Reserve,DEN,Undisclosed,10,
+Paul Fanaika,KAN,2015.0,/players/F/FanaPa20,2015-11-22,Injured Reserve,SDG,Undisclosed,11,
+Paul Fanaika,KAN,2015.0,/players/F/FanaPa20,2015-11-29,Injured Reserve,BUF,Undisclosed,12,
+Paul Fanaika,KAN,2015.0,/players/F/FanaPa20,2015-12-06,Injured Reserve,OAK,Undisclosed,13,
+Paul Fanaika,KAN,2015.0,/players/F/FanaPa20,2015-12-13,Injured Reserve,SDG,Undisclosed,14,
+Paul Fanaika,KAN,2015.0,/players/F/FanaPa20,2015-12-20,Injured Reserve,BAL,Undisclosed,15,
+Paul Fanaika,KAN,2015.0,/players/F/FanaPa20,2015-12-27,Injured Reserve,CLE,Undisclosed,16,
+Paul Fanaika,KAN,2015.0,/players/F/FanaPa20,2016-01-03,Injured Reserve,OAK,Undisclosed,17,
 Eric Fisher,KAN,2015.0,/players/F/FishEr00,2015-09-13,Questionable,HOU,Ankle,1,OT
 Eric Fisher,KAN,2015.0,/players/F/FishEr00,2015-09-17,Probable,DEN,Ankle,2,OT
 Eric Fisher,KAN,2015.0,/players/F/FishEr00,2015-09-28,Probable,GNB,Ankle,3,OT
@@ -4126,22 +4126,22 @@ Craig Mager,LAC,2015.0,/players/M/MageCr00,2015-10-12,Out,PIT,Hamstring,5,CB
 Craig Mager,LAC,2015.0,/players/M/MageCr00,2015-10-18,Out,GNB,Hamstring,6,CB
 Craig Mager,LAC,2015.0,/players/M/MageCr00,2015-10-25,Out,OAK,Hamstring,7,CB
 Craig Mager,LAC,2015.0,/players/M/MageCr00,2015-11-01,Questionable,BAL,Hamstring,8,CB
-Johnnie Troutman,LAC,2015.0,/players/T/TrouJo00,2015-09-13,Injured Reserve,DET,Arm,1,G
-Johnnie Troutman,LAC,2015.0,/players/T/TrouJo00,2015-09-20,Injured Reserve,CIN,Arm,2,G
-Johnnie Troutman,LAC,2015.0,/players/T/TrouJo00,2015-09-27,Injured Reserve,MIN,Arm,3,G
-Johnnie Troutman,LAC,2015.0,/players/T/TrouJo00,2015-10-04,Injured Reserve,CLE,Arm,4,G
-Johnnie Troutman,LAC,2015.0,/players/T/TrouJo00,2015-10-12,Injured Reserve,PIT,Arm,5,G
-Johnnie Troutman,LAC,2015.0,/players/T/TrouJo00,2015-10-18,Injured Reserve,GNB,Arm,6,G
-Johnnie Troutman,LAC,2015.0,/players/T/TrouJo00,2015-10-25,Injured Reserve,OAK,Arm,7,G
-Johnnie Troutman,LAC,2015.0,/players/T/TrouJo00,2015-11-01,Injured Reserve,BAL,Arm,8,G
-Johnnie Troutman,LAC,2015.0,/players/T/TrouJo00,2015-11-09,Injured Reserve,CHI,Arm,9,G
-Johnnie Troutman,LAC,2015.0,/players/T/TrouJo00,2015-11-22,Injured Reserve,KAN,Arm,11,G
-Johnnie Troutman,LAC,2015.0,/players/T/TrouJo00,2015-11-29,Injured Reserve,JAX,Arm,12,G
-Johnnie Troutman,LAC,2015.0,/players/T/TrouJo00,2015-12-06,Injured Reserve,DEN,Arm,13,G
-Johnnie Troutman,LAC,2015.0,/players/T/TrouJo00,2015-12-13,Injured Reserve,KAN,Arm,14,G
-Johnnie Troutman,LAC,2015.0,/players/T/TrouJo00,2015-12-20,Injured Reserve,MIA,Arm,15,G
-Johnnie Troutman,LAC,2015.0,/players/T/TrouJo00,2015-12-24,Injured Reserve,OAK,Arm,16,G
-Johnnie Troutman,LAC,2015.0,/players/T/TrouJo00,2016-01-03,Injured Reserve,DEN,Arm,17,G
+Johnnie Troutman,LAC,2015.0,/players/T/TrouJo00,2015-09-13,Injured Reserve,DET,Arm,1,
+Johnnie Troutman,LAC,2015.0,/players/T/TrouJo00,2015-09-20,Injured Reserve,CIN,Arm,2,
+Johnnie Troutman,LAC,2015.0,/players/T/TrouJo00,2015-09-27,Injured Reserve,MIN,Arm,3,
+Johnnie Troutman,LAC,2015.0,/players/T/TrouJo00,2015-10-04,Injured Reserve,CLE,Arm,4,
+Johnnie Troutman,LAC,2015.0,/players/T/TrouJo00,2015-10-12,Injured Reserve,PIT,Arm,5,
+Johnnie Troutman,LAC,2015.0,/players/T/TrouJo00,2015-10-18,Injured Reserve,GNB,Arm,6,
+Johnnie Troutman,LAC,2015.0,/players/T/TrouJo00,2015-10-25,Injured Reserve,OAK,Arm,7,
+Johnnie Troutman,LAC,2015.0,/players/T/TrouJo00,2015-11-01,Injured Reserve,BAL,Arm,8,
+Johnnie Troutman,LAC,2015.0,/players/T/TrouJo00,2015-11-09,Injured Reserve,CHI,Arm,9,
+Johnnie Troutman,LAC,2015.0,/players/T/TrouJo00,2015-11-22,Injured Reserve,KAN,Arm,11,
+Johnnie Troutman,LAC,2015.0,/players/T/TrouJo00,2015-11-29,Injured Reserve,JAX,Arm,12,
+Johnnie Troutman,LAC,2015.0,/players/T/TrouJo00,2015-12-06,Injured Reserve,DEN,Arm,13,
+Johnnie Troutman,LAC,2015.0,/players/T/TrouJo00,2015-12-13,Injured Reserve,KAN,Arm,14,
+Johnnie Troutman,LAC,2015.0,/players/T/TrouJo00,2015-12-20,Injured Reserve,MIA,Arm,15,
+Johnnie Troutman,LAC,2015.0,/players/T/TrouJo00,2015-12-24,Injured Reserve,OAK,Arm,16,
+Johnnie Troutman,LAC,2015.0,/players/T/TrouJo00,2016-01-03,Injured Reserve,DEN,Arm,17,
 Tourek Williams,LAC,2015.0,/players/W/WillTo00,2015-09-13,Injured Reserve,DET,Foot,1,DE
 Tourek Williams,LAC,2015.0,/players/W/WillTo00,2015-09-20,Injured Reserve,CIN,Foot,2,DE
 Tourek Williams,LAC,2015.0,/players/W/WillTo00,2015-09-27,Injured Reserve,MIN,Foot,3,DE
@@ -4466,13 +4466,13 @@ Jamon Brown,LAR,2015.0,/players/B/BrowJa04,2015-12-17,Injured Reserve,TAM,Leg,15
 Jamon Brown,LAR,2015.0,/players/B/BrowJa04,2015-12-27,Injured Reserve,SEA,Leg,16,OT
 Jamon Brown,LAR,2015.0,/players/B/BrowJa04,2016-01-03,Injured Reserve,SFO,Leg,17,OT
 Justice Cunningham,LAR,2015.0,/players/C/CunnJu00,2015-11-22,Questionable,BAL,Finger,11,TE
-Damian Williams,LAR,2015.0,/players/W/WillDa04,2015-11-22,Injured Reserve,BAL,Wrist,11,WR
-Damian Williams,LAR,2015.0,/players/W/WillDa04,2015-11-29,Injured Reserve,CIN,Wrist,12,WR
-Damian Williams,LAR,2015.0,/players/W/WillDa04,2015-12-06,Injured Reserve,ARI,Wrist,13,WR
-Damian Williams,LAR,2015.0,/players/W/WillDa04,2015-12-13,Injured Reserve,DET,Wrist,14,WR
-Damian Williams,LAR,2015.0,/players/W/WillDa04,2015-12-17,Injured Reserve,TAM,Wrist,15,WR
-Damian Williams,LAR,2015.0,/players/W/WillDa04,2015-12-27,Injured Reserve,SEA,Wrist,16,WR
-Damian Williams,LAR,2015.0,/players/W/WillDa04,2016-01-03,Injured Reserve,SFO,Wrist,17,WR
+Damian Williams,LAR,2015.0,/players/W/WillDa04,2015-11-22,Injured Reserve,BAL,Wrist,11,
+Damian Williams,LAR,2015.0,/players/W/WillDa04,2015-11-29,Injured Reserve,CIN,Wrist,12,
+Damian Williams,LAR,2015.0,/players/W/WillDa04,2015-12-06,Injured Reserve,ARI,Wrist,13,
+Damian Williams,LAR,2015.0,/players/W/WillDa04,2015-12-13,Injured Reserve,DET,Wrist,14,
+Damian Williams,LAR,2015.0,/players/W/WillDa04,2015-12-17,Injured Reserve,TAM,Wrist,15,
+Damian Williams,LAR,2015.0,/players/W/WillDa04,2015-12-27,Injured Reserve,SEA,Wrist,16,
+Damian Williams,LAR,2015.0,/players/W/WillDa04,2016-01-03,Injured Reserve,SFO,Wrist,17,
 Andrew Donnal,LAR,2015.0,/players/D/DonnAn00,2015-11-29,Out,CIN,Knee,12,OT
 Andrew Donnal,LAR,2015.0,/players/D/DonnAn00,2015-12-06,Out,ARI,Knee,13,OT
 Andrew Donnal,LAR,2015.0,/players/D/DonnAn00,2015-12-13,Out,DET,Knee,14,OT
@@ -4514,22 +4514,22 @@ Branden Albert,MIA,2015.0,/players/A/AlbeBr20,2015-11-29,Probable,NYJ,NotInjuryR
 Branden Albert,MIA,2015.0,/players/A/AlbeBr20,2015-12-06,Probable,BAL,NotInjuryRelated,13,G
 Branden Albert,MIA,2015.0,/players/A/AlbeBr20,2015-12-14,Probable,NYG,NotInjuryRelated,14,G
 Branden Albert,MIA,2015.0,/players/A/AlbeBr20,2015-12-27,Probable,IND,Knee,16,G
-Louis Delmas,MIA,2015.0,/players/D/DelmLo99,2015-09-13,Injured Reserve,WAS,Knee,1,DB
-Louis Delmas,MIA,2015.0,/players/D/DelmLo99,2015-09-20,Injured Reserve,JAX,Knee,2,DB
-Louis Delmas,MIA,2015.0,/players/D/DelmLo99,2015-09-27,Injured Reserve,BUF,Knee,3,DB
-Louis Delmas,MIA,2015.0,/players/D/DelmLo99,2015-10-04,Injured Reserve,NYJ,Knee,4,DB
-Louis Delmas,MIA,2015.0,/players/D/DelmLo99,2015-10-18,Injured Reserve,TEN,Knee,6,DB
-Louis Delmas,MIA,2015.0,/players/D/DelmLo99,2015-10-25,Injured Reserve,HOU,Knee,7,DB
-Louis Delmas,MIA,2015.0,/players/D/DelmLo99,2015-10-29,Injured Reserve,NWE,Knee,8,DB
-Louis Delmas,MIA,2015.0,/players/D/DelmLo99,2015-11-08,Injured Reserve,BUF,Knee,9,DB
-Louis Delmas,MIA,2015.0,/players/D/DelmLo99,2015-11-15,Injured Reserve,PHI,Knee,10,DB
-Louis Delmas,MIA,2015.0,/players/D/DelmLo99,2015-11-22,Injured Reserve,DAL,Knee,11,DB
-Louis Delmas,MIA,2015.0,/players/D/DelmLo99,2015-11-29,Injured Reserve,NYJ,Knee,12,DB
-Louis Delmas,MIA,2015.0,/players/D/DelmLo99,2015-12-06,Injured Reserve,BAL,Knee,13,DB
-Louis Delmas,MIA,2015.0,/players/D/DelmLo99,2015-12-14,Injured Reserve,NYG,Knee,14,DB
-Louis Delmas,MIA,2015.0,/players/D/DelmLo99,2015-12-20,Injured Reserve,SDG,Knee,15,DB
-Louis Delmas,MIA,2015.0,/players/D/DelmLo99,2015-12-27,Injured Reserve,IND,Knee,16,DB
-Louis Delmas,MIA,2015.0,/players/D/DelmLo99,2016-01-03,Injured Reserve,NWE,Knee,17,DB
+Louis Delmas,MIA,2015.0,/players/D/DelmLo99,2015-09-13,Injured Reserve,WAS,Knee,1,
+Louis Delmas,MIA,2015.0,/players/D/DelmLo99,2015-09-20,Injured Reserve,JAX,Knee,2,
+Louis Delmas,MIA,2015.0,/players/D/DelmLo99,2015-09-27,Injured Reserve,BUF,Knee,3,
+Louis Delmas,MIA,2015.0,/players/D/DelmLo99,2015-10-04,Injured Reserve,NYJ,Knee,4,
+Louis Delmas,MIA,2015.0,/players/D/DelmLo99,2015-10-18,Injured Reserve,TEN,Knee,6,
+Louis Delmas,MIA,2015.0,/players/D/DelmLo99,2015-10-25,Injured Reserve,HOU,Knee,7,
+Louis Delmas,MIA,2015.0,/players/D/DelmLo99,2015-10-29,Injured Reserve,NWE,Knee,8,
+Louis Delmas,MIA,2015.0,/players/D/DelmLo99,2015-11-08,Injured Reserve,BUF,Knee,9,
+Louis Delmas,MIA,2015.0,/players/D/DelmLo99,2015-11-15,Injured Reserve,PHI,Knee,10,
+Louis Delmas,MIA,2015.0,/players/D/DelmLo99,2015-11-22,Injured Reserve,DAL,Knee,11,
+Louis Delmas,MIA,2015.0,/players/D/DelmLo99,2015-11-29,Injured Reserve,NYJ,Knee,12,
+Louis Delmas,MIA,2015.0,/players/D/DelmLo99,2015-12-06,Injured Reserve,BAL,Knee,13,
+Louis Delmas,MIA,2015.0,/players/D/DelmLo99,2015-12-14,Injured Reserve,NYG,Knee,14,
+Louis Delmas,MIA,2015.0,/players/D/DelmLo99,2015-12-20,Injured Reserve,SDG,Knee,15,
+Louis Delmas,MIA,2015.0,/players/D/DelmLo99,2015-12-27,Injured Reserve,IND,Knee,16,
+Louis Delmas,MIA,2015.0,/players/D/DelmLo99,2016-01-03,Injured Reserve,NWE,Knee,17,
 Jason Fox,MIA,2015.0,/players/F/FoxxJa20,2015-09-13,Doubtful,WAS,Concussion,1,T
 LaMichael James,MIA,2015.0,/players/J/JameLa00,2015-09-13,Probable,WAS,Shoulder,1,RB
 DeVante Parker,MIA,2015.0,/players/P/ParkDe01,2015-09-13,Probable,WAS,Foot,1,WR
@@ -4691,38 +4691,38 @@ Bobby McCain,MIA,2015.0,/players/M/McCaBo01,2015-12-20,Questionable,SDG,Concussi
 Jake Stoneburner,MIA,2015.0,/players/S/StonJa01,2015-12-27,Probable,IND,Foot,16,TE
 Zach Line,MIN,2015.0,/players/L/LineZa01,2015-09-14,Probable,SFO,Knee,1,FB
 Zach Line,MIN,2015.0,/players/L/LineZa01,2015-11-01,Probable,CHI,Neck,8,FB
-Phil Loadholt,MIN,2015.0,/players/L/LoadPh20,2015-09-14,Injured Reserve,SFO,Achilles,1,T
-Phil Loadholt,MIN,2015.0,/players/L/LoadPh20,2015-09-20,Injured Reserve,DET,Achilles,2,T
-Phil Loadholt,MIN,2015.0,/players/L/LoadPh20,2015-09-27,Injured Reserve,SDG,Achilles,3,T
-Phil Loadholt,MIN,2015.0,/players/L/LoadPh20,2015-10-04,Injured Reserve,DEN,Achilles,4,T
-Phil Loadholt,MIN,2015.0,/players/L/LoadPh20,2015-10-18,Injured Reserve,KAN,Achilles,6,T
-Phil Loadholt,MIN,2015.0,/players/L/LoadPh20,2015-10-25,Injured Reserve,DET,Achilles,7,T
-Phil Loadholt,MIN,2015.0,/players/L/LoadPh20,2015-11-01,Injured Reserve,CHI,Achilles,8,T
-Phil Loadholt,MIN,2015.0,/players/L/LoadPh20,2015-11-08,Injured Reserve,STL,Achilles,9,T
-Phil Loadholt,MIN,2015.0,/players/L/LoadPh20,2015-11-15,Injured Reserve,OAK,Achilles,10,T
-Phil Loadholt,MIN,2015.0,/players/L/LoadPh20,2015-11-22,Injured Reserve,GNB,Achilles,11,T
-Phil Loadholt,MIN,2015.0,/players/L/LoadPh20,2015-11-29,Injured Reserve,ATL,Achilles,12,T
-Phil Loadholt,MIN,2015.0,/players/L/LoadPh20,2015-12-06,Injured Reserve,SEA,Achilles,13,T
-Phil Loadholt,MIN,2015.0,/players/L/LoadPh20,2015-12-10,Injured Reserve,ARI,Achilles,14,T
-Phil Loadholt,MIN,2015.0,/players/L/LoadPh20,2015-12-20,Injured Reserve,CHI,Achilles,15,T
-Phil Loadholt,MIN,2015.0,/players/L/LoadPh20,2015-12-27,Injured Reserve,NYG,Achilles,16,T
-Phil Loadholt,MIN,2015.0,/players/L/LoadPh20,2016-01-03,Injured Reserve,GNB,Achilles,17,T
-Casey Matthews,MIN,2015.0,/players/M/MattCa00,2015-09-14,Injured Reserve,SFO,Hip,1,LB
-Casey Matthews,MIN,2015.0,/players/M/MattCa00,2015-09-20,Injured Reserve,DET,Hip,2,LB
-Casey Matthews,MIN,2015.0,/players/M/MattCa00,2015-09-27,Injured Reserve,SDG,Hip,3,LB
-Casey Matthews,MIN,2015.0,/players/M/MattCa00,2015-10-04,Injured Reserve,DEN,Hip,4,LB
-Casey Matthews,MIN,2015.0,/players/M/MattCa00,2015-10-18,Injured Reserve,KAN,Hip,6,LB
-Casey Matthews,MIN,2015.0,/players/M/MattCa00,2015-10-25,Injured Reserve,DET,Hip,7,LB
-Casey Matthews,MIN,2015.0,/players/M/MattCa00,2015-11-01,Injured Reserve,CHI,Hip,8,LB
-Casey Matthews,MIN,2015.0,/players/M/MattCa00,2015-11-08,Injured Reserve,STL,Hip,9,LB
-Casey Matthews,MIN,2015.0,/players/M/MattCa00,2015-11-15,Injured Reserve,OAK,Hip,10,LB
-Casey Matthews,MIN,2015.0,/players/M/MattCa00,2015-11-22,Injured Reserve,GNB,Hip,11,LB
-Casey Matthews,MIN,2015.0,/players/M/MattCa00,2015-11-29,Injured Reserve,ATL,Hip,12,LB
-Casey Matthews,MIN,2015.0,/players/M/MattCa00,2015-12-06,Injured Reserve,SEA,Hip,13,LB
-Casey Matthews,MIN,2015.0,/players/M/MattCa00,2015-12-10,Injured Reserve,ARI,Hip,14,LB
-Casey Matthews,MIN,2015.0,/players/M/MattCa00,2015-12-20,Injured Reserve,CHI,Hip,15,LB
-Casey Matthews,MIN,2015.0,/players/M/MattCa00,2015-12-27,Injured Reserve,NYG,Hip,16,LB
-Casey Matthews,MIN,2015.0,/players/M/MattCa00,2016-01-03,Injured Reserve,GNB,Hip,17,LB
+Phil Loadholt,MIN,2015.0,/players/L/LoadPh20,2015-09-14,Injured Reserve,SFO,Achilles,1,
+Phil Loadholt,MIN,2015.0,/players/L/LoadPh20,2015-09-20,Injured Reserve,DET,Achilles,2,
+Phil Loadholt,MIN,2015.0,/players/L/LoadPh20,2015-09-27,Injured Reserve,SDG,Achilles,3,
+Phil Loadholt,MIN,2015.0,/players/L/LoadPh20,2015-10-04,Injured Reserve,DEN,Achilles,4,
+Phil Loadholt,MIN,2015.0,/players/L/LoadPh20,2015-10-18,Injured Reserve,KAN,Achilles,6,
+Phil Loadholt,MIN,2015.0,/players/L/LoadPh20,2015-10-25,Injured Reserve,DET,Achilles,7,
+Phil Loadholt,MIN,2015.0,/players/L/LoadPh20,2015-11-01,Injured Reserve,CHI,Achilles,8,
+Phil Loadholt,MIN,2015.0,/players/L/LoadPh20,2015-11-08,Injured Reserve,STL,Achilles,9,
+Phil Loadholt,MIN,2015.0,/players/L/LoadPh20,2015-11-15,Injured Reserve,OAK,Achilles,10,
+Phil Loadholt,MIN,2015.0,/players/L/LoadPh20,2015-11-22,Injured Reserve,GNB,Achilles,11,
+Phil Loadholt,MIN,2015.0,/players/L/LoadPh20,2015-11-29,Injured Reserve,ATL,Achilles,12,
+Phil Loadholt,MIN,2015.0,/players/L/LoadPh20,2015-12-06,Injured Reserve,SEA,Achilles,13,
+Phil Loadholt,MIN,2015.0,/players/L/LoadPh20,2015-12-10,Injured Reserve,ARI,Achilles,14,
+Phil Loadholt,MIN,2015.0,/players/L/LoadPh20,2015-12-20,Injured Reserve,CHI,Achilles,15,
+Phil Loadholt,MIN,2015.0,/players/L/LoadPh20,2015-12-27,Injured Reserve,NYG,Achilles,16,
+Phil Loadholt,MIN,2015.0,/players/L/LoadPh20,2016-01-03,Injured Reserve,GNB,Achilles,17,
+Casey Matthews,MIN,2015.0,/players/M/MattCa00,2015-09-14,Injured Reserve,SFO,Hip,1,
+Casey Matthews,MIN,2015.0,/players/M/MattCa00,2015-09-20,Injured Reserve,DET,Hip,2,
+Casey Matthews,MIN,2015.0,/players/M/MattCa00,2015-09-27,Injured Reserve,SDG,Hip,3,
+Casey Matthews,MIN,2015.0,/players/M/MattCa00,2015-10-04,Injured Reserve,DEN,Hip,4,
+Casey Matthews,MIN,2015.0,/players/M/MattCa00,2015-10-18,Injured Reserve,KAN,Hip,6,
+Casey Matthews,MIN,2015.0,/players/M/MattCa00,2015-10-25,Injured Reserve,DET,Hip,7,
+Casey Matthews,MIN,2015.0,/players/M/MattCa00,2015-11-01,Injured Reserve,CHI,Hip,8,
+Casey Matthews,MIN,2015.0,/players/M/MattCa00,2015-11-08,Injured Reserve,STL,Hip,9,
+Casey Matthews,MIN,2015.0,/players/M/MattCa00,2015-11-15,Injured Reserve,OAK,Hip,10,
+Casey Matthews,MIN,2015.0,/players/M/MattCa00,2015-11-22,Injured Reserve,GNB,Hip,11,
+Casey Matthews,MIN,2015.0,/players/M/MattCa00,2015-11-29,Injured Reserve,ATL,Hip,12,
+Casey Matthews,MIN,2015.0,/players/M/MattCa00,2015-12-06,Injured Reserve,SEA,Hip,13,
+Casey Matthews,MIN,2015.0,/players/M/MattCa00,2015-12-10,Injured Reserve,ARI,Hip,14,
+Casey Matthews,MIN,2015.0,/players/M/MattCa00,2015-12-20,Injured Reserve,CHI,Hip,15,
+Casey Matthews,MIN,2015.0,/players/M/MattCa00,2015-12-27,Injured Reserve,NYG,Hip,16,
+Casey Matthews,MIN,2015.0,/players/M/MattCa00,2016-01-03,Injured Reserve,GNB,Hip,17,
 MyCole Pruitt,MIN,2015.0,/players/P/PruiMy00,2015-09-14,Probable,SFO,Ankle,1,TE
 Shamar Stephen,MIN,2015.0,/players/S/StepSh00,2015-09-14,Probable,SFO,Knee,1,DT
 Shamar Stephen,MIN,2015.0,/players/S/StepSh00,2015-09-20,Probable,DET,Knee,2,DT
@@ -4773,18 +4773,18 @@ Charles Johnson,MIN,2015.0,/players/J/JohnCh08,2015-10-18,Questionable,KAN,Rib,6
 Charles Johnson,MIN,2015.0,/players/J/JohnCh08,2015-10-25,Probable,DET,Rib,7,WR
 Charles Johnson,MIN,2015.0,/players/J/JohnCh08,2015-12-20,Out,CHI,Ankle,15,WR
 Charles Johnson,MIN,2015.0,/players/J/JohnCh08,2015-12-27,Probable,NYG,Ankle,16,WR
-Jabari Price,MIN,2015.0,/players/P/PricJa00,2015-10-04,Out,DEN,Shoulder,4,CB
-Jabari Price,MIN,2015.0,/players/P/PricJa00,2015-10-18,Probable,KAN,Shoulder,6,CB
-Jabari Price,MIN,2015.0,/players/P/PricJa00,2015-11-01,Injured Reserve,CHI,Shoulder,8,CB
-Jabari Price,MIN,2015.0,/players/P/PricJa00,2015-11-08,Injured Reserve,STL,Shoulder,9,CB
-Jabari Price,MIN,2015.0,/players/P/PricJa00,2015-11-15,Injured Reserve,OAK,Shoulder,10,CB
-Jabari Price,MIN,2015.0,/players/P/PricJa00,2015-11-22,Injured Reserve,GNB,Shoulder,11,CB
-Jabari Price,MIN,2015.0,/players/P/PricJa00,2015-11-29,Injured Reserve,ATL,Shoulder,12,CB
-Jabari Price,MIN,2015.0,/players/P/PricJa00,2015-12-06,Injured Reserve,SEA,Shoulder,13,CB
-Jabari Price,MIN,2015.0,/players/P/PricJa00,2015-12-10,Injured Reserve,ARI,Shoulder,14,CB
-Jabari Price,MIN,2015.0,/players/P/PricJa00,2015-12-20,Injured Reserve,CHI,Shoulder,15,CB
-Jabari Price,MIN,2015.0,/players/P/PricJa00,2015-12-27,Injured Reserve,NYG,Shoulder,16,CB
-Jabari Price,MIN,2015.0,/players/P/PricJa00,2016-01-03,Injured Reserve,GNB,Shoulder,17,CB
+Jabari Price,MIN,2015.0,/players/P/PricJa00,2015-10-04,Out,DEN,Shoulder,4,
+Jabari Price,MIN,2015.0,/players/P/PricJa00,2015-10-18,Probable,KAN,Shoulder,6,
+Jabari Price,MIN,2015.0,/players/P/PricJa00,2015-11-01,Injured Reserve,CHI,Shoulder,8,
+Jabari Price,MIN,2015.0,/players/P/PricJa00,2015-11-08,Injured Reserve,STL,Shoulder,9,
+Jabari Price,MIN,2015.0,/players/P/PricJa00,2015-11-15,Injured Reserve,OAK,Shoulder,10,
+Jabari Price,MIN,2015.0,/players/P/PricJa00,2015-11-22,Injured Reserve,GNB,Shoulder,11,
+Jabari Price,MIN,2015.0,/players/P/PricJa00,2015-11-29,Injured Reserve,ATL,Shoulder,12,
+Jabari Price,MIN,2015.0,/players/P/PricJa00,2015-12-06,Injured Reserve,SEA,Shoulder,13,
+Jabari Price,MIN,2015.0,/players/P/PricJa00,2015-12-10,Injured Reserve,ARI,Shoulder,14,
+Jabari Price,MIN,2015.0,/players/P/PricJa00,2015-12-20,Injured Reserve,CHI,Shoulder,15,
+Jabari Price,MIN,2015.0,/players/P/PricJa00,2015-12-27,Injured Reserve,NYG,Shoulder,16,
+Jabari Price,MIN,2015.0,/players/P/PricJa00,2016-01-03,Injured Reserve,GNB,Shoulder,17,
 Xavier Rhodes,MIN,2015.0,/players/R/RhodXa00,2015-10-04,Probable,DEN,Concussion,4,CB
 Andrew Sendejo,MIN,2015.0,/players/S/SendAn00,2015-10-04,Out,DEN,Knee,4,DB
 Andrew Sendejo,MIN,2015.0,/players/S/SendAn00,2015-10-18,Questionable,KAN,Knee,6,DB
@@ -4934,22 +4934,22 @@ Keenan Lewis,NOR,2015.0,/players/L/LewiKe96,2015-12-13,Injured Reserve,TAM,Leg,1
 Keenan Lewis,NOR,2015.0,/players/L/LewiKe96,2015-12-21,Injured Reserve,DET,Leg,15,DB
 Keenan Lewis,NOR,2015.0,/players/L/LewiKe96,2015-12-27,Injured Reserve,JAX,Leg,16,DB
 Keenan Lewis,NOR,2015.0,/players/L/LewiKe96,2016-01-03,Injured Reserve,ATL,Leg,17,DB
-Anthony Spencer,NOR,2015.0,/players/S/SpenAn99,2015-09-13,Injured Reserve,ARI,Undisclosed,1,DE
-Anthony Spencer,NOR,2015.0,/players/S/SpenAn99,2015-09-20,Injured Reserve,TAM,Undisclosed,2,DE
-Anthony Spencer,NOR,2015.0,/players/S/SpenAn99,2015-09-27,Injured Reserve,CAR,Undisclosed,3,DE
-Anthony Spencer,NOR,2015.0,/players/S/SpenAn99,2015-10-04,Injured Reserve,DAL,Undisclosed,4,DE
-Anthony Spencer,NOR,2015.0,/players/S/SpenAn99,2015-10-11,Injured Reserve,PHI,Undisclosed,5,DE
-Anthony Spencer,NOR,2015.0,/players/S/SpenAn99,2015-10-15,Injured Reserve,ATL,Undisclosed,6,DE
-Anthony Spencer,NOR,2015.0,/players/S/SpenAn99,2015-10-25,Injured Reserve,IND,Undisclosed,7,DE
-Anthony Spencer,NOR,2015.0,/players/S/SpenAn99,2015-11-01,Injured Reserve,NYG,Undisclosed,8,DE
-Anthony Spencer,NOR,2015.0,/players/S/SpenAn99,2015-11-08,Injured Reserve,TEN,Undisclosed,9,DE
-Anthony Spencer,NOR,2015.0,/players/S/SpenAn99,2015-11-15,Injured Reserve,WAS,Undisclosed,10,DE
-Anthony Spencer,NOR,2015.0,/players/S/SpenAn99,2015-11-29,Injured Reserve,HOU,Undisclosed,12,DE
-Anthony Spencer,NOR,2015.0,/players/S/SpenAn99,2015-12-06,Injured Reserve,CAR,Undisclosed,13,DE
-Anthony Spencer,NOR,2015.0,/players/S/SpenAn99,2015-12-13,Injured Reserve,TAM,Undisclosed,14,DE
-Anthony Spencer,NOR,2015.0,/players/S/SpenAn99,2015-12-21,Injured Reserve,DET,Undisclosed,15,DE
-Anthony Spencer,NOR,2015.0,/players/S/SpenAn99,2015-12-27,Injured Reserve,JAX,Undisclosed,16,DE
-Anthony Spencer,NOR,2015.0,/players/S/SpenAn99,2016-01-03,Injured Reserve,ATL,Undisclosed,17,DE
+Anthony Spencer,NOR,2015.0,/players/S/SpenAn99,2015-09-13,Injured Reserve,ARI,Undisclosed,1,
+Anthony Spencer,NOR,2015.0,/players/S/SpenAn99,2015-09-20,Injured Reserve,TAM,Undisclosed,2,
+Anthony Spencer,NOR,2015.0,/players/S/SpenAn99,2015-09-27,Injured Reserve,CAR,Undisclosed,3,
+Anthony Spencer,NOR,2015.0,/players/S/SpenAn99,2015-10-04,Injured Reserve,DAL,Undisclosed,4,
+Anthony Spencer,NOR,2015.0,/players/S/SpenAn99,2015-10-11,Injured Reserve,PHI,Undisclosed,5,
+Anthony Spencer,NOR,2015.0,/players/S/SpenAn99,2015-10-15,Injured Reserve,ATL,Undisclosed,6,
+Anthony Spencer,NOR,2015.0,/players/S/SpenAn99,2015-10-25,Injured Reserve,IND,Undisclosed,7,
+Anthony Spencer,NOR,2015.0,/players/S/SpenAn99,2015-11-01,Injured Reserve,NYG,Undisclosed,8,
+Anthony Spencer,NOR,2015.0,/players/S/SpenAn99,2015-11-08,Injured Reserve,TEN,Undisclosed,9,
+Anthony Spencer,NOR,2015.0,/players/S/SpenAn99,2015-11-15,Injured Reserve,WAS,Undisclosed,10,
+Anthony Spencer,NOR,2015.0,/players/S/SpenAn99,2015-11-29,Injured Reserve,HOU,Undisclosed,12,
+Anthony Spencer,NOR,2015.0,/players/S/SpenAn99,2015-12-06,Injured Reserve,CAR,Undisclosed,13,
+Anthony Spencer,NOR,2015.0,/players/S/SpenAn99,2015-12-13,Injured Reserve,TAM,Undisclosed,14,
+Anthony Spencer,NOR,2015.0,/players/S/SpenAn99,2015-12-21,Injured Reserve,DET,Undisclosed,15,
+Anthony Spencer,NOR,2015.0,/players/S/SpenAn99,2015-12-27,Injured Reserve,JAX,Undisclosed,16,
+Anthony Spencer,NOR,2015.0,/players/S/SpenAn99,2016-01-03,Injured Reserve,ATL,Undisclosed,17,
 C.J. Spiller,NOR,2015.0,/players/S/SpilC.00,2015-09-13,Out,ARI,Knee,1,RB
 C.J. Spiller,NOR,2015.0,/players/S/SpilC.00,2015-09-20,Questionable,TAM,Knee,2,RB
 C.J. Spiller,NOR,2015.0,/players/S/SpilC.00,2015-12-27,Injured Reserve,JAX,Head,16,RB
@@ -5167,22 +5167,22 @@ James Develin,NWE,2015.0,/players/D/DeveJa00,2015-12-13,Injured Reserve,HOU,Shin
 James Develin,NWE,2015.0,/players/D/DeveJa00,2015-12-20,Injured Reserve,TEN,Shin,15,RB
 James Develin,NWE,2015.0,/players/D/DeveJa00,2015-12-27,Injured Reserve,NYJ,Shin,16,RB
 James Develin,NWE,2015.0,/players/D/DeveJa00,2016-01-03,Injured Reserve,MIA,Shin,17,RB
-Dane Fletcher,NWE,2015.0,/players/F/FletDa00,2015-09-10,Injured Reserve,PIT,Knee,1,DE
-Dane Fletcher,NWE,2015.0,/players/F/FletDa00,2015-09-20,Injured Reserve,BUF,Knee,2,DE
-Dane Fletcher,NWE,2015.0,/players/F/FletDa00,2015-09-27,Injured Reserve,JAX,Knee,3,DE
-Dane Fletcher,NWE,2015.0,/players/F/FletDa00,2015-10-11,Injured Reserve,DAL,Knee,5,DE
-Dane Fletcher,NWE,2015.0,/players/F/FletDa00,2015-10-18,Injured Reserve,IND,Knee,6,DE
-Dane Fletcher,NWE,2015.0,/players/F/FletDa00,2015-10-25,Injured Reserve,NYJ,Knee,7,DE
-Dane Fletcher,NWE,2015.0,/players/F/FletDa00,2015-10-29,Injured Reserve,MIA,Knee,8,DE
-Dane Fletcher,NWE,2015.0,/players/F/FletDa00,2015-11-08,Injured Reserve,WAS,Knee,9,DE
-Dane Fletcher,NWE,2015.0,/players/F/FletDa00,2015-11-15,Injured Reserve,NYG,Knee,10,DE
-Dane Fletcher,NWE,2015.0,/players/F/FletDa00,2015-11-23,Injured Reserve,BUF,Knee,11,DE
-Dane Fletcher,NWE,2015.0,/players/F/FletDa00,2015-11-29,Injured Reserve,DEN,Knee,12,DE
-Dane Fletcher,NWE,2015.0,/players/F/FletDa00,2015-12-06,Injured Reserve,PHI,Knee,13,DE
-Dane Fletcher,NWE,2015.0,/players/F/FletDa00,2015-12-13,Injured Reserve,HOU,Knee,14,DE
-Dane Fletcher,NWE,2015.0,/players/F/FletDa00,2015-12-20,Injured Reserve,TEN,Knee,15,DE
-Dane Fletcher,NWE,2015.0,/players/F/FletDa00,2015-12-27,Injured Reserve,NYJ,Knee,16,DE
-Dane Fletcher,NWE,2015.0,/players/F/FletDa00,2016-01-03,Injured Reserve,MIA,Knee,17,DE
+Dane Fletcher,NWE,2015.0,/players/F/FletDa00,2015-09-10,Injured Reserve,PIT,Knee,1,
+Dane Fletcher,NWE,2015.0,/players/F/FletDa00,2015-09-20,Injured Reserve,BUF,Knee,2,
+Dane Fletcher,NWE,2015.0,/players/F/FletDa00,2015-09-27,Injured Reserve,JAX,Knee,3,
+Dane Fletcher,NWE,2015.0,/players/F/FletDa00,2015-10-11,Injured Reserve,DAL,Knee,5,
+Dane Fletcher,NWE,2015.0,/players/F/FletDa00,2015-10-18,Injured Reserve,IND,Knee,6,
+Dane Fletcher,NWE,2015.0,/players/F/FletDa00,2015-10-25,Injured Reserve,NYJ,Knee,7,
+Dane Fletcher,NWE,2015.0,/players/F/FletDa00,2015-10-29,Injured Reserve,MIA,Knee,8,
+Dane Fletcher,NWE,2015.0,/players/F/FletDa00,2015-11-08,Injured Reserve,WAS,Knee,9,
+Dane Fletcher,NWE,2015.0,/players/F/FletDa00,2015-11-15,Injured Reserve,NYG,Knee,10,
+Dane Fletcher,NWE,2015.0,/players/F/FletDa00,2015-11-23,Injured Reserve,BUF,Knee,11,
+Dane Fletcher,NWE,2015.0,/players/F/FletDa00,2015-11-29,Injured Reserve,DEN,Knee,12,
+Dane Fletcher,NWE,2015.0,/players/F/FletDa00,2015-12-06,Injured Reserve,PHI,Knee,13,
+Dane Fletcher,NWE,2015.0,/players/F/FletDa00,2015-12-13,Injured Reserve,HOU,Knee,14,
+Dane Fletcher,NWE,2015.0,/players/F/FletDa00,2015-12-20,Injured Reserve,TEN,Knee,15,
+Dane Fletcher,NWE,2015.0,/players/F/FletDa00,2015-12-27,Injured Reserve,NYJ,Knee,16,
+Dane Fletcher,NWE,2015.0,/players/F/FletDa00,2016-01-03,Injured Reserve,MIA,Knee,17,
 Trey Flowers,NWE,2015.0,/players/F/FlowTr00,2015-09-10,Questionable,PIT,Knee,1,DE
 Trey Flowers,NWE,2015.0,/players/F/FlowTr00,2015-09-20,Probable,BUF,Knee,2,DE
 Trey Flowers,NWE,2015.0,/players/F/FlowTr00,2015-09-27,Probable,JAX,Knee,3,DE
@@ -5195,22 +5195,22 @@ Trey Flowers,NWE,2015.0,/players/F/FlowTr00,2015-12-13,Injured Reserve,HOU,Undis
 Trey Flowers,NWE,2015.0,/players/F/FlowTr00,2015-12-20,Injured Reserve,TEN,Undisclosed,15,DE
 Trey Flowers,NWE,2015.0,/players/F/FlowTr00,2015-12-27,Injured Reserve,NYJ,Undisclosed,16,DE
 Trey Flowers,NWE,2015.0,/players/F/FlowTr00,2016-01-03,Injured Reserve,MIA,Undisclosed,17,DE
-Brandon Gibson,NWE,2015.0,/players/G/GibsBr00,2015-09-10,Injured Reserve,PIT,Knee,1,WR
-Brandon Gibson,NWE,2015.0,/players/G/GibsBr00,2015-09-20,Injured Reserve,BUF,Knee,2,WR
-Brandon Gibson,NWE,2015.0,/players/G/GibsBr00,2015-09-27,Injured Reserve,JAX,Knee,3,WR
-Brandon Gibson,NWE,2015.0,/players/G/GibsBr00,2015-10-11,Injured Reserve,DAL,Knee,5,WR
-Brandon Gibson,NWE,2015.0,/players/G/GibsBr00,2015-10-18,Injured Reserve,IND,Knee,6,WR
-Brandon Gibson,NWE,2015.0,/players/G/GibsBr00,2015-10-25,Injured Reserve,NYJ,Knee,7,WR
-Brandon Gibson,NWE,2015.0,/players/G/GibsBr00,2015-10-29,Injured Reserve,MIA,Knee,8,WR
-Brandon Gibson,NWE,2015.0,/players/G/GibsBr00,2015-11-08,Injured Reserve,WAS,Knee,9,WR
-Brandon Gibson,NWE,2015.0,/players/G/GibsBr00,2015-11-15,Injured Reserve,NYG,Knee,10,WR
-Brandon Gibson,NWE,2015.0,/players/G/GibsBr00,2015-11-23,Injured Reserve,BUF,Knee,11,WR
-Brandon Gibson,NWE,2015.0,/players/G/GibsBr00,2015-11-29,Injured Reserve,DEN,Knee,12,WR
-Brandon Gibson,NWE,2015.0,/players/G/GibsBr00,2015-12-06,Injured Reserve,PHI,Knee,13,WR
-Brandon Gibson,NWE,2015.0,/players/G/GibsBr00,2015-12-13,Injured Reserve,HOU,Knee,14,WR
-Brandon Gibson,NWE,2015.0,/players/G/GibsBr00,2015-12-20,Injured Reserve,TEN,Knee,15,WR
-Brandon Gibson,NWE,2015.0,/players/G/GibsBr00,2015-12-27,Injured Reserve,NYJ,Knee,16,WR
-Brandon Gibson,NWE,2015.0,/players/G/GibsBr00,2016-01-03,Injured Reserve,MIA,Knee,17,WR
+Brandon Gibson,NWE,2015.0,/players/G/GibsBr00,2015-09-10,Injured Reserve,PIT,Knee,1,
+Brandon Gibson,NWE,2015.0,/players/G/GibsBr00,2015-09-20,Injured Reserve,BUF,Knee,2,
+Brandon Gibson,NWE,2015.0,/players/G/GibsBr00,2015-09-27,Injured Reserve,JAX,Knee,3,
+Brandon Gibson,NWE,2015.0,/players/G/GibsBr00,2015-10-11,Injured Reserve,DAL,Knee,5,
+Brandon Gibson,NWE,2015.0,/players/G/GibsBr00,2015-10-18,Injured Reserve,IND,Knee,6,
+Brandon Gibson,NWE,2015.0,/players/G/GibsBr00,2015-10-25,Injured Reserve,NYJ,Knee,7,
+Brandon Gibson,NWE,2015.0,/players/G/GibsBr00,2015-10-29,Injured Reserve,MIA,Knee,8,
+Brandon Gibson,NWE,2015.0,/players/G/GibsBr00,2015-11-08,Injured Reserve,WAS,Knee,9,
+Brandon Gibson,NWE,2015.0,/players/G/GibsBr00,2015-11-15,Injured Reserve,NYG,Knee,10,
+Brandon Gibson,NWE,2015.0,/players/G/GibsBr00,2015-11-23,Injured Reserve,BUF,Knee,11,
+Brandon Gibson,NWE,2015.0,/players/G/GibsBr00,2015-11-29,Injured Reserve,DEN,Knee,12,
+Brandon Gibson,NWE,2015.0,/players/G/GibsBr00,2015-12-06,Injured Reserve,PHI,Knee,13,
+Brandon Gibson,NWE,2015.0,/players/G/GibsBr00,2015-12-13,Injured Reserve,HOU,Knee,14,
+Brandon Gibson,NWE,2015.0,/players/G/GibsBr00,2015-12-20,Injured Reserve,TEN,Knee,15,
+Brandon Gibson,NWE,2015.0,/players/G/GibsBr00,2015-12-27,Injured Reserve,NYJ,Knee,16,
+Brandon Gibson,NWE,2015.0,/players/G/GibsBr00,2016-01-03,Injured Reserve,MIA,Knee,17,
 Chris Jones,NWE,2015.0,/players/J/JoneCh04,2015-09-10,Injured Reserve,PIT,Calf,1,DT
 Chris Jones,NWE,2015.0,/players/J/JoneCh04,2015-09-20,Injured Reserve,BUF,Calf,2,DT
 Chris Jones,NWE,2015.0,/players/J/JoneCh04,2015-09-27,Injured Reserve,JAX,Calf,3,DT
@@ -5258,22 +5258,22 @@ Bryan Stork,NWE,2015.0,/players/S/StorBr00,2015-10-18,Injured Reserve,IND,Concus
 Bryan Stork,NWE,2015.0,/players/S/StorBr00,2015-10-25,Injured Reserve,NYJ,Concussion,7,C
 Bryan Stork,NWE,2015.0,/players/S/StorBr00,2015-10-29,Injured Reserve,MIA,Concussion,8,C
 Bryan Stork,NWE,2015.0,/players/S/StorBr00,2015-12-20,Probable,TEN,NotInjuryRelated,15,C
-Brian Tyms,NWE,2015.0,/players/T/TymsBr00,2015-09-10,Injured Reserve,PIT,Foot,1,WR
-Brian Tyms,NWE,2015.0,/players/T/TymsBr00,2015-09-20,Injured Reserve,BUF,Foot,2,WR
-Brian Tyms,NWE,2015.0,/players/T/TymsBr00,2015-09-27,Injured Reserve,JAX,Foot,3,WR
-Brian Tyms,NWE,2015.0,/players/T/TymsBr00,2015-10-11,Injured Reserve,DAL,Foot,5,WR
-Brian Tyms,NWE,2015.0,/players/T/TymsBr00,2015-10-18,Injured Reserve,IND,Foot,6,WR
-Brian Tyms,NWE,2015.0,/players/T/TymsBr00,2015-10-25,Injured Reserve,NYJ,Foot,7,WR
-Brian Tyms,NWE,2015.0,/players/T/TymsBr00,2015-10-29,Injured Reserve,MIA,Foot,8,WR
-Brian Tyms,NWE,2015.0,/players/T/TymsBr00,2015-11-08,Injured Reserve,WAS,Foot,9,WR
-Brian Tyms,NWE,2015.0,/players/T/TymsBr00,2015-11-15,Injured Reserve,NYG,Foot,10,WR
-Brian Tyms,NWE,2015.0,/players/T/TymsBr00,2015-11-23,Injured Reserve,BUF,Foot,11,WR
-Brian Tyms,NWE,2015.0,/players/T/TymsBr00,2015-11-29,Injured Reserve,DEN,Foot,12,WR
-Brian Tyms,NWE,2015.0,/players/T/TymsBr00,2015-12-06,Injured Reserve,PHI,Foot,13,WR
-Brian Tyms,NWE,2015.0,/players/T/TymsBr00,2015-12-13,Injured Reserve,HOU,Foot,14,WR
-Brian Tyms,NWE,2015.0,/players/T/TymsBr00,2015-12-20,Injured Reserve,TEN,Foot,15,WR
-Brian Tyms,NWE,2015.0,/players/T/TymsBr00,2015-12-27,Injured Reserve,NYJ,Foot,16,WR
-Brian Tyms,NWE,2015.0,/players/T/TymsBr00,2016-01-03,Injured Reserve,MIA,Foot,17,WR
+Brian Tyms,NWE,2015.0,/players/T/TymsBr00,2015-09-10,Injured Reserve,PIT,Foot,1,
+Brian Tyms,NWE,2015.0,/players/T/TymsBr00,2015-09-20,Injured Reserve,BUF,Foot,2,
+Brian Tyms,NWE,2015.0,/players/T/TymsBr00,2015-09-27,Injured Reserve,JAX,Foot,3,
+Brian Tyms,NWE,2015.0,/players/T/TymsBr00,2015-10-11,Injured Reserve,DAL,Foot,5,
+Brian Tyms,NWE,2015.0,/players/T/TymsBr00,2015-10-18,Injured Reserve,IND,Foot,6,
+Brian Tyms,NWE,2015.0,/players/T/TymsBr00,2015-10-25,Injured Reserve,NYJ,Foot,7,
+Brian Tyms,NWE,2015.0,/players/T/TymsBr00,2015-10-29,Injured Reserve,MIA,Foot,8,
+Brian Tyms,NWE,2015.0,/players/T/TymsBr00,2015-11-08,Injured Reserve,WAS,Foot,9,
+Brian Tyms,NWE,2015.0,/players/T/TymsBr00,2015-11-15,Injured Reserve,NYG,Foot,10,
+Brian Tyms,NWE,2015.0,/players/T/TymsBr00,2015-11-23,Injured Reserve,BUF,Foot,11,
+Brian Tyms,NWE,2015.0,/players/T/TymsBr00,2015-11-29,Injured Reserve,DEN,Foot,12,
+Brian Tyms,NWE,2015.0,/players/T/TymsBr00,2015-12-06,Injured Reserve,PHI,Foot,13,
+Brian Tyms,NWE,2015.0,/players/T/TymsBr00,2015-12-13,Injured Reserve,HOU,Foot,14,
+Brian Tyms,NWE,2015.0,/players/T/TymsBr00,2015-12-20,Injured Reserve,TEN,Foot,15,
+Brian Tyms,NWE,2015.0,/players/T/TymsBr00,2015-12-27,Injured Reserve,NYJ,Foot,16,
+Brian Tyms,NWE,2015.0,/players/T/TymsBr00,2016-01-03,Injured Reserve,MIA,Foot,17,
 Tavon Wilson,NWE,2015.0,/players/W/WilsTa00,2015-09-10,Questionable,PIT,Quadricep,1,FS
 Tavon Wilson,NWE,2015.0,/players/W/WilsTa00,2015-09-20,Probable,BUF,Quadricep,2,FS
 Dominique Easley,NWE,2015.0,/players/E/EaslDo00,2015-09-20,Doubtful,BUF,Hip,2,DT
@@ -5532,22 +5532,22 @@ Victor Cruz,NYG,2015.0,/players/C/CruzVi00,2015-12-14,Injured Reserve,MIA,Calf,1
 Victor Cruz,NYG,2015.0,/players/C/CruzVi00,2015-12-20,Injured Reserve,CAR,Calf,15,WR
 Victor Cruz,NYG,2015.0,/players/C/CruzVi00,2015-12-27,Injured Reserve,MIN,Calf,16,WR
 Victor Cruz,NYG,2015.0,/players/C/CruzVi00,2016-01-03,Injured Reserve,PHI,Calf,17,WR
-Josh Gordy,NYG,2015.0,/players/G/GordJo01,2015-09-13,Injured Reserve,DAL,Undisclosed,1,DB
-Josh Gordy,NYG,2015.0,/players/G/GordJo01,2015-09-20,Injured Reserve,ATL,Undisclosed,2,DB
-Josh Gordy,NYG,2015.0,/players/G/GordJo01,2015-09-24,Injured Reserve,WAS,Undisclosed,3,DB
-Josh Gordy,NYG,2015.0,/players/G/GordJo01,2015-10-04,Injured Reserve,BUF,Undisclosed,4,DB
-Josh Gordy,NYG,2015.0,/players/G/GordJo01,2015-10-11,Injured Reserve,SFO,Undisclosed,5,DB
-Josh Gordy,NYG,2015.0,/players/G/GordJo01,2015-10-19,Injured Reserve,PHI,Undisclosed,6,DB
-Josh Gordy,NYG,2015.0,/players/G/GordJo01,2015-10-25,Injured Reserve,DAL,Undisclosed,7,DB
-Josh Gordy,NYG,2015.0,/players/G/GordJo01,2015-11-01,Injured Reserve,NOR,Undisclosed,8,DB
-Josh Gordy,NYG,2015.0,/players/G/GordJo01,2015-11-08,Injured Reserve,TAM,Undisclosed,9,DB
-Josh Gordy,NYG,2015.0,/players/G/GordJo01,2015-11-15,Injured Reserve,NWE,Undisclosed,10,DB
-Josh Gordy,NYG,2015.0,/players/G/GordJo01,2015-11-29,Injured Reserve,WAS,Undisclosed,12,DB
-Josh Gordy,NYG,2015.0,/players/G/GordJo01,2015-12-06,Injured Reserve,NYJ,Undisclosed,13,DB
-Josh Gordy,NYG,2015.0,/players/G/GordJo01,2015-12-14,Injured Reserve,MIA,Undisclosed,14,DB
-Josh Gordy,NYG,2015.0,/players/G/GordJo01,2015-12-20,Injured Reserve,CAR,Undisclosed,15,DB
-Josh Gordy,NYG,2015.0,/players/G/GordJo01,2015-12-27,Injured Reserve,MIN,Undisclosed,16,DB
-Josh Gordy,NYG,2015.0,/players/G/GordJo01,2016-01-03,Injured Reserve,PHI,Undisclosed,17,DB
+Josh Gordy,NYG,2015.0,/players/G/GordJo01,2015-09-13,Injured Reserve,DAL,Undisclosed,1,
+Josh Gordy,NYG,2015.0,/players/G/GordJo01,2015-09-20,Injured Reserve,ATL,Undisclosed,2,
+Josh Gordy,NYG,2015.0,/players/G/GordJo01,2015-09-24,Injured Reserve,WAS,Undisclosed,3,
+Josh Gordy,NYG,2015.0,/players/G/GordJo01,2015-10-04,Injured Reserve,BUF,Undisclosed,4,
+Josh Gordy,NYG,2015.0,/players/G/GordJo01,2015-10-11,Injured Reserve,SFO,Undisclosed,5,
+Josh Gordy,NYG,2015.0,/players/G/GordJo01,2015-10-19,Injured Reserve,PHI,Undisclosed,6,
+Josh Gordy,NYG,2015.0,/players/G/GordJo01,2015-10-25,Injured Reserve,DAL,Undisclosed,7,
+Josh Gordy,NYG,2015.0,/players/G/GordJo01,2015-11-01,Injured Reserve,NOR,Undisclosed,8,
+Josh Gordy,NYG,2015.0,/players/G/GordJo01,2015-11-08,Injured Reserve,TAM,Undisclosed,9,
+Josh Gordy,NYG,2015.0,/players/G/GordJo01,2015-11-15,Injured Reserve,NWE,Undisclosed,10,
+Josh Gordy,NYG,2015.0,/players/G/GordJo01,2015-11-29,Injured Reserve,WAS,Undisclosed,12,
+Josh Gordy,NYG,2015.0,/players/G/GordJo01,2015-12-06,Injured Reserve,NYJ,Undisclosed,13,
+Josh Gordy,NYG,2015.0,/players/G/GordJo01,2015-12-14,Injured Reserve,MIA,Undisclosed,14,
+Josh Gordy,NYG,2015.0,/players/G/GordJo01,2015-12-20,Injured Reserve,CAR,Undisclosed,15,
+Josh Gordy,NYG,2015.0,/players/G/GordJo01,2015-12-27,Injured Reserve,MIN,Undisclosed,16,
+Josh Gordy,NYG,2015.0,/players/G/GordJo01,2016-01-03,Injured Reserve,PHI,Undisclosed,17,
 Bennett Jackson,NYG,2015.0,/players/J/JackBe00,2015-09-13,Injured Reserve,DAL,Knee,1,CB
 Bennett Jackson,NYG,2015.0,/players/J/JackBe00,2015-09-20,Injured Reserve,ATL,Knee,2,CB
 Bennett Jackson,NYG,2015.0,/players/J/JackBe00,2015-09-24,Injured Reserve,WAS,Knee,3,CB
@@ -5879,38 +5879,38 @@ Geno Smith,NYJ,2015.0,/players/S/SmitGe00,2015-09-27,Probable,PHI,Jaw,3,QB
 Geno Smith,NYJ,2015.0,/players/S/SmitGe00,2015-11-08,Probable,JAX,leftShoulder,9,QB
 Geno Smith,NYJ,2015.0,/players/S/SmitGe00,2015-11-12,Probable,BUF,leftShoulder,10,QB
 Geno Smith,NYJ,2015.0,/players/S/SmitGe00,2015-12-27,Probable,NWE,Illness,16,QB
-Zach Sudfeld,NYJ,2015.0,/players/S/SudfZa00,2015-09-13,Injured Reserve,CLE,Knee,1,TE
-Zach Sudfeld,NYJ,2015.0,/players/S/SudfZa00,2015-09-21,Injured Reserve,IND,Knee,2,TE
-Zach Sudfeld,NYJ,2015.0,/players/S/SudfZa00,2015-09-27,Injured Reserve,PHI,Knee,3,TE
-Zach Sudfeld,NYJ,2015.0,/players/S/SudfZa00,2015-10-04,Injured Reserve,MIA,Knee,4,TE
-Zach Sudfeld,NYJ,2015.0,/players/S/SudfZa00,2015-10-18,Injured Reserve,WAS,Knee,6,TE
-Zach Sudfeld,NYJ,2015.0,/players/S/SudfZa00,2015-10-25,Injured Reserve,NWE,Knee,7,TE
-Zach Sudfeld,NYJ,2015.0,/players/S/SudfZa00,2015-11-01,Injured Reserve,OAK,Knee,8,TE
-Zach Sudfeld,NYJ,2015.0,/players/S/SudfZa00,2015-11-08,Injured Reserve,JAX,Knee,9,TE
-Zach Sudfeld,NYJ,2015.0,/players/S/SudfZa00,2015-11-12,Injured Reserve,BUF,Knee,10,TE
-Zach Sudfeld,NYJ,2015.0,/players/S/SudfZa00,2015-11-22,Injured Reserve,HOU,Knee,11,TE
-Zach Sudfeld,NYJ,2015.0,/players/S/SudfZa00,2015-11-29,Injured Reserve,MIA,Knee,12,TE
-Zach Sudfeld,NYJ,2015.0,/players/S/SudfZa00,2015-12-06,Injured Reserve,NYG,Knee,13,TE
-Zach Sudfeld,NYJ,2015.0,/players/S/SudfZa00,2015-12-13,Injured Reserve,TEN,Knee,14,TE
-Zach Sudfeld,NYJ,2015.0,/players/S/SudfZa00,2015-12-19,Injured Reserve,DAL,Knee,15,TE
-Zach Sudfeld,NYJ,2015.0,/players/S/SudfZa00,2015-12-27,Injured Reserve,NWE,Knee,16,TE
-Zach Sudfeld,NYJ,2015.0,/players/S/SudfZa00,2016-01-03,Injured Reserve,BUF,Knee,17,TE
-Kevin Vickerson,NYJ,2015.0,/players/V/VickKe99,2015-09-13,Injured Reserve,CLE,Hamstring,1,DT
-Kevin Vickerson,NYJ,2015.0,/players/V/VickKe99,2015-09-21,Injured Reserve,IND,Hamstring,2,DT
-Kevin Vickerson,NYJ,2015.0,/players/V/VickKe99,2015-09-27,Injured Reserve,PHI,Hamstring,3,DT
-Kevin Vickerson,NYJ,2015.0,/players/V/VickKe99,2015-10-04,Injured Reserve,MIA,Hamstring,4,DT
-Kevin Vickerson,NYJ,2015.0,/players/V/VickKe99,2015-10-18,Injured Reserve,WAS,Hamstring,6,DT
-Kevin Vickerson,NYJ,2015.0,/players/V/VickKe99,2015-10-25,Injured Reserve,NWE,Hamstring,7,DT
-Kevin Vickerson,NYJ,2015.0,/players/V/VickKe99,2015-11-01,Injured Reserve,OAK,Hamstring,8,DT
-Kevin Vickerson,NYJ,2015.0,/players/V/VickKe99,2015-11-08,Injured Reserve,JAX,Hamstring,9,DT
-Kevin Vickerson,NYJ,2015.0,/players/V/VickKe99,2015-11-12,Injured Reserve,BUF,Hamstring,10,DT
-Kevin Vickerson,NYJ,2015.0,/players/V/VickKe99,2015-11-22,Injured Reserve,HOU,Hamstring,11,DT
-Kevin Vickerson,NYJ,2015.0,/players/V/VickKe99,2015-11-29,Injured Reserve,MIA,Hamstring,12,DT
-Kevin Vickerson,NYJ,2015.0,/players/V/VickKe99,2015-12-06,Injured Reserve,NYG,Hamstring,13,DT
-Kevin Vickerson,NYJ,2015.0,/players/V/VickKe99,2015-12-13,Injured Reserve,TEN,Hamstring,14,DT
-Kevin Vickerson,NYJ,2015.0,/players/V/VickKe99,2015-12-19,Injured Reserve,DAL,Hamstring,15,DT
-Kevin Vickerson,NYJ,2015.0,/players/V/VickKe99,2015-12-27,Injured Reserve,NWE,Hamstring,16,DT
-Kevin Vickerson,NYJ,2015.0,/players/V/VickKe99,2016-01-03,Injured Reserve,BUF,Hamstring,17,DT
+Zach Sudfeld,NYJ,2015.0,/players/S/SudfZa00,2015-09-13,Injured Reserve,CLE,Knee,1,
+Zach Sudfeld,NYJ,2015.0,/players/S/SudfZa00,2015-09-21,Injured Reserve,IND,Knee,2,
+Zach Sudfeld,NYJ,2015.0,/players/S/SudfZa00,2015-09-27,Injured Reserve,PHI,Knee,3,
+Zach Sudfeld,NYJ,2015.0,/players/S/SudfZa00,2015-10-04,Injured Reserve,MIA,Knee,4,
+Zach Sudfeld,NYJ,2015.0,/players/S/SudfZa00,2015-10-18,Injured Reserve,WAS,Knee,6,
+Zach Sudfeld,NYJ,2015.0,/players/S/SudfZa00,2015-10-25,Injured Reserve,NWE,Knee,7,
+Zach Sudfeld,NYJ,2015.0,/players/S/SudfZa00,2015-11-01,Injured Reserve,OAK,Knee,8,
+Zach Sudfeld,NYJ,2015.0,/players/S/SudfZa00,2015-11-08,Injured Reserve,JAX,Knee,9,
+Zach Sudfeld,NYJ,2015.0,/players/S/SudfZa00,2015-11-12,Injured Reserve,BUF,Knee,10,
+Zach Sudfeld,NYJ,2015.0,/players/S/SudfZa00,2015-11-22,Injured Reserve,HOU,Knee,11,
+Zach Sudfeld,NYJ,2015.0,/players/S/SudfZa00,2015-11-29,Injured Reserve,MIA,Knee,12,
+Zach Sudfeld,NYJ,2015.0,/players/S/SudfZa00,2015-12-06,Injured Reserve,NYG,Knee,13,
+Zach Sudfeld,NYJ,2015.0,/players/S/SudfZa00,2015-12-13,Injured Reserve,TEN,Knee,14,
+Zach Sudfeld,NYJ,2015.0,/players/S/SudfZa00,2015-12-19,Injured Reserve,DAL,Knee,15,
+Zach Sudfeld,NYJ,2015.0,/players/S/SudfZa00,2015-12-27,Injured Reserve,NWE,Knee,16,
+Zach Sudfeld,NYJ,2015.0,/players/S/SudfZa00,2016-01-03,Injured Reserve,BUF,Knee,17,
+Kevin Vickerson,NYJ,2015.0,/players/V/VickKe99,2015-09-13,Injured Reserve,CLE,Hamstring,1,
+Kevin Vickerson,NYJ,2015.0,/players/V/VickKe99,2015-09-21,Injured Reserve,IND,Hamstring,2,
+Kevin Vickerson,NYJ,2015.0,/players/V/VickKe99,2015-09-27,Injured Reserve,PHI,Hamstring,3,
+Kevin Vickerson,NYJ,2015.0,/players/V/VickKe99,2015-10-04,Injured Reserve,MIA,Hamstring,4,
+Kevin Vickerson,NYJ,2015.0,/players/V/VickKe99,2015-10-18,Injured Reserve,WAS,Hamstring,6,
+Kevin Vickerson,NYJ,2015.0,/players/V/VickKe99,2015-10-25,Injured Reserve,NWE,Hamstring,7,
+Kevin Vickerson,NYJ,2015.0,/players/V/VickKe99,2015-11-01,Injured Reserve,OAK,Hamstring,8,
+Kevin Vickerson,NYJ,2015.0,/players/V/VickKe99,2015-11-08,Injured Reserve,JAX,Hamstring,9,
+Kevin Vickerson,NYJ,2015.0,/players/V/VickKe99,2015-11-12,Injured Reserve,BUF,Hamstring,10,
+Kevin Vickerson,NYJ,2015.0,/players/V/VickKe99,2015-11-22,Injured Reserve,HOU,Hamstring,11,
+Kevin Vickerson,NYJ,2015.0,/players/V/VickKe99,2015-11-29,Injured Reserve,MIA,Hamstring,12,
+Kevin Vickerson,NYJ,2015.0,/players/V/VickKe99,2015-12-06,Injured Reserve,NYG,Hamstring,13,
+Kevin Vickerson,NYJ,2015.0,/players/V/VickKe99,2015-12-13,Injured Reserve,TEN,Hamstring,14,
+Kevin Vickerson,NYJ,2015.0,/players/V/VickKe99,2015-12-19,Injured Reserve,DAL,Hamstring,15,
+Kevin Vickerson,NYJ,2015.0,/players/V/VickKe99,2015-12-27,Injured Reserve,NWE,Hamstring,16,
+Kevin Vickerson,NYJ,2015.0,/players/V/VickKe99,2016-01-03,Injured Reserve,BUF,Hamstring,17,
 Leonard Williams,NYJ,2015.0,/players/W/WillLe02,2015-09-13,Probable,CLE,Calf,1,DT
 Leonard Williams,NYJ,2015.0,/players/W/WillLe02,2015-10-18,Probable,WAS,Ankle,6,DT
 Leonard Williams,NYJ,2015.0,/players/W/WillLe02,2015-11-01,Probable,OAK,Knee,8,DT
@@ -6298,21 +6298,21 @@ Seyi Ajirotutu,PHI,2015.0,/players/A/AjirSe00,2015-09-27,Probable,NYJ,Elbow,3,WR
 Seyi Ajirotutu,PHI,2015.0,/players/A/AjirSe00,2015-12-06,Probable,NWE,Calf,13,WR
 Seyi Ajirotutu,PHI,2015.0,/players/A/AjirSe00,2015-12-26,Questionable,WAS,Ankle,16,WR
 Seyi Ajirotutu,PHI,2015.0,/players/A/AjirSe00,2016-01-03,Out,NYG,Ankle,17,WR
-Travis Long,PHI,2015.0,/players/L/LongTr00,2015-09-20,Injured Reserve,DAL,Knee,2,LB
-Travis Long,PHI,2015.0,/players/L/LongTr00,2015-09-27,Injured Reserve,NYJ,Knee,3,LB
-Travis Long,PHI,2015.0,/players/L/LongTr00,2015-10-04,Injured Reserve,WAS,Knee,4,LB
-Travis Long,PHI,2015.0,/players/L/LongTr00,2015-10-11,Injured Reserve,NOR,Knee,5,LB
-Travis Long,PHI,2015.0,/players/L/LongTr00,2015-10-19,Injured Reserve,NYG,Knee,6,LB
-Travis Long,PHI,2015.0,/players/L/LongTr00,2015-10-25,Injured Reserve,CAR,Knee,7,LB
-Travis Long,PHI,2015.0,/players/L/LongTr00,2015-11-08,Injured Reserve,DAL,Knee,9,LB
-Travis Long,PHI,2015.0,/players/L/LongTr00,2015-11-15,Injured Reserve,MIA,Knee,10,LB
-Travis Long,PHI,2015.0,/players/L/LongTr00,2015-11-22,Injured Reserve,TAM,Knee,11,LB
-Travis Long,PHI,2015.0,/players/L/LongTr00,2015-11-26,Injured Reserve,DET,Knee,12,LB
-Travis Long,PHI,2015.0,/players/L/LongTr00,2015-12-06,Injured Reserve,NWE,Knee,13,LB
-Travis Long,PHI,2015.0,/players/L/LongTr00,2015-12-13,Injured Reserve,BUF,Knee,14,LB
-Travis Long,PHI,2015.0,/players/L/LongTr00,2015-12-20,Injured Reserve,ARI,Knee,15,LB
-Travis Long,PHI,2015.0,/players/L/LongTr00,2015-12-26,Injured Reserve,WAS,Knee,16,LB
-Travis Long,PHI,2015.0,/players/L/LongTr00,2016-01-03,Injured Reserve,NYG,Knee,17,LB
+Travis Long,PHI,2015.0,/players/L/LongTr00,2015-09-20,Injured Reserve,DAL,Knee,2,
+Travis Long,PHI,2015.0,/players/L/LongTr00,2015-09-27,Injured Reserve,NYJ,Knee,3,
+Travis Long,PHI,2015.0,/players/L/LongTr00,2015-10-04,Injured Reserve,WAS,Knee,4,
+Travis Long,PHI,2015.0,/players/L/LongTr00,2015-10-11,Injured Reserve,NOR,Knee,5,
+Travis Long,PHI,2015.0,/players/L/LongTr00,2015-10-19,Injured Reserve,NYG,Knee,6,
+Travis Long,PHI,2015.0,/players/L/LongTr00,2015-10-25,Injured Reserve,CAR,Knee,7,
+Travis Long,PHI,2015.0,/players/L/LongTr00,2015-11-08,Injured Reserve,DAL,Knee,9,
+Travis Long,PHI,2015.0,/players/L/LongTr00,2015-11-15,Injured Reserve,MIA,Knee,10,
+Travis Long,PHI,2015.0,/players/L/LongTr00,2015-11-22,Injured Reserve,TAM,Knee,11,
+Travis Long,PHI,2015.0,/players/L/LongTr00,2015-11-26,Injured Reserve,DET,Knee,12,
+Travis Long,PHI,2015.0,/players/L/LongTr00,2015-12-06,Injured Reserve,NWE,Knee,13,
+Travis Long,PHI,2015.0,/players/L/LongTr00,2015-12-13,Injured Reserve,BUF,Knee,14,
+Travis Long,PHI,2015.0,/players/L/LongTr00,2015-12-20,Injured Reserve,ARI,Knee,15,
+Travis Long,PHI,2015.0,/players/L/LongTr00,2015-12-26,Injured Reserve,WAS,Knee,16,
+Travis Long,PHI,2015.0,/players/L/LongTr00,2016-01-03,Injured Reserve,NYG,Knee,17,
 David Molk,PHI,2015.0,/players/M/MolkDa00,2015-09-20,Injured Reserve,DAL,Bicep,2,C
 David Molk,PHI,2015.0,/players/M/MolkDa00,2015-09-27,Injured Reserve,NYJ,Bicep,3,C
 David Molk,PHI,2015.0,/players/M/MolkDa00,2015-10-04,Injured Reserve,WAS,Bicep,4,C
@@ -6502,38 +6502,38 @@ Mike Adams,PIT,2015.0,/players/A/AdamMi02,2015-12-13,Injured Reserve,CIN,Back,14
 Mike Adams,PIT,2015.0,/players/A/AdamMi02,2015-12-20,Injured Reserve,DEN,Back,15,OT
 Mike Adams,PIT,2015.0,/players/A/AdamMi02,2015-12-27,Injured Reserve,BAL,Back,16,OT
 Mike Adams,PIT,2015.0,/players/A/AdamMi02,2016-01-03,Injured Reserve,CLE,Back,17,OT
-Bruce Gradkowski,PIT,2015.0,/players/G/GradBr00,2015-09-10,Injured Reserve,NWE,Hand,1,QB
-Bruce Gradkowski,PIT,2015.0,/players/G/GradBr00,2015-09-20,Injured Reserve,SFO,Hand,2,QB
-Bruce Gradkowski,PIT,2015.0,/players/G/GradBr00,2015-09-27,Injured Reserve,STL,Hand,3,QB
-Bruce Gradkowski,PIT,2015.0,/players/G/GradBr00,2015-10-01,Injured Reserve,BAL,Hand,4,QB
-Bruce Gradkowski,PIT,2015.0,/players/G/GradBr00,2015-10-12,Injured Reserve,SDG,Hand,5,QB
-Bruce Gradkowski,PIT,2015.0,/players/G/GradBr00,2015-10-18,Injured Reserve,ARI,Hand,6,QB
-Bruce Gradkowski,PIT,2015.0,/players/G/GradBr00,2015-10-25,Injured Reserve,KAN,Hand,7,QB
-Bruce Gradkowski,PIT,2015.0,/players/G/GradBr00,2015-11-01,Injured Reserve,CIN,Hand,8,QB
-Bruce Gradkowski,PIT,2015.0,/players/G/GradBr00,2015-11-08,Injured Reserve,OAK,Hand,9,QB
-Bruce Gradkowski,PIT,2015.0,/players/G/GradBr00,2015-11-15,Injured Reserve,CLE,Hand,10,QB
-Bruce Gradkowski,PIT,2015.0,/players/G/GradBr00,2015-11-29,Injured Reserve,SEA,Hand,12,QB
-Bruce Gradkowski,PIT,2015.0,/players/G/GradBr00,2015-12-06,Injured Reserve,IND,Hand,13,QB
-Bruce Gradkowski,PIT,2015.0,/players/G/GradBr00,2015-12-13,Injured Reserve,CIN,Hand,14,QB
-Bruce Gradkowski,PIT,2015.0,/players/G/GradBr00,2015-12-20,Injured Reserve,DEN,Hand,15,QB
-Bruce Gradkowski,PIT,2015.0,/players/G/GradBr00,2015-12-27,Injured Reserve,BAL,Hand,16,QB
-Bruce Gradkowski,PIT,2015.0,/players/G/GradBr00,2016-01-03,Injured Reserve,CLE,Hand,17,QB
-Garrett Hartley,PIT,2015.0,/players/H/HartGa00,2015-09-10,Injured Reserve,NWE,Hamstring,1,K
-Garrett Hartley,PIT,2015.0,/players/H/HartGa00,2015-09-20,Injured Reserve,SFO,Hamstring,2,K
-Garrett Hartley,PIT,2015.0,/players/H/HartGa00,2015-09-27,Injured Reserve,STL,Hamstring,3,K
-Garrett Hartley,PIT,2015.0,/players/H/HartGa00,2015-10-01,Injured Reserve,BAL,Hamstring,4,K
-Garrett Hartley,PIT,2015.0,/players/H/HartGa00,2015-10-12,Injured Reserve,SDG,Hamstring,5,K
-Garrett Hartley,PIT,2015.0,/players/H/HartGa00,2015-10-18,Injured Reserve,ARI,Hamstring,6,K
-Garrett Hartley,PIT,2015.0,/players/H/HartGa00,2015-10-25,Injured Reserve,KAN,Hamstring,7,K
-Garrett Hartley,PIT,2015.0,/players/H/HartGa00,2015-11-01,Injured Reserve,CIN,Hamstring,8,K
-Garrett Hartley,PIT,2015.0,/players/H/HartGa00,2015-11-08,Injured Reserve,OAK,Hamstring,9,K
-Garrett Hartley,PIT,2015.0,/players/H/HartGa00,2015-11-15,Injured Reserve,CLE,Hamstring,10,K
-Garrett Hartley,PIT,2015.0,/players/H/HartGa00,2015-11-29,Injured Reserve,SEA,Hamstring,12,K
-Garrett Hartley,PIT,2015.0,/players/H/HartGa00,2015-12-06,Injured Reserve,IND,Hamstring,13,K
-Garrett Hartley,PIT,2015.0,/players/H/HartGa00,2015-12-13,Injured Reserve,CIN,Hamstring,14,K
-Garrett Hartley,PIT,2015.0,/players/H/HartGa00,2015-12-20,Injured Reserve,DEN,Hamstring,15,K
-Garrett Hartley,PIT,2015.0,/players/H/HartGa00,2015-12-27,Injured Reserve,BAL,Hamstring,16,K
-Garrett Hartley,PIT,2015.0,/players/H/HartGa00,2016-01-03,Injured Reserve,CLE,Hamstring,17,K
+Bruce Gradkowski,PIT,2015.0,/players/G/GradBr00,2015-09-10,Injured Reserve,NWE,Hand,1,
+Bruce Gradkowski,PIT,2015.0,/players/G/GradBr00,2015-09-20,Injured Reserve,SFO,Hand,2,
+Bruce Gradkowski,PIT,2015.0,/players/G/GradBr00,2015-09-27,Injured Reserve,STL,Hand,3,
+Bruce Gradkowski,PIT,2015.0,/players/G/GradBr00,2015-10-01,Injured Reserve,BAL,Hand,4,
+Bruce Gradkowski,PIT,2015.0,/players/G/GradBr00,2015-10-12,Injured Reserve,SDG,Hand,5,
+Bruce Gradkowski,PIT,2015.0,/players/G/GradBr00,2015-10-18,Injured Reserve,ARI,Hand,6,
+Bruce Gradkowski,PIT,2015.0,/players/G/GradBr00,2015-10-25,Injured Reserve,KAN,Hand,7,
+Bruce Gradkowski,PIT,2015.0,/players/G/GradBr00,2015-11-01,Injured Reserve,CIN,Hand,8,
+Bruce Gradkowski,PIT,2015.0,/players/G/GradBr00,2015-11-08,Injured Reserve,OAK,Hand,9,
+Bruce Gradkowski,PIT,2015.0,/players/G/GradBr00,2015-11-15,Injured Reserve,CLE,Hand,10,
+Bruce Gradkowski,PIT,2015.0,/players/G/GradBr00,2015-11-29,Injured Reserve,SEA,Hand,12,
+Bruce Gradkowski,PIT,2015.0,/players/G/GradBr00,2015-12-06,Injured Reserve,IND,Hand,13,
+Bruce Gradkowski,PIT,2015.0,/players/G/GradBr00,2015-12-13,Injured Reserve,CIN,Hand,14,
+Bruce Gradkowski,PIT,2015.0,/players/G/GradBr00,2015-12-20,Injured Reserve,DEN,Hand,15,
+Bruce Gradkowski,PIT,2015.0,/players/G/GradBr00,2015-12-27,Injured Reserve,BAL,Hand,16,
+Bruce Gradkowski,PIT,2015.0,/players/G/GradBr00,2016-01-03,Injured Reserve,CLE,Hand,17,
+Garrett Hartley,PIT,2015.0,/players/H/HartGa00,2015-09-10,Injured Reserve,NWE,Hamstring,1,
+Garrett Hartley,PIT,2015.0,/players/H/HartGa00,2015-09-20,Injured Reserve,SFO,Hamstring,2,
+Garrett Hartley,PIT,2015.0,/players/H/HartGa00,2015-09-27,Injured Reserve,STL,Hamstring,3,
+Garrett Hartley,PIT,2015.0,/players/H/HartGa00,2015-10-01,Injured Reserve,BAL,Hamstring,4,
+Garrett Hartley,PIT,2015.0,/players/H/HartGa00,2015-10-12,Injured Reserve,SDG,Hamstring,5,
+Garrett Hartley,PIT,2015.0,/players/H/HartGa00,2015-10-18,Injured Reserve,ARI,Hamstring,6,
+Garrett Hartley,PIT,2015.0,/players/H/HartGa00,2015-10-25,Injured Reserve,KAN,Hamstring,7,
+Garrett Hartley,PIT,2015.0,/players/H/HartGa00,2015-11-01,Injured Reserve,CIN,Hamstring,8,
+Garrett Hartley,PIT,2015.0,/players/H/HartGa00,2015-11-08,Injured Reserve,OAK,Hamstring,9,
+Garrett Hartley,PIT,2015.0,/players/H/HartGa00,2015-11-15,Injured Reserve,CLE,Hamstring,10,
+Garrett Hartley,PIT,2015.0,/players/H/HartGa00,2015-11-29,Injured Reserve,SEA,Hamstring,12,
+Garrett Hartley,PIT,2015.0,/players/H/HartGa00,2015-12-06,Injured Reserve,IND,Hamstring,13,
+Garrett Hartley,PIT,2015.0,/players/H/HartGa00,2015-12-13,Injured Reserve,CIN,Hamstring,14,
+Garrett Hartley,PIT,2015.0,/players/H/HartGa00,2015-12-20,Injured Reserve,DEN,Hamstring,15,
+Garrett Hartley,PIT,2015.0,/players/H/HartGa00,2015-12-27,Injured Reserve,BAL,Hamstring,16,
+Garrett Hartley,PIT,2015.0,/players/H/HartGa00,2016-01-03,Injured Reserve,CLE,Hamstring,17,
 Landry Jones,PIT,2015.0,/players/J/JoneLa02,2015-09-10,Out,NWE,Concussion,1,QB
 Landry Jones,PIT,2015.0,/players/J/JoneLa02,2015-09-20,Probable,SFO,Concussion,2,QB
 Maurkice Pouncey,PIT,2015.0,/players/P/PounMa20,2015-09-10,Injured Reserve,NWE,Ankle,1,C
@@ -6552,22 +6552,22 @@ Maurkice Pouncey,PIT,2015.0,/players/P/PounMa20,2015-12-13,Injured Reserve,CIN,A
 Maurkice Pouncey,PIT,2015.0,/players/P/PounMa20,2015-12-20,Injured Reserve,DEN,Ankle,15,C
 Maurkice Pouncey,PIT,2015.0,/players/P/PounMa20,2015-12-27,Injured Reserve,BAL,Ankle,16,C
 Maurkice Pouncey,PIT,2015.0,/players/P/PounMa20,2016-01-03,Injured Reserve,CLE,Ankle,17,C
-Shaun Suisham,PIT,2015.0,/players/S/suishsha01,2015-09-10,Injured Reserve,NWE,Knee,1,K
-Shaun Suisham,PIT,2015.0,/players/S/suishsha01,2015-09-20,Injured Reserve,SFO,Knee,2,K
-Shaun Suisham,PIT,2015.0,/players/S/suishsha01,2015-09-27,Injured Reserve,STL,Knee,3,K
-Shaun Suisham,PIT,2015.0,/players/S/suishsha01,2015-10-01,Injured Reserve,BAL,Knee,4,K
-Shaun Suisham,PIT,2015.0,/players/S/suishsha01,2015-10-12,Injured Reserve,SDG,Knee,5,K
-Shaun Suisham,PIT,2015.0,/players/S/suishsha01,2015-10-18,Injured Reserve,ARI,Knee,6,K
-Shaun Suisham,PIT,2015.0,/players/S/suishsha01,2015-10-25,Injured Reserve,KAN,Knee,7,K
-Shaun Suisham,PIT,2015.0,/players/S/suishsha01,2015-11-01,Injured Reserve,CIN,Knee,8,K
-Shaun Suisham,PIT,2015.0,/players/S/suishsha01,2015-11-08,Injured Reserve,OAK,Knee,9,K
-Shaun Suisham,PIT,2015.0,/players/S/suishsha01,2015-11-15,Injured Reserve,CLE,Knee,10,K
-Shaun Suisham,PIT,2015.0,/players/S/suishsha01,2015-11-29,Injured Reserve,SEA,Knee,12,K
-Shaun Suisham,PIT,2015.0,/players/S/suishsha01,2015-12-06,Injured Reserve,IND,Knee,13,K
-Shaun Suisham,PIT,2015.0,/players/S/suishsha01,2015-12-13,Injured Reserve,CIN,Knee,14,K
-Shaun Suisham,PIT,2015.0,/players/S/suishsha01,2015-12-20,Injured Reserve,DEN,Knee,15,K
-Shaun Suisham,PIT,2015.0,/players/S/suishsha01,2015-12-27,Injured Reserve,BAL,Knee,16,K
-Shaun Suisham,PIT,2015.0,/players/S/suishsha01,2016-01-03,Injured Reserve,CLE,Knee,17,K
+Shaun Suisham,PIT,2015.0,/players/S/suishsha01,2015-09-10,Injured Reserve,NWE,Knee,1,
+Shaun Suisham,PIT,2015.0,/players/S/suishsha01,2015-09-20,Injured Reserve,SFO,Knee,2,
+Shaun Suisham,PIT,2015.0,/players/S/suishsha01,2015-09-27,Injured Reserve,STL,Knee,3,
+Shaun Suisham,PIT,2015.0,/players/S/suishsha01,2015-10-01,Injured Reserve,BAL,Knee,4,
+Shaun Suisham,PIT,2015.0,/players/S/suishsha01,2015-10-12,Injured Reserve,SDG,Knee,5,
+Shaun Suisham,PIT,2015.0,/players/S/suishsha01,2015-10-18,Injured Reserve,ARI,Knee,6,
+Shaun Suisham,PIT,2015.0,/players/S/suishsha01,2015-10-25,Injured Reserve,KAN,Knee,7,
+Shaun Suisham,PIT,2015.0,/players/S/suishsha01,2015-11-01,Injured Reserve,CIN,Knee,8,
+Shaun Suisham,PIT,2015.0,/players/S/suishsha01,2015-11-08,Injured Reserve,OAK,Knee,9,
+Shaun Suisham,PIT,2015.0,/players/S/suishsha01,2015-11-15,Injured Reserve,CLE,Knee,10,
+Shaun Suisham,PIT,2015.0,/players/S/suishsha01,2015-11-29,Injured Reserve,SEA,Knee,12,
+Shaun Suisham,PIT,2015.0,/players/S/suishsha01,2015-12-06,Injured Reserve,IND,Knee,13,
+Shaun Suisham,PIT,2015.0,/players/S/suishsha01,2015-12-13,Injured Reserve,CIN,Knee,14,
+Shaun Suisham,PIT,2015.0,/players/S/suishsha01,2015-12-20,Injured Reserve,DEN,Knee,15,
+Shaun Suisham,PIT,2015.0,/players/S/suishsha01,2015-12-27,Injured Reserve,BAL,Knee,16,
+Shaun Suisham,PIT,2015.0,/players/S/suishsha01,2016-01-03,Injured Reserve,CLE,Knee,17,
 Cortez Allen,PIT,2015.0,/players/A/AlleCo00,2015-09-20,Injured Reserve,SFO,Knee,2,DB
 Cortez Allen,PIT,2015.0,/players/A/AlleCo00,2015-09-27,Injured Reserve,STL,Knee,3,DB
 Cortez Allen,PIT,2015.0,/players/A/AlleCo00,2015-10-01,Injured Reserve,BAL,Knee,4,DB
@@ -6592,21 +6592,21 @@ Will Allen,PIT,2015.0,/players/A/AlleWi21,2015-12-06,Probable,IND,Ankle,13,DB
 Will Allen,PIT,2015.0,/players/A/AlleWi21,2015-12-20,Probable,DEN,NotInjuryRelated,15,DB
 Will Allen,PIT,2015.0,/players/A/AlleWi21,2015-12-27,Probable,BAL,NotInjuryRelated,16,DB
 Will Allen,PIT,2015.0,/players/A/AlleWi21,2016-01-03,Probable,CLE,NotInjuryRelated,17,DB
-Rob Blanchflower,PIT,2015.0,/players/B/BlanRo01,2015-09-20,Injured Reserve,SFO,Ankle,2,TE
-Rob Blanchflower,PIT,2015.0,/players/B/BlanRo01,2015-09-27,Injured Reserve,STL,Ankle,3,TE
-Rob Blanchflower,PIT,2015.0,/players/B/BlanRo01,2015-10-01,Injured Reserve,BAL,Ankle,4,TE
-Rob Blanchflower,PIT,2015.0,/players/B/BlanRo01,2015-10-12,Injured Reserve,SDG,Ankle,5,TE
-Rob Blanchflower,PIT,2015.0,/players/B/BlanRo01,2015-10-18,Injured Reserve,ARI,Ankle,6,TE
-Rob Blanchflower,PIT,2015.0,/players/B/BlanRo01,2015-10-25,Injured Reserve,KAN,Ankle,7,TE
-Rob Blanchflower,PIT,2015.0,/players/B/BlanRo01,2015-11-01,Injured Reserve,CIN,Ankle,8,TE
-Rob Blanchflower,PIT,2015.0,/players/B/BlanRo01,2015-11-08,Injured Reserve,OAK,Ankle,9,TE
-Rob Blanchflower,PIT,2015.0,/players/B/BlanRo01,2015-11-15,Injured Reserve,CLE,Ankle,10,TE
-Rob Blanchflower,PIT,2015.0,/players/B/BlanRo01,2015-11-29,Injured Reserve,SEA,Ankle,12,TE
-Rob Blanchflower,PIT,2015.0,/players/B/BlanRo01,2015-12-06,Injured Reserve,IND,Ankle,13,TE
-Rob Blanchflower,PIT,2015.0,/players/B/BlanRo01,2015-12-13,Injured Reserve,CIN,Ankle,14,TE
-Rob Blanchflower,PIT,2015.0,/players/B/BlanRo01,2015-12-20,Injured Reserve,DEN,Ankle,15,TE
-Rob Blanchflower,PIT,2015.0,/players/B/BlanRo01,2015-12-27,Injured Reserve,BAL,Ankle,16,TE
-Rob Blanchflower,PIT,2015.0,/players/B/BlanRo01,2016-01-03,Injured Reserve,CLE,Ankle,17,TE
+Rob Blanchflower,PIT,2015.0,/players/B/BlanRo01,2015-09-20,Injured Reserve,SFO,Ankle,2,
+Rob Blanchflower,PIT,2015.0,/players/B/BlanRo01,2015-09-27,Injured Reserve,STL,Ankle,3,
+Rob Blanchflower,PIT,2015.0,/players/B/BlanRo01,2015-10-01,Injured Reserve,BAL,Ankle,4,
+Rob Blanchflower,PIT,2015.0,/players/B/BlanRo01,2015-10-12,Injured Reserve,SDG,Ankle,5,
+Rob Blanchflower,PIT,2015.0,/players/B/BlanRo01,2015-10-18,Injured Reserve,ARI,Ankle,6,
+Rob Blanchflower,PIT,2015.0,/players/B/BlanRo01,2015-10-25,Injured Reserve,KAN,Ankle,7,
+Rob Blanchflower,PIT,2015.0,/players/B/BlanRo01,2015-11-01,Injured Reserve,CIN,Ankle,8,
+Rob Blanchflower,PIT,2015.0,/players/B/BlanRo01,2015-11-08,Injured Reserve,OAK,Ankle,9,
+Rob Blanchflower,PIT,2015.0,/players/B/BlanRo01,2015-11-15,Injured Reserve,CLE,Ankle,10,
+Rob Blanchflower,PIT,2015.0,/players/B/BlanRo01,2015-11-29,Injured Reserve,SEA,Ankle,12,
+Rob Blanchflower,PIT,2015.0,/players/B/BlanRo01,2015-12-06,Injured Reserve,IND,Ankle,13,
+Rob Blanchflower,PIT,2015.0,/players/B/BlanRo01,2015-12-13,Injured Reserve,CIN,Ankle,14,
+Rob Blanchflower,PIT,2015.0,/players/B/BlanRo01,2015-12-20,Injured Reserve,DEN,Ankle,15,
+Rob Blanchflower,PIT,2015.0,/players/B/BlanRo01,2015-12-27,Injured Reserve,BAL,Ankle,16,
+Rob Blanchflower,PIT,2015.0,/players/B/BlanRo01,2016-01-03,Injured Reserve,CLE,Ankle,17,
 Brandon Boykin,PIT,2015.0,/players/B/BoykBr00,2015-09-20,Probable,SFO,Groin,2,CB
 Brandon Boykin,PIT,2015.0,/players/B/BoykBr00,2015-11-29,Probable,SEA,Ankle,12,CB
 Mike Mitchell,PIT,2015.0,/players/M/MitcMi99,2015-09-20,Probable,SFO,Hip,2,DB
@@ -6973,22 +6973,22 @@ Dres Anderson,SFO,2015.0,/players/A/AndeDr00,2015-12-13,Injured Reserve,CLE,Knee
 Dres Anderson,SFO,2015.0,/players/A/AndeDr00,2015-12-20,Injured Reserve,CIN,Knee,15,
 Dres Anderson,SFO,2015.0,/players/A/AndeDr00,2015-12-27,Injured Reserve,DET,Knee,16,
 Dres Anderson,SFO,2015.0,/players/A/AndeDr00,2016-01-03,Injured Reserve,STL,Knee,17,
-Desmond Bishop,SFO,2015.0,/players/B/BishDe99,2015-09-14,Injured Reserve,MIN,Undisclosed,1,LB
-Desmond Bishop,SFO,2015.0,/players/B/BishDe99,2015-09-20,Injured Reserve,PIT,Undisclosed,2,LB
-Desmond Bishop,SFO,2015.0,/players/B/BishDe99,2015-09-27,Injured Reserve,ARI,Undisclosed,3,LB
-Desmond Bishop,SFO,2015.0,/players/B/BishDe99,2015-10-04,Injured Reserve,GNB,Undisclosed,4,LB
-Desmond Bishop,SFO,2015.0,/players/B/BishDe99,2015-10-11,Injured Reserve,NYG,Undisclosed,5,LB
-Desmond Bishop,SFO,2015.0,/players/B/BishDe99,2015-10-18,Injured Reserve,BAL,Undisclosed,6,LB
-Desmond Bishop,SFO,2015.0,/players/B/BishDe99,2015-10-22,Injured Reserve,SEA,Undisclosed,7,LB
-Desmond Bishop,SFO,2015.0,/players/B/BishDe99,2015-11-01,Injured Reserve,STL,Undisclosed,8,LB
-Desmond Bishop,SFO,2015.0,/players/B/BishDe99,2015-11-08,Injured Reserve,ATL,Undisclosed,9,LB
-Desmond Bishop,SFO,2015.0,/players/B/BishDe99,2015-11-22,Injured Reserve,SEA,Undisclosed,11,LB
-Desmond Bishop,SFO,2015.0,/players/B/BishDe99,2015-11-29,Injured Reserve,ARI,Undisclosed,12,LB
-Desmond Bishop,SFO,2015.0,/players/B/BishDe99,2015-12-06,Injured Reserve,CHI,Undisclosed,13,LB
-Desmond Bishop,SFO,2015.0,/players/B/BishDe99,2015-12-13,Injured Reserve,CLE,Undisclosed,14,LB
-Desmond Bishop,SFO,2015.0,/players/B/BishDe99,2015-12-20,Injured Reserve,CIN,Undisclosed,15,LB
-Desmond Bishop,SFO,2015.0,/players/B/BishDe99,2015-12-27,Injured Reserve,DET,Undisclosed,16,LB
-Desmond Bishop,SFO,2015.0,/players/B/BishDe99,2016-01-03,Injured Reserve,STL,Undisclosed,17,LB
+Desmond Bishop,SFO,2015.0,/players/B/BishDe99,2015-09-14,Injured Reserve,MIN,Undisclosed,1,
+Desmond Bishop,SFO,2015.0,/players/B/BishDe99,2015-09-20,Injured Reserve,PIT,Undisclosed,2,
+Desmond Bishop,SFO,2015.0,/players/B/BishDe99,2015-09-27,Injured Reserve,ARI,Undisclosed,3,
+Desmond Bishop,SFO,2015.0,/players/B/BishDe99,2015-10-04,Injured Reserve,GNB,Undisclosed,4,
+Desmond Bishop,SFO,2015.0,/players/B/BishDe99,2015-10-11,Injured Reserve,NYG,Undisclosed,5,
+Desmond Bishop,SFO,2015.0,/players/B/BishDe99,2015-10-18,Injured Reserve,BAL,Undisclosed,6,
+Desmond Bishop,SFO,2015.0,/players/B/BishDe99,2015-10-22,Injured Reserve,SEA,Undisclosed,7,
+Desmond Bishop,SFO,2015.0,/players/B/BishDe99,2015-11-01,Injured Reserve,STL,Undisclosed,8,
+Desmond Bishop,SFO,2015.0,/players/B/BishDe99,2015-11-08,Injured Reserve,ATL,Undisclosed,9,
+Desmond Bishop,SFO,2015.0,/players/B/BishDe99,2015-11-22,Injured Reserve,SEA,Undisclosed,11,
+Desmond Bishop,SFO,2015.0,/players/B/BishDe99,2015-11-29,Injured Reserve,ARI,Undisclosed,12,
+Desmond Bishop,SFO,2015.0,/players/B/BishDe99,2015-12-06,Injured Reserve,CHI,Undisclosed,13,
+Desmond Bishop,SFO,2015.0,/players/B/BishDe99,2015-12-13,Injured Reserve,CLE,Undisclosed,14,
+Desmond Bishop,SFO,2015.0,/players/B/BishDe99,2015-12-20,Injured Reserve,CIN,Undisclosed,15,
+Desmond Bishop,SFO,2015.0,/players/B/BishDe99,2015-12-27,Injured Reserve,DET,Undisclosed,16,
+Desmond Bishop,SFO,2015.0,/players/B/BishDe99,2016-01-03,Injured Reserve,STL,Undisclosed,17,
 Tramaine Brock,SFO,2015.0,/players/B/BrocTr00,2015-09-14,Probable,MIN,Hamstring,1,DB
 Tramaine Brock,SFO,2015.0,/players/B/BrocTr00,2015-11-08,Questionable,ATL,Shin,9,DB
 Tramaine Brock,SFO,2015.0,/players/B/BrocTr00,2015-11-22,Probable,SEA,Shin,11,DB
@@ -7143,8 +7143,8 @@ Eli Harold,SFO,2015.0,/players/H/HaroEl00,2015-12-13,Probable,CLE,Shoulder,14,OL
 Eli Harold,SFO,2015.0,/players/H/HaroEl00,2015-12-20,Probable,CIN,Shoulder,15,OLB
 Eli Harold,SFO,2015.0,/players/H/HaroEl00,2015-12-27,Probable,DET,Shoulder,16,OLB
 Eli Harold,SFO,2015.0,/players/H/HaroEl00,2016-01-03,Probable,STL,Finger,17,OLB
-Brandon Thomas,SFO,2015.0,/players/T/ThomBr02,2015-10-18,Questionable,BAL,Ankle,6,OG
-Brandon Thomas,SFO,2015.0,/players/T/ThomBr02,2015-10-22,Probable,SEA,Ankle,7,OG
+Brandon Thomas,SFO,2015.0,/players/T/ThomBr02,2015-10-18,Questionable,BAL,Ankle,6,
+Brandon Thomas,SFO,2015.0,/players/T/ThomBr02,2015-10-22,Probable,SEA,Ankle,7,
 Anquan Boldin,SFO,2015.0,/players/B/BoldAn00,2015-10-22,Questionable,SEA,Hamstring,7,WR
 Anquan Boldin,SFO,2015.0,/players/B/BoldAn00,2015-11-01,Questionable,STL,Hamstring,8,WR
 Anquan Boldin,SFO,2015.0,/players/B/BoldAn00,2015-11-08,Doubtful,ATL,Hamstring,9,WR
@@ -7268,38 +7268,38 @@ Demar Dotson,TAM,2015.0,/players/D/DotsDe00,2015-11-01,Injured Reserve,ATL,Knee,
 Demar Dotson,TAM,2015.0,/players/D/DotsDe00,2015-11-08,Injured Reserve,NYG,Knee,9,T
 Demar Dotson,TAM,2015.0,/players/D/DotsDe00,2015-12-13,Injured Reserve,NOR,Knee,14,T
 Demar Dotson,TAM,2015.0,/players/D/DotsDe00,2015-12-17,Injured Reserve,STL,Knee,15,T
-Kadeem Edwards,TAM,2015.0,/players/E/EdwaKa00,2015-09-13,Injured Reserve,TEN,Foot,1,OG
-Kadeem Edwards,TAM,2015.0,/players/E/EdwaKa00,2015-09-20,Injured Reserve,NOR,Foot,2,OG
-Kadeem Edwards,TAM,2015.0,/players/E/EdwaKa00,2015-09-27,Injured Reserve,HOU,Foot,3,OG
-Kadeem Edwards,TAM,2015.0,/players/E/EdwaKa00,2015-10-04,Injured Reserve,CAR,Foot,4,OG
-Kadeem Edwards,TAM,2015.0,/players/E/EdwaKa00,2015-10-11,Injured Reserve,JAX,Foot,5,OG
-Kadeem Edwards,TAM,2015.0,/players/E/EdwaKa00,2015-10-25,Injured Reserve,WAS,Foot,7,OG
-Kadeem Edwards,TAM,2015.0,/players/E/EdwaKa00,2015-11-01,Injured Reserve,ATL,Foot,8,OG
-Kadeem Edwards,TAM,2015.0,/players/E/EdwaKa00,2015-11-08,Injured Reserve,NYG,Foot,9,OG
-Kadeem Edwards,TAM,2015.0,/players/E/EdwaKa00,2015-11-15,Injured Reserve,DAL,Foot,10,OG
-Kadeem Edwards,TAM,2015.0,/players/E/EdwaKa00,2015-11-22,Injured Reserve,PHI,Foot,11,OG
-Kadeem Edwards,TAM,2015.0,/players/E/EdwaKa00,2015-11-29,Injured Reserve,IND,Foot,12,OG
-Kadeem Edwards,TAM,2015.0,/players/E/EdwaKa00,2015-12-06,Injured Reserve,ATL,Foot,13,OG
-Kadeem Edwards,TAM,2015.0,/players/E/EdwaKa00,2015-12-13,Injured Reserve,NOR,Foot,14,OG
-Kadeem Edwards,TAM,2015.0,/players/E/EdwaKa00,2015-12-17,Injured Reserve,STL,Foot,15,OG
-Kadeem Edwards,TAM,2015.0,/players/E/EdwaKa00,2015-12-27,Injured Reserve,CHI,Foot,16,OG
-Kadeem Edwards,TAM,2015.0,/players/E/EdwaKa00,2016-01-03,Injured Reserve,CAR,Foot,17,OG
-Larry English,TAM,2015.0,/players/E/EnglLa99,2015-09-13,Injured Reserve,TEN,Knee,1,DE
-Larry English,TAM,2015.0,/players/E/EnglLa99,2015-09-20,Injured Reserve,NOR,Knee,2,DE
-Larry English,TAM,2015.0,/players/E/EnglLa99,2015-09-27,Injured Reserve,HOU,Knee,3,DE
-Larry English,TAM,2015.0,/players/E/EnglLa99,2015-10-04,Injured Reserve,CAR,Knee,4,DE
-Larry English,TAM,2015.0,/players/E/EnglLa99,2015-10-11,Injured Reserve,JAX,Knee,5,DE
-Larry English,TAM,2015.0,/players/E/EnglLa99,2015-10-25,Injured Reserve,WAS,Knee,7,DE
-Larry English,TAM,2015.0,/players/E/EnglLa99,2015-11-01,Injured Reserve,ATL,Knee,8,DE
-Larry English,TAM,2015.0,/players/E/EnglLa99,2015-11-08,Injured Reserve,NYG,Knee,9,DE
-Larry English,TAM,2015.0,/players/E/EnglLa99,2015-11-15,Injured Reserve,DAL,Knee,10,DE
-Larry English,TAM,2015.0,/players/E/EnglLa99,2015-11-22,Injured Reserve,PHI,Knee,11,DE
-Larry English,TAM,2015.0,/players/E/EnglLa99,2015-11-29,Injured Reserve,IND,Knee,12,DE
-Larry English,TAM,2015.0,/players/E/EnglLa99,2015-12-06,Injured Reserve,ATL,Knee,13,DE
-Larry English,TAM,2015.0,/players/E/EnglLa99,2015-12-13,Injured Reserve,NOR,Knee,14,DE
-Larry English,TAM,2015.0,/players/E/EnglLa99,2015-12-17,Injured Reserve,STL,Knee,15,DE
-Larry English,TAM,2015.0,/players/E/EnglLa99,2015-12-27,Injured Reserve,CHI,Knee,16,DE
-Larry English,TAM,2015.0,/players/E/EnglLa99,2016-01-03,Injured Reserve,CAR,Knee,17,DE
+Kadeem Edwards,TAM,2015.0,/players/E/EdwaKa00,2015-09-13,Injured Reserve,TEN,Foot,1,
+Kadeem Edwards,TAM,2015.0,/players/E/EdwaKa00,2015-09-20,Injured Reserve,NOR,Foot,2,
+Kadeem Edwards,TAM,2015.0,/players/E/EdwaKa00,2015-09-27,Injured Reserve,HOU,Foot,3,
+Kadeem Edwards,TAM,2015.0,/players/E/EdwaKa00,2015-10-04,Injured Reserve,CAR,Foot,4,
+Kadeem Edwards,TAM,2015.0,/players/E/EdwaKa00,2015-10-11,Injured Reserve,JAX,Foot,5,
+Kadeem Edwards,TAM,2015.0,/players/E/EdwaKa00,2015-10-25,Injured Reserve,WAS,Foot,7,
+Kadeem Edwards,TAM,2015.0,/players/E/EdwaKa00,2015-11-01,Injured Reserve,ATL,Foot,8,
+Kadeem Edwards,TAM,2015.0,/players/E/EdwaKa00,2015-11-08,Injured Reserve,NYG,Foot,9,
+Kadeem Edwards,TAM,2015.0,/players/E/EdwaKa00,2015-11-15,Injured Reserve,DAL,Foot,10,
+Kadeem Edwards,TAM,2015.0,/players/E/EdwaKa00,2015-11-22,Injured Reserve,PHI,Foot,11,
+Kadeem Edwards,TAM,2015.0,/players/E/EdwaKa00,2015-11-29,Injured Reserve,IND,Foot,12,
+Kadeem Edwards,TAM,2015.0,/players/E/EdwaKa00,2015-12-06,Injured Reserve,ATL,Foot,13,
+Kadeem Edwards,TAM,2015.0,/players/E/EdwaKa00,2015-12-13,Injured Reserve,NOR,Foot,14,
+Kadeem Edwards,TAM,2015.0,/players/E/EdwaKa00,2015-12-17,Injured Reserve,STL,Foot,15,
+Kadeem Edwards,TAM,2015.0,/players/E/EdwaKa00,2015-12-27,Injured Reserve,CHI,Foot,16,
+Kadeem Edwards,TAM,2015.0,/players/E/EdwaKa00,2016-01-03,Injured Reserve,CAR,Foot,17,
+Larry English,TAM,2015.0,/players/E/EnglLa99,2015-09-13,Injured Reserve,TEN,Knee,1,
+Larry English,TAM,2015.0,/players/E/EnglLa99,2015-09-20,Injured Reserve,NOR,Knee,2,
+Larry English,TAM,2015.0,/players/E/EnglLa99,2015-09-27,Injured Reserve,HOU,Knee,3,
+Larry English,TAM,2015.0,/players/E/EnglLa99,2015-10-04,Injured Reserve,CAR,Knee,4,
+Larry English,TAM,2015.0,/players/E/EnglLa99,2015-10-11,Injured Reserve,JAX,Knee,5,
+Larry English,TAM,2015.0,/players/E/EnglLa99,2015-10-25,Injured Reserve,WAS,Knee,7,
+Larry English,TAM,2015.0,/players/E/EnglLa99,2015-11-01,Injured Reserve,ATL,Knee,8,
+Larry English,TAM,2015.0,/players/E/EnglLa99,2015-11-08,Injured Reserve,NYG,Knee,9,
+Larry English,TAM,2015.0,/players/E/EnglLa99,2015-11-15,Injured Reserve,DAL,Knee,10,
+Larry English,TAM,2015.0,/players/E/EnglLa99,2015-11-22,Injured Reserve,PHI,Knee,11,
+Larry English,TAM,2015.0,/players/E/EnglLa99,2015-11-29,Injured Reserve,IND,Knee,12,
+Larry English,TAM,2015.0,/players/E/EnglLa99,2015-12-06,Injured Reserve,ATL,Knee,13,
+Larry English,TAM,2015.0,/players/E/EnglLa99,2015-12-13,Injured Reserve,NOR,Knee,14,
+Larry English,TAM,2015.0,/players/E/EnglLa99,2015-12-17,Injured Reserve,STL,Knee,15,
+Larry English,TAM,2015.0,/players/E/EnglLa99,2015-12-27,Injured Reserve,CHI,Knee,16,
+Larry English,TAM,2015.0,/players/E/EnglLa99,2016-01-03,Injured Reserve,CAR,Knee,17,
 Mike Evans,TAM,2015.0,/players/E/EvanMi00,2015-09-13,Questionable,TEN,Hamstring,1,WR
 Mike Evans,TAM,2015.0,/players/E/EvanMi00,2015-09-20,Questionable,NOR,Hamstring,2,WR
 Mike Evans,TAM,2015.0,/players/E/EvanMi00,2015-09-27,Probable,HOU,Hamstring,3,WR
@@ -7502,22 +7502,22 @@ Perrish Cox,TEN,2015.0,/players/C/CoxxPe99,2015-11-15,Questionable,CAR,Hamstring
 Perrish Cox,TEN,2015.0,/players/C/CoxxPe99,2015-11-19,Probable,JAX,Hamstring,11,DB
 Andy Gallik,TEN,2015.0,/players/G/GallAn00,2015-09-13,Probable,TAM,Illness,1,C
 Andy Gallik,TEN,2015.0,/players/G/GallAn00,2015-11-01,Questionable,HOU,Concussion,8,C
-Brandon Harris,TEN,2015.0,/players/H/HarrBr00,2015-09-13,Injured Reserve,TAM,Knee,1,DB
-Brandon Harris,TEN,2015.0,/players/H/HarrBr00,2015-09-20,Injured Reserve,CLE,Knee,2,DB
-Brandon Harris,TEN,2015.0,/players/H/HarrBr00,2015-09-27,Injured Reserve,IND,Knee,3,DB
-Brandon Harris,TEN,2015.0,/players/H/HarrBr00,2015-10-11,Injured Reserve,BUF,Knee,5,DB
-Brandon Harris,TEN,2015.0,/players/H/HarrBr00,2015-10-18,Injured Reserve,MIA,Knee,6,DB
-Brandon Harris,TEN,2015.0,/players/H/HarrBr00,2015-10-25,Injured Reserve,ATL,Knee,7,DB
-Brandon Harris,TEN,2015.0,/players/H/HarrBr00,2015-11-01,Injured Reserve,HOU,Knee,8,DB
-Brandon Harris,TEN,2015.0,/players/H/HarrBr00,2015-11-08,Injured Reserve,NOR,Knee,9,DB
-Brandon Harris,TEN,2015.0,/players/H/HarrBr00,2015-11-15,Injured Reserve,CAR,Knee,10,DB
-Brandon Harris,TEN,2015.0,/players/H/HarrBr00,2015-11-19,Injured Reserve,JAX,Knee,11,DB
-Brandon Harris,TEN,2015.0,/players/H/HarrBr00,2015-11-29,Injured Reserve,OAK,Knee,12,DB
-Brandon Harris,TEN,2015.0,/players/H/HarrBr00,2015-12-06,Injured Reserve,JAX,Knee,13,DB
-Brandon Harris,TEN,2015.0,/players/H/HarrBr00,2015-12-13,Injured Reserve,NYJ,Knee,14,DB
-Brandon Harris,TEN,2015.0,/players/H/HarrBr00,2015-12-20,Injured Reserve,NWE,Knee,15,DB
-Brandon Harris,TEN,2015.0,/players/H/HarrBr00,2015-12-27,Injured Reserve,HOU,Knee,16,DB
-Brandon Harris,TEN,2015.0,/players/H/HarrBr00,2016-01-03,Injured Reserve,IND,Knee,17,DB
+Brandon Harris,TEN,2015.0,/players/H/HarrBr00,2015-09-13,Injured Reserve,TAM,Knee,1,
+Brandon Harris,TEN,2015.0,/players/H/HarrBr00,2015-09-20,Injured Reserve,CLE,Knee,2,
+Brandon Harris,TEN,2015.0,/players/H/HarrBr00,2015-09-27,Injured Reserve,IND,Knee,3,
+Brandon Harris,TEN,2015.0,/players/H/HarrBr00,2015-10-11,Injured Reserve,BUF,Knee,5,
+Brandon Harris,TEN,2015.0,/players/H/HarrBr00,2015-10-18,Injured Reserve,MIA,Knee,6,
+Brandon Harris,TEN,2015.0,/players/H/HarrBr00,2015-10-25,Injured Reserve,ATL,Knee,7,
+Brandon Harris,TEN,2015.0,/players/H/HarrBr00,2015-11-01,Injured Reserve,HOU,Knee,8,
+Brandon Harris,TEN,2015.0,/players/H/HarrBr00,2015-11-08,Injured Reserve,NOR,Knee,9,
+Brandon Harris,TEN,2015.0,/players/H/HarrBr00,2015-11-15,Injured Reserve,CAR,Knee,10,
+Brandon Harris,TEN,2015.0,/players/H/HarrBr00,2015-11-19,Injured Reserve,JAX,Knee,11,
+Brandon Harris,TEN,2015.0,/players/H/HarrBr00,2015-11-29,Injured Reserve,OAK,Knee,12,
+Brandon Harris,TEN,2015.0,/players/H/HarrBr00,2015-12-06,Injured Reserve,JAX,Knee,13,
+Brandon Harris,TEN,2015.0,/players/H/HarrBr00,2015-12-13,Injured Reserve,NYJ,Knee,14,
+Brandon Harris,TEN,2015.0,/players/H/HarrBr00,2015-12-20,Injured Reserve,NWE,Knee,15,
+Brandon Harris,TEN,2015.0,/players/H/HarrBr00,2015-12-27,Injured Reserve,HOU,Knee,16,
+Brandon Harris,TEN,2015.0,/players/H/HarrBr00,2016-01-03,Injured Reserve,IND,Knee,17,
 Sammie Lee Hill,TEN,2015.0,/players/H/HillSa99,2015-09-13,Out,TAM,Knee,1,DT
 Sammie Lee Hill,TEN,2015.0,/players/H/HillSa99,2015-09-20,Out,CLE,Knee,2,DT
 Sammie Lee Hill,TEN,2015.0,/players/H/HillSa99,2015-09-27,Out,IND,Knee,3,DT
@@ -7669,22 +7669,22 @@ Junior Galette,WAS,2015.0,/players/G/GaleJu00,2015-12-20,Injured Reserve,BUF,Ach
 Junior Galette,WAS,2015.0,/players/G/GaleJu00,2015-12-26,Injured Reserve,PHI,Achilles,16,DE
 Junior Galette,WAS,2015.0,/players/G/GaleJu00,2016-01-03,Injured Reserve,DAL,Achilles,17,DE
 Robert Griffin III,WAS,2015.0,/players/G/GrifRo01,2015-09-13,Probable,MIA,Concussion,1,QB
-Adam Hayward,WAS,2015.0,/players/H/HaywAd98,2015-09-13,Injured Reserve,MIA,Knee,1,LB
-Adam Hayward,WAS,2015.0,/players/H/HaywAd98,2015-09-20,Injured Reserve,STL,Knee,2,LB
-Adam Hayward,WAS,2015.0,/players/H/HaywAd98,2015-09-24,Injured Reserve,NYG,Knee,3,LB
-Adam Hayward,WAS,2015.0,/players/H/HaywAd98,2015-10-04,Injured Reserve,PHI,Knee,4,LB
-Adam Hayward,WAS,2015.0,/players/H/HaywAd98,2015-10-11,Injured Reserve,ATL,Knee,5,LB
-Adam Hayward,WAS,2015.0,/players/H/HaywAd98,2015-10-18,Injured Reserve,NYJ,Knee,6,LB
-Adam Hayward,WAS,2015.0,/players/H/HaywAd98,2015-10-25,Injured Reserve,TAM,Knee,7,LB
-Adam Hayward,WAS,2015.0,/players/H/HaywAd98,2015-11-08,Injured Reserve,NWE,Knee,9,LB
-Adam Hayward,WAS,2015.0,/players/H/HaywAd98,2015-11-15,Injured Reserve,NOR,Knee,10,LB
-Adam Hayward,WAS,2015.0,/players/H/HaywAd98,2015-11-22,Injured Reserve,CAR,Knee,11,LB
-Adam Hayward,WAS,2015.0,/players/H/HaywAd98,2015-11-29,Injured Reserve,NYG,Knee,12,LB
-Adam Hayward,WAS,2015.0,/players/H/HaywAd98,2015-12-07,Injured Reserve,DAL,Knee,13,LB
-Adam Hayward,WAS,2015.0,/players/H/HaywAd98,2015-12-13,Injured Reserve,CHI,Knee,14,LB
-Adam Hayward,WAS,2015.0,/players/H/HaywAd98,2015-12-20,Injured Reserve,BUF,Knee,15,LB
-Adam Hayward,WAS,2015.0,/players/H/HaywAd98,2015-12-26,Injured Reserve,PHI,Knee,16,LB
-Adam Hayward,WAS,2015.0,/players/H/HaywAd98,2016-01-03,Injured Reserve,DAL,Knee,17,LB
+Adam Hayward,WAS,2015.0,/players/H/HaywAd98,2015-09-13,Injured Reserve,MIA,Knee,1,
+Adam Hayward,WAS,2015.0,/players/H/HaywAd98,2015-09-20,Injured Reserve,STL,Knee,2,
+Adam Hayward,WAS,2015.0,/players/H/HaywAd98,2015-09-24,Injured Reserve,NYG,Knee,3,
+Adam Hayward,WAS,2015.0,/players/H/HaywAd98,2015-10-04,Injured Reserve,PHI,Knee,4,
+Adam Hayward,WAS,2015.0,/players/H/HaywAd98,2015-10-11,Injured Reserve,ATL,Knee,5,
+Adam Hayward,WAS,2015.0,/players/H/HaywAd98,2015-10-18,Injured Reserve,NYJ,Knee,6,
+Adam Hayward,WAS,2015.0,/players/H/HaywAd98,2015-10-25,Injured Reserve,TAM,Knee,7,
+Adam Hayward,WAS,2015.0,/players/H/HaywAd98,2015-11-08,Injured Reserve,NWE,Knee,9,
+Adam Hayward,WAS,2015.0,/players/H/HaywAd98,2015-11-15,Injured Reserve,NOR,Knee,10,
+Adam Hayward,WAS,2015.0,/players/H/HaywAd98,2015-11-22,Injured Reserve,CAR,Knee,11,
+Adam Hayward,WAS,2015.0,/players/H/HaywAd98,2015-11-29,Injured Reserve,NYG,Knee,12,
+Adam Hayward,WAS,2015.0,/players/H/HaywAd98,2015-12-07,Injured Reserve,DAL,Knee,13,
+Adam Hayward,WAS,2015.0,/players/H/HaywAd98,2015-12-13,Injured Reserve,CHI,Knee,14,
+Adam Hayward,WAS,2015.0,/players/H/HaywAd98,2015-12-20,Injured Reserve,BUF,Knee,15,
+Adam Hayward,WAS,2015.0,/players/H/HaywAd98,2015-12-26,Injured Reserve,PHI,Knee,16,
+Adam Hayward,WAS,2015.0,/players/H/HaywAd98,2016-01-03,Injured Reserve,DAL,Knee,17,
 Jackson Jeffcoat,WAS,2015.0,/players/J/JeffJa00,2015-09-13,Questionable,MIA,Thigh,1,DE
 Jackson Jeffcoat,WAS,2015.0,/players/J/JeffJa00,2015-09-20,Questionable,STL,Thigh,2,DE
 Jackson Jeffcoat,WAS,2015.0,/players/J/JeffJa00,2015-11-08,Injured Reserve,NWE,Undisclosed,9,DE
