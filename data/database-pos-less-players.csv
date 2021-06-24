@@ -28,7 +28,7 @@ Player_Address,Player,Position
 /players/K/KoloLe00,Leo Koloamatangi,OG
 /players/L/LandJa01,Jaquarius Landrews,DB
 /players/L/LoveBr00,Bryce Love,RB
-/players/L/LoveJo03,Jordan Love,QBThrows:Right
+/players/L/LoveJo03,Jordan Love,QB
 /players/M/MackJo02,Jordan Mack,LB
 /players/M/McKiAn00,Anthony McKinney,T
 /players/M/MencEl00,Eli Mencer,DE
@@ -165,7 +165,7 @@ Player_Address,Player,Position
 /players/J/JeffRi00,Rickey Jefferson,DB
 /players/J/JohnTr08,Trey Johnson,DB
 /players/J/JoneLe00,Lenny Jones,DE
-/players/K/KaayBr00,Brad Kaaya,QBThrows:Right
+/players/K/KaayBr00,Brad Kaaya,QB
 /players/K/KellJe01,Jermaine Elliott Kelly Jr.,CB
 /players/K/KelsKe00,Keith Kelsey,ILB
 /players/K/KoroTe00,Tejan Koroma,OL
@@ -197,7 +197,7 @@ Player_Address,Player,Position
 /players/W/WilsHo00,Howard Wilson,CB
 /players/Z/ZaruAd00,Adam Zaruba,TE
 /players/B/BankJo01,Josh Banks,DT
-/players/B/BattIs00,Position: LT,"201cm, 140kg)"
+/players/B/BattIs00,Isaiah Battle,LT
 /players/B/BoweKe00,Kevin Bowen,T
 /players/B/BrigCh00,Chris Briggs,TE
 /players/C/ChubBr01,Brandon Chubb,LB
