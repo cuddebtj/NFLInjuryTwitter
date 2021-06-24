@@ -735,8 +735,8 @@ Mike Wallace,BAL,2017.0,/players/W/WallMi00,2017-12-17,Questionable,CLE,Ankle,15
 Mike Wallace,BAL,2017.0,/players/W/WallMi00,2017-12-31,Questionable,CIN,Knee,17,WR
 Tony Jefferson,BAL,2017.0,/players/J/JeffTo00,2017-10-26,Questionable,MIA,Ankle,8,FS
 Patrick Onwuasor,BAL,2017.0,/players/O/OnwuPa00,2017-10-26,Questionable,MIA,Knee,8,LB
-Terrell Suggs,BAL,2017.0,/players/S/SuggTe99,2017-10-26,Questionable,MIA,Knee,8,LB-DE
-Terrell Suggs,BAL,2017.0,/players/S/SuggTe99,2017-11-27,Questionable,HOU,Ankle,12,LB-DE
+Terrell Suggs,BAL,2017.0,/players/S/SuggTe99,2017-10-26,Questionable,MIA,Knee,8,LB
+Terrell Suggs,BAL,2017.0,/players/S/SuggTe99,2017-11-27,Questionable,HOU,Ankle,12,LB
 Eric Weddle,BAL,2017.0,/players/W/WeddEr99,2017-10-26,Questionable,MIA,Ankle,8,DB
 Nick Boyle,BAL,2017.0,/players/B/BoylNi00,2017-11-05,Questionable,TEN,Toe,9,TE
 Nick Boyle,BAL,2017.0,/players/B/BoylNi00,2017-11-19,Questionable,GNB,Toe,11,TE
@@ -3016,15 +3016,15 @@ Kyle Murphy,GNB,2017.0,/players/M/MurpKy00,2017-12-31,Injured Reserve,DET,Foot,1
 Davante Adams,GNB,2017.0,/players/A/AdamDa01,2017-10-08,Questionable,DAL,Concussion,5,WR
 Davante Adams,GNB,2017.0,/players/A/AdamDa01,2017-12-23,Out,MIN,Concussion,16,WR
 Davante Adams,GNB,2017.0,/players/A/AdamDa01,2017-12-31,Out,DET,Concussion,17,WR
-Ty Montgomery,GNB,2017.0,/players/M/MontTy01,2017-10-08,Doubtful,DAL,Ribs,5,RB-WR
-Ty Montgomery,GNB,2017.0,/players/M/MontTy01,2017-10-15,Questionable,MIN,Ribs,6,RB-WR
-Ty Montgomery,GNB,2017.0,/players/M/MontTy01,2017-11-19,Injured Reserve,BAL,Wrist,11,RB-WR
-Ty Montgomery,GNB,2017.0,/players/M/MontTy01,2017-11-26,Injured Reserve,PIT,Wrist,12,RB-WR
-Ty Montgomery,GNB,2017.0,/players/M/MontTy01,2017-12-03,Out,TAM,Ribs,13,RB-WR
-Ty Montgomery,GNB,2017.0,/players/M/MontTy01,2017-12-10,Injured Reserve,CLE,Wrist,14,RB-WR
-Ty Montgomery,GNB,2017.0,/players/M/MontTy01,2017-12-17,Injured Reserve,CAR,Wrist,15,RB-WR
-Ty Montgomery,GNB,2017.0,/players/M/MontTy01,2017-12-23,Injured Reserve,MIN,Wrist,16,RB-WR
-Ty Montgomery,GNB,2017.0,/players/M/MontTy01,2017-12-31,Injured Reserve,DET,Wrist,17,RB-WR
+Ty Montgomery,GNB,2017.0,/players/M/MontTy01,2017-10-08,Doubtful,DAL,Ribs,5,RB
+Ty Montgomery,GNB,2017.0,/players/M/MontTy01,2017-10-15,Questionable,MIN,Ribs,6,RB
+Ty Montgomery,GNB,2017.0,/players/M/MontTy01,2017-11-19,Injured Reserve,BAL,Wrist,11,RB
+Ty Montgomery,GNB,2017.0,/players/M/MontTy01,2017-11-26,Injured Reserve,PIT,Wrist,12,RB
+Ty Montgomery,GNB,2017.0,/players/M/MontTy01,2017-12-03,Out,TAM,Ribs,13,RB
+Ty Montgomery,GNB,2017.0,/players/M/MontTy01,2017-12-10,Injured Reserve,CLE,Wrist,14,RB
+Ty Montgomery,GNB,2017.0,/players/M/MontTy01,2017-12-17,Injured Reserve,CAR,Wrist,15,RB
+Ty Montgomery,GNB,2017.0,/players/M/MontTy01,2017-12-23,Injured Reserve,MIN,Wrist,16,RB
+Ty Montgomery,GNB,2017.0,/players/M/MontTy01,2017-12-31,Injured Reserve,DET,Wrist,17,RB
 Quinten Rollins,GNB,2017.0,/players/R/RollQu00,2017-10-08,Questionable,DAL,Ankle,5,CB
 Quinten Rollins,GNB,2017.0,/players/R/RollQu00,2017-10-22,Injured Reserve,NOR,Achilles,7,CB
 Quinten Rollins,GNB,2017.0,/players/R/RollQu00,2017-11-06,Injured Reserve,DET,Achilles,9,CB
@@ -4843,7 +4843,7 @@ Damien Williams,MIA,2017.0,/players/W/WillDa05,2017-12-31,Doubtful,BUF,Shoulder,
 Chase Allen,MIA,2017.0,/players/A/AlleCh02,2017-10-01,Questionable,NOR,Neck,4,LB
 Kiko Alonso,MIA,2017.0,/players/A/AlonKi00,2017-10-01,Questionable,NOR,Shoulder,4,ILB
 Isaac Asiata,MIA,2017.0,/players/A/AsiaIs00,2017-10-01,Questionable,NOR,Ankle,4,OG
-John Denney,MIA,2017.0,/players/D/DennJo20,2017-10-01,Questionable,NOR,Hamstring,4,DE-C
+John Denney,MIA,2017.0,/players/D/DennJo20,2017-10-01,Questionable,NOR,Hamstring,4,LS
 Jakeem Grant,MIA,2017.0,/players/G/GranJa00,2017-10-01,Questionable,NOR,Ankle,4,WR
 Jakeem Grant,MIA,2017.0,/players/G/GranJa00,2017-11-13,Questionable,CAR,Illness,10,WR
 Eric Smith,MIA,2017.0,/players/S/SmitEr00,2017-10-01,Injured Reserve,NOR,Knee,4,OG

@@ -708,8 +708,8 @@ Jimmy Smith,BAL,2016.0,/players/S/SmitJi03,2016-12-04,Questionable,MIA,back,13,C
 Jimmy Smith,BAL,2016.0,/players/S/SmitJi03,2016-12-18,Injured Reserve,PHI,Ankle,15,CB
 Jimmy Smith,BAL,2016.0,/players/S/SmitJi03,2016-12-25,Injured Reserve,PIT,Ankle,16,CB
 Jimmy Smith,BAL,2016.0,/players/S/SmitJi03,2017-01-01,Injured Reserve,CIN,Ankle,17,CB
-Terrell Suggs,BAL,2016.0,/players/S/SuggTe99,2016-10-23,Doubtful,NYJ,biceps,7,LB-DE
-Terrell Suggs,BAL,2016.0,/players/S/SuggTe99,2016-11-06,Questionable,PIT,biceps,9,LB-DE
+Terrell Suggs,BAL,2016.0,/players/S/SuggTe99,2016-10-23,Doubtful,NYJ,biceps,7,LB
+Terrell Suggs,BAL,2016.0,/players/S/SuggTe99,2016-11-06,Questionable,PIT,biceps,9,LB
 Kamalei Correa,BAL,2016.0,/players/C/CorrKa00,2016-11-06,Out,PIT,thigh,9,OLB
 Kamalei Correa,BAL,2016.0,/players/C/CorrKa00,2016-11-10,Questionable,CLE,thigh,10,OLB
 Kamalei Correa,BAL,2016.0,/players/C/CorrKa00,2016-11-20,Questionable,DAL,thigh,11,OLB
@@ -2926,7 +2926,7 @@ Randall Cobb,GNB,2016.0,/players/C/CobbRa00,2016-11-06,Questionable,IND,hamstrin
 Randall Cobb,GNB,2016.0,/players/C/CobbRa00,2016-12-18,Questionable,CHI,ankle,15,WR
 Randall Cobb,GNB,2016.0,/players/C/CobbRa00,2016-12-24,Questionable,MIN,ankle,16,WR
 Randall Cobb,GNB,2016.0,/players/C/CobbRa00,2017-01-01,Questionable,DET,ankle,17,WR
-Ty Montgomery,GNB,2016.0,/players/M/MontTy01,2016-10-30,Questionable,ATL,illness,8,RB-WR
+Ty Montgomery,GNB,2016.0,/players/M/MontTy01,2016-10-30,Questionable,ATL,illness,8,RB
 Demetri Goodson,GNB,2016.0,/players/G/GoodDe00,2016-11-06,Questionable,IND,concussion,9,CB
 Demetri Goodson,GNB,2016.0,/players/G/GoodDe00,2016-11-28,Injured Reserve,PHI,Knee,12,CB
 Demetri Goodson,GNB,2016.0,/players/G/GoodDe00,2016-12-04,Out,HOU,knee,13,CB
@@ -3223,8 +3223,8 @@ Jaelen Strong,HOU,2016.0,/players/S/StroJa01,2016-12-11,Injured Reserve,IND,Ankl
 Jaelen Strong,HOU,2016.0,/players/S/StroJa01,2016-12-18,Injured Reserve,JAX,Ankle,15,WR
 Jaelen Strong,HOU,2016.0,/players/S/StroJa01,2016-12-24,Injured Reserve,CIN,Ankle,16,WR
 Jaelen Strong,HOU,2016.0,/players/S/StroJa01,2017-01-01,Injured Reserve,TEN,Ankle,17,WR
-Vince Wilfork,HOU,2016.0,/players/W/WilfVi20,2016-11-13,Questionable,JAX,groin,10,NT-DT
-Vince Wilfork,HOU,2016.0,/players/W/WilfVi20,2016-11-21,Questionable,OAK,groin,11,NT-DT
+Vince Wilfork,HOU,2016.0,/players/W/WilfVi20,2016-11-13,Questionable,JAX,groin,10,DT
+Vince Wilfork,HOU,2016.0,/players/W/WilfVi20,2016-11-21,Questionable,OAK,groin,11,DT
 Alfred Blue,HOU,2016.0,/players/B/BlueAl00,2016-11-21,Out,OAK,calf,11,RB
 Alfred Blue,HOU,2016.0,/players/B/BlueAl00,2016-11-27,Out,SDG,calf,12,RB
 Alfred Blue,HOU,2016.0,/players/B/BlueAl00,2016-12-04,Questionable,GNB,calf,13,RB
@@ -3372,16 +3372,16 @@ Andrew Williamson,IND,2016.0,/players/W/WillAn02,2016-12-11,Injured Reserve,HOU,
 Andrew Williamson,IND,2016.0,/players/W/WillAn02,2016-12-18,Injured Reserve,MIN,Knee,15,
 Andrew Williamson,IND,2016.0,/players/W/WillAn02,2016-12-24,Injured Reserve,OAK,Knee,16,
 Andrew Williamson,IND,2016.0,/players/W/WillAn02,2017-01-01,Injured Reserve,JAX,Knee,17,
-Trent Cole,IND,2016.0,/players/C/ColeTr20,2016-09-18,Doubtful,DEN,back,2,DE-LB
-Trent Cole,IND,2016.0,/players/C/ColeTr20,2016-09-25,Questionable,SDG,back,3,DE-LB
-Trent Cole,IND,2016.0,/players/C/ColeTr20,2016-10-02,Injured Reserve,JAX,Back,4,DE-LB
-Trent Cole,IND,2016.0,/players/C/ColeTr20,2016-10-09,Injured Reserve,CHI,Back,5,DE-LB
-Trent Cole,IND,2016.0,/players/C/ColeTr20,2016-10-16,Injured Reserve,HOU,Back,6,DE-LB
-Trent Cole,IND,2016.0,/players/C/ColeTr20,2016-10-23,Injured Reserve,TEN,Back,7,DE-LB
-Trent Cole,IND,2016.0,/players/C/ColeTr20,2016-10-30,Injured Reserve,KAN,Back,8,DE-LB
-Trent Cole,IND,2016.0,/players/C/ColeTr20,2016-11-06,Injured Reserve,GNB,Back,9,DE-LB
-Trent Cole,IND,2016.0,/players/C/ColeTr20,2016-11-20,Injured Reserve,TEN,Back,11,DE-LB
-Trent Cole,IND,2016.0,/players/C/ColeTr20,2016-11-24,Injured Reserve,PIT,Back,12,DE-LB
+Trent Cole,IND,2016.0,/players/C/ColeTr20,2016-09-18,Doubtful,DEN,back,2,DE
+Trent Cole,IND,2016.0,/players/C/ColeTr20,2016-09-25,Questionable,SDG,back,3,DE
+Trent Cole,IND,2016.0,/players/C/ColeTr20,2016-10-02,Injured Reserve,JAX,Back,4,DE
+Trent Cole,IND,2016.0,/players/C/ColeTr20,2016-10-09,Injured Reserve,CHI,Back,5,DE
+Trent Cole,IND,2016.0,/players/C/ColeTr20,2016-10-16,Injured Reserve,HOU,Back,6,DE
+Trent Cole,IND,2016.0,/players/C/ColeTr20,2016-10-23,Injured Reserve,TEN,Back,7,DE
+Trent Cole,IND,2016.0,/players/C/ColeTr20,2016-10-30,Injured Reserve,KAN,Back,8,DE
+Trent Cole,IND,2016.0,/players/C/ColeTr20,2016-11-06,Injured Reserve,GNB,Back,9,DE
+Trent Cole,IND,2016.0,/players/C/ColeTr20,2016-11-20,Injured Reserve,TEN,Back,11,DE
+Trent Cole,IND,2016.0,/players/C/ColeTr20,2016-11-24,Injured Reserve,PIT,Back,12,DE
 Antonio Cromartie,IND,2016.0,/players/C/CromAn20,2016-09-18,Questionable,DEN,hamstring,2,DB
 T.J. Green,IND,2016.0,/players/G/GreeT.00,2016-09-18,Out,DEN,knee,2,FS
 T.J. Green,IND,2016.0,/players/G/GreeT.00,2016-09-25,Questionable,SDG,knee,3,FS
@@ -6589,9 +6589,9 @@ Russell Wilson,SEA,2016.0,/players/W/WilsRu00,2016-12-11,day-to-day,GNB,knee,14,
 Russell Wilson,SEA,2016.0,/players/W/WilsRu00,2016-12-15,day-to-day,LAR,knee,15,QB
 Russell Wilson,SEA,2016.0,/players/W/WilsRu00,2016-12-24,day-to-day,ARI,knee,16,QB
 Russell Wilson,SEA,2016.0,/players/W/WilsRu00,2017-01-01,day-to-day,SFO,knee,17,QB
-Devin Hester,SEA,2016.0,/players/H/HestDe99,2016-10-02,Questionable,NYJ,thigh,4,WR-PR
-Devin Hester,SEA,2016.0,/players/H/HestDe99,2016-10-16,Doubtful,ATL,thigh,6,WR-PR
-Devin Hester,SEA,2016.0,/players/H/HestDe99,2016-10-23,Questionable,ARI,thigh,7,WR-PR
+Devin Hester,SEA,2016.0,/players/H/HestDe99,2016-10-02,Questionable,NYJ,thigh,4,WR
+Devin Hester,SEA,2016.0,/players/H/HestDe99,2016-10-16,Doubtful,ATL,thigh,6,WR
+Devin Hester,SEA,2016.0,/players/H/HestDe99,2016-10-23,Questionable,ARI,thigh,7,WR
 Mike Morgan,SEA,2016.0,/players/M/MorgMi00,2016-10-02,Questionable,NYJ,hip,4,LB
 Mike Morgan,SEA,2016.0,/players/M/MorgMi00,2016-10-16,Injured Reserve,ATL,Hip,6,LB
 Mike Morgan,SEA,2016.0,/players/M/MorgMi00,2016-10-23,Injured Reserve,ARI,Hip,7,LB

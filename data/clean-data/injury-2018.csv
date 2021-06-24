@@ -675,8 +675,8 @@ Anthony Levine,BAL,2018.0,/players/L/LeviAn00,2018-12-09,Questionable,KAN,Ankle,
 Anthony Levine,BAL,2018.0,/players/L/LeviAn00,2018-12-16,Questionable,TAM,Ankle,15,S
 Anthony Levine,BAL,2018.0,/players/L/LeviAn00,2018-12-22,Questionable,LAC,Toe,16,S
 Anthony Levine,BAL,2018.0,/players/L/LeviAn00,2018-12-30,Questionable,CLE,Toe,17,S
-Terrell Suggs,BAL,2018.0,/players/S/SuggTe99,2018-09-30,Questionable,PIT,Knee,4,LB-DE
-Terrell Suggs,BAL,2018.0,/players/S/SuggTe99,2018-12-30,Questionable,CLE,Hamstring,17,LB-DE
+Terrell Suggs,BAL,2018.0,/players/S/SuggTe99,2018-09-30,Questionable,PIT,Knee,4,LB
+Terrell Suggs,BAL,2018.0,/players/S/SuggTe99,2018-12-30,Questionable,CLE,Hamstring,17,LB
 Alex Lewis,BAL,2018.0,/players/L/LewiAl01,2018-10-07,Questionable,CLE,Shoulder,5,OT
 Alex Lewis,BAL,2018.0,/players/L/LewiAl01,2018-10-21,Out,NOR,Neck,7,OT
 Alex Lewis,BAL,2018.0,/players/L/LewiAl01,2018-10-28,Doubtful,CAR,Neck,8,OT
@@ -869,7 +869,7 @@ Ryan Lewis,BUF,2018.0,/players/L/LewiRy01,2018-12-30,Questionable,MIA,Concussion
 Matt Milano,BUF,2018.0,/players/M/MilaMa00,2018-12-16,Injured Reserve,DET,Shin,15,OLB
 Matt Milano,BUF,2018.0,/players/M/MilaMa00,2018-12-23,Injured Reserve,NWE,Shin,16,OLB
 Matt Milano,BUF,2018.0,/players/M/MilaMa00,2018-12-30,Injured Reserve,MIA,Shin,17,OLB
-Logan Thomas,BUF,2018.0,/players/T/ThomLo00,2018-12-16,Questionable,DET,Hamstring,15,QB/TE
+Logan Thomas,BUF,2018.0,/players/T/ThomLo00,2018-12-16,Questionable,DET,Hamstring,15,TE
 Deonte Thompson,BUF,2018.0,/players/T/ThomDe04,2018-12-30,Out,MIA,Toe,17,WR
 Deonte Thompson,DAL,2018.0,/players/T/ThomDe04,2018-10-14,Questionable,JAX,Hamstring,6,WR
 Ross Cockrell,CAR,2018.0,/players/C/CockRo00,2018-09-09,Injured Reserve,DAL,Shin,1,CB
@@ -4458,7 +4458,7 @@ DeVante Parker,MIA,2018.0,/players/P/ParkDe01,2018-10-14,Questionable,CHI,Quadri
 DeVante Parker,MIA,2018.0,/players/P/ParkDe01,2018-10-21,Questionable,DET,Quadricep,7,WR
 DeVante Parker,MIA,2018.0,/players/P/ParkDe01,2018-11-25,Questionable,IND,Shoulder,12,WR
 DeVante Parker,MIA,2018.0,/players/P/ParkDe01,2018-12-02,Questionable,BUF,Shoulder,13,WR
-John Denney,MIA,2018.0,/players/D/DennJo20,2018-09-16,Questionable,NYJ,Shoulder,2,DE-C
+John Denney,MIA,2018.0,/players/D/DennJo20,2018-09-16,Questionable,NYJ,Shoulder,2,LS
 William Hayes,MIA,2018.0,/players/H/HayeWi99,2018-09-16,Questionable,NYJ,Finger,2,DE
 William Hayes,MIA,2018.0,/players/H/HayeWi99,2018-09-30,Injured Reserve,NWE,Knee,4,DE
 William Hayes,MIA,2018.0,/players/H/HayeWi99,2018-10-07,Injured Reserve,CIN,Knee,5,DE
