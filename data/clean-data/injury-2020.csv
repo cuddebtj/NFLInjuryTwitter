@@ -297,22 +297,22 @@ Alex Mack,ATL,2020.0,/players/M/MackAl20,2020-12-27,Out,KAN,Concussion,16,C
 Alex Mack,ATL,2020.0,/players/M/MackAl20,2021-01-03,C19,TAM,,17,C
 Brandon Powell,ATL,2020.0,/players/P/PoweBr00,2020-12-27,Questionable,KAN,Foot,16,WR
 Brandon Powell,ATL,2020.0,/players/P/PoweBr00,2021-01-03,Out,TAM,Foot,17,WR
-Jacob Breeland,BAL,2020.0,/players/B/BreeJa01,2020-09-13,Injured Reserve,CLE,,1,
-Jacob Breeland,BAL,2020.0,/players/B/BreeJa01,2020-09-20,Injured Reserve,HOU,,2,
-Jacob Breeland,BAL,2020.0,/players/B/BreeJa01,2020-09-28,Injured Reserve,KAN,,3,
-Jacob Breeland,BAL,2020.0,/players/B/BreeJa01,2020-10-04,Injured Reserve,WAS,,4,
-Jacob Breeland,BAL,2020.0,/players/B/BreeJa01,2020-10-11,Injured Reserve,CIN,,5,
-Jacob Breeland,BAL,2020.0,/players/B/BreeJa01,2020-10-18,Injured Reserve,PHI,,6,
-Jacob Breeland,BAL,2020.0,/players/B/BreeJa01,2020-11-01,Injured Reserve,PIT,,8,
-Jacob Breeland,BAL,2020.0,/players/B/BreeJa01,2020-11-08,Injured Reserve,IND,,9,
-Jacob Breeland,BAL,2020.0,/players/B/BreeJa01,2020-11-15,Injured Reserve,NWE,,10,
-Jacob Breeland,BAL,2020.0,/players/B/BreeJa01,2020-11-22,Injured Reserve,TEN,,11,
-Jacob Breeland,BAL,2020.0,/players/B/BreeJa01,2020-12-02,Injured Reserve,PIT,,12,
-Jacob Breeland,BAL,2020.0,/players/B/BreeJa01,2020-12-08,Injured Reserve,DAL,,13,
-Jacob Breeland,BAL,2020.0,/players/B/BreeJa01,2020-12-14,Injured Reserve,CLE,,14,
-Jacob Breeland,BAL,2020.0,/players/B/BreeJa01,2020-12-20,Injured Reserve,JAX,,15,
-Jacob Breeland,BAL,2020.0,/players/B/BreeJa01,2020-12-27,Injured Reserve,NYG,,16,
-Jacob Breeland,BAL,2020.0,/players/B/BreeJa01,2021-01-03,Injured Reserve,CIN,,17,
+Jacob Breeland,BAL,2020.0,/players/B/BreeJa01,2020-09-13,Injured Reserve,CLE,,1,TE
+Jacob Breeland,BAL,2020.0,/players/B/BreeJa01,2020-09-20,Injured Reserve,HOU,,2,TE
+Jacob Breeland,BAL,2020.0,/players/B/BreeJa01,2020-09-28,Injured Reserve,KAN,,3,TE
+Jacob Breeland,BAL,2020.0,/players/B/BreeJa01,2020-10-04,Injured Reserve,WAS,,4,TE
+Jacob Breeland,BAL,2020.0,/players/B/BreeJa01,2020-10-11,Injured Reserve,CIN,,5,TE
+Jacob Breeland,BAL,2020.0,/players/B/BreeJa01,2020-10-18,Injured Reserve,PHI,,6,TE
+Jacob Breeland,BAL,2020.0,/players/B/BreeJa01,2020-11-01,Injured Reserve,PIT,,8,TE
+Jacob Breeland,BAL,2020.0,/players/B/BreeJa01,2020-11-08,Injured Reserve,IND,,9,TE
+Jacob Breeland,BAL,2020.0,/players/B/BreeJa01,2020-11-15,Injured Reserve,NWE,,10,TE
+Jacob Breeland,BAL,2020.0,/players/B/BreeJa01,2020-11-22,Injured Reserve,TEN,,11,TE
+Jacob Breeland,BAL,2020.0,/players/B/BreeJa01,2020-12-02,Injured Reserve,PIT,,12,TE
+Jacob Breeland,BAL,2020.0,/players/B/BreeJa01,2020-12-08,Injured Reserve,DAL,,13,TE
+Jacob Breeland,BAL,2020.0,/players/B/BreeJa01,2020-12-14,Injured Reserve,CLE,,14,TE
+Jacob Breeland,BAL,2020.0,/players/B/BreeJa01,2020-12-20,Injured Reserve,JAX,,15,TE
+Jacob Breeland,BAL,2020.0,/players/B/BreeJa01,2020-12-27,Injured Reserve,NYG,,16,TE
+Jacob Breeland,BAL,2020.0,/players/B/BreeJa01,2021-01-03,Injured Reserve,CIN,,17,TE
 Justice Hill,BAL,2020.0,/players/H/HillJu00,2020-09-13,Out,CLE,Thigh,1,RB
 Justice Hill,BAL,2020.0,/players/H/HillJu00,2020-09-20,Questionable,HOU,Thigh,2,RB
 Justice Hill,BAL,2020.0,/players/H/HillJu00,2020-10-04,Questionable,WAS,Thigh,4,RB
@@ -376,22 +376,22 @@ De'Anthony Thomas,BAL,2020.0,/players/T/ThomDe05,2020-12-14,Injured Reserve,CLE,
 De'Anthony Thomas,BAL,2020.0,/players/T/ThomDe05,2020-12-20,Injured Reserve,JAX,,15,RB
 De'Anthony Thomas,BAL,2020.0,/players/T/ThomDe05,2020-12-27,Injured Reserve,NYG,,16,RB
 De'Anthony Thomas,BAL,2020.0,/players/T/ThomDe05,2021-01-03,Injured Reserve,CIN,,17,RB
-Antoine Wesley,BAL,2020.0,/players/W/WeslAn01,2020-09-13,Injured Reserve,CLE,,1,
-Antoine Wesley,BAL,2020.0,/players/W/WeslAn01,2020-09-20,Injured Reserve,HOU,,2,
-Antoine Wesley,BAL,2020.0,/players/W/WeslAn01,2020-09-28,Injured Reserve,KAN,,3,
-Antoine Wesley,BAL,2020.0,/players/W/WeslAn01,2020-10-04,Injured Reserve,WAS,,4,
-Antoine Wesley,BAL,2020.0,/players/W/WeslAn01,2020-10-11,Injured Reserve,CIN,,5,
-Antoine Wesley,BAL,2020.0,/players/W/WeslAn01,2020-10-18,Injured Reserve,PHI,,6,
-Antoine Wesley,BAL,2020.0,/players/W/WeslAn01,2020-11-01,Injured Reserve,PIT,,8,
-Antoine Wesley,BAL,2020.0,/players/W/WeslAn01,2020-11-08,Injured Reserve,IND,,9,
-Antoine Wesley,BAL,2020.0,/players/W/WeslAn01,2020-11-15,Injured Reserve,NWE,,10,
-Antoine Wesley,BAL,2020.0,/players/W/WeslAn01,2020-11-22,Injured Reserve,TEN,,11,
-Antoine Wesley,BAL,2020.0,/players/W/WeslAn01,2020-12-02,Injured Reserve,PIT,,12,
-Antoine Wesley,BAL,2020.0,/players/W/WeslAn01,2020-12-08,Injured Reserve,DAL,,13,
-Antoine Wesley,BAL,2020.0,/players/W/WeslAn01,2020-12-14,Injured Reserve,CLE,,14,
-Antoine Wesley,BAL,2020.0,/players/W/WeslAn01,2020-12-20,Injured Reserve,JAX,,15,
-Antoine Wesley,BAL,2020.0,/players/W/WeslAn01,2020-12-27,Injured Reserve,NYG,,16,
-Antoine Wesley,BAL,2020.0,/players/W/WeslAn01,2021-01-03,Injured Reserve,CIN,,17,
+Antoine Wesley,BAL,2020.0,/players/W/WeslAn01,2020-09-13,Injured Reserve,CLE,,1,WR
+Antoine Wesley,BAL,2020.0,/players/W/WeslAn01,2020-09-20,Injured Reserve,HOU,,2,WR
+Antoine Wesley,BAL,2020.0,/players/W/WeslAn01,2020-09-28,Injured Reserve,KAN,,3,WR
+Antoine Wesley,BAL,2020.0,/players/W/WeslAn01,2020-10-04,Injured Reserve,WAS,,4,WR
+Antoine Wesley,BAL,2020.0,/players/W/WeslAn01,2020-10-11,Injured Reserve,CIN,,5,WR
+Antoine Wesley,BAL,2020.0,/players/W/WeslAn01,2020-10-18,Injured Reserve,PHI,,6,WR
+Antoine Wesley,BAL,2020.0,/players/W/WeslAn01,2020-11-01,Injured Reserve,PIT,,8,WR
+Antoine Wesley,BAL,2020.0,/players/W/WeslAn01,2020-11-08,Injured Reserve,IND,,9,WR
+Antoine Wesley,BAL,2020.0,/players/W/WeslAn01,2020-11-15,Injured Reserve,NWE,,10,WR
+Antoine Wesley,BAL,2020.0,/players/W/WeslAn01,2020-11-22,Injured Reserve,TEN,,11,WR
+Antoine Wesley,BAL,2020.0,/players/W/WeslAn01,2020-12-02,Injured Reserve,PIT,,12,WR
+Antoine Wesley,BAL,2020.0,/players/W/WeslAn01,2020-12-08,Injured Reserve,DAL,,13,WR
+Antoine Wesley,BAL,2020.0,/players/W/WeslAn01,2020-12-14,Injured Reserve,CLE,,14,WR
+Antoine Wesley,BAL,2020.0,/players/W/WeslAn01,2020-12-20,Injured Reserve,JAX,,15,WR
+Antoine Wesley,BAL,2020.0,/players/W/WeslAn01,2020-12-27,Injured Reserve,NYG,,16,WR
+Antoine Wesley,BAL,2020.0,/players/W/WeslAn01,2021-01-03,Injured Reserve,CIN,,17,WR
 DeAndrew White,BAL,2020.0,/players/W/WhitDe01,2020-09-13,Injured Reserve,CLE,,1,WR
 DeAndrew White,BAL,2020.0,/players/W/WhitDe01,2020-09-20,Injured Reserve,HOU,,2,WR
 DeAndrew White,BAL,2020.0,/players/W/WhitDe01,2020-09-28,Injured Reserve,KAN,,3,WR
@@ -607,13 +607,13 @@ Pernell McPhee,BAL,2020.0,/players/M/McPhPe00,2020-12-27,Questionable,NYG,Knee,1
 Gus Edwards,BAL,2020.0,/players/E/EdwaGu00,2021-01-03,Questionable,CIN,Back,17,RB
 Sam Koch,BAL,2020.0,/players/K/KochSa20,2021-01-03,C19,CIN,,17,P
 Yannick Ngakoue,BAL,2020.0,/players/N/NgakYa00,2021-01-03,Questionable,CIN,Thigh,17,OLB
-Isiah Brown,BUF,2020.0,/players/B/BrowIs00,2020-09-13,Injured Reserve,NYJ,,1,
-Isiah Brown,BUF,2020.0,/players/B/BrowIs00,2020-09-20,Injured Reserve,MIA,,2,
-Isiah Brown,BUF,2020.0,/players/B/BrowIs00,2020-09-27,Injured Reserve,LAR,,3,
-Isiah Brown,BUF,2020.0,/players/B/BrowIs00,2020-10-04,Injured Reserve,LVR,,4,
-Isiah Brown,BUF,2020.0,/players/B/BrowIs00,2020-10-13,Injured Reserve,TEN,,5,
-Isiah Brown,BUF,2020.0,/players/B/BrowIs00,2020-10-19,Injured Reserve,KAN,,6,
-Isiah Brown,BUF,2020.0,/players/B/BrowIs00,2020-10-25,Injured Reserve,NYJ,,7,
+Isiah Brown,BUF,2020.0,/players/B/BrowIs00,2020-09-13,Injured Reserve,NYJ,,1,DB
+Isiah Brown,BUF,2020.0,/players/B/BrowIs00,2020-09-20,Injured Reserve,MIA,,2,DB
+Isiah Brown,BUF,2020.0,/players/B/BrowIs00,2020-09-27,Injured Reserve,LAR,,3,DB
+Isiah Brown,BUF,2020.0,/players/B/BrowIs00,2020-10-04,Injured Reserve,LVR,,4,DB
+Isiah Brown,BUF,2020.0,/players/B/BrowIs00,2020-10-13,Injured Reserve,TEN,,5,DB
+Isiah Brown,BUF,2020.0,/players/B/BrowIs00,2020-10-19,Injured Reserve,KAN,,6,DB
+Isiah Brown,BUF,2020.0,/players/B/BrowIs00,2020-10-25,Injured Reserve,NYJ,,7,DB
 Vernon Butler,BUF,2020.0,/players/B/ButlVe00,2020-09-13,Questionable,NYJ,Hamstring,1,DT
 Vernon Butler,BUF,2020.0,/players/B/ButlVe00,2020-11-01,Questionable,NWE,Groin,8,DT
 Vernon Butler,BUF,2020.0,/players/B/ButlVe00,2020-11-08,Questionable,SEA,Groin,9,DT
@@ -641,22 +641,22 @@ E.J. Gaines,BUF,2020.0,/players/G/GainE.00,2020-12-13,Injured Reserve,PIT,,14,CB
 E.J. Gaines,BUF,2020.0,/players/G/GainE.00,2020-12-19,Injured Reserve,DEN,,15,CB
 E.J. Gaines,BUF,2020.0,/players/G/GainE.00,2020-12-28,Injured Reserve,NWE,,16,CB
 E.J. Gaines,BUF,2020.0,/players/G/GainE.00,2021-01-03,Injured Reserve,MIA,,17,CB
-Isaiah Hodgins,BUF,2020.0,/players/H/HodgIs00,2020-09-13,Injured Reserve,NYJ,,1,
-Isaiah Hodgins,BUF,2020.0,/players/H/HodgIs00,2020-09-20,Injured Reserve,MIA,,2,
-Isaiah Hodgins,BUF,2020.0,/players/H/HodgIs00,2020-09-27,Injured Reserve,LAR,,3,
-Isaiah Hodgins,BUF,2020.0,/players/H/HodgIs00,2020-10-04,Injured Reserve,LVR,,4,
-Isaiah Hodgins,BUF,2020.0,/players/H/HodgIs00,2020-10-13,Injured Reserve,TEN,,5,
-Isaiah Hodgins,BUF,2020.0,/players/H/HodgIs00,2020-10-19,Injured Reserve,KAN,,6,
-Isaiah Hodgins,BUF,2020.0,/players/H/HodgIs00,2020-10-25,Injured Reserve,NYJ,,7,
-Isaiah Hodgins,BUF,2020.0,/players/H/HodgIs00,2020-11-01,Injured Reserve,NWE,,8,
-Isaiah Hodgins,BUF,2020.0,/players/H/HodgIs00,2020-11-08,Injured Reserve,SEA,,9,
-Isaiah Hodgins,BUF,2020.0,/players/H/HodgIs00,2020-11-15,Injured Reserve,ARI,,10,
-Isaiah Hodgins,BUF,2020.0,/players/H/HodgIs00,2020-11-29,Injured Reserve,LAC,,12,
-Isaiah Hodgins,BUF,2020.0,/players/H/HodgIs00,2020-12-07,Injured Reserve,SFO,,13,
-Isaiah Hodgins,BUF,2020.0,/players/H/HodgIs00,2020-12-13,Injured Reserve,PIT,,14,
-Isaiah Hodgins,BUF,2020.0,/players/H/HodgIs00,2020-12-19,Injured Reserve,DEN,,15,
-Isaiah Hodgins,BUF,2020.0,/players/H/HodgIs00,2020-12-28,Injured Reserve,NWE,,16,
-Isaiah Hodgins,BUF,2020.0,/players/H/HodgIs00,2021-01-03,Injured Reserve,MIA,,17,
+Isaiah Hodgins,BUF,2020.0,/players/H/HodgIs00,2020-09-13,Injured Reserve,NYJ,,1,WR
+Isaiah Hodgins,BUF,2020.0,/players/H/HodgIs00,2020-09-20,Injured Reserve,MIA,,2,WR
+Isaiah Hodgins,BUF,2020.0,/players/H/HodgIs00,2020-09-27,Injured Reserve,LAR,,3,WR
+Isaiah Hodgins,BUF,2020.0,/players/H/HodgIs00,2020-10-04,Injured Reserve,LVR,,4,WR
+Isaiah Hodgins,BUF,2020.0,/players/H/HodgIs00,2020-10-13,Injured Reserve,TEN,,5,WR
+Isaiah Hodgins,BUF,2020.0,/players/H/HodgIs00,2020-10-19,Injured Reserve,KAN,,6,WR
+Isaiah Hodgins,BUF,2020.0,/players/H/HodgIs00,2020-10-25,Injured Reserve,NYJ,,7,WR
+Isaiah Hodgins,BUF,2020.0,/players/H/HodgIs00,2020-11-01,Injured Reserve,NWE,,8,WR
+Isaiah Hodgins,BUF,2020.0,/players/H/HodgIs00,2020-11-08,Injured Reserve,SEA,,9,WR
+Isaiah Hodgins,BUF,2020.0,/players/H/HodgIs00,2020-11-15,Injured Reserve,ARI,,10,WR
+Isaiah Hodgins,BUF,2020.0,/players/H/HodgIs00,2020-11-29,Injured Reserve,LAC,,12,WR
+Isaiah Hodgins,BUF,2020.0,/players/H/HodgIs00,2020-12-07,Injured Reserve,SFO,,13,WR
+Isaiah Hodgins,BUF,2020.0,/players/H/HodgIs00,2020-12-13,Injured Reserve,PIT,,14,WR
+Isaiah Hodgins,BUF,2020.0,/players/H/HodgIs00,2020-12-19,Injured Reserve,DEN,,15,WR
+Isaiah Hodgins,BUF,2020.0,/players/H/HodgIs00,2020-12-28,Injured Reserve,NWE,,16,WR
+Isaiah Hodgins,BUF,2020.0,/players/H/HodgIs00,2021-01-03,Injured Reserve,MIA,,17,WR
 Star Lotulelei,BUF,2020.0,/players/L/LotuSt00,2020-09-13,Injured Reserve,NYJ,,1,DT
 Star Lotulelei,BUF,2020.0,/players/L/LotuSt00,2020-09-20,Injured Reserve,MIA,,2,DT
 Star Lotulelei,BUF,2020.0,/players/L/LotuSt00,2020-09-27,Injured Reserve,LAR,,3,DT
@@ -756,7 +756,7 @@ Cody Ford,BUF,2020.0,/players/F/FordCo00,2020-12-13,Injured Reserve,PIT,,14,OL
 Cody Ford,BUF,2020.0,/players/F/FordCo00,2020-12-19,Injured Reserve,DEN,,15,OL
 Cody Ford,BUF,2020.0,/players/F/FordCo00,2020-12-28,Injured Reserve,NWE,,16,OL
 Cody Ford,BUF,2020.0,/players/F/FordCo00,2021-01-03,Injured Reserve,MIA,,17,OL
-Jake Fromm,BUF,2020.0,/players/F/FromJa00,2020-10-13,Questionable,TEN,Not Injury Related,5,
+Jake Fromm,BUF,2020.0,/players/F/FromJa00,2020-10-13,Questionable,TEN,Not Injury Related,5,QB
 Andre Roberts,BUF,2020.0,/players/R/RobeAn00,2020-10-13,Questionable,TEN,Ankle,5,WR
 Levi Wallace,BUF,2020.0,/players/W/WallLe00,2020-10-13,Injured Reserve,TEN,,5,CB
 Levi Wallace,BUF,2020.0,/players/W/WallLe00,2020-10-19,Injured Reserve,KAN,,6,CB
@@ -816,22 +816,22 @@ Eli Apple,CAR,2020.0,/players/A/ApplEl00,2020-10-04,Injured Reserve,ARI,,4,CB
 Eli Apple,CAR,2020.0,/players/A/ApplEl00,2020-10-11,Out,ATL,Hamstring,5,CB
 Eli Apple,CAR,2020.0,/players/A/ApplEl00,2020-10-18,Questionable,CHI,Hamstring,6,CB
 Eli Apple,CAR,2020.0,/players/A/ApplEl00,2020-10-25,Questionable,NOR,Hamstring,7,CB
-Omar Bayless,CAR,2020.0,/players/B/BaylOm01,2020-09-13,Injured Reserve,LVR,,1,
-Omar Bayless,CAR,2020.0,/players/B/BaylOm01,2020-09-20,Injured Reserve,TAM,,2,
-Omar Bayless,CAR,2020.0,/players/B/BaylOm01,2020-09-27,Injured Reserve,LAC,,3,
-Omar Bayless,CAR,2020.0,/players/B/BaylOm01,2020-10-04,Injured Reserve,ARI,,4,
-Omar Bayless,CAR,2020.0,/players/B/BaylOm01,2020-10-11,Injured Reserve,ATL,,5,
-Omar Bayless,CAR,2020.0,/players/B/BaylOm01,2020-10-18,Injured Reserve,CHI,,6,
-Omar Bayless,CAR,2020.0,/players/B/BaylOm01,2020-10-25,Injured Reserve,NOR,,7,
-Omar Bayless,CAR,2020.0,/players/B/BaylOm01,2020-10-29,Injured Reserve,ATL,,8,
-Omar Bayless,CAR,2020.0,/players/B/BaylOm01,2020-11-08,Injured Reserve,KAN,,9,
-Omar Bayless,CAR,2020.0,/players/B/BaylOm01,2020-11-15,Injured Reserve,TAM,,10,
-Omar Bayless,CAR,2020.0,/players/B/BaylOm01,2020-11-22,Injured Reserve,DET,,11,
-Omar Bayless,CAR,2020.0,/players/B/BaylOm01,2020-11-29,Injured Reserve,MIN,,12,
-Omar Bayless,CAR,2020.0,/players/B/BaylOm01,2020-12-13,Injured Reserve,DEN,,14,
-Omar Bayless,CAR,2020.0,/players/B/BaylOm01,2020-12-19,Injured Reserve,GNB,,15,
-Omar Bayless,CAR,2020.0,/players/B/BaylOm01,2020-12-27,Injured Reserve,WAS,,16,
-Omar Bayless,CAR,2020.0,/players/B/BaylOm01,2021-01-03,Injured Reserve,NOR,,17,
+Omar Bayless,CAR,2020.0,/players/B/BaylOm01,2020-09-13,Injured Reserve,LVR,,1,WR
+Omar Bayless,CAR,2020.0,/players/B/BaylOm01,2020-09-20,Injured Reserve,TAM,,2,WR
+Omar Bayless,CAR,2020.0,/players/B/BaylOm01,2020-09-27,Injured Reserve,LAC,,3,WR
+Omar Bayless,CAR,2020.0,/players/B/BaylOm01,2020-10-04,Injured Reserve,ARI,,4,WR
+Omar Bayless,CAR,2020.0,/players/B/BaylOm01,2020-10-11,Injured Reserve,ATL,,5,WR
+Omar Bayless,CAR,2020.0,/players/B/BaylOm01,2020-10-18,Injured Reserve,CHI,,6,WR
+Omar Bayless,CAR,2020.0,/players/B/BaylOm01,2020-10-25,Injured Reserve,NOR,,7,WR
+Omar Bayless,CAR,2020.0,/players/B/BaylOm01,2020-10-29,Injured Reserve,ATL,,8,WR
+Omar Bayless,CAR,2020.0,/players/B/BaylOm01,2020-11-08,Injured Reserve,KAN,,9,WR
+Omar Bayless,CAR,2020.0,/players/B/BaylOm01,2020-11-15,Injured Reserve,TAM,,10,WR
+Omar Bayless,CAR,2020.0,/players/B/BaylOm01,2020-11-22,Injured Reserve,DET,,11,WR
+Omar Bayless,CAR,2020.0,/players/B/BaylOm01,2020-11-29,Injured Reserve,MIN,,12,WR
+Omar Bayless,CAR,2020.0,/players/B/BaylOm01,2020-12-13,Injured Reserve,DEN,,14,WR
+Omar Bayless,CAR,2020.0,/players/B/BaylOm01,2020-12-19,Injured Reserve,GNB,,15,WR
+Omar Bayless,CAR,2020.0,/players/B/BaylOm01,2020-12-27,Injured Reserve,WAS,,16,WR
+Omar Bayless,CAR,2020.0,/players/B/BaylOm01,2021-01-03,Injured Reserve,NOR,,17,WR
 Dennis Daley,CAR,2020.0,/players/D/DaleDe00,2020-09-13,Out,LVR,Ankle,1,OL
 Dennis Daley,CAR,2020.0,/players/D/DaleDe00,2020-09-20,Out,TAM,Ankle,2,OL
 Dennis Daley,CAR,2020.0,/players/D/DaleDe00,2020-09-27,Doubtful,LAC,Ankle,3,OL
@@ -864,22 +864,22 @@ Luke Kuechly,CAR,2020.0,/players/K/KuecLu00,2020-10-04,Injured Reserve,ARI,,4,IL
 Luke Kuechly,CAR,2020.0,/players/K/KuecLu00,2020-10-11,Injured Reserve,ATL,,5,ILB
 Luke Kuechly,CAR,2020.0,/players/K/KuecLu00,2020-10-18,Injured Reserve,CHI,,6,ILB
 Luke Kuechly,CAR,2020.0,/players/K/KuecLu00,2020-10-25,Injured Reserve,NOR,,7,ILB
-Jordan Mack,CAR,2020.0,/players/M/MackJo02,2020-09-13,Injured Reserve,LVR,,1,
-Jordan Mack,CAR,2020.0,/players/M/MackJo02,2020-09-20,Injured Reserve,TAM,,2,
-Jordan Mack,CAR,2020.0,/players/M/MackJo02,2020-09-27,Injured Reserve,LAC,,3,
-Jordan Mack,CAR,2020.0,/players/M/MackJo02,2020-10-04,Injured Reserve,ARI,,4,
-Jordan Mack,CAR,2020.0,/players/M/MackJo02,2020-10-11,Injured Reserve,ATL,,5,
-Jordan Mack,CAR,2020.0,/players/M/MackJo02,2020-10-18,Injured Reserve,CHI,,6,
-Jordan Mack,CAR,2020.0,/players/M/MackJo02,2020-10-25,Injured Reserve,NOR,,7,
-Jordan Mack,CAR,2020.0,/players/M/MackJo02,2020-10-29,Injured Reserve,ATL,,8,
-Jordan Mack,CAR,2020.0,/players/M/MackJo02,2020-11-08,Injured Reserve,KAN,,9,
-Jordan Mack,CAR,2020.0,/players/M/MackJo02,2020-11-15,Injured Reserve,TAM,,10,
-Jordan Mack,CAR,2020.0,/players/M/MackJo02,2020-11-22,Injured Reserve,DET,,11,
-Jordan Mack,CAR,2020.0,/players/M/MackJo02,2020-11-29,Injured Reserve,MIN,,12,
-Jordan Mack,CAR,2020.0,/players/M/MackJo02,2020-12-13,Injured Reserve,DEN,,14,
-Jordan Mack,CAR,2020.0,/players/M/MackJo02,2020-12-19,Injured Reserve,GNB,,15,
-Jordan Mack,CAR,2020.0,/players/M/MackJo02,2020-12-27,Injured Reserve,WAS,,16,
-Jordan Mack,CAR,2020.0,/players/M/MackJo02,2021-01-03,Injured Reserve,NOR,,17,
+Jordan Mack,CAR,2020.0,/players/M/MackJo02,2020-09-13,Injured Reserve,LVR,,1,LB
+Jordan Mack,CAR,2020.0,/players/M/MackJo02,2020-09-20,Injured Reserve,TAM,,2,LB
+Jordan Mack,CAR,2020.0,/players/M/MackJo02,2020-09-27,Injured Reserve,LAC,,3,LB
+Jordan Mack,CAR,2020.0,/players/M/MackJo02,2020-10-04,Injured Reserve,ARI,,4,LB
+Jordan Mack,CAR,2020.0,/players/M/MackJo02,2020-10-11,Injured Reserve,ATL,,5,LB
+Jordan Mack,CAR,2020.0,/players/M/MackJo02,2020-10-18,Injured Reserve,CHI,,6,LB
+Jordan Mack,CAR,2020.0,/players/M/MackJo02,2020-10-25,Injured Reserve,NOR,,7,LB
+Jordan Mack,CAR,2020.0,/players/M/MackJo02,2020-10-29,Injured Reserve,ATL,,8,LB
+Jordan Mack,CAR,2020.0,/players/M/MackJo02,2020-11-08,Injured Reserve,KAN,,9,LB
+Jordan Mack,CAR,2020.0,/players/M/MackJo02,2020-11-15,Injured Reserve,TAM,,10,LB
+Jordan Mack,CAR,2020.0,/players/M/MackJo02,2020-11-22,Injured Reserve,DET,,11,LB
+Jordan Mack,CAR,2020.0,/players/M/MackJo02,2020-11-29,Injured Reserve,MIN,,12,LB
+Jordan Mack,CAR,2020.0,/players/M/MackJo02,2020-12-13,Injured Reserve,DEN,,14,LB
+Jordan Mack,CAR,2020.0,/players/M/MackJo02,2020-12-19,Injured Reserve,GNB,,15,LB
+Jordan Mack,CAR,2020.0,/players/M/MackJo02,2020-12-27,Injured Reserve,WAS,,16,LB
+Jordan Mack,CAR,2020.0,/players/M/MackJo02,2021-01-03,Injured Reserve,NOR,,17,LB
 Christian Miller,CAR,2020.0,/players/M/MillCh04,2020-09-13,Injured Reserve,LVR,,1,EDGE
 Christian Miller,CAR,2020.0,/players/M/MillCh04,2020-09-20,Injured Reserve,TAM,,2,EDGE
 Christian Miller,CAR,2020.0,/players/M/MillCh04,2020-09-27,Injured Reserve,LAC,,3,EDGE
@@ -1063,22 +1063,22 @@ Artie Burns,CHI,2020.0,/players/B/BurnAr00,2020-12-13,Injured Reserve,HOU,,14,CB
 Artie Burns,CHI,2020.0,/players/B/BurnAr00,2020-12-20,Injured Reserve,MIN,,15,CB
 Artie Burns,CHI,2020.0,/players/B/BurnAr00,2020-12-27,Injured Reserve,JAX,,16,CB
 Artie Burns,CHI,2020.0,/players/B/BurnAr00,2021-01-03,Injured Reserve,GNB,,17,CB
-Darion Clark,CHI,2020.0,/players/C/ClarDa01,2020-09-13,Injured Reserve,DET,,1,
-Darion Clark,CHI,2020.0,/players/C/ClarDa01,2020-09-20,Injured Reserve,NYG,,2,
-Darion Clark,CHI,2020.0,/players/C/ClarDa01,2020-09-27,Injured Reserve,ATL,,3,
-Darion Clark,CHI,2020.0,/players/C/ClarDa01,2020-10-04,Injured Reserve,IND,,4,
-Darion Clark,CHI,2020.0,/players/C/ClarDa01,2020-10-08,Injured Reserve,TAM,,5,
-Darion Clark,CHI,2020.0,/players/C/ClarDa01,2020-10-18,Injured Reserve,CAR,,6,
-Darion Clark,CHI,2020.0,/players/C/ClarDa01,2020-10-26,Injured Reserve,LAR,,7,
-Darion Clark,CHI,2020.0,/players/C/ClarDa01,2020-11-01,Injured Reserve,NOR,,8,
-Darion Clark,CHI,2020.0,/players/C/ClarDa01,2020-11-08,Injured Reserve,TEN,,9,
-Darion Clark,CHI,2020.0,/players/C/ClarDa01,2020-11-16,Injured Reserve,MIN,,10,
-Darion Clark,CHI,2020.0,/players/C/ClarDa01,2020-11-29,Injured Reserve,GNB,,12,
-Darion Clark,CHI,2020.0,/players/C/ClarDa01,2020-12-06,Injured Reserve,DET,,13,
-Darion Clark,CHI,2020.0,/players/C/ClarDa01,2020-12-13,Injured Reserve,HOU,,14,
-Darion Clark,CHI,2020.0,/players/C/ClarDa01,2020-12-20,Injured Reserve,MIN,,15,
-Darion Clark,CHI,2020.0,/players/C/ClarDa01,2020-12-27,Injured Reserve,JAX,,16,
-Darion Clark,CHI,2020.0,/players/C/ClarDa01,2021-01-03,Injured Reserve,GNB,,17,
+Darion Clark,CHI,2020.0,/players/C/ClarDa01,2020-09-13,Injured Reserve,DET,,1,TE
+Darion Clark,CHI,2020.0,/players/C/ClarDa01,2020-09-20,Injured Reserve,NYG,,2,TE
+Darion Clark,CHI,2020.0,/players/C/ClarDa01,2020-09-27,Injured Reserve,ATL,,3,TE
+Darion Clark,CHI,2020.0,/players/C/ClarDa01,2020-10-04,Injured Reserve,IND,,4,TE
+Darion Clark,CHI,2020.0,/players/C/ClarDa01,2020-10-08,Injured Reserve,TAM,,5,TE
+Darion Clark,CHI,2020.0,/players/C/ClarDa01,2020-10-18,Injured Reserve,CAR,,6,TE
+Darion Clark,CHI,2020.0,/players/C/ClarDa01,2020-10-26,Injured Reserve,LAR,,7,TE
+Darion Clark,CHI,2020.0,/players/C/ClarDa01,2020-11-01,Injured Reserve,NOR,,8,TE
+Darion Clark,CHI,2020.0,/players/C/ClarDa01,2020-11-08,Injured Reserve,TEN,,9,TE
+Darion Clark,CHI,2020.0,/players/C/ClarDa01,2020-11-16,Injured Reserve,MIN,,10,TE
+Darion Clark,CHI,2020.0,/players/C/ClarDa01,2020-11-29,Injured Reserve,GNB,,12,TE
+Darion Clark,CHI,2020.0,/players/C/ClarDa01,2020-12-06,Injured Reserve,DET,,13,TE
+Darion Clark,CHI,2020.0,/players/C/ClarDa01,2020-12-13,Injured Reserve,HOU,,14,TE
+Darion Clark,CHI,2020.0,/players/C/ClarDa01,2020-12-20,Injured Reserve,MIN,,15,TE
+Darion Clark,CHI,2020.0,/players/C/ClarDa01,2020-12-27,Injured Reserve,JAX,,16,TE
+Darion Clark,CHI,2020.0,/players/C/ClarDa01,2021-01-03,Injured Reserve,GNB,,17,TE
 Eddie Goldman,CHI,2020.0,/players/G/GoldEd00,2020-09-13,Injured Reserve,DET,,1,DT
 Eddie Goldman,CHI,2020.0,/players/G/GoldEd00,2020-09-20,Injured Reserve,NYG,,2,DT
 Eddie Goldman,CHI,2020.0,/players/G/GoldEd00,2020-09-27,Injured Reserve,ATL,,3,DT
@@ -1098,22 +1098,22 @@ Eddie Goldman,CHI,2020.0,/players/G/GoldEd00,2021-01-03,Injured Reserve,GNB,,17,
 Germain Ifedi,CHI,2020.0,/players/I/IfedGe00,2020-09-13,Questionable,DET,Triceps,1,OT
 Germain Ifedi,CHI,2020.0,/players/I/IfedGe00,2020-11-08,C19,TEN,,9,OT
 Germain Ifedi,CHI,2020.0,/players/I/IfedGe00,2020-12-06,Questionable,DET,Calf,13,OT
-Michael Joseph,CHI,2020.0,/players/J/JoseMi00,2020-09-13,Injured Reserve,DET,,1,
-Michael Joseph,CHI,2020.0,/players/J/JoseMi00,2020-09-20,Injured Reserve,NYG,,2,
-Michael Joseph,CHI,2020.0,/players/J/JoseMi00,2020-09-27,Injured Reserve,ATL,,3,
-Michael Joseph,CHI,2020.0,/players/J/JoseMi00,2020-10-04,Injured Reserve,IND,,4,
-Michael Joseph,CHI,2020.0,/players/J/JoseMi00,2020-10-08,Injured Reserve,TAM,,5,
-Michael Joseph,CHI,2020.0,/players/J/JoseMi00,2020-10-18,Injured Reserve,CAR,,6,
-Michael Joseph,CHI,2020.0,/players/J/JoseMi00,2020-10-26,Injured Reserve,LAR,,7,
-Michael Joseph,CHI,2020.0,/players/J/JoseMi00,2020-11-01,C19,NOR,,8,
-Michael Joseph,CHI,2020.0,/players/J/JoseMi00,2020-11-08,C19,TEN,,9,
-Michael Joseph,CHI,2020.0,/players/J/JoseMi00,2020-11-16,Injured Reserve,MIN,,10,
-Michael Joseph,CHI,2020.0,/players/J/JoseMi00,2020-11-29,Injured Reserve,GNB,,12,
-Michael Joseph,CHI,2020.0,/players/J/JoseMi00,2020-12-06,Injured Reserve,DET,,13,
-Michael Joseph,CHI,2020.0,/players/J/JoseMi00,2020-12-13,Injured Reserve,HOU,,14,
-Michael Joseph,CHI,2020.0,/players/J/JoseMi00,2020-12-20,Injured Reserve,MIN,,15,
-Michael Joseph,CHI,2020.0,/players/J/JoseMi00,2020-12-27,Injured Reserve,JAX,,16,
-Michael Joseph,CHI,2020.0,/players/J/JoseMi00,2021-01-03,Injured Reserve,GNB,,17,
+Michael Joseph,CHI,2020.0,/players/J/JoseMi00,2020-09-13,Injured Reserve,DET,,1,CB
+Michael Joseph,CHI,2020.0,/players/J/JoseMi00,2020-09-20,Injured Reserve,NYG,,2,CB
+Michael Joseph,CHI,2020.0,/players/J/JoseMi00,2020-09-27,Injured Reserve,ATL,,3,CB
+Michael Joseph,CHI,2020.0,/players/J/JoseMi00,2020-10-04,Injured Reserve,IND,,4,CB
+Michael Joseph,CHI,2020.0,/players/J/JoseMi00,2020-10-08,Injured Reserve,TAM,,5,CB
+Michael Joseph,CHI,2020.0,/players/J/JoseMi00,2020-10-18,Injured Reserve,CAR,,6,CB
+Michael Joseph,CHI,2020.0,/players/J/JoseMi00,2020-10-26,Injured Reserve,LAR,,7,CB
+Michael Joseph,CHI,2020.0,/players/J/JoseMi00,2020-11-01,C19,NOR,,8,CB
+Michael Joseph,CHI,2020.0,/players/J/JoseMi00,2020-11-08,C19,TEN,,9,CB
+Michael Joseph,CHI,2020.0,/players/J/JoseMi00,2020-11-16,Injured Reserve,MIN,,10,CB
+Michael Joseph,CHI,2020.0,/players/J/JoseMi00,2020-11-29,Injured Reserve,GNB,,12,CB
+Michael Joseph,CHI,2020.0,/players/J/JoseMi00,2020-12-06,Injured Reserve,DET,,13,CB
+Michael Joseph,CHI,2020.0,/players/J/JoseMi00,2020-12-13,Injured Reserve,HOU,,14,CB
+Michael Joseph,CHI,2020.0,/players/J/JoseMi00,2020-12-20,Injured Reserve,MIN,,15,CB
+Michael Joseph,CHI,2020.0,/players/J/JoseMi00,2020-12-27,Injured Reserve,JAX,,16,CB
+Michael Joseph,CHI,2020.0,/players/J/JoseMi00,2021-01-03,Injured Reserve,GNB,,17,CB
 Jordan Lucas,CHI,2020.0,/players/L/LucaJo00,2020-09-13,Injured Reserve,DET,,1,SS
 Jordan Lucas,CHI,2020.0,/players/L/LucaJo00,2020-09-20,Injured Reserve,NYG,,2,SS
 Jordan Lucas,CHI,2020.0,/players/L/LucaJo00,2020-09-27,Injured Reserve,ATL,,3,SS
@@ -1176,21 +1176,21 @@ Jason Spriggs,CHI,2020.0,/players/S/SpriJa00,2020-10-26,Questionable,LAR,Thumb,7
 Jason Spriggs,CHI,2020.0,/players/S/SpriJa00,2020-11-08,C19,TEN,,9,OT
 Jason Spriggs,CHI,2020.0,/players/S/SpriJa00,2020-11-16,Questionable,MIN,Knee,10,OT
 Javon Wims,CHI,2020.0,/players/W/WimsJa00,2020-09-13,Questionable,DET,Achilles,1,WR
-Tre Roberson,CHI,2020.0,/players/R/RobeTr03,2020-09-20,Injured Reserve,NYG,,2,
-Tre Roberson,CHI,2020.0,/players/R/RobeTr03,2020-09-27,Injured Reserve,ATL,,3,
-Tre Roberson,CHI,2020.0,/players/R/RobeTr03,2020-10-04,Injured Reserve,IND,,4,
-Tre Roberson,CHI,2020.0,/players/R/RobeTr03,2020-10-08,Injured Reserve,TAM,,5,
-Tre Roberson,CHI,2020.0,/players/R/RobeTr03,2020-10-18,Injured Reserve,CAR,,6,
-Tre Roberson,CHI,2020.0,/players/R/RobeTr03,2020-10-26,Injured Reserve,LAR,,7,
-Tre Roberson,CHI,2020.0,/players/R/RobeTr03,2020-11-01,Injured Reserve,NOR,,8,
-Tre Roberson,CHI,2020.0,/players/R/RobeTr03,2020-11-08,Injured Reserve,TEN,,9,
-Tre Roberson,CHI,2020.0,/players/R/RobeTr03,2020-11-16,Injured Reserve,MIN,,10,
-Tre Roberson,CHI,2020.0,/players/R/RobeTr03,2020-11-29,Injured Reserve,GNB,,12,
-Tre Roberson,CHI,2020.0,/players/R/RobeTr03,2020-12-06,Injured Reserve,DET,,13,
-Tre Roberson,CHI,2020.0,/players/R/RobeTr03,2020-12-13,Injured Reserve,HOU,,14,
-Tre Roberson,CHI,2020.0,/players/R/RobeTr03,2020-12-20,Injured Reserve,MIN,,15,
-Tre Roberson,CHI,2020.0,/players/R/RobeTr03,2020-12-27,Injured Reserve,JAX,,16,
-Tre Roberson,CHI,2020.0,/players/R/RobeTr03,2021-01-03,Injured Reserve,GNB,,17,
+Tre Roberson,CHI,2020.0,/players/R/RobeTr03,2020-09-20,Injured Reserve,NYG,,2,CB
+Tre Roberson,CHI,2020.0,/players/R/RobeTr03,2020-09-27,Injured Reserve,ATL,,3,CB
+Tre Roberson,CHI,2020.0,/players/R/RobeTr03,2020-10-04,Injured Reserve,IND,,4,CB
+Tre Roberson,CHI,2020.0,/players/R/RobeTr03,2020-10-08,Injured Reserve,TAM,,5,CB
+Tre Roberson,CHI,2020.0,/players/R/RobeTr03,2020-10-18,Injured Reserve,CAR,,6,CB
+Tre Roberson,CHI,2020.0,/players/R/RobeTr03,2020-10-26,Injured Reserve,LAR,,7,CB
+Tre Roberson,CHI,2020.0,/players/R/RobeTr03,2020-11-01,Injured Reserve,NOR,,8,CB
+Tre Roberson,CHI,2020.0,/players/R/RobeTr03,2020-11-08,Injured Reserve,TEN,,9,CB
+Tre Roberson,CHI,2020.0,/players/R/RobeTr03,2020-11-16,Injured Reserve,MIN,,10,CB
+Tre Roberson,CHI,2020.0,/players/R/RobeTr03,2020-11-29,Injured Reserve,GNB,,12,CB
+Tre Roberson,CHI,2020.0,/players/R/RobeTr03,2020-12-06,Injured Reserve,DET,,13,CB
+Tre Roberson,CHI,2020.0,/players/R/RobeTr03,2020-12-13,Injured Reserve,HOU,,14,CB
+Tre Roberson,CHI,2020.0,/players/R/RobeTr03,2020-12-20,Injured Reserve,MIN,,15,CB
+Tre Roberson,CHI,2020.0,/players/R/RobeTr03,2020-12-27,Injured Reserve,JAX,,16,CB
+Tre Roberson,CHI,2020.0,/players/R/RobeTr03,2021-01-03,Injured Reserve,GNB,,17,CB
 Mario Edwards,CHI,2020.0,/players/E/EdwaMa01,2020-09-27,Questionable,ATL,Glute,3,DE
 Mario Edwards,CHI,2020.0,/players/E/EdwaMa01,2020-12-27,Questionable,JAX,Hamstring,16,DE
 John Jenkins,CHI,2020.0,/players/J/JenkJo00,2020-09-27,Injured Reserve,ATL,,3,DT
@@ -1277,7 +1277,7 @@ Barkevious Mingo,CHI,2020.0,/players/M/MingBa00,2020-11-16,Questionable,MIN,Shou
 Allen Robinson,CHI,2020.0,/players/R/RobiAl02,2020-11-16,Questionable,MIN,Knee,10,WR
 Allen Robinson,CHI,2020.0,/players/R/RobiAl02,2020-12-06,Questionable,DET,Knee,13,WR
 Allen Robinson,CHI,2020.0,/players/R/RobiAl02,2020-12-27,Questionable,JAX,Hamstring,16,WR
-Lachavious Simmons,CHI,2020.0,/players/S/SimmLa00,2020-11-16,C19,MIN,,10,
+Lachavious Simmons,CHI,2020.0,/players/S/SimmLa00,2020-11-16,C19,MIN,,10,G
 Nick Foles ,CHI,2020.0,/players/F/FoleNi00,2020-11-29,Doubtful,GNB,Hip,12,QB
 Nick Foles ,CHI,2020.0,/players/F/FoleNi00,2020-12-06,Questionable,DET,Hip,13,QB
 Dwayne Harris,CHI,2020.0,/players/H/HarrDw00,2020-11-29,Injured Reserve,GNB,,12,WR
@@ -1516,38 +1516,38 @@ Andrew Billings,CLE,2020.0,/players/B/BillAn00,2020-12-14,Injured Reserve,BAL,,1
 Andrew Billings,CLE,2020.0,/players/B/BillAn00,2020-12-20,Injured Reserve,NYG,,15,DT
 Andrew Billings,CLE,2020.0,/players/B/BillAn00,2020-12-27,Injured Reserve,NYJ,,16,DT
 Andrew Billings,CLE,2020.0,/players/B/BillAn00,2021-01-03,Injured Reserve,PIT,,17,DT
-Grant Delpit,CLE,2020.0,/players/D/DelpGr00,2020-09-13,Injured Reserve,BAL,,1,
-Grant Delpit,CLE,2020.0,/players/D/DelpGr00,2020-09-17,Injured Reserve,CIN,,2,
-Grant Delpit,CLE,2020.0,/players/D/DelpGr00,2020-09-27,Injured Reserve,WAS,,3,
-Grant Delpit,CLE,2020.0,/players/D/DelpGr00,2020-10-04,Injured Reserve,DAL,,4,
-Grant Delpit,CLE,2020.0,/players/D/DelpGr00,2020-10-11,Injured Reserve,IND,,5,
-Grant Delpit,CLE,2020.0,/players/D/DelpGr00,2020-10-18,Injured Reserve,PIT,,6,
-Grant Delpit,CLE,2020.0,/players/D/DelpGr00,2020-10-25,Injured Reserve,CIN,,7,
-Grant Delpit,CLE,2020.0,/players/D/DelpGr00,2020-11-01,Injured Reserve,LVR,,8,
-Grant Delpit,CLE,2020.0,/players/D/DelpGr00,2020-11-15,Injured Reserve,HOU,,10,
-Grant Delpit,CLE,2020.0,/players/D/DelpGr00,2020-11-22,Injured Reserve,PHI,,11,
-Grant Delpit,CLE,2020.0,/players/D/DelpGr00,2020-11-29,Injured Reserve,JAX,,12,
-Grant Delpit,CLE,2020.0,/players/D/DelpGr00,2020-12-06,Injured Reserve,TEN,,13,
-Grant Delpit,CLE,2020.0,/players/D/DelpGr00,2020-12-14,Injured Reserve,BAL,,14,
-Grant Delpit,CLE,2020.0,/players/D/DelpGr00,2020-12-20,Injured Reserve,NYG,,15,
-Grant Delpit,CLE,2020.0,/players/D/DelpGr00,2020-12-27,Injured Reserve,NYJ,,16,
-Grant Delpit,CLE,2020.0,/players/D/DelpGr00,2021-01-03,Injured Reserve,PIT,,17,
-Drake Dorbeck,CLE,2020.0,/players/D/DorbDr00,2020-09-13,Injured Reserve,BAL,,1,
-Drake Dorbeck,CLE,2020.0,/players/D/DorbDr00,2020-09-17,Injured Reserve,CIN,,2,
-Drake Dorbeck,CLE,2020.0,/players/D/DorbDr00,2020-09-27,Injured Reserve,WAS,,3,
-Drake Dorbeck,CLE,2020.0,/players/D/DorbDr00,2020-10-04,Injured Reserve,DAL,,4,
-Drake Dorbeck,CLE,2020.0,/players/D/DorbDr00,2020-10-11,Injured Reserve,IND,,5,
-Drake Dorbeck,CLE,2020.0,/players/D/DorbDr00,2020-10-18,Injured Reserve,PIT,,6,
-Drake Dorbeck,CLE,2020.0,/players/D/DorbDr00,2020-10-25,Injured Reserve,CIN,,7,
-Drake Dorbeck,CLE,2020.0,/players/D/DorbDr00,2020-11-01,Injured Reserve,LVR,,8,
-Drake Dorbeck,CLE,2020.0,/players/D/DorbDr00,2020-11-15,Injured Reserve,HOU,,10,
-Drake Dorbeck,CLE,2020.0,/players/D/DorbDr00,2020-11-22,Injured Reserve,PHI,,11,
-Drake Dorbeck,CLE,2020.0,/players/D/DorbDr00,2020-11-29,Injured Reserve,JAX,,12,
-Drake Dorbeck,CLE,2020.0,/players/D/DorbDr00,2020-12-06,Injured Reserve,TEN,,13,
-Drake Dorbeck,CLE,2020.0,/players/D/DorbDr00,2020-12-14,Injured Reserve,BAL,,14,
-Drake Dorbeck,CLE,2020.0,/players/D/DorbDr00,2020-12-20,Injured Reserve,NYG,,15,
-Drake Dorbeck,CLE,2020.0,/players/D/DorbDr00,2020-12-27,Injured Reserve,NYJ,,16,
-Drake Dorbeck,CLE,2020.0,/players/D/DorbDr00,2021-01-03,Injured Reserve,PIT,,17,
+Grant Delpit,CLE,2020.0,/players/D/DelpGr00,2020-09-13,Injured Reserve,BAL,,1,S
+Grant Delpit,CLE,2020.0,/players/D/DelpGr00,2020-09-17,Injured Reserve,CIN,,2,S
+Grant Delpit,CLE,2020.0,/players/D/DelpGr00,2020-09-27,Injured Reserve,WAS,,3,S
+Grant Delpit,CLE,2020.0,/players/D/DelpGr00,2020-10-04,Injured Reserve,DAL,,4,S
+Grant Delpit,CLE,2020.0,/players/D/DelpGr00,2020-10-11,Injured Reserve,IND,,5,S
+Grant Delpit,CLE,2020.0,/players/D/DelpGr00,2020-10-18,Injured Reserve,PIT,,6,S
+Grant Delpit,CLE,2020.0,/players/D/DelpGr00,2020-10-25,Injured Reserve,CIN,,7,S
+Grant Delpit,CLE,2020.0,/players/D/DelpGr00,2020-11-01,Injured Reserve,LVR,,8,S
+Grant Delpit,CLE,2020.0,/players/D/DelpGr00,2020-11-15,Injured Reserve,HOU,,10,S
+Grant Delpit,CLE,2020.0,/players/D/DelpGr00,2020-11-22,Injured Reserve,PHI,,11,S
+Grant Delpit,CLE,2020.0,/players/D/DelpGr00,2020-11-29,Injured Reserve,JAX,,12,S
+Grant Delpit,CLE,2020.0,/players/D/DelpGr00,2020-12-06,Injured Reserve,TEN,,13,S
+Grant Delpit,CLE,2020.0,/players/D/DelpGr00,2020-12-14,Injured Reserve,BAL,,14,S
+Grant Delpit,CLE,2020.0,/players/D/DelpGr00,2020-12-20,Injured Reserve,NYG,,15,S
+Grant Delpit,CLE,2020.0,/players/D/DelpGr00,2020-12-27,Injured Reserve,NYJ,,16,S
+Grant Delpit,CLE,2020.0,/players/D/DelpGr00,2021-01-03,Injured Reserve,PIT,,17,S
+Drake Dorbeck,CLE,2020.0,/players/D/DorbDr00,2020-09-13,Injured Reserve,BAL,,1,T
+Drake Dorbeck,CLE,2020.0,/players/D/DorbDr00,2020-09-17,Injured Reserve,CIN,,2,T
+Drake Dorbeck,CLE,2020.0,/players/D/DorbDr00,2020-09-27,Injured Reserve,WAS,,3,T
+Drake Dorbeck,CLE,2020.0,/players/D/DorbDr00,2020-10-04,Injured Reserve,DAL,,4,T
+Drake Dorbeck,CLE,2020.0,/players/D/DorbDr00,2020-10-11,Injured Reserve,IND,,5,T
+Drake Dorbeck,CLE,2020.0,/players/D/DorbDr00,2020-10-18,Injured Reserve,PIT,,6,T
+Drake Dorbeck,CLE,2020.0,/players/D/DorbDr00,2020-10-25,Injured Reserve,CIN,,7,T
+Drake Dorbeck,CLE,2020.0,/players/D/DorbDr00,2020-11-01,Injured Reserve,LVR,,8,T
+Drake Dorbeck,CLE,2020.0,/players/D/DorbDr00,2020-11-15,Injured Reserve,HOU,,10,T
+Drake Dorbeck,CLE,2020.0,/players/D/DorbDr00,2020-11-22,Injured Reserve,PHI,,11,T
+Drake Dorbeck,CLE,2020.0,/players/D/DorbDr00,2020-11-29,Injured Reserve,JAX,,12,T
+Drake Dorbeck,CLE,2020.0,/players/D/DorbDr00,2020-12-06,Injured Reserve,TEN,,13,T
+Drake Dorbeck,CLE,2020.0,/players/D/DorbDr00,2020-12-14,Injured Reserve,BAL,,14,T
+Drake Dorbeck,CLE,2020.0,/players/D/DorbDr00,2020-12-20,Injured Reserve,NYG,,15,T
+Drake Dorbeck,CLE,2020.0,/players/D/DorbDr00,2020-12-27,Injured Reserve,NYJ,,16,T
+Drake Dorbeck,CLE,2020.0,/players/D/DorbDr00,2021-01-03,Injured Reserve,PIT,,17,T
 Colby Gossett,CLE,2020.0,/players/G/GossCo00,2020-09-13,Injured Reserve,BAL,,1,G
 Colby Gossett,CLE,2020.0,/players/G/GossCo00,2020-09-17,Injured Reserve,CIN,,2,G
 Colby Gossett,CLE,2020.0,/players/G/GossCo00,2020-09-27,Injured Reserve,WAS,,3,G
@@ -1574,59 +1574,59 @@ Chris Hubbard,CLE,2020.0,/players/H/HubbCh00,2021-01-03,Injured Reserve,PIT,,17,
 Kevin Johnson,CLE,2020.0,/players/J/JohnKe04,2020-09-13,Out,BAL,Liver,1,CB
 Kevin Johnson,CLE,2020.0,/players/J/JohnKe04,2020-09-17,Out,CIN,Liver,2,CB
 Kevin Johnson,CLE,2020.0,/players/J/JohnKe04,2020-12-20,Questionable,NYG,Groin,15,CB
-George Obinna,CLE,2020.0,/players/O/ObinGe00,2020-09-13,Injured Reserve,BAL,,1,
-George Obinna,CLE,2020.0,/players/O/ObinGe00,2020-09-17,Injured Reserve,CIN,,2,
-George Obinna,CLE,2020.0,/players/O/ObinGe00,2020-09-27,Injured Reserve,WAS,,3,
-George Obinna,CLE,2020.0,/players/O/ObinGe00,2020-10-04,Injured Reserve,DAL,,4,
-George Obinna,CLE,2020.0,/players/O/ObinGe00,2020-10-11,Injured Reserve,IND,,5,
-George Obinna,CLE,2020.0,/players/O/ObinGe00,2020-10-18,Injured Reserve,PIT,,6,
-George Obinna,CLE,2020.0,/players/O/ObinGe00,2020-10-25,Injured Reserve,CIN,,7,
-George Obinna,CLE,2020.0,/players/O/ObinGe00,2020-11-01,Injured Reserve,LVR,,8,
-George Obinna,CLE,2020.0,/players/O/ObinGe00,2020-11-15,Injured Reserve,HOU,,10,
-George Obinna,CLE,2020.0,/players/O/ObinGe00,2020-11-22,Injured Reserve,PHI,,11,
-George Obinna,CLE,2020.0,/players/O/ObinGe00,2020-11-29,Injured Reserve,JAX,,12,
-George Obinna,CLE,2020.0,/players/O/ObinGe00,2020-12-06,Injured Reserve,TEN,,13,
-George Obinna,CLE,2020.0,/players/O/ObinGe00,2020-12-14,Injured Reserve,BAL,,14,
-George Obinna,CLE,2020.0,/players/O/ObinGe00,2020-12-20,Injured Reserve,NYG,,15,
-George Obinna,CLE,2020.0,/players/O/ObinGe00,2020-12-27,Injured Reserve,NYJ,,16,
-George Obinna,CLE,2020.0,/players/O/ObinGe00,2021-01-03,Injured Reserve,PIT,,17,
-Malcolm Pridgeon,CLE,2020.0,/players/P/PridMa00,2020-09-13,Injured Reserve,BAL,,1,
-Malcolm Pridgeon,CLE,2020.0,/players/P/PridMa00,2020-09-17,Injured Reserve,CIN,,2,
-Malcolm Pridgeon,CLE,2020.0,/players/P/PridMa00,2020-09-27,Injured Reserve,WAS,,3,
-Malcolm Pridgeon,CLE,2020.0,/players/P/PridMa00,2020-10-04,Injured Reserve,DAL,,4,
-Malcolm Pridgeon,CLE,2020.0,/players/P/PridMa00,2020-10-11,Injured Reserve,IND,,5,
-Malcolm Pridgeon,CLE,2020.0,/players/P/PridMa00,2020-10-18,Injured Reserve,PIT,,6,
-Malcolm Pridgeon,CLE,2020.0,/players/P/PridMa00,2020-10-25,Injured Reserve,CIN,,7,
-Malcolm Pridgeon,CLE,2020.0,/players/P/PridMa00,2020-11-01,Injured Reserve,LVR,,8,
-Malcolm Pridgeon,CLE,2020.0,/players/P/PridMa00,2020-11-15,Injured Reserve,HOU,,10,
-Malcolm Pridgeon,CLE,2020.0,/players/P/PridMa00,2020-11-22,Injured Reserve,PHI,,11,
-Malcolm Pridgeon,CLE,2020.0,/players/P/PridMa00,2020-11-29,Injured Reserve,JAX,,12,
-Malcolm Pridgeon,CLE,2020.0,/players/P/PridMa00,2020-12-06,Injured Reserve,TEN,,13,
-Malcolm Pridgeon,CLE,2020.0,/players/P/PridMa00,2020-12-14,Injured Reserve,BAL,,14,
-Malcolm Pridgeon,CLE,2020.0,/players/P/PridMa00,2020-12-20,Injured Reserve,NYG,,15,
-Malcolm Pridgeon,CLE,2020.0,/players/P/PridMa00,2020-12-27,Injured Reserve,NYJ,,16,
-Malcolm Pridgeon,CLE,2020.0,/players/P/PridMa00,2021-01-03,Injured Reserve,PIT,,17,
+George Obinna,CLE,2020.0,/players/O/ObinGe00,2020-09-13,Injured Reserve,BAL,,1,DE
+George Obinna,CLE,2020.0,/players/O/ObinGe00,2020-09-17,Injured Reserve,CIN,,2,DE
+George Obinna,CLE,2020.0,/players/O/ObinGe00,2020-09-27,Injured Reserve,WAS,,3,DE
+George Obinna,CLE,2020.0,/players/O/ObinGe00,2020-10-04,Injured Reserve,DAL,,4,DE
+George Obinna,CLE,2020.0,/players/O/ObinGe00,2020-10-11,Injured Reserve,IND,,5,DE
+George Obinna,CLE,2020.0,/players/O/ObinGe00,2020-10-18,Injured Reserve,PIT,,6,DE
+George Obinna,CLE,2020.0,/players/O/ObinGe00,2020-10-25,Injured Reserve,CIN,,7,DE
+George Obinna,CLE,2020.0,/players/O/ObinGe00,2020-11-01,Injured Reserve,LVR,,8,DE
+George Obinna,CLE,2020.0,/players/O/ObinGe00,2020-11-15,Injured Reserve,HOU,,10,DE
+George Obinna,CLE,2020.0,/players/O/ObinGe00,2020-11-22,Injured Reserve,PHI,,11,DE
+George Obinna,CLE,2020.0,/players/O/ObinGe00,2020-11-29,Injured Reserve,JAX,,12,DE
+George Obinna,CLE,2020.0,/players/O/ObinGe00,2020-12-06,Injured Reserve,TEN,,13,DE
+George Obinna,CLE,2020.0,/players/O/ObinGe00,2020-12-14,Injured Reserve,BAL,,14,DE
+George Obinna,CLE,2020.0,/players/O/ObinGe00,2020-12-20,Injured Reserve,NYG,,15,DE
+George Obinna,CLE,2020.0,/players/O/ObinGe00,2020-12-27,Injured Reserve,NYJ,,16,DE
+George Obinna,CLE,2020.0,/players/O/ObinGe00,2021-01-03,Injured Reserve,PIT,,17,DE
+Malcolm Pridgeon,CLE,2020.0,/players/P/PridMa00,2020-09-13,Injured Reserve,BAL,,1,G
+Malcolm Pridgeon,CLE,2020.0,/players/P/PridMa00,2020-09-17,Injured Reserve,CIN,,2,G
+Malcolm Pridgeon,CLE,2020.0,/players/P/PridMa00,2020-09-27,Injured Reserve,WAS,,3,G
+Malcolm Pridgeon,CLE,2020.0,/players/P/PridMa00,2020-10-04,Injured Reserve,DAL,,4,G
+Malcolm Pridgeon,CLE,2020.0,/players/P/PridMa00,2020-10-11,Injured Reserve,IND,,5,G
+Malcolm Pridgeon,CLE,2020.0,/players/P/PridMa00,2020-10-18,Injured Reserve,PIT,,6,G
+Malcolm Pridgeon,CLE,2020.0,/players/P/PridMa00,2020-10-25,Injured Reserve,CIN,,7,G
+Malcolm Pridgeon,CLE,2020.0,/players/P/PridMa00,2020-11-01,Injured Reserve,LVR,,8,G
+Malcolm Pridgeon,CLE,2020.0,/players/P/PridMa00,2020-11-15,Injured Reserve,HOU,,10,G
+Malcolm Pridgeon,CLE,2020.0,/players/P/PridMa00,2020-11-22,Injured Reserve,PHI,,11,G
+Malcolm Pridgeon,CLE,2020.0,/players/P/PridMa00,2020-11-29,Injured Reserve,JAX,,12,G
+Malcolm Pridgeon,CLE,2020.0,/players/P/PridMa00,2020-12-06,Injured Reserve,TEN,,13,G
+Malcolm Pridgeon,CLE,2020.0,/players/P/PridMa00,2020-12-14,Injured Reserve,BAL,,14,G
+Malcolm Pridgeon,CLE,2020.0,/players/P/PridMa00,2020-12-20,Injured Reserve,NYG,,15,G
+Malcolm Pridgeon,CLE,2020.0,/players/P/PridMa00,2020-12-27,Injured Reserve,NYJ,,16,G
+Malcolm Pridgeon,CLE,2020.0,/players/P/PridMa00,2021-01-03,Injured Reserve,PIT,,17,G
 M.J. Stewart,CLE,2020.0,/players/S/StewM.00,2020-09-13,Questionable,BAL,Hamstring,1,CB
 Alex Taylor,CLE,2020.0,/players/T/TaylAl02,2020-09-13,Injured Reserve,BAL,,1,T
 Alex Taylor,CLE,2020.0,/players/T/TaylAl02,2020-09-17,Injured Reserve,CIN,,2,T
 J.C. Tretter,CLE,2020.0,/players/T/TretJC00,2020-09-13,Questionable,BAL,Knee,1,OG
 J.C. Tretter,CLE,2020.0,/players/T/TretJC00,2020-09-17,Questionable,CIN,Knee,2,OG
-Curtis Weaver,CLE,2020.0,/players/W/WeavCu00,2020-09-13,Injured Reserve,BAL,,1,
-Curtis Weaver,CLE,2020.0,/players/W/WeavCu00,2020-09-17,Injured Reserve,CIN,,2,
-Curtis Weaver,CLE,2020.0,/players/W/WeavCu00,2020-09-27,Injured Reserve,WAS,,3,
-Curtis Weaver,CLE,2020.0,/players/W/WeavCu00,2020-10-04,Injured Reserve,DAL,,4,
-Curtis Weaver,CLE,2020.0,/players/W/WeavCu00,2020-10-11,Injured Reserve,IND,,5,
-Curtis Weaver,CLE,2020.0,/players/W/WeavCu00,2020-10-18,Injured Reserve,PIT,,6,
-Curtis Weaver,CLE,2020.0,/players/W/WeavCu00,2020-10-25,Injured Reserve,CIN,,7,
-Curtis Weaver,CLE,2020.0,/players/W/WeavCu00,2020-11-01,Injured Reserve,LVR,,8,
-Curtis Weaver,CLE,2020.0,/players/W/WeavCu00,2020-11-15,Injured Reserve,HOU,,10,
-Curtis Weaver,CLE,2020.0,/players/W/WeavCu00,2020-11-22,Injured Reserve,PHI,,11,
-Curtis Weaver,CLE,2020.0,/players/W/WeavCu00,2020-11-29,Injured Reserve,JAX,,12,
-Curtis Weaver,CLE,2020.0,/players/W/WeavCu00,2020-12-06,Injured Reserve,TEN,,13,
-Curtis Weaver,CLE,2020.0,/players/W/WeavCu00,2020-12-14,Injured Reserve,BAL,,14,
-Curtis Weaver,CLE,2020.0,/players/W/WeavCu00,2020-12-20,Injured Reserve,NYG,,15,
-Curtis Weaver,CLE,2020.0,/players/W/WeavCu00,2020-12-27,Injured Reserve,NYJ,,16,
-Curtis Weaver,CLE,2020.0,/players/W/WeavCu00,2021-01-03,Injured Reserve,PIT,,17,
+Curtis Weaver,CLE,2020.0,/players/W/WeavCu00,2020-09-13,Injured Reserve,BAL,,1,LB
+Curtis Weaver,CLE,2020.0,/players/W/WeavCu00,2020-09-17,Injured Reserve,CIN,,2,LB
+Curtis Weaver,CLE,2020.0,/players/W/WeavCu00,2020-09-27,Injured Reserve,WAS,,3,LB
+Curtis Weaver,CLE,2020.0,/players/W/WeavCu00,2020-10-04,Injured Reserve,DAL,,4,LB
+Curtis Weaver,CLE,2020.0,/players/W/WeavCu00,2020-10-11,Injured Reserve,IND,,5,LB
+Curtis Weaver,CLE,2020.0,/players/W/WeavCu00,2020-10-18,Injured Reserve,PIT,,6,LB
+Curtis Weaver,CLE,2020.0,/players/W/WeavCu00,2020-10-25,Injured Reserve,CIN,,7,LB
+Curtis Weaver,CLE,2020.0,/players/W/WeavCu00,2020-11-01,Injured Reserve,LVR,,8,LB
+Curtis Weaver,CLE,2020.0,/players/W/WeavCu00,2020-11-15,Injured Reserve,HOU,,10,LB
+Curtis Weaver,CLE,2020.0,/players/W/WeavCu00,2020-11-22,Injured Reserve,PHI,,11,LB
+Curtis Weaver,CLE,2020.0,/players/W/WeavCu00,2020-11-29,Injured Reserve,JAX,,12,LB
+Curtis Weaver,CLE,2020.0,/players/W/WeavCu00,2020-12-06,Injured Reserve,TEN,,13,LB
+Curtis Weaver,CLE,2020.0,/players/W/WeavCu00,2020-12-14,Injured Reserve,BAL,,14,LB
+Curtis Weaver,CLE,2020.0,/players/W/WeavCu00,2020-12-20,Injured Reserve,NYG,,15,LB
+Curtis Weaver,CLE,2020.0,/players/W/WeavCu00,2020-12-27,Injured Reserve,NYJ,,16,LB
+Curtis Weaver,CLE,2020.0,/players/W/WeavCu00,2021-01-03,Injured Reserve,PIT,,17,LB
 Greedy Williams,CLE,2020.0,/players/W/WillGr00,2020-09-13,Out,BAL,Shoulder,1,CB
 Greedy Williams,CLE,2020.0,/players/W/WillGr00,2020-09-17,Out,CIN,Shoulder,2,CB
 Greedy Williams,CLE,2020.0,/players/W/WillGr00,2020-09-27,Out,WAS,Shoulder,3,CB
@@ -1852,54 +1852,54 @@ Travis Frederick,DAL,2020.0,/players/F/FredTr00,2020-10-04,Injured Reserve,CLE,,
 Travis Frederick,DAL,2020.0,/players/F/FredTr00,2020-10-11,Injured Reserve,NYG,,5,C
 Travis Frederick,DAL,2020.0,/players/F/FredTr00,2020-10-19,Injured Reserve,ARI,,6,C
 Travis Frederick,DAL,2020.0,/players/F/FredTr00,2020-10-25,Injured Reserve,WAS,,7,C
-Stephen Guidry,DAL,2020.0,/players/G/GuidSt01,2020-09-13,Injured Reserve,LAR,,1,
-Stephen Guidry,DAL,2020.0,/players/G/GuidSt01,2020-09-20,Injured Reserve,ATL,,2,
-Stephen Guidry,DAL,2020.0,/players/G/GuidSt01,2020-09-27,Injured Reserve,SEA,,3,
-Stephen Guidry,DAL,2020.0,/players/G/GuidSt01,2020-10-04,Injured Reserve,CLE,,4,
-Stephen Guidry,DAL,2020.0,/players/G/GuidSt01,2020-10-11,Injured Reserve,NYG,,5,
-Stephen Guidry,DAL,2020.0,/players/G/GuidSt01,2020-10-19,Injured Reserve,ARI,,6,
-Stephen Guidry,DAL,2020.0,/players/G/GuidSt01,2020-10-25,Injured Reserve,WAS,,7,
-Stephen Guidry,DAL,2020.0,/players/G/GuidSt01,2020-11-01,Injured Reserve,PHI,,8,
-Stephen Guidry,DAL,2020.0,/players/G/GuidSt01,2020-11-08,Injured Reserve,PIT,,9,
-Stephen Guidry,DAL,2020.0,/players/G/GuidSt01,2020-11-22,Injured Reserve,MIN,,11,
-Stephen Guidry,DAL,2020.0,/players/G/GuidSt01,2020-11-26,Injured Reserve,WAS,,12,
-Stephen Guidry,DAL,2020.0,/players/G/GuidSt01,2020-12-08,Injured Reserve,BAL,,13,
-Stephen Guidry,DAL,2020.0,/players/G/GuidSt01,2020-12-13,Injured Reserve,CIN,,14,
-Stephen Guidry,DAL,2020.0,/players/G/GuidSt01,2020-12-20,Injured Reserve,SFO,,15,
-Stephen Guidry,DAL,2020.0,/players/G/GuidSt01,2020-12-27,Injured Reserve,PHI,,16,
-Stephen Guidry,DAL,2020.0,/players/G/GuidSt01,2021-01-03,Injured Reserve,NYG,,17,
-Mitch Hyatt,DAL,2020.0,/players/H/HyatMi01,2020-09-13,Injured Reserve,LAR,,1,
-Mitch Hyatt,DAL,2020.0,/players/H/HyatMi01,2020-09-20,Injured Reserve,ATL,,2,
-Mitch Hyatt,DAL,2020.0,/players/H/HyatMi01,2020-09-27,Injured Reserve,SEA,,3,
-Mitch Hyatt,DAL,2020.0,/players/H/HyatMi01,2020-10-04,Injured Reserve,CLE,,4,
-Mitch Hyatt,DAL,2020.0,/players/H/HyatMi01,2020-10-11,Injured Reserve,NYG,,5,
-Mitch Hyatt,DAL,2020.0,/players/H/HyatMi01,2020-10-19,Injured Reserve,ARI,,6,
-Mitch Hyatt,DAL,2020.0,/players/H/HyatMi01,2020-10-25,Injured Reserve,WAS,,7,
-Mitch Hyatt,DAL,2020.0,/players/H/HyatMi01,2020-11-01,Injured Reserve,PHI,,8,
-Mitch Hyatt,DAL,2020.0,/players/H/HyatMi01,2020-11-08,Injured Reserve,PIT,,9,
-Mitch Hyatt,DAL,2020.0,/players/H/HyatMi01,2020-11-22,Injured Reserve,MIN,,11,
-Mitch Hyatt,DAL,2020.0,/players/H/HyatMi01,2020-11-26,Injured Reserve,WAS,,12,
-Mitch Hyatt,DAL,2020.0,/players/H/HyatMi01,2020-12-08,Injured Reserve,BAL,,13,
-Mitch Hyatt,DAL,2020.0,/players/H/HyatMi01,2020-12-13,Injured Reserve,CIN,,14,
-Mitch Hyatt,DAL,2020.0,/players/H/HyatMi01,2020-12-20,Injured Reserve,SFO,,15,
-Mitch Hyatt,DAL,2020.0,/players/H/HyatMi01,2020-12-27,Injured Reserve,PHI,,16,
-Mitch Hyatt,DAL,2020.0,/players/H/HyatMi01,2021-01-03,Injured Reserve,NYG,,17,
-Azur Kamara,DAL,2020.0,/players/K/KamaAz01,2020-09-13,Injured Reserve,LAR,,1,
-Azur Kamara,DAL,2020.0,/players/K/KamaAz01,2020-09-20,Injured Reserve,ATL,,2,
-Azur Kamara,DAL,2020.0,/players/K/KamaAz01,2020-09-27,Injured Reserve,SEA,,3,
-Azur Kamara,DAL,2020.0,/players/K/KamaAz01,2020-10-04,Injured Reserve,CLE,,4,
-Azur Kamara,DAL,2020.0,/players/K/KamaAz01,2020-10-11,Injured Reserve,NYG,,5,
-Azur Kamara,DAL,2020.0,/players/K/KamaAz01,2020-10-19,Injured Reserve,ARI,,6,
-Azur Kamara,DAL,2020.0,/players/K/KamaAz01,2020-10-25,Injured Reserve,WAS,,7,
-Azur Kamara,DAL,2020.0,/players/K/KamaAz01,2020-11-01,Injured Reserve,PHI,,8,
-Azur Kamara,DAL,2020.0,/players/K/KamaAz01,2020-11-08,Injured Reserve,PIT,,9,
-Azur Kamara,DAL,2020.0,/players/K/KamaAz01,2020-11-22,Injured Reserve,MIN,,11,
-Azur Kamara,DAL,2020.0,/players/K/KamaAz01,2020-11-26,Injured Reserve,WAS,,12,
-Azur Kamara,DAL,2020.0,/players/K/KamaAz01,2020-12-08,Injured Reserve,BAL,,13,
-Azur Kamara,DAL,2020.0,/players/K/KamaAz01,2020-12-13,Injured Reserve,CIN,,14,
-Azur Kamara,DAL,2020.0,/players/K/KamaAz01,2020-12-20,Injured Reserve,SFO,,15,
-Azur Kamara,DAL,2020.0,/players/K/KamaAz01,2020-12-27,Injured Reserve,PHI,,16,
-Azur Kamara,DAL,2020.0,/players/K/KamaAz01,2021-01-03,Injured Reserve,NYG,,17,
+Stephen Guidry,DAL,2020.0,/players/G/GuidSt01,2020-09-13,Injured Reserve,LAR,,1,WR
+Stephen Guidry,DAL,2020.0,/players/G/GuidSt01,2020-09-20,Injured Reserve,ATL,,2,WR
+Stephen Guidry,DAL,2020.0,/players/G/GuidSt01,2020-09-27,Injured Reserve,SEA,,3,WR
+Stephen Guidry,DAL,2020.0,/players/G/GuidSt01,2020-10-04,Injured Reserve,CLE,,4,WR
+Stephen Guidry,DAL,2020.0,/players/G/GuidSt01,2020-10-11,Injured Reserve,NYG,,5,WR
+Stephen Guidry,DAL,2020.0,/players/G/GuidSt01,2020-10-19,Injured Reserve,ARI,,6,WR
+Stephen Guidry,DAL,2020.0,/players/G/GuidSt01,2020-10-25,Injured Reserve,WAS,,7,WR
+Stephen Guidry,DAL,2020.0,/players/G/GuidSt01,2020-11-01,Injured Reserve,PHI,,8,WR
+Stephen Guidry,DAL,2020.0,/players/G/GuidSt01,2020-11-08,Injured Reserve,PIT,,9,WR
+Stephen Guidry,DAL,2020.0,/players/G/GuidSt01,2020-11-22,Injured Reserve,MIN,,11,WR
+Stephen Guidry,DAL,2020.0,/players/G/GuidSt01,2020-11-26,Injured Reserve,WAS,,12,WR
+Stephen Guidry,DAL,2020.0,/players/G/GuidSt01,2020-12-08,Injured Reserve,BAL,,13,WR
+Stephen Guidry,DAL,2020.0,/players/G/GuidSt01,2020-12-13,Injured Reserve,CIN,,14,WR
+Stephen Guidry,DAL,2020.0,/players/G/GuidSt01,2020-12-20,Injured Reserve,SFO,,15,WR
+Stephen Guidry,DAL,2020.0,/players/G/GuidSt01,2020-12-27,Injured Reserve,PHI,,16,WR
+Stephen Guidry,DAL,2020.0,/players/G/GuidSt01,2021-01-03,Injured Reserve,NYG,,17,WR
+Mitch Hyatt,DAL,2020.0,/players/H/HyatMi01,2020-09-13,Injured Reserve,LAR,,1,T
+Mitch Hyatt,DAL,2020.0,/players/H/HyatMi01,2020-09-20,Injured Reserve,ATL,,2,T
+Mitch Hyatt,DAL,2020.0,/players/H/HyatMi01,2020-09-27,Injured Reserve,SEA,,3,T
+Mitch Hyatt,DAL,2020.0,/players/H/HyatMi01,2020-10-04,Injured Reserve,CLE,,4,T
+Mitch Hyatt,DAL,2020.0,/players/H/HyatMi01,2020-10-11,Injured Reserve,NYG,,5,T
+Mitch Hyatt,DAL,2020.0,/players/H/HyatMi01,2020-10-19,Injured Reserve,ARI,,6,T
+Mitch Hyatt,DAL,2020.0,/players/H/HyatMi01,2020-10-25,Injured Reserve,WAS,,7,T
+Mitch Hyatt,DAL,2020.0,/players/H/HyatMi01,2020-11-01,Injured Reserve,PHI,,8,T
+Mitch Hyatt,DAL,2020.0,/players/H/HyatMi01,2020-11-08,Injured Reserve,PIT,,9,T
+Mitch Hyatt,DAL,2020.0,/players/H/HyatMi01,2020-11-22,Injured Reserve,MIN,,11,T
+Mitch Hyatt,DAL,2020.0,/players/H/HyatMi01,2020-11-26,Injured Reserve,WAS,,12,T
+Mitch Hyatt,DAL,2020.0,/players/H/HyatMi01,2020-12-08,Injured Reserve,BAL,,13,T
+Mitch Hyatt,DAL,2020.0,/players/H/HyatMi01,2020-12-13,Injured Reserve,CIN,,14,T
+Mitch Hyatt,DAL,2020.0,/players/H/HyatMi01,2020-12-20,Injured Reserve,SFO,,15,T
+Mitch Hyatt,DAL,2020.0,/players/H/HyatMi01,2020-12-27,Injured Reserve,PHI,,16,T
+Mitch Hyatt,DAL,2020.0,/players/H/HyatMi01,2021-01-03,Injured Reserve,NYG,,17,T
+Azur Kamara,DAL,2020.0,/players/K/KamaAz01,2020-09-13,Injured Reserve,LAR,,1,LB
+Azur Kamara,DAL,2020.0,/players/K/KamaAz01,2020-09-20,Injured Reserve,ATL,,2,LB
+Azur Kamara,DAL,2020.0,/players/K/KamaAz01,2020-09-27,Injured Reserve,SEA,,3,LB
+Azur Kamara,DAL,2020.0,/players/K/KamaAz01,2020-10-04,Injured Reserve,CLE,,4,LB
+Azur Kamara,DAL,2020.0,/players/K/KamaAz01,2020-10-11,Injured Reserve,NYG,,5,LB
+Azur Kamara,DAL,2020.0,/players/K/KamaAz01,2020-10-19,Injured Reserve,ARI,,6,LB
+Azur Kamara,DAL,2020.0,/players/K/KamaAz01,2020-10-25,Injured Reserve,WAS,,7,LB
+Azur Kamara,DAL,2020.0,/players/K/KamaAz01,2020-11-01,Injured Reserve,PHI,,8,LB
+Azur Kamara,DAL,2020.0,/players/K/KamaAz01,2020-11-08,Injured Reserve,PIT,,9,LB
+Azur Kamara,DAL,2020.0,/players/K/KamaAz01,2020-11-22,Injured Reserve,MIN,,11,LB
+Azur Kamara,DAL,2020.0,/players/K/KamaAz01,2020-11-26,Injured Reserve,WAS,,12,LB
+Azur Kamara,DAL,2020.0,/players/K/KamaAz01,2020-12-08,Injured Reserve,BAL,,13,LB
+Azur Kamara,DAL,2020.0,/players/K/KamaAz01,2020-12-13,Injured Reserve,CIN,,14,LB
+Azur Kamara,DAL,2020.0,/players/K/KamaAz01,2020-12-20,Injured Reserve,SFO,,15,LB
+Azur Kamara,DAL,2020.0,/players/K/KamaAz01,2020-12-27,Injured Reserve,PHI,,16,LB
+Azur Kamara,DAL,2020.0,/players/K/KamaAz01,2021-01-03,Injured Reserve,NYG,,17,LB
 Sean Lee,DAL,2020.0,/players/L/LeexSe99,2020-09-13,Injured Reserve,LAR,,1,LB
 Sean Lee,DAL,2020.0,/players/L/LeexSe99,2020-09-20,Injured Reserve,ATL,,2,LB
 Sean Lee,DAL,2020.0,/players/L/LeexSe99,2020-09-27,Injured Reserve,SEA,,3,LB
@@ -2158,22 +2158,22 @@ Kyle Peko,DEN,2020.0,/players/P/PekoKy00,2020-12-13,Injured Reserve,CAR,,14,DT
 Kyle Peko,DEN,2020.0,/players/P/PekoKy00,2020-12-19,Injured Reserve,BUF,,15,DT
 Kyle Peko,DEN,2020.0,/players/P/PekoKy00,2020-12-27,Injured Reserve,LAC,,16,DT
 Kyle Peko,DEN,2020.0,/players/P/PekoKy00,2021-01-03,Injured Reserve,LVR,,17,DT
-Justin Strnad,DEN,2020.0,/players/S/StrnJu00,2020-09-14,Injured Reserve,TEN,,1,
-Justin Strnad,DEN,2020.0,/players/S/StrnJu00,2020-09-20,Injured Reserve,PIT,,2,
-Justin Strnad,DEN,2020.0,/players/S/StrnJu00,2020-09-27,Injured Reserve,TAM,,3,
-Justin Strnad,DEN,2020.0,/players/S/StrnJu00,2020-10-01,Injured Reserve,NYJ,,4,
-Justin Strnad,DEN,2020.0,/players/S/StrnJu00,2020-10-18,Injured Reserve,NWE,,6,
-Justin Strnad,DEN,2020.0,/players/S/StrnJu00,2020-10-25,Injured Reserve,KAN,,7,
-Justin Strnad,DEN,2020.0,/players/S/StrnJu00,2020-11-01,Injured Reserve,LAC,,8,
-Justin Strnad,DEN,2020.0,/players/S/StrnJu00,2020-11-08,Injured Reserve,ATL,,9,
-Justin Strnad,DEN,2020.0,/players/S/StrnJu00,2020-11-15,Injured Reserve,LVR,,10,
-Justin Strnad,DEN,2020.0,/players/S/StrnJu00,2020-11-22,Injured Reserve,MIA,,11,
-Justin Strnad,DEN,2020.0,/players/S/StrnJu00,2020-11-29,Injured Reserve,NOR,,12,
-Justin Strnad,DEN,2020.0,/players/S/StrnJu00,2020-12-06,Injured Reserve,KAN,,13,
-Justin Strnad,DEN,2020.0,/players/S/StrnJu00,2020-12-13,Injured Reserve,CAR,,14,
-Justin Strnad,DEN,2020.0,/players/S/StrnJu00,2020-12-19,Injured Reserve,BUF,,15,
-Justin Strnad,DEN,2020.0,/players/S/StrnJu00,2020-12-27,Injured Reserve,LAC,,16,
-Justin Strnad,DEN,2020.0,/players/S/StrnJu00,2021-01-03,Injured Reserve,LVR,,17,
+Justin Strnad,DEN,2020.0,/players/S/StrnJu00,2020-09-14,Injured Reserve,TEN,,1,LB
+Justin Strnad,DEN,2020.0,/players/S/StrnJu00,2020-09-20,Injured Reserve,PIT,,2,LB
+Justin Strnad,DEN,2020.0,/players/S/StrnJu00,2020-09-27,Injured Reserve,TAM,,3,LB
+Justin Strnad,DEN,2020.0,/players/S/StrnJu00,2020-10-01,Injured Reserve,NYJ,,4,LB
+Justin Strnad,DEN,2020.0,/players/S/StrnJu00,2020-10-18,Injured Reserve,NWE,,6,LB
+Justin Strnad,DEN,2020.0,/players/S/StrnJu00,2020-10-25,Injured Reserve,KAN,,7,LB
+Justin Strnad,DEN,2020.0,/players/S/StrnJu00,2020-11-01,Injured Reserve,LAC,,8,LB
+Justin Strnad,DEN,2020.0,/players/S/StrnJu00,2020-11-08,Injured Reserve,ATL,,9,LB
+Justin Strnad,DEN,2020.0,/players/S/StrnJu00,2020-11-15,Injured Reserve,LVR,,10,LB
+Justin Strnad,DEN,2020.0,/players/S/StrnJu00,2020-11-22,Injured Reserve,MIA,,11,LB
+Justin Strnad,DEN,2020.0,/players/S/StrnJu00,2020-11-29,Injured Reserve,NOR,,12,LB
+Justin Strnad,DEN,2020.0,/players/S/StrnJu00,2020-12-06,Injured Reserve,KAN,,13,LB
+Justin Strnad,DEN,2020.0,/players/S/StrnJu00,2020-12-13,Injured Reserve,CAR,,14,LB
+Justin Strnad,DEN,2020.0,/players/S/StrnJu00,2020-12-19,Injured Reserve,BUF,,15,LB
+Justin Strnad,DEN,2020.0,/players/S/StrnJu00,2020-12-27,Injured Reserve,LAC,,16,LB
+Justin Strnad,DEN,2020.0,/players/S/StrnJu00,2021-01-03,Injured Reserve,LVR,,17,LB
 Courtland Sutton,DEN,2020.0,/players/S/SuttCo00,2020-09-14,Questionable,TEN,Shoulder,1,WR
 Courtland Sutton,DEN,2020.0,/players/S/SuttCo00,2020-09-20,Questionable,PIT,Shoulder,2,WR
 Courtland Sutton,DEN,2020.0,/players/S/SuttCo00,2020-09-27,Injured Reserve,TAM,,3,WR
@@ -2343,7 +2343,7 @@ Trey Marshall,DEN,2020.0,/players/M/MarsTr00,2021-01-03,Questionable,LVR,Quadric
 Nick Vannett,DEN,2020.0,/players/V/VannNi00,2020-11-08,Questionable,ATL,Foot,9,TE
 Demar Dotson,DEN,2020.0,/players/D/DotsDe00,2020-11-15,Questionable,LVR,Groin,10,T
 Demar Dotson,DEN,2020.0,/players/D/DotsDe00,2020-11-29,Questionable,NOR,Calf,12,T
-Austin Fort,DEN,2020.0,/players/F/FortAu00,2020-11-15,Injured Reserve,LVR,,10,
+Austin Fort,DEN,2020.0,/players/F/FortAu00,2020-11-15,Injured Reserve,LVR,,10,TE
 Joseph Jones,DEN,2020.0,/players/J/JoneJo05,2020-11-15,Out,LVR,Calf,10,OLB
 Joseph Jones,DEN,2020.0,/players/J/JoneJo05,2020-11-22,Out,MIA,Calf,11,OLB
 Joseph Jones,DEN,2020.0,/players/J/JoneJo05,2020-11-29,Questionable,NOR,Calf,12,OLB
@@ -2456,22 +2456,22 @@ Hunter Bryant,DET,2020.0,/players/B/BryaHu02,2020-11-08,Injured Reserve,MIN,,9,T
 Hunter Bryant,DET,2020.0,/players/B/BryaHu02,2020-11-15,Injured Reserve,WAS,,10,TE
 Hunter Bryant,DET,2020.0,/players/B/BryaHu02,2020-11-22,Injured Reserve,CAR,,11,TE
 Hunter Bryant,DET,2020.0,/players/B/BryaHu02,2020-11-26,Injured Reserve,HOU,,12,TE
-Jashon Cornell,DET,2020.0,/players/C/CornJa01,2020-09-13,Injured Reserve,CHI,,1,
-Jashon Cornell,DET,2020.0,/players/C/CornJa01,2020-09-20,Injured Reserve,GNB,,2,
-Jashon Cornell,DET,2020.0,/players/C/CornJa01,2020-09-27,Injured Reserve,ARI,,3,
-Jashon Cornell,DET,2020.0,/players/C/CornJa01,2020-10-04,Injured Reserve,NOR,,4,
-Jashon Cornell,DET,2020.0,/players/C/CornJa01,2020-10-18,Injured Reserve,JAX,,6,
-Jashon Cornell,DET,2020.0,/players/C/CornJa01,2020-10-25,Injured Reserve,ATL,,7,
-Jashon Cornell,DET,2020.0,/players/C/CornJa01,2020-11-01,Injured Reserve,IND,,8,
-Jashon Cornell,DET,2020.0,/players/C/CornJa01,2020-11-08,Injured Reserve,MIN,,9,
-Jashon Cornell,DET,2020.0,/players/C/CornJa01,2020-11-15,Injured Reserve,WAS,,10,
-Jashon Cornell,DET,2020.0,/players/C/CornJa01,2020-11-22,Injured Reserve,CAR,,11,
-Jashon Cornell,DET,2020.0,/players/C/CornJa01,2020-11-26,Injured Reserve,HOU,,12,
-Jashon Cornell,DET,2020.0,/players/C/CornJa01,2020-12-06,Injured Reserve,CHI,,13,
-Jashon Cornell,DET,2020.0,/players/C/CornJa01,2020-12-13,Injured Reserve,GNB,,14,
-Jashon Cornell,DET,2020.0,/players/C/CornJa01,2020-12-20,Injured Reserve,TEN,,15,
-Jashon Cornell,DET,2020.0,/players/C/CornJa01,2020-12-26,Injured Reserve,TAM,,16,
-Jashon Cornell,DET,2020.0,/players/C/CornJa01,2021-01-03,Injured Reserve,MIN,,17,
+Jashon Cornell,DET,2020.0,/players/C/CornJa01,2020-09-13,Injured Reserve,CHI,,1,DE
+Jashon Cornell,DET,2020.0,/players/C/CornJa01,2020-09-20,Injured Reserve,GNB,,2,DE
+Jashon Cornell,DET,2020.0,/players/C/CornJa01,2020-09-27,Injured Reserve,ARI,,3,DE
+Jashon Cornell,DET,2020.0,/players/C/CornJa01,2020-10-04,Injured Reserve,NOR,,4,DE
+Jashon Cornell,DET,2020.0,/players/C/CornJa01,2020-10-18,Injured Reserve,JAX,,6,DE
+Jashon Cornell,DET,2020.0,/players/C/CornJa01,2020-10-25,Injured Reserve,ATL,,7,DE
+Jashon Cornell,DET,2020.0,/players/C/CornJa01,2020-11-01,Injured Reserve,IND,,8,DE
+Jashon Cornell,DET,2020.0,/players/C/CornJa01,2020-11-08,Injured Reserve,MIN,,9,DE
+Jashon Cornell,DET,2020.0,/players/C/CornJa01,2020-11-15,Injured Reserve,WAS,,10,DE
+Jashon Cornell,DET,2020.0,/players/C/CornJa01,2020-11-22,Injured Reserve,CAR,,11,DE
+Jashon Cornell,DET,2020.0,/players/C/CornJa01,2020-11-26,Injured Reserve,HOU,,12,DE
+Jashon Cornell,DET,2020.0,/players/C/CornJa01,2020-12-06,Injured Reserve,CHI,,13,DE
+Jashon Cornell,DET,2020.0,/players/C/CornJa01,2020-12-13,Injured Reserve,GNB,,14,DE
+Jashon Cornell,DET,2020.0,/players/C/CornJa01,2020-12-20,Injured Reserve,TEN,,15,DE
+Jashon Cornell,DET,2020.0,/players/C/CornJa01,2020-12-26,Injured Reserve,TAM,,16,DE
+Jashon Cornell,DET,2020.0,/players/C/CornJa01,2021-01-03,Injured Reserve,MIN,,17,DE
 Mike Ford,DET,2020.0,/players/F/FordMi01,2020-09-13,Injured Reserve,CHI,,1,CB
 Mike Ford,DET,2020.0,/players/F/FordMi01,2020-09-20,Injured Reserve,GNB,,2,CB
 Mike Ford,DET,2020.0,/players/F/FordMi01,2020-09-27,Injured Reserve,ARI,,3,CB
@@ -2660,22 +2660,22 @@ Montravius Adams,GNB,2020.0,/players/A/AdamMo00,2020-12-13,Injured Reserve,DET,,
 Montravius Adams,GNB,2020.0,/players/A/AdamMo00,2020-12-19,Injured Reserve,CAR,,15,DT
 Montravius Adams,GNB,2020.0,/players/A/AdamMo00,2020-12-27,Injured Reserve,TEN,,16,DT
 Montravius Adams,GNB,2020.0,/players/A/AdamMo00,2021-01-03,Injured Reserve,CHI,,17,DT
-Kabion Ento,GNB,2020.0,/players/E/EntoKa00,2020-09-13,Injured Reserve,MIN,,1,
-Kabion Ento,GNB,2020.0,/players/E/EntoKa00,2020-09-20,Injured Reserve,DET,,2,
-Kabion Ento,GNB,2020.0,/players/E/EntoKa00,2020-09-27,Injured Reserve,NOR,,3,
-Kabion Ento,GNB,2020.0,/players/E/EntoKa00,2020-10-05,Injured Reserve,ATL,,4,
-Kabion Ento,GNB,2020.0,/players/E/EntoKa00,2020-10-18,Injured Reserve,TAM,,6,
-Kabion Ento,GNB,2020.0,/players/E/EntoKa00,2020-10-25,Injured Reserve,HOU,,7,
-Kabion Ento,GNB,2020.0,/players/E/EntoKa00,2020-11-01,Injured Reserve,MIN,,8,
-Kabion Ento,GNB,2020.0,/players/E/EntoKa00,2020-11-05,Injured Reserve,SFO,,9,
-Kabion Ento,GNB,2020.0,/players/E/EntoKa00,2020-11-15,Injured Reserve,JAX,,10,
-Kabion Ento,GNB,2020.0,/players/E/EntoKa00,2020-11-22,Injured Reserve,IND,,11,
-Kabion Ento,GNB,2020.0,/players/E/EntoKa00,2020-11-29,Injured Reserve,CHI,,12,
-Kabion Ento,GNB,2020.0,/players/E/EntoKa00,2020-12-06,Injured Reserve,PHI,,13,
-Kabion Ento,GNB,2020.0,/players/E/EntoKa00,2020-12-13,Injured Reserve,DET,,14,
-Kabion Ento,GNB,2020.0,/players/E/EntoKa00,2020-12-19,Injured Reserve,CAR,,15,
-Kabion Ento,GNB,2020.0,/players/E/EntoKa00,2020-12-27,Injured Reserve,TEN,,16,
-Kabion Ento,GNB,2020.0,/players/E/EntoKa00,2021-01-03,Injured Reserve,CHI,,17,
+Kabion Ento,GNB,2020.0,/players/E/EntoKa00,2020-09-13,Injured Reserve,MIN,,1,WR
+Kabion Ento,GNB,2020.0,/players/E/EntoKa00,2020-09-20,Injured Reserve,DET,,2,WR
+Kabion Ento,GNB,2020.0,/players/E/EntoKa00,2020-09-27,Injured Reserve,NOR,,3,WR
+Kabion Ento,GNB,2020.0,/players/E/EntoKa00,2020-10-05,Injured Reserve,ATL,,4,WR
+Kabion Ento,GNB,2020.0,/players/E/EntoKa00,2020-10-18,Injured Reserve,TAM,,6,WR
+Kabion Ento,GNB,2020.0,/players/E/EntoKa00,2020-10-25,Injured Reserve,HOU,,7,WR
+Kabion Ento,GNB,2020.0,/players/E/EntoKa00,2020-11-01,Injured Reserve,MIN,,8,WR
+Kabion Ento,GNB,2020.0,/players/E/EntoKa00,2020-11-05,Injured Reserve,SFO,,9,WR
+Kabion Ento,GNB,2020.0,/players/E/EntoKa00,2020-11-15,Injured Reserve,JAX,,10,WR
+Kabion Ento,GNB,2020.0,/players/E/EntoKa00,2020-11-22,Injured Reserve,IND,,11,WR
+Kabion Ento,GNB,2020.0,/players/E/EntoKa00,2020-11-29,Injured Reserve,CHI,,12,WR
+Kabion Ento,GNB,2020.0,/players/E/EntoKa00,2020-12-06,Injured Reserve,PHI,,13,WR
+Kabion Ento,GNB,2020.0,/players/E/EntoKa00,2020-12-13,Injured Reserve,DET,,14,WR
+Kabion Ento,GNB,2020.0,/players/E/EntoKa00,2020-12-19,Injured Reserve,CAR,,15,WR
+Kabion Ento,GNB,2020.0,/players/E/EntoKa00,2020-12-27,Injured Reserve,TEN,,16,WR
+Kabion Ento,GNB,2020.0,/players/E/EntoKa00,2021-01-03,Injured Reserve,CHI,,17,WR
 Devin Funchess,GNB,2020.0,/players/F/FuncDe00,2020-09-13,Injured Reserve,MIN,,1,WR
 Devin Funchess,GNB,2020.0,/players/F/FuncDe00,2020-09-20,Injured Reserve,DET,,2,WR
 Devin Funchess,GNB,2020.0,/players/F/FuncDe00,2020-09-27,Injured Reserve,NOR,,3,WR
@@ -2707,38 +2707,38 @@ Kamal Martin,GNB,2020.0,/players/M/MartKa01,2020-11-15,C19,JAX,,10,LB
 Randy Ramsey,GNB,2020.0,/players/R/RamsRa00,2020-09-13,Out,MIN,Groin,1,LB
 Randy Ramsey,GNB,2020.0,/players/R/RamsRa00,2020-09-20,Out,DET,Groin,2,LB
 Randy Ramsey,GNB,2020.0,/players/R/RamsRa00,2020-09-27,Doubtful,NOR,Groin,3,LB
-Simon Stepaniak,GNB,2020.0,/players/S/StepSi00,2020-09-13,Injured Reserve,MIN,,1,
-Simon Stepaniak,GNB,2020.0,/players/S/StepSi00,2020-09-20,Injured Reserve,DET,,2,
-Simon Stepaniak,GNB,2020.0,/players/S/StepSi00,2020-09-27,Injured Reserve,NOR,,3,
-Simon Stepaniak,GNB,2020.0,/players/S/StepSi00,2020-10-05,Injured Reserve,ATL,,4,
-Simon Stepaniak,GNB,2020.0,/players/S/StepSi00,2020-10-18,Injured Reserve,TAM,,6,
-Simon Stepaniak,GNB,2020.0,/players/S/StepSi00,2020-10-25,Injured Reserve,HOU,,7,
-Simon Stepaniak,GNB,2020.0,/players/S/StepSi00,2020-11-01,Injured Reserve,MIN,,8,
-Simon Stepaniak,GNB,2020.0,/players/S/StepSi00,2020-11-05,Injured Reserve,SFO,,9,
-Simon Stepaniak,GNB,2020.0,/players/S/StepSi00,2020-11-15,Injured Reserve,JAX,,10,
-Simon Stepaniak,GNB,2020.0,/players/S/StepSi00,2020-11-22,Injured Reserve,IND,,11,
-Simon Stepaniak,GNB,2020.0,/players/S/StepSi00,2020-11-29,Injured Reserve,CHI,,12,
-Simon Stepaniak,GNB,2020.0,/players/S/StepSi00,2020-12-06,Injured Reserve,PHI,,13,
-Simon Stepaniak,GNB,2020.0,/players/S/StepSi00,2020-12-13,Out,DET,Knee,14,
-Simon Stepaniak,GNB,2020.0,/players/S/StepSi00,2020-12-19,Out,CAR,Knee,15,
-Simon Stepaniak,GNB,2020.0,/players/S/StepSi00,2020-12-27,Doubtful,TEN,Knee,16,
-Simon Stepaniak,GNB,2020.0,/players/S/StepSi00,2021-01-03,Questionable,CHI,Knee,17,
-Patrick Taylor,GNB,2020.0,/players/T/TaylPa01,2020-09-13,Injured Reserve,MIN,,1,
-Patrick Taylor,GNB,2020.0,/players/T/TaylPa01,2020-09-20,Injured Reserve,DET,,2,
-Patrick Taylor,GNB,2020.0,/players/T/TaylPa01,2020-09-27,Injured Reserve,NOR,,3,
-Patrick Taylor,GNB,2020.0,/players/T/TaylPa01,2020-10-05,Injured Reserve,ATL,,4,
-Patrick Taylor,GNB,2020.0,/players/T/TaylPa01,2020-10-18,Injured Reserve,TAM,,6,
-Patrick Taylor,GNB,2020.0,/players/T/TaylPa01,2020-10-25,Injured Reserve,HOU,,7,
-Patrick Taylor,GNB,2020.0,/players/T/TaylPa01,2020-11-01,Injured Reserve,MIN,,8,
-Patrick Taylor,GNB,2020.0,/players/T/TaylPa01,2020-11-05,Injured Reserve,SFO,,9,
-Patrick Taylor,GNB,2020.0,/players/T/TaylPa01,2020-11-15,Injured Reserve,JAX,,10,
-Patrick Taylor,GNB,2020.0,/players/T/TaylPa01,2020-11-22,Injured Reserve,IND,,11,
-Patrick Taylor,GNB,2020.0,/players/T/TaylPa01,2020-11-29,Injured Reserve,CHI,,12,
-Patrick Taylor,GNB,2020.0,/players/T/TaylPa01,2020-12-06,Injured Reserve,PHI,,13,
-Patrick Taylor,GNB,2020.0,/players/T/TaylPa01,2020-12-13,Injured Reserve,DET,,14,
-Patrick Taylor,GNB,2020.0,/players/T/TaylPa01,2020-12-19,Injured Reserve,CAR,,15,
-Patrick Taylor,GNB,2020.0,/players/T/TaylPa01,2020-12-27,Injured Reserve,TEN,,16,
-Patrick Taylor,GNB,2020.0,/players/T/TaylPa01,2021-01-03,Injured Reserve,CHI,,17,
+Simon Stepaniak,GNB,2020.0,/players/S/StepSi00,2020-09-13,Injured Reserve,MIN,,1,OL
+Simon Stepaniak,GNB,2020.0,/players/S/StepSi00,2020-09-20,Injured Reserve,DET,,2,OL
+Simon Stepaniak,GNB,2020.0,/players/S/StepSi00,2020-09-27,Injured Reserve,NOR,,3,OL
+Simon Stepaniak,GNB,2020.0,/players/S/StepSi00,2020-10-05,Injured Reserve,ATL,,4,OL
+Simon Stepaniak,GNB,2020.0,/players/S/StepSi00,2020-10-18,Injured Reserve,TAM,,6,OL
+Simon Stepaniak,GNB,2020.0,/players/S/StepSi00,2020-10-25,Injured Reserve,HOU,,7,OL
+Simon Stepaniak,GNB,2020.0,/players/S/StepSi00,2020-11-01,Injured Reserve,MIN,,8,OL
+Simon Stepaniak,GNB,2020.0,/players/S/StepSi00,2020-11-05,Injured Reserve,SFO,,9,OL
+Simon Stepaniak,GNB,2020.0,/players/S/StepSi00,2020-11-15,Injured Reserve,JAX,,10,OL
+Simon Stepaniak,GNB,2020.0,/players/S/StepSi00,2020-11-22,Injured Reserve,IND,,11,OL
+Simon Stepaniak,GNB,2020.0,/players/S/StepSi00,2020-11-29,Injured Reserve,CHI,,12,OL
+Simon Stepaniak,GNB,2020.0,/players/S/StepSi00,2020-12-06,Injured Reserve,PHI,,13,OL
+Simon Stepaniak,GNB,2020.0,/players/S/StepSi00,2020-12-13,Out,DET,Knee,14,OL
+Simon Stepaniak,GNB,2020.0,/players/S/StepSi00,2020-12-19,Out,CAR,Knee,15,OL
+Simon Stepaniak,GNB,2020.0,/players/S/StepSi00,2020-12-27,Doubtful,TEN,Knee,16,OL
+Simon Stepaniak,GNB,2020.0,/players/S/StepSi00,2021-01-03,Questionable,CHI,Knee,17,OL
+Patrick Taylor,GNB,2020.0,/players/T/TaylPa01,2020-09-13,Injured Reserve,MIN,,1,RB
+Patrick Taylor,GNB,2020.0,/players/T/TaylPa01,2020-09-20,Injured Reserve,DET,,2,RB
+Patrick Taylor,GNB,2020.0,/players/T/TaylPa01,2020-09-27,Injured Reserve,NOR,,3,RB
+Patrick Taylor,GNB,2020.0,/players/T/TaylPa01,2020-10-05,Injured Reserve,ATL,,4,RB
+Patrick Taylor,GNB,2020.0,/players/T/TaylPa01,2020-10-18,Injured Reserve,TAM,,6,RB
+Patrick Taylor,GNB,2020.0,/players/T/TaylPa01,2020-10-25,Injured Reserve,HOU,,7,RB
+Patrick Taylor,GNB,2020.0,/players/T/TaylPa01,2020-11-01,Injured Reserve,MIN,,8,RB
+Patrick Taylor,GNB,2020.0,/players/T/TaylPa01,2020-11-05,Injured Reserve,SFO,,9,RB
+Patrick Taylor,GNB,2020.0,/players/T/TaylPa01,2020-11-15,Injured Reserve,JAX,,10,RB
+Patrick Taylor,GNB,2020.0,/players/T/TaylPa01,2020-11-22,Injured Reserve,IND,,11,RB
+Patrick Taylor,GNB,2020.0,/players/T/TaylPa01,2020-11-29,Injured Reserve,CHI,,12,RB
+Patrick Taylor,GNB,2020.0,/players/T/TaylPa01,2020-12-06,Injured Reserve,PHI,,13,RB
+Patrick Taylor,GNB,2020.0,/players/T/TaylPa01,2020-12-13,Injured Reserve,DET,,14,RB
+Patrick Taylor,GNB,2020.0,/players/T/TaylPa01,2020-12-19,Injured Reserve,CAR,,15,RB
+Patrick Taylor,GNB,2020.0,/players/T/TaylPa01,2020-12-27,Injured Reserve,TEN,,16,RB
+Patrick Taylor,GNB,2020.0,/players/T/TaylPa01,2021-01-03,Injured Reserve,CHI,,17,RB
 Billy Turner,GNB,2020.0,/players/T/TurnBi00,2020-09-13,Doubtful,MIN,Knee,1,OT
 Billy Turner,GNB,2020.0,/players/T/TurnBi00,2020-09-20,Questionable,DET,Knee,2,OT
 Kenny Clark,GNB,2020.0,/players/C/ClarKe01,2020-09-20,Out,DET,Groin,2,DT
@@ -2861,8 +2861,8 @@ AJ Dillon,GNB,2020.0,/players/D/DillAJ00,2020-11-22,C19,IND,,11,RB
 AJ Dillon,GNB,2020.0,/players/D/DillAJ00,2020-11-29,C19,CHI,,12,RB
 AJ Dillon,GNB,2020.0,/players/D/DillAJ00,2020-12-06,C19,PHI,,13,RB
 AJ Dillon,GNB,2020.0,/players/D/DillAJ00,2020-12-13,C19,DET,,14,RB
-Jordan Love,GNB,2020.0,/players/L/LoveJo03,2020-11-05,C19,SFO,,9,
-Jordan Love,GNB,2020.0,/players/L/LoveJo03,2020-11-15,C19,JAX,,10,
+Jordan Love,GNB,2020.0,/players/L/LoveJo03,2020-11-05,C19,SFO,,9,QB
+Jordan Love,GNB,2020.0,/players/L/LoveJo03,2020-11-15,C19,JAX,,10,QB
 Will Redmond,GNB,2020.0,/players/R/RedmWi00,2020-11-05,Out,SFO,Shoulder,9,CB
 Will Redmond,GNB,2020.0,/players/R/RedmWi00,2020-11-15,Questionable,JAX,Shoulder,10,CB
 Will Redmond,GNB,2020.0,/players/R/RedmWi00,2020-11-22,Questionable,IND,Shoulder,11,CB
@@ -3090,10 +3090,10 @@ Matthew Adams,IND,2020.0,/players/A/AdamMa00,2020-11-01,Injured Reserve,DET,,8,L
 Matthew Adams,IND,2020.0,/players/A/AdamMa00,2020-11-08,Injured Reserve,BAL,,9,LB
 Matthew Adams,IND,2020.0,/players/A/AdamMa00,2020-11-12,C19,TEN,,10,LB
 Matthew Adams,IND,2020.0,/players/A/AdamMa00,2020-11-22,C19,GNB,,11,LB
-Bruce Anderson,IND,2020.0,/players/A/AndeBr00,2020-09-13,Injured Reserve,JAX,,1,
-Bruce Anderson,IND,2020.0,/players/A/AndeBr00,2020-09-20,Injured Reserve,MIN,,2,
-Bruce Anderson,IND,2020.0,/players/A/AndeBr00,2020-09-27,Injured Reserve,NYJ,,3,
-Bruce Anderson,IND,2020.0,/players/A/AndeBr00,2020-10-04,Injured Reserve,CHI,,4,
+Bruce Anderson,IND,2020.0,/players/A/AndeBr00,2020-09-13,Injured Reserve,JAX,,1,RB
+Bruce Anderson,IND,2020.0,/players/A/AndeBr00,2020-09-20,Injured Reserve,MIN,,2,RB
+Bruce Anderson,IND,2020.0,/players/A/AndeBr00,2020-09-27,Injured Reserve,NYJ,,3,RB
+Bruce Anderson,IND,2020.0,/players/A/AndeBr00,2020-10-04,Injured Reserve,CHI,,4,RB
 Julian Blackmon,IND,2020.0,/players/B/BlacJu01,2020-09-13,Out,JAX,Knee,1,S
 Julian Blackmon,IND,2020.0,/players/B/BlacJu01,2020-09-20,Questionable,MIN,Knee,2,S
 Trey Burton,IND,2020.0,/players/B/BurtTr01,2020-09-13,Injured Reserve,JAX,,1,TE
@@ -3621,22 +3621,22 @@ Laurent Duvernay-Tardif,KAN,2020.0,/players/D/DuveLa00,2020-12-13,Injured Reserv
 Laurent Duvernay-Tardif,KAN,2020.0,/players/D/DuveLa00,2020-12-20,Injured Reserve,NOR,,15,OT
 Laurent Duvernay-Tardif,KAN,2020.0,/players/D/DuveLa00,2020-12-27,Injured Reserve,ATL,,16,OT
 Laurent Duvernay-Tardif,KAN,2020.0,/players/D/DuveLa00,2021-01-03,Injured Reserve,LAC,,17,OT
-Lucas Niang,KAN,2020.0,/players/N/NianLu00,2020-09-10,Injured Reserve,HOU,,1,
-Lucas Niang,KAN,2020.0,/players/N/NianLu00,2020-09-20,Injured Reserve,LAC,,2,
-Lucas Niang,KAN,2020.0,/players/N/NianLu00,2020-09-28,Injured Reserve,BAL,,3,
-Lucas Niang,KAN,2020.0,/players/N/NianLu00,2020-10-05,Injured Reserve,NWE,,4,
-Lucas Niang,KAN,2020.0,/players/N/NianLu00,2020-10-11,Injured Reserve,LVR,,5,
-Lucas Niang,KAN,2020.0,/players/N/NianLu00,2020-10-19,Injured Reserve,BUF,,6,
-Lucas Niang,KAN,2020.0,/players/N/NianLu00,2020-10-25,Injured Reserve,DEN,,7,
-Lucas Niang,KAN,2020.0,/players/N/NianLu00,2020-11-01,Injured Reserve,NYJ,,8,
-Lucas Niang,KAN,2020.0,/players/N/NianLu00,2020-11-08,Injured Reserve,CAR,,9,
-Lucas Niang,KAN,2020.0,/players/N/NianLu00,2020-11-22,Injured Reserve,LVR,,11,
-Lucas Niang,KAN,2020.0,/players/N/NianLu00,2020-11-29,Injured Reserve,TAM,,12,
-Lucas Niang,KAN,2020.0,/players/N/NianLu00,2020-12-06,Injured Reserve,DEN,,13,
-Lucas Niang,KAN,2020.0,/players/N/NianLu00,2020-12-13,Injured Reserve,MIA,,14,
-Lucas Niang,KAN,2020.0,/players/N/NianLu00,2020-12-20,Injured Reserve,NOR,,15,
-Lucas Niang,KAN,2020.0,/players/N/NianLu00,2020-12-27,Injured Reserve,ATL,,16,
-Lucas Niang,KAN,2020.0,/players/N/NianLu00,2021-01-03,Injured Reserve,LAC,,17,
+Lucas Niang,KAN,2020.0,/players/N/NianLu00,2020-09-10,Injured Reserve,HOU,,1,OL
+Lucas Niang,KAN,2020.0,/players/N/NianLu00,2020-09-20,Injured Reserve,LAC,,2,OL
+Lucas Niang,KAN,2020.0,/players/N/NianLu00,2020-09-28,Injured Reserve,BAL,,3,OL
+Lucas Niang,KAN,2020.0,/players/N/NianLu00,2020-10-05,Injured Reserve,NWE,,4,OL
+Lucas Niang,KAN,2020.0,/players/N/NianLu00,2020-10-11,Injured Reserve,LVR,,5,OL
+Lucas Niang,KAN,2020.0,/players/N/NianLu00,2020-10-19,Injured Reserve,BUF,,6,OL
+Lucas Niang,KAN,2020.0,/players/N/NianLu00,2020-10-25,Injured Reserve,DEN,,7,OL
+Lucas Niang,KAN,2020.0,/players/N/NianLu00,2020-11-01,Injured Reserve,NYJ,,8,OL
+Lucas Niang,KAN,2020.0,/players/N/NianLu00,2020-11-08,Injured Reserve,CAR,,9,OL
+Lucas Niang,KAN,2020.0,/players/N/NianLu00,2020-11-22,Injured Reserve,LVR,,11,OL
+Lucas Niang,KAN,2020.0,/players/N/NianLu00,2020-11-29,Injured Reserve,TAM,,12,OL
+Lucas Niang,KAN,2020.0,/players/N/NianLu00,2020-12-06,Injured Reserve,DEN,,13,OL
+Lucas Niang,KAN,2020.0,/players/N/NianLu00,2020-12-13,Injured Reserve,MIA,,14,OL
+Lucas Niang,KAN,2020.0,/players/N/NianLu00,2020-12-20,Injured Reserve,NOR,,15,OL
+Lucas Niang,KAN,2020.0,/players/N/NianLu00,2020-12-27,Injured Reserve,ATL,,16,OL
+Lucas Niang,KAN,2020.0,/players/N/NianLu00,2021-01-03,Injured Reserve,LAC,,17,OL
 Martinas Rankin,KAN,2020.0,/players/R/RankMa00,2020-09-10,Physically Unable to Perform,HOU,,1,OT
 Martinas Rankin,KAN,2020.0,/players/R/RankMa00,2020-09-20,Physically Unable to Perform,LAC,,2,OT
 Martinas Rankin,KAN,2020.0,/players/R/RankMa00,2020-09-28,Physically Unable to Perform,BAL,,3,OT
@@ -4116,13 +4116,13 @@ Allen Hurns,MIA,2020.0,/players/H/HurnAl01,2020-12-13,Injured Reserve,KAN,,14,WR
 Allen Hurns,MIA,2020.0,/players/H/HurnAl01,2020-12-20,Injured Reserve,NWE,,15,WR
 Allen Hurns,MIA,2020.0,/players/H/HurnAl01,2020-12-26,Injured Reserve,LVR,,16,WR
 Allen Hurns,MIA,2020.0,/players/H/HurnAl01,2021-01-03,Injured Reserve,BUF,,17,WR
-Ray Smith,MIA,2020.0,/players/S/SmitRa01,2020-09-13,Injured Reserve,NWE,,1,
-Ray Smith,MIA,2020.0,/players/S/SmitRa01,2020-09-20,Injured Reserve,BUF,,2,
-Ray Smith,MIA,2020.0,/players/S/SmitRa01,2020-09-24,Injured Reserve,JAX,,3,
-Ray Smith,MIA,2020.0,/players/S/SmitRa01,2020-10-04,Injured Reserve,SEA,,4,
-Ray Smith,MIA,2020.0,/players/S/SmitRa01,2020-10-11,Injured Reserve,SFO,,5,
-Ray Smith,MIA,2020.0,/players/S/SmitRa01,2020-10-18,Injured Reserve,NYJ,,6,
-Ray Smith,MIA,2020.0,/players/S/SmitRa01,2020-11-01,Injured Reserve,LAR,,8,
+Ray Smith,MIA,2020.0,/players/S/SmitRa01,2020-09-13,Injured Reserve,NWE,,1,DT
+Ray Smith,MIA,2020.0,/players/S/SmitRa01,2020-09-20,Injured Reserve,BUF,,2,DT
+Ray Smith,MIA,2020.0,/players/S/SmitRa01,2020-09-24,Injured Reserve,JAX,,3,DT
+Ray Smith,MIA,2020.0,/players/S/SmitRa01,2020-10-04,Injured Reserve,SEA,,4,DT
+Ray Smith,MIA,2020.0,/players/S/SmitRa01,2020-10-11,Injured Reserve,SFO,,5,DT
+Ray Smith,MIA,2020.0,/players/S/SmitRa01,2020-10-18,Injured Reserve,NYJ,,6,DT
+Ray Smith,MIA,2020.0,/players/S/SmitRa01,2020-11-01,Injured Reserve,LAR,,8,DT
 Albert Wilson,MIA,2020.0,/players/W/WilsAl02,2020-09-13,Injured Reserve,NWE,,1,WR
 Albert Wilson,MIA,2020.0,/players/W/WilsAl02,2020-09-20,Injured Reserve,BUF,,2,WR
 Albert Wilson,MIA,2020.0,/players/W/WilsAl02,2020-09-24,Injured Reserve,JAX,,3,WR
@@ -4233,22 +4233,22 @@ Mike Gesicki,MIA,2020.0,/players/G/GesiMi00,2020-12-26,Questionable,LVR,Shoulder
 Bobby McCain,MIA,2020.0,/players/M/McCaBo01,2020-12-20,Questionable,NWE,Ankle,15,CB
 Ryan Fitzpatrick,MIA,2020.0,/players/F/FitzRy00,2021-01-03,C19,BUF,,17,QB
 Kamu Grugier-Hill,MIA,2020.0,/players/G/GrugKa00,2021-01-03,Out,BUF,Illness,17,OLB
-Myles Dorn,MIN,2020.0,/players/D/DornMy01,2020-09-13,Injured Reserve,GNB,,1,
-Myles Dorn,MIN,2020.0,/players/D/DornMy01,2020-09-20,Injured Reserve,IND,,2,
-Myles Dorn,MIN,2020.0,/players/D/DornMy01,2020-09-27,Injured Reserve,TEN,,3,
-Myles Dorn,MIN,2020.0,/players/D/DornMy01,2020-10-04,Injured Reserve,HOU,,4,
-Myles Dorn,MIN,2020.0,/players/D/DornMy01,2020-10-11,Injured Reserve,SEA,,5,
-Myles Dorn,MIN,2020.0,/players/D/DornMy01,2020-10-18,Injured Reserve,ATL,,6,
-Myles Dorn,MIN,2020.0,/players/D/DornMy01,2020-11-01,Injured Reserve,GNB,,8,
-Myles Dorn,MIN,2020.0,/players/D/DornMy01,2020-11-08,Injured Reserve,DET,,9,
-Myles Dorn,MIN,2020.0,/players/D/DornMy01,2020-11-16,Injured Reserve,CHI,,10,
-Myles Dorn,MIN,2020.0,/players/D/DornMy01,2020-11-22,Injured Reserve,DAL,,11,
-Myles Dorn,MIN,2020.0,/players/D/DornMy01,2020-11-29,Injured Reserve,CAR,,12,
-Myles Dorn,MIN,2020.0,/players/D/DornMy01,2020-12-06,Injured Reserve,JAX,,13,
-Myles Dorn,MIN,2020.0,/players/D/DornMy01,2020-12-13,Injured Reserve,TAM,,14,
-Myles Dorn,MIN,2020.0,/players/D/DornMy01,2020-12-20,Injured Reserve,CHI,,15,
-Myles Dorn,MIN,2020.0,/players/D/DornMy01,2020-12-25,Injured Reserve,NOR,,16,
-Myles Dorn,MIN,2020.0,/players/D/DornMy01,2021-01-03,Injured Reserve,DET,,17,
+Myles Dorn,MIN,2020.0,/players/D/DornMy01,2020-09-13,Injured Reserve,GNB,,1,DB
+Myles Dorn,MIN,2020.0,/players/D/DornMy01,2020-09-20,Injured Reserve,IND,,2,DB
+Myles Dorn,MIN,2020.0,/players/D/DornMy01,2020-09-27,Injured Reserve,TEN,,3,DB
+Myles Dorn,MIN,2020.0,/players/D/DornMy01,2020-10-04,Injured Reserve,HOU,,4,DB
+Myles Dorn,MIN,2020.0,/players/D/DornMy01,2020-10-11,Injured Reserve,SEA,,5,DB
+Myles Dorn,MIN,2020.0,/players/D/DornMy01,2020-10-18,Injured Reserve,ATL,,6,DB
+Myles Dorn,MIN,2020.0,/players/D/DornMy01,2020-11-01,Injured Reserve,GNB,,8,DB
+Myles Dorn,MIN,2020.0,/players/D/DornMy01,2020-11-08,Injured Reserve,DET,,9,DB
+Myles Dorn,MIN,2020.0,/players/D/DornMy01,2020-11-16,Injured Reserve,CHI,,10,DB
+Myles Dorn,MIN,2020.0,/players/D/DornMy01,2020-11-22,Injured Reserve,DAL,,11,DB
+Myles Dorn,MIN,2020.0,/players/D/DornMy01,2020-11-29,Injured Reserve,CAR,,12,DB
+Myles Dorn,MIN,2020.0,/players/D/DornMy01,2020-12-06,Injured Reserve,JAX,,13,DB
+Myles Dorn,MIN,2020.0,/players/D/DornMy01,2020-12-13,Injured Reserve,TAM,,14,DB
+Myles Dorn,MIN,2020.0,/players/D/DornMy01,2020-12-20,Injured Reserve,CHI,,15,DB
+Myles Dorn,MIN,2020.0,/players/D/DornMy01,2020-12-25,Injured Reserve,NOR,,16,DB
+Myles Dorn,MIN,2020.0,/players/D/DornMy01,2021-01-03,Injured Reserve,DET,,17,DB
 Ben Gedeon,MIN,2020.0,/players/G/GedeBe00,2020-09-13,Physically Unable to Perform,GNB,,1,ILB
 Ben Gedeon,MIN,2020.0,/players/G/GedeBe00,2020-09-20,Physically Unable to Perform,IND,,2,ILB
 Ben Gedeon,MIN,2020.0,/players/G/GedeBe00,2020-09-27,Physically Unable to Perform,TEN,,3,ILB
@@ -4307,22 +4307,22 @@ Cameron Smith,MIN,2020.0,/players/S/SmitCa01,2020-12-13,Injured Reserve,TAM,,14,
 Cameron Smith,MIN,2020.0,/players/S/SmitCa01,2020-12-20,Injured Reserve,CHI,,15,LB
 Cameron Smith,MIN,2020.0,/players/S/SmitCa01,2020-12-25,Injured Reserve,NOR,,16,LB
 Cameron Smith,MIN,2020.0,/players/S/SmitCa01,2021-01-03,Injured Reserve,DET,,17,LB
-Kenny Willekes,MIN,2020.0,/players/W/WillKe06,2020-09-13,Injured Reserve,GNB,,1,
-Kenny Willekes,MIN,2020.0,/players/W/WillKe06,2020-09-20,Injured Reserve,IND,,2,
-Kenny Willekes,MIN,2020.0,/players/W/WillKe06,2020-09-27,Injured Reserve,TEN,,3,
-Kenny Willekes,MIN,2020.0,/players/W/WillKe06,2020-10-04,Injured Reserve,HOU,,4,
-Kenny Willekes,MIN,2020.0,/players/W/WillKe06,2020-10-11,Injured Reserve,SEA,,5,
-Kenny Willekes,MIN,2020.0,/players/W/WillKe06,2020-10-18,Injured Reserve,ATL,,6,
-Kenny Willekes,MIN,2020.0,/players/W/WillKe06,2020-11-01,Injured Reserve,GNB,,8,
-Kenny Willekes,MIN,2020.0,/players/W/WillKe06,2020-11-08,Injured Reserve,DET,,9,
-Kenny Willekes,MIN,2020.0,/players/W/WillKe06,2020-11-16,Injured Reserve,CHI,,10,
-Kenny Willekes,MIN,2020.0,/players/W/WillKe06,2020-11-22,Injured Reserve,DAL,,11,
-Kenny Willekes,MIN,2020.0,/players/W/WillKe06,2020-11-29,Injured Reserve,CAR,,12,
-Kenny Willekes,MIN,2020.0,/players/W/WillKe06,2020-12-06,Injured Reserve,JAX,,13,
-Kenny Willekes,MIN,2020.0,/players/W/WillKe06,2020-12-13,Injured Reserve,TAM,,14,
-Kenny Willekes,MIN,2020.0,/players/W/WillKe06,2020-12-20,Injured Reserve,CHI,,15,
-Kenny Willekes,MIN,2020.0,/players/W/WillKe06,2020-12-25,Injured Reserve,NOR,,16,
-Kenny Willekes,MIN,2020.0,/players/W/WillKe06,2021-01-03,Injured Reserve,DET,,17,
+Kenny Willekes,MIN,2020.0,/players/W/WillKe06,2020-09-13,Injured Reserve,GNB,,1,DL
+Kenny Willekes,MIN,2020.0,/players/W/WillKe06,2020-09-20,Injured Reserve,IND,,2,DL
+Kenny Willekes,MIN,2020.0,/players/W/WillKe06,2020-09-27,Injured Reserve,TEN,,3,DL
+Kenny Willekes,MIN,2020.0,/players/W/WillKe06,2020-10-04,Injured Reserve,HOU,,4,DL
+Kenny Willekes,MIN,2020.0,/players/W/WillKe06,2020-10-11,Injured Reserve,SEA,,5,DL
+Kenny Willekes,MIN,2020.0,/players/W/WillKe06,2020-10-18,Injured Reserve,ATL,,6,DL
+Kenny Willekes,MIN,2020.0,/players/W/WillKe06,2020-11-01,Injured Reserve,GNB,,8,DL
+Kenny Willekes,MIN,2020.0,/players/W/WillKe06,2020-11-08,Injured Reserve,DET,,9,DL
+Kenny Willekes,MIN,2020.0,/players/W/WillKe06,2020-11-16,Injured Reserve,CHI,,10,DL
+Kenny Willekes,MIN,2020.0,/players/W/WillKe06,2020-11-22,Injured Reserve,DAL,,11,DL
+Kenny Willekes,MIN,2020.0,/players/W/WillKe06,2020-11-29,Injured Reserve,CAR,,12,DL
+Kenny Willekes,MIN,2020.0,/players/W/WillKe06,2020-12-06,Injured Reserve,JAX,,13,DL
+Kenny Willekes,MIN,2020.0,/players/W/WillKe06,2020-12-13,Injured Reserve,TAM,,14,DL
+Kenny Willekes,MIN,2020.0,/players/W/WillKe06,2020-12-20,Injured Reserve,CHI,,15,DL
+Kenny Willekes,MIN,2020.0,/players/W/WillKe06,2020-12-25,Injured Reserve,NOR,,16,DL
+Kenny Willekes,MIN,2020.0,/players/W/WillKe06,2021-01-03,Injured Reserve,DET,,17,DL
 Cameron Dantzler,MIN,2020.0,/players/D/DantCa00,2020-09-20,Out,IND,Rib,2,CB
 Cameron Dantzler,MIN,2020.0,/players/D/DantCa00,2020-09-27,Out,TEN,Rib,3,CB
 Cameron Dantzler,MIN,2020.0,/players/D/DantCa00,2020-11-01,C19,GNB,,8,CB
@@ -4475,44 +4475,44 @@ Johnson Bademosi,NOR,2020.0,/players/B/BadeJo00,2020-11-29,Injured Reserve,DEN,,
 Johnson Bademosi,NOR,2020.0,/players/B/BadeJo00,2020-12-06,Injured Reserve,ATL,,13,DB
 Johnson Bademosi,NOR,2020.0,/players/B/BadeJo00,2020-12-13,Injured Reserve,PHI,,14,DB
 Johnson Bademosi,NOR,2020.0,/players/B/BadeJo00,2020-12-20,Injured Reserve,KAN,,15,DB
-Jalen Dalton,NOR,2020.0,/players/D/DaltJa00,2020-09-13,reserve/injured from waived/injured,TAM,,1,
-Jalen Dalton,NOR,2020.0,/players/D/DaltJa00,2020-09-21,Injured Reserve,LVR,,2,
-Jalen Dalton,NOR,2020.0,/players/D/DaltJa00,2020-09-27,Injured Reserve,GNB,,3,
-Jalen Dalton,NOR,2020.0,/players/D/DaltJa00,2020-10-04,Injured Reserve,DET,,4,
-Jalen Dalton,NOR,2020.0,/players/D/DaltJa00,2020-10-12,Injured Reserve,LAC,,5,
-Jalen Dalton,NOR,2020.0,/players/D/DaltJa00,2020-10-25,Injured Reserve,CAR,,7,
-Jalen Dalton,NOR,2020.0,/players/D/DaltJa00,2020-11-01,Injured Reserve,CHI,,8,
-Jalen Dalton,NOR,2020.0,/players/D/DaltJa00,2020-11-08,Injured Reserve,TAM,,9,
-Jalen Dalton,NOR,2020.0,/players/D/DaltJa00,2020-11-15,Injured Reserve,SFO,,10,
-Jalen Dalton,NOR,2020.0,/players/D/DaltJa00,2020-11-22,Injured Reserve,ATL,,11,
-Jalen Dalton,NOR,2020.0,/players/D/DaltJa00,2020-11-29,Injured Reserve,DEN,,12,
-Jalen Dalton,NOR,2020.0,/players/D/DaltJa00,2020-12-06,Injured Reserve,ATL,,13,
-Jalen Dalton,NOR,2020.0,/players/D/DaltJa00,2020-12-13,Injured Reserve,PHI,,14,
-Jalen Dalton,NOR,2020.0,/players/D/DaltJa00,2020-12-20,Injured Reserve,KAN,,15,
-Jalen Dalton,NOR,2020.0,/players/D/DaltJa00,2020-12-25,Injured Reserve,MIN,,16,
-Jalen Dalton,NOR,2020.0,/players/D/DaltJa00,2021-01-03,Injured Reserve,CAR,,17,
+Jalen Dalton,NOR,2020.0,/players/D/DaltJa00,2020-09-13,reserve/injured from waived/injured,TAM,,1,DT
+Jalen Dalton,NOR,2020.0,/players/D/DaltJa00,2020-09-21,Injured Reserve,LVR,,2,DT
+Jalen Dalton,NOR,2020.0,/players/D/DaltJa00,2020-09-27,Injured Reserve,GNB,,3,DT
+Jalen Dalton,NOR,2020.0,/players/D/DaltJa00,2020-10-04,Injured Reserve,DET,,4,DT
+Jalen Dalton,NOR,2020.0,/players/D/DaltJa00,2020-10-12,Injured Reserve,LAC,,5,DT
+Jalen Dalton,NOR,2020.0,/players/D/DaltJa00,2020-10-25,Injured Reserve,CAR,,7,DT
+Jalen Dalton,NOR,2020.0,/players/D/DaltJa00,2020-11-01,Injured Reserve,CHI,,8,DT
+Jalen Dalton,NOR,2020.0,/players/D/DaltJa00,2020-11-08,Injured Reserve,TAM,,9,DT
+Jalen Dalton,NOR,2020.0,/players/D/DaltJa00,2020-11-15,Injured Reserve,SFO,,10,DT
+Jalen Dalton,NOR,2020.0,/players/D/DaltJa00,2020-11-22,Injured Reserve,ATL,,11,DT
+Jalen Dalton,NOR,2020.0,/players/D/DaltJa00,2020-11-29,Injured Reserve,DEN,,12,DT
+Jalen Dalton,NOR,2020.0,/players/D/DaltJa00,2020-12-06,Injured Reserve,ATL,,13,DT
+Jalen Dalton,NOR,2020.0,/players/D/DaltJa00,2020-12-13,Injured Reserve,PHI,,14,DT
+Jalen Dalton,NOR,2020.0,/players/D/DaltJa00,2020-12-20,Injured Reserve,KAN,,15,DT
+Jalen Dalton,NOR,2020.0,/players/D/DaltJa00,2020-12-25,Injured Reserve,MIN,,16,DT
+Jalen Dalton,NOR,2020.0,/players/D/DaltJa00,2021-01-03,Injured Reserve,CAR,,17,DT
 Marcus Davenport,NOR,2020.0,/players/D/DaveMa00,2020-09-13,Out,TAM,Elbow,1,DE
 Marcus Davenport,NOR,2020.0,/players/D/DaveMa00,2020-09-21,Out,LVR,Elbow,2,DE
 Marcus Davenport,NOR,2020.0,/players/D/DaveMa00,2020-09-27,Questionable,GNB,Elbow,3,DE
 Marcus Davenport,NOR,2020.0,/players/D/DaveMa00,2020-10-04,Out,DET,Elbow,4,DE
 Marcus Davenport,NOR,2020.0,/players/D/DaveMa00,2020-10-12,Questionable,LAC,Toe,5,DE
 Marcus Davenport,NOR,2020.0,/players/D/DaveMa00,2020-12-06,Out,ATL,Concussion,13,DE
-Blake Gillikin,NOR,2020.0,/players/G/GillBl00,2020-09-13,Injured Reserve,TAM,,1,
-Blake Gillikin,NOR,2020.0,/players/G/GillBl00,2020-09-21,Injured Reserve,LVR,,2,
-Blake Gillikin,NOR,2020.0,/players/G/GillBl00,2020-09-27,Injured Reserve,GNB,,3,
-Blake Gillikin,NOR,2020.0,/players/G/GillBl00,2020-10-04,Injured Reserve,DET,,4,
-Blake Gillikin,NOR,2020.0,/players/G/GillBl00,2020-10-12,Injured Reserve,LAC,,5,
-Blake Gillikin,NOR,2020.0,/players/G/GillBl00,2020-10-25,Injured Reserve,CAR,,7,
-Blake Gillikin,NOR,2020.0,/players/G/GillBl00,2020-11-01,Injured Reserve,CHI,,8,
-Blake Gillikin,NOR,2020.0,/players/G/GillBl00,2020-11-08,Injured Reserve,TAM,,9,
-Blake Gillikin,NOR,2020.0,/players/G/GillBl00,2020-11-15,Injured Reserve,SFO,,10,
-Blake Gillikin,NOR,2020.0,/players/G/GillBl00,2020-11-22,Injured Reserve,ATL,,11,
-Blake Gillikin,NOR,2020.0,/players/G/GillBl00,2020-11-29,Injured Reserve,DEN,,12,
-Blake Gillikin,NOR,2020.0,/players/G/GillBl00,2020-12-06,Injured Reserve,ATL,,13,
-Blake Gillikin,NOR,2020.0,/players/G/GillBl00,2020-12-13,Injured Reserve,PHI,,14,
-Blake Gillikin,NOR,2020.0,/players/G/GillBl00,2020-12-20,Injured Reserve,KAN,,15,
-Blake Gillikin,NOR,2020.0,/players/G/GillBl00,2020-12-25,Injured Reserve,MIN,,16,
-Blake Gillikin,NOR,2020.0,/players/G/GillBl00,2021-01-03,Injured Reserve,CAR,,17,
+Blake Gillikin,NOR,2020.0,/players/G/GillBl00,2020-09-13,Injured Reserve,TAM,,1,P
+Blake Gillikin,NOR,2020.0,/players/G/GillBl00,2020-09-21,Injured Reserve,LVR,,2,P
+Blake Gillikin,NOR,2020.0,/players/G/GillBl00,2020-09-27,Injured Reserve,GNB,,3,P
+Blake Gillikin,NOR,2020.0,/players/G/GillBl00,2020-10-04,Injured Reserve,DET,,4,P
+Blake Gillikin,NOR,2020.0,/players/G/GillBl00,2020-10-12,Injured Reserve,LAC,,5,P
+Blake Gillikin,NOR,2020.0,/players/G/GillBl00,2020-10-25,Injured Reserve,CAR,,7,P
+Blake Gillikin,NOR,2020.0,/players/G/GillBl00,2020-11-01,Injured Reserve,CHI,,8,P
+Blake Gillikin,NOR,2020.0,/players/G/GillBl00,2020-11-08,Injured Reserve,TAM,,9,P
+Blake Gillikin,NOR,2020.0,/players/G/GillBl00,2020-11-15,Injured Reserve,SFO,,10,P
+Blake Gillikin,NOR,2020.0,/players/G/GillBl00,2020-11-22,Injured Reserve,ATL,,11,P
+Blake Gillikin,NOR,2020.0,/players/G/GillBl00,2020-11-29,Injured Reserve,DEN,,12,P
+Blake Gillikin,NOR,2020.0,/players/G/GillBl00,2020-12-06,Injured Reserve,ATL,,13,P
+Blake Gillikin,NOR,2020.0,/players/G/GillBl00,2020-12-13,Injured Reserve,PHI,,14,P
+Blake Gillikin,NOR,2020.0,/players/G/GillBl00,2020-12-20,Injured Reserve,KAN,,15,P
+Blake Gillikin,NOR,2020.0,/players/G/GillBl00,2020-12-25,Injured Reserve,MIN,,16,P
+Blake Gillikin,NOR,2020.0,/players/G/GillBl00,2021-01-03,Injured Reserve,CAR,,17,P
 Saquan Hampton,NOR,2020.0,/players/H/HampSa00,2020-09-13,Injured Reserve,TAM,,1,S
 Saquan Hampton,NOR,2020.0,/players/H/HampSa00,2020-09-21,Injured Reserve,LVR,,2,S
 Saquan Hampton,NYJ,2020.0,/players/H/HampSa00,2020-12-20,Injured Reserve,LAR,,15,S
@@ -4718,22 +4718,22 @@ Beau Allen,NWE,2020.0,/players/A/AlleBe00,2020-12-10,Injured Reserve,LAR,,14,DT
 Beau Allen,NWE,2020.0,/players/A/AlleBe00,2020-12-20,Injured Reserve,MIA,,15,DT
 Beau Allen,NWE,2020.0,/players/A/AlleBe00,2020-12-28,Injured Reserve,BUF,,16,DT
 Beau Allen,NWE,2020.0,/players/A/AlleBe00,2021-01-03,Injured Reserve,NYJ,,17,DT
-Michael Barnett,NWE,2020.0,/players/B/BarnMi01,2020-09-13,Injured Reserve,MIA,,1,
-Michael Barnett,NWE,2020.0,/players/B/BarnMi01,2020-09-20,Injured Reserve,SEA,,2,
-Michael Barnett,NWE,2020.0,/players/B/BarnMi01,2020-09-27,Injured Reserve,LVR,,3,
-Michael Barnett,NWE,2020.0,/players/B/BarnMi01,2020-10-05,Injured Reserve,KAN,,4,
-Michael Barnett,NWE,2020.0,/players/B/BarnMi01,2020-10-18,Injured Reserve,DEN,,6,
-Michael Barnett,NWE,2020.0,/players/B/BarnMi01,2020-10-25,Injured Reserve,SFO,,7,
-Michael Barnett,NWE,2020.0,/players/B/BarnMi01,2020-11-01,Injured Reserve,BUF,,8,
-Michael Barnett,NWE,2020.0,/players/B/BarnMi01,2020-11-09,Injured Reserve,NYJ,,9,
-Michael Barnett,NWE,2020.0,/players/B/BarnMi01,2020-11-15,Injured Reserve,BAL,,10,
-Michael Barnett,NWE,2020.0,/players/B/BarnMi01,2020-11-22,Injured Reserve,HOU,,11,
-Michael Barnett,NWE,2020.0,/players/B/BarnMi01,2020-11-29,Injured Reserve,ARI,,12,
-Michael Barnett,NWE,2020.0,/players/B/BarnMi01,2020-12-06,Injured Reserve,LAC,,13,
-Michael Barnett,NWE,2020.0,/players/B/BarnMi01,2020-12-10,Injured Reserve,LAR,,14,
-Michael Barnett,NWE,2020.0,/players/B/BarnMi01,2020-12-20,Injured Reserve,MIA,,15,
-Michael Barnett,NWE,2020.0,/players/B/BarnMi01,2020-12-28,Injured Reserve,BUF,,16,
-Michael Barnett,NWE,2020.0,/players/B/BarnMi01,2021-01-03,Injured Reserve,NYJ,,17,
+Michael Barnett,NWE,2020.0,/players/B/BarnMi01,2020-09-13,Injured Reserve,MIA,,1,DT
+Michael Barnett,NWE,2020.0,/players/B/BarnMi01,2020-09-20,Injured Reserve,SEA,,2,DT
+Michael Barnett,NWE,2020.0,/players/B/BarnMi01,2020-09-27,Injured Reserve,LVR,,3,DT
+Michael Barnett,NWE,2020.0,/players/B/BarnMi01,2020-10-05,Injured Reserve,KAN,,4,DT
+Michael Barnett,NWE,2020.0,/players/B/BarnMi01,2020-10-18,Injured Reserve,DEN,,6,DT
+Michael Barnett,NWE,2020.0,/players/B/BarnMi01,2020-10-25,Injured Reserve,SFO,,7,DT
+Michael Barnett,NWE,2020.0,/players/B/BarnMi01,2020-11-01,Injured Reserve,BUF,,8,DT
+Michael Barnett,NWE,2020.0,/players/B/BarnMi01,2020-11-09,Injured Reserve,NYJ,,9,DT
+Michael Barnett,NWE,2020.0,/players/B/BarnMi01,2020-11-15,Injured Reserve,BAL,,10,DT
+Michael Barnett,NWE,2020.0,/players/B/BarnMi01,2020-11-22,Injured Reserve,HOU,,11,DT
+Michael Barnett,NWE,2020.0,/players/B/BarnMi01,2020-11-29,Injured Reserve,ARI,,12,DT
+Michael Barnett,NWE,2020.0,/players/B/BarnMi01,2020-12-06,Injured Reserve,LAC,,13,DT
+Michael Barnett,NWE,2020.0,/players/B/BarnMi01,2020-12-10,Injured Reserve,LAR,,14,DT
+Michael Barnett,NWE,2020.0,/players/B/BarnMi01,2020-12-20,Injured Reserve,MIA,,15,DT
+Michael Barnett,NWE,2020.0,/players/B/BarnMi01,2020-12-28,Injured Reserve,BUF,,16,DT
+Michael Barnett,NWE,2020.0,/players/B/BarnMi01,2021-01-03,Injured Reserve,NYJ,,17,DT
 Brandon Bolden,NWE,2020.0,/players/B/BoldBr00,2020-09-13,Injured Reserve,MIA,,1,RB
 Brandon Bolden,NWE,2020.0,/players/B/BoldBr00,2020-09-20,Injured Reserve,SEA,,2,RB
 Brandon Bolden,NWE,2020.0,/players/B/BoldBr00,2020-09-27,Injured Reserve,LVR,,3,RB
@@ -4750,8 +4750,8 @@ Brandon Bolden,NWE,2020.0,/players/B/BoldBr00,2020-12-10,Injured Reserve,LAR,,14
 Brandon Bolden,NWE,2020.0,/players/B/BoldBr00,2020-12-20,Injured Reserve,MIA,,15,RB
 Brandon Bolden,NWE,2020.0,/players/B/BoldBr00,2020-12-28,Injured Reserve,BUF,,16,RB
 Brandon Bolden,NWE,2020.0,/players/B/BoldBr00,2021-01-03,Injured Reserve,NYJ,,17,RB
-Yodny Cajuste,NWE,2020.0,/players/C/CajuYo00,2020-09-13,Out,MIA,Knee,1,
-Yodny Cajuste,NWE,2020.0,/players/C/CajuYo00,2020-11-15,Injured Reserve,BAL,,10,
+Yodny Cajuste,NWE,2020.0,/players/C/CajuYo00,2020-09-13,Out,MIA,Knee,1,OL
+Yodny Cajuste,NWE,2020.0,/players/C/CajuYo00,2020-11-15,Injured Reserve,BAL,,10,OL
 Marcus Cannon,NWE,2020.0,/players/C/CannMa00,2020-09-13,Injured Reserve,MIA,,1,OL
 Marcus Cannon,NWE,2020.0,/players/C/CannMa00,2020-09-20,Injured Reserve,SEA,,2,OL
 Marcus Cannon,NWE,2020.0,/players/C/CannMa00,2020-09-27,Injured Reserve,LVR,,3,OL
@@ -4869,22 +4869,22 @@ Gunner Olszewski,NWE,2020.0,/players/O/OlszGu00,2020-09-13,Out,MIA,Foot,1,WR
 Gunner Olszewski,NWE,2020.0,/players/O/OlszGu00,2020-09-20,Injured Reserve,SEA,,2,WR
 Gunner Olszewski,NWE,2020.0,/players/O/OlszGu00,2020-09-27,Injured Reserve,LVR,,3,WR
 Gunner Olszewski,NWE,2020.0,/players/O/OlszGu00,2020-10-05,Injured Reserve,KAN,,4,WR
-Najee Toran,NWE,2020.0,/players/T/ToraNa00,2020-09-13,Injured Reserve,MIA,,1,
-Najee Toran,NWE,2020.0,/players/T/ToraNa00,2020-09-20,Injured Reserve,SEA,,2,
-Najee Toran,NWE,2020.0,/players/T/ToraNa00,2020-09-27,Injured Reserve,LVR,,3,
-Najee Toran,NWE,2020.0,/players/T/ToraNa00,2020-10-05,Injured Reserve,KAN,,4,
-Najee Toran,NWE,2020.0,/players/T/ToraNa00,2020-10-18,Injured Reserve,DEN,,6,
-Najee Toran,NWE,2020.0,/players/T/ToraNa00,2020-10-25,Injured Reserve,SFO,,7,
-Najee Toran,NWE,2020.0,/players/T/ToraNa00,2020-11-01,Injured Reserve,BUF,,8,
-Najee Toran,NWE,2020.0,/players/T/ToraNa00,2020-11-09,Injured Reserve,NYJ,,9,
-Najee Toran,NWE,2020.0,/players/T/ToraNa00,2020-11-15,Injured Reserve,BAL,,10,
-Najee Toran,NWE,2020.0,/players/T/ToraNa00,2020-11-22,Injured Reserve,HOU,,11,
-Najee Toran,NWE,2020.0,/players/T/ToraNa00,2020-11-29,Injured Reserve,ARI,,12,
-Najee Toran,NWE,2020.0,/players/T/ToraNa00,2020-12-06,Injured Reserve,LAC,,13,
-Najee Toran,NWE,2020.0,/players/T/ToraNa00,2020-12-10,Injured Reserve,LAR,,14,
-Najee Toran,NWE,2020.0,/players/T/ToraNa00,2020-12-20,Injured Reserve,MIA,,15,
-Najee Toran,NWE,2020.0,/players/T/ToraNa00,2020-12-28,Injured Reserve,BUF,,16,
-Najee Toran,NWE,2020.0,/players/T/ToraNa00,2021-01-03,Injured Reserve,NYJ,,17,
+Najee Toran,NWE,2020.0,/players/T/ToraNa00,2020-09-13,Injured Reserve,MIA,,1,OL
+Najee Toran,NWE,2020.0,/players/T/ToraNa00,2020-09-20,Injured Reserve,SEA,,2,OL
+Najee Toran,NWE,2020.0,/players/T/ToraNa00,2020-09-27,Injured Reserve,LVR,,3,OL
+Najee Toran,NWE,2020.0,/players/T/ToraNa00,2020-10-05,Injured Reserve,KAN,,4,OL
+Najee Toran,NWE,2020.0,/players/T/ToraNa00,2020-10-18,Injured Reserve,DEN,,6,OL
+Najee Toran,NWE,2020.0,/players/T/ToraNa00,2020-10-25,Injured Reserve,SFO,,7,OL
+Najee Toran,NWE,2020.0,/players/T/ToraNa00,2020-11-01,Injured Reserve,BUF,,8,OL
+Najee Toran,NWE,2020.0,/players/T/ToraNa00,2020-11-09,Injured Reserve,NYJ,,9,OL
+Najee Toran,NWE,2020.0,/players/T/ToraNa00,2020-11-15,Injured Reserve,BAL,,10,OL
+Najee Toran,NWE,2020.0,/players/T/ToraNa00,2020-11-22,Injured Reserve,HOU,,11,OL
+Najee Toran,NWE,2020.0,/players/T/ToraNa00,2020-11-29,Injured Reserve,ARI,,12,OL
+Najee Toran,NWE,2020.0,/players/T/ToraNa00,2020-12-06,Injured Reserve,LAC,,13,OL
+Najee Toran,NWE,2020.0,/players/T/ToraNa00,2020-12-10,Injured Reserve,LAR,,14,OL
+Najee Toran,NWE,2020.0,/players/T/ToraNa00,2020-12-20,Injured Reserve,MIA,,15,OL
+Najee Toran,NWE,2020.0,/players/T/ToraNa00,2020-12-28,Injured Reserve,BUF,,16,OL
+Najee Toran,NWE,2020.0,/players/T/ToraNa00,2021-01-03,Injured Reserve,NYJ,,17,OL
 Danny Vitale,NWE,2020.0,/players/V/VitaDa00,2020-09-13,Injured Reserve,MIA,,1,FB
 Danny Vitale,NWE,2020.0,/players/V/VitaDa00,2020-09-20,Injured Reserve,SEA,,2,FB
 Danny Vitale,NWE,2020.0,/players/V/VitaDa00,2020-09-27,Injured Reserve,LVR,,3,FB
@@ -4902,12 +4902,12 @@ Danny Vitale,NWE,2020.0,/players/V/VitaDa00,2020-12-20,Injured Reserve,MIA,,15,F
 Danny Vitale,NWE,2020.0,/players/V/VitaDa00,2020-12-28,Injured Reserve,BUF,,16,FB
 Danny Vitale,NWE,2020.0,/players/V/VitaDa00,2021-01-03,Injured Reserve,NYJ,,17,FB
 Chase Winovich,NWE,2020.0,/players/W/WinoCh00,2020-09-13,Questionable,MIA,Shoulder,1,EDGE
-Dustin Woodard,NWE,2020.0,/players/W/WoodDu01,2020-09-13,Injured Reserve,MIA,,1,
-Dustin Woodard,NWE,2020.0,/players/W/WoodDu01,2020-09-20,Injured Reserve,SEA,,2,
-Dustin Woodard,NWE,2020.0,/players/W/WoodDu01,2020-09-27,Injured Reserve,LVR,,3,
-Dustin Woodard,NWE,2020.0,/players/W/WoodDu01,2020-10-05,Injured Reserve,KAN,,4,
-Dustin Woodard,NWE,2020.0,/players/W/WoodDu01,2020-10-18,Injured Reserve,DEN,,6,
-Dustin Woodard,NWE,2020.0,/players/W/WoodDu01,2020-10-25,Injured Reserve,SFO,,7,
+Dustin Woodard,NWE,2020.0,/players/W/WoodDu01,2020-09-13,Injured Reserve,MIA,,1,OL
+Dustin Woodard,NWE,2020.0,/players/W/WoodDu01,2020-09-20,Injured Reserve,SEA,,2,OL
+Dustin Woodard,NWE,2020.0,/players/W/WoodDu01,2020-09-27,Injured Reserve,LVR,,3,OL
+Dustin Woodard,NWE,2020.0,/players/W/WoodDu01,2020-10-05,Injured Reserve,KAN,,4,OL
+Dustin Woodard,NWE,2020.0,/players/W/WoodDu01,2020-10-18,Injured Reserve,DEN,,6,OL
+Dustin Woodard,NWE,2020.0,/players/W/WoodDu01,2020-10-25,Injured Reserve,SFO,,7,OL
 Adam Butler,NWE,2020.0,/players/B/ButlAd00,2020-09-20,Questionable,SEA,Shoulder,2,DT
 Adam Butler,NWE,2020.0,/players/B/ButlAd00,2020-09-27,Questionable,LVR,Shoulder,3,DT
 Adam Butler,NWE,2020.0,/players/B/ButlAd00,2020-10-05,Questionable,KAN,Shoulder,4,DT
@@ -5179,19 +5179,19 @@ Tae Crowder,NYG,2020.0,/players/C/CrowTa00,2020-11-02,Injured Reserve,TAM,,8,LB
 Tae Crowder,NYG,2020.0,/players/C/CrowTa00,2020-11-08,Injured Reserve,WAS,,9,LB
 Tae Crowder,NYG,2020.0,/players/C/CrowTa00,2020-11-15,Injured Reserve,PHI,,10,LB
 Tae Crowder,NYG,2020.0,/players/C/CrowTa00,2020-11-29,Injured Reserve,CIN,,12,LB
-Jaquarius Landrews,NYG,2020.0,/players/L/LandJa01,2020-09-14,Injured Reserve,PIT,,1,
-Jaquarius Landrews,NYG,2020.0,/players/L/LandJa01,2020-09-20,Injured Reserve,CHI,,2,
-Jaquarius Landrews,NYG,2020.0,/players/L/LandJa01,2020-09-27,Injured Reserve,SFO,,3,
-Jaquarius Landrews,NYG,2020.0,/players/L/LandJa01,2020-10-04,Injured Reserve,LAR,,4,
-Jaquarius Landrews,NYG,2020.0,/players/L/LandJa01,2020-10-11,Injured Reserve,DAL,,5,
-Jaquarius Landrews,NYG,2020.0,/players/L/LandJa01,2020-10-18,Injured Reserve,WAS,,6,
-Jaquarius Landrews,NYG,2020.0,/players/L/LandJa01,2020-10-22,Injured Reserve,PHI,,7,
-Jaquarius Landrews,NYG,2020.0,/players/L/LandJa01,2020-11-02,Injured Reserve,TAM,,8,
-Jaquarius Landrews,NYG,2020.0,/players/L/LandJa01,2020-11-08,Injured Reserve,WAS,,9,
-Jaquarius Landrews,NYG,2020.0,/players/L/LandJa01,2020-11-15,Injured Reserve,PHI,,10,
-Jaquarius Landrews,NYG,2020.0,/players/L/LandJa01,2020-11-29,Injured Reserve,CIN,,12,
-Jaquarius Landrews,NYG,2020.0,/players/L/LandJa01,2020-12-06,Injured Reserve,SEA,,13,
-Jaquarius Landrews,NYG,2020.0,/players/L/LandJa01,2020-12-13,Injured Reserve,ARI,,14,
+Jaquarius Landrews,NYG,2020.0,/players/L/LandJa01,2020-09-14,Injured Reserve,PIT,,1,DB
+Jaquarius Landrews,NYG,2020.0,/players/L/LandJa01,2020-09-20,Injured Reserve,CHI,,2,DB
+Jaquarius Landrews,NYG,2020.0,/players/L/LandJa01,2020-09-27,Injured Reserve,SFO,,3,DB
+Jaquarius Landrews,NYG,2020.0,/players/L/LandJa01,2020-10-04,Injured Reserve,LAR,,4,DB
+Jaquarius Landrews,NYG,2020.0,/players/L/LandJa01,2020-10-11,Injured Reserve,DAL,,5,DB
+Jaquarius Landrews,NYG,2020.0,/players/L/LandJa01,2020-10-18,Injured Reserve,WAS,,6,DB
+Jaquarius Landrews,NYG,2020.0,/players/L/LandJa01,2020-10-22,Injured Reserve,PHI,,7,DB
+Jaquarius Landrews,NYG,2020.0,/players/L/LandJa01,2020-11-02,Injured Reserve,TAM,,8,DB
+Jaquarius Landrews,NYG,2020.0,/players/L/LandJa01,2020-11-08,Injured Reserve,WAS,,9,DB
+Jaquarius Landrews,NYG,2020.0,/players/L/LandJa01,2020-11-15,Injured Reserve,PHI,,10,DB
+Jaquarius Landrews,NYG,2020.0,/players/L/LandJa01,2020-11-29,Injured Reserve,CIN,,12,DB
+Jaquarius Landrews,NYG,2020.0,/players/L/LandJa01,2020-12-06,Injured Reserve,SEA,,13,DB
+Jaquarius Landrews,NYG,2020.0,/players/L/LandJa01,2020-12-13,Injured Reserve,ARI,,14,DB
 David Mayo,NYG,2020.0,/players/M/MayoDa00,2020-09-14,Injured Reserve,PIT,,1,ILB
 David Mayo,NYG,2020.0,/players/M/MayoDa00,2020-09-20,Injured Reserve,CHI,,2,ILB
 David Mayo,NYG,2020.0,/players/M/MayoDa00,2020-09-27,Injured Reserve,SFO,,3,ILB
@@ -5226,22 +5226,22 @@ Da'Mari Scott,NYG,2020.0,/players/S/ScotDa02,2020-12-13,Injured Reserve,ARI,,14,
 Da'Mari Scott,NYG,2020.0,/players/S/ScotDa02,2020-12-20,Injured Reserve,CLE,,15,WR
 Da'Mari Scott,NYG,2020.0,/players/S/ScotDa02,2020-12-27,Injured Reserve,BAL,,16,WR
 Da'Mari Scott,NYG,2020.0,/players/S/ScotDa02,2021-01-03,Injured Reserve,DAL,,17,WR
-David Sills,NYG,2020.0,/players/S/SillDa01,2020-09-14,Injured Reserve,PIT,,1,
-David Sills,NYG,2020.0,/players/S/SillDa01,2020-09-20,Injured Reserve,CHI,,2,
-David Sills,NYG,2020.0,/players/S/SillDa01,2020-09-27,Injured Reserve,SFO,,3,
-David Sills,NYG,2020.0,/players/S/SillDa01,2020-10-04,Injured Reserve,LAR,,4,
-David Sills,NYG,2020.0,/players/S/SillDa01,2020-10-11,Injured Reserve,DAL,,5,
-David Sills,NYG,2020.0,/players/S/SillDa01,2020-10-18,Injured Reserve,WAS,,6,
-David Sills,NYG,2020.0,/players/S/SillDa01,2020-10-22,Injured Reserve,PHI,,7,
-David Sills,NYG,2020.0,/players/S/SillDa01,2020-11-02,Injured Reserve,TAM,,8,
-David Sills,NYG,2020.0,/players/S/SillDa01,2020-11-08,Injured Reserve,WAS,,9,
-David Sills,NYG,2020.0,/players/S/SillDa01,2020-11-15,Injured Reserve,PHI,,10,
-David Sills,NYG,2020.0,/players/S/SillDa01,2020-11-29,Injured Reserve,CIN,,12,
-David Sills,NYG,2020.0,/players/S/SillDa01,2020-12-06,Injured Reserve,SEA,,13,
-David Sills,NYG,2020.0,/players/S/SillDa01,2020-12-13,Injured Reserve,ARI,,14,
-David Sills,NYG,2020.0,/players/S/SillDa01,2020-12-20,Injured Reserve,CLE,,15,
-David Sills,NYG,2020.0,/players/S/SillDa01,2020-12-27,Injured Reserve,BAL,,16,
-David Sills,NYG,2020.0,/players/S/SillDa01,2021-01-03,Injured Reserve,DAL,,17,
+David Sills,NYG,2020.0,/players/S/SillDa01,2020-09-14,Injured Reserve,PIT,,1,WR
+David Sills,NYG,2020.0,/players/S/SillDa01,2020-09-20,Injured Reserve,CHI,,2,WR
+David Sills,NYG,2020.0,/players/S/SillDa01,2020-09-27,Injured Reserve,SFO,,3,WR
+David Sills,NYG,2020.0,/players/S/SillDa01,2020-10-04,Injured Reserve,LAR,,4,WR
+David Sills,NYG,2020.0,/players/S/SillDa01,2020-10-11,Injured Reserve,DAL,,5,WR
+David Sills,NYG,2020.0,/players/S/SillDa01,2020-10-18,Injured Reserve,WAS,,6,WR
+David Sills,NYG,2020.0,/players/S/SillDa01,2020-10-22,Injured Reserve,PHI,,7,WR
+David Sills,NYG,2020.0,/players/S/SillDa01,2020-11-02,Injured Reserve,TAM,,8,WR
+David Sills,NYG,2020.0,/players/S/SillDa01,2020-11-08,Injured Reserve,WAS,,9,WR
+David Sills,NYG,2020.0,/players/S/SillDa01,2020-11-15,Injured Reserve,PHI,,10,WR
+David Sills,NYG,2020.0,/players/S/SillDa01,2020-11-29,Injured Reserve,CIN,,12,WR
+David Sills,NYG,2020.0,/players/S/SillDa01,2020-12-06,Injured Reserve,SEA,,13,WR
+David Sills,NYG,2020.0,/players/S/SillDa01,2020-12-13,Injured Reserve,ARI,,14,WR
+David Sills,NYG,2020.0,/players/S/SillDa01,2020-12-20,Injured Reserve,CLE,,15,WR
+David Sills,NYG,2020.0,/players/S/SillDa01,2020-12-27,Injured Reserve,BAL,,16,WR
+David Sills,NYG,2020.0,/players/S/SillDa01,2021-01-03,Injured Reserve,DAL,,17,WR
 Nate Solder,NYG,2020.0,/players/S/SoldNa00,2020-09-14,Injured Reserve,PIT,,1,T
 Nate Solder,NYG,2020.0,/players/S/SoldNa00,2020-09-20,Injured Reserve,CHI,,2,T
 Nate Solder,NYG,2020.0,/players/S/SoldNa00,2020-09-27,Injured Reserve,SFO,,3,T
@@ -5280,13 +5280,13 @@ Shakial Taylor,NYG,2020.0,/players/T/TaylSh00,2020-12-20,Injured Reserve,CLE,,15
 Shakial Taylor,NYG,2020.0,/players/T/TaylSh00,2020-12-27,Injured Reserve,BAL,,16,CB
 Shakial Taylor,NYG,2020.0,/players/T/TaylSh00,2021-01-03,Injured Reserve,DAL,,17,CB
 Levine Toilolo,NYG,2020.0,/players/T/ToilLe00,2020-09-14,Questionable,PIT,Hamstring,1,TE
-Nate Wozniak,NYG,2020.0,/players/W/WoznNa00,2020-09-14,Injured Reserve,PIT,,1,
-Nate Wozniak,NYG,2020.0,/players/W/WoznNa00,2020-09-20,Injured Reserve,CHI,,2,
-Nate Wozniak,NYG,2020.0,/players/W/WoznNa00,2020-09-27,Injured Reserve,SFO,,3,
-Nate Wozniak,NYG,2020.0,/players/W/WoznNa00,2020-10-04,Injured Reserve,LAR,,4,
-Nate Wozniak,NYG,2020.0,/players/W/WoznNa00,2020-10-11,Injured Reserve,DAL,,5,
-Nate Wozniak,NYG,2020.0,/players/W/WoznNa00,2020-10-18,Injured Reserve,WAS,,6,
-Nate Wozniak,NYG,2020.0,/players/W/WoznNa00,2020-10-22,Injured Reserve,PHI,,7,
+Nate Wozniak,NYG,2020.0,/players/W/WoznNa00,2020-09-14,Injured Reserve,PIT,,1,OL
+Nate Wozniak,NYG,2020.0,/players/W/WoznNa00,2020-09-20,Injured Reserve,CHI,,2,OL
+Nate Wozniak,NYG,2020.0,/players/W/WoznNa00,2020-09-27,Injured Reserve,SFO,,3,OL
+Nate Wozniak,NYG,2020.0,/players/W/WoznNa00,2020-10-04,Injured Reserve,LAR,,4,OL
+Nate Wozniak,NYG,2020.0,/players/W/WoznNa00,2020-10-11,Injured Reserve,DAL,,5,OL
+Nate Wozniak,NYG,2020.0,/players/W/WoznNa00,2020-10-18,Injured Reserve,WAS,,6,OL
+Nate Wozniak,NYG,2020.0,/players/W/WoznNa00,2020-10-22,Injured Reserve,PHI,,7,OL
 Adrian Colbert,NYG,2020.0,/players/C/ColbAd00,2020-09-20,Out,CHI,Quadricep,2,SS
 Adrian Colbert,NYG,2020.0,/players/C/ColbAd00,2020-09-27,Doubtful,SFO,Quadricep,3,SS
 Adrian Colbert,NYG,2020.0,/players/C/ColbAd00,2020-10-11,Questionable,DAL,Neck,5,SS
@@ -5427,14 +5427,14 @@ Kyron Brown,NYJ,2020.0,/players/B/BrowKy00,2020-11-22,Physically Unable to Perfo
 Kyron Brown,NYJ,2020.0,/players/B/BrowKy00,2020-11-29,Physically Unable to Perform,MIA,,12,DB
 Kyron Brown,NYJ,2020.0,/players/B/BrowKy00,2020-12-06,Physically Unable to Perform,LVR,,13,DB
 Kyron Brown,NYJ,2020.0,/players/B/BrowKy00,2020-12-13,Physically Unable to Perform,SEA,,14,DB
-Cameron Clark,NYJ,2020.0,/players/C/ClarCa00,2020-09-13,Injured Reserve,BUF,,1,
-Cameron Clark,NYJ,2020.0,/players/C/ClarCa00,2020-09-20,Injured Reserve,SFO,,2,
-Cameron Clark,NYJ,2020.0,/players/C/ClarCa00,2020-09-27,Injured Reserve,IND,,3,
-Cameron Clark,NYJ,2020.0,/players/C/ClarCa00,2020-10-01,Injured Reserve,DEN,,4,
-Cameron Clark,NYJ,2020.0,/players/C/ClarCa00,2020-10-11,Injured Reserve,ARI,,5,
-Cameron Clark,NYJ,2020.0,/players/C/ClarCa00,2020-10-18,Injured Reserve,MIA,,6,
-Cameron Clark,NYJ,2020.0,/players/C/ClarCa00,2020-10-25,Injured Reserve,BUF,,7,
-Cameron Clark,NYJ,2020.0,/players/C/ClarCa00,2020-11-01,Out,KAN,Illness,8,
+Cameron Clark,NYJ,2020.0,/players/C/ClarCa00,2020-09-13,Injured Reserve,BUF,,1,OL
+Cameron Clark,NYJ,2020.0,/players/C/ClarCa00,2020-09-20,Injured Reserve,SFO,,2,OL
+Cameron Clark,NYJ,2020.0,/players/C/ClarCa00,2020-09-27,Injured Reserve,IND,,3,OL
+Cameron Clark,NYJ,2020.0,/players/C/ClarCa00,2020-10-01,Injured Reserve,DEN,,4,OL
+Cameron Clark,NYJ,2020.0,/players/C/ClarCa00,2020-10-11,Injured Reserve,ARI,,5,OL
+Cameron Clark,NYJ,2020.0,/players/C/ClarCa00,2020-10-18,Injured Reserve,MIA,,6,OL
+Cameron Clark,NYJ,2020.0,/players/C/ClarCa00,2020-10-25,Injured Reserve,BUF,,7,OL
+Cameron Clark,NYJ,2020.0,/players/C/ClarCa00,2020-11-01,Out,KAN,Illness,8,OL
 Josh Doctson,NYJ,2020.0,/players/D/DoctJo00,2020-09-13,Injured Reserve,BUF,,1,WR
 Josh Doctson,NYJ,2020.0,/players/D/DoctJo00,2020-09-20,Injured Reserve,SFO,,2,WR
 Josh Doctson,NYJ,2020.0,/players/D/DoctJo00,2020-09-27,Injured Reserve,IND,,3,WR
@@ -5462,22 +5462,22 @@ Bryce Hall,NYJ,2020.0,/players/H/HallBr02,2020-10-18,Injured Reserve,MIA,,6,CB
 Bryce Hall,NYJ,2020.0,/players/H/HallBr02,2020-10-25,Injured Reserve,BUF,,7,CB
 Bryce Hall,NYJ,2020.0,/players/H/HallBr02,2020-11-01,Injured Reserve,KAN,,8,CB
 Bryce Hall,NYJ,2020.0,/players/H/HallBr02,2020-11-09,Injured Reserve,NWE,,9,CB
-Leo Koloamatangi,NYJ,2020.0,/players/K/KoloLe00,2020-09-13,Injured Reserve,BUF,,1,
-Leo Koloamatangi,NYJ,2020.0,/players/K/KoloLe00,2020-09-20,Injured Reserve,SFO,,2,
-Leo Koloamatangi,NYJ,2020.0,/players/K/KoloLe00,2020-09-27,Injured Reserve,IND,,3,
-Leo Koloamatangi,NYJ,2020.0,/players/K/KoloLe00,2020-10-01,Injured Reserve,DEN,,4,
-Leo Koloamatangi,NYJ,2020.0,/players/K/KoloLe00,2020-10-11,Injured Reserve,ARI,,5,
-Leo Koloamatangi,NYJ,2020.0,/players/K/KoloLe00,2020-10-18,Injured Reserve,MIA,,6,
-Leo Koloamatangi,NYJ,2020.0,/players/K/KoloLe00,2020-10-25,Injured Reserve,BUF,,7,
-Leo Koloamatangi,NYJ,2020.0,/players/K/KoloLe00,2020-11-01,Injured Reserve,KAN,,8,
-Leo Koloamatangi,NYJ,2020.0,/players/K/KoloLe00,2020-11-09,Injured Reserve,NWE,,9,
-Leo Koloamatangi,NYJ,2020.0,/players/K/KoloLe00,2020-11-22,Injured Reserve,LAC,,11,
-Leo Koloamatangi,NYJ,2020.0,/players/K/KoloLe00,2020-11-29,Injured Reserve,MIA,,12,
-Leo Koloamatangi,NYJ,2020.0,/players/K/KoloLe00,2020-12-06,Injured Reserve,LVR,,13,
-Leo Koloamatangi,NYJ,2020.0,/players/K/KoloLe00,2020-12-13,Injured Reserve,SEA,,14,
-Leo Koloamatangi,NYJ,2020.0,/players/K/KoloLe00,2020-12-20,Injured Reserve,LAR,,15,
-Leo Koloamatangi,NYJ,2020.0,/players/K/KoloLe00,2020-12-27,Injured Reserve,CLE,,16,
-Leo Koloamatangi,NYJ,2020.0,/players/K/KoloLe00,2021-01-03,Injured Reserve,NWE,,17,
+Leo Koloamatangi,NYJ,2020.0,/players/K/KoloLe00,2020-09-13,Injured Reserve,BUF,,1,OG
+Leo Koloamatangi,NYJ,2020.0,/players/K/KoloLe00,2020-09-20,Injured Reserve,SFO,,2,OG
+Leo Koloamatangi,NYJ,2020.0,/players/K/KoloLe00,2020-09-27,Injured Reserve,IND,,3,OG
+Leo Koloamatangi,NYJ,2020.0,/players/K/KoloLe00,2020-10-01,Injured Reserve,DEN,,4,OG
+Leo Koloamatangi,NYJ,2020.0,/players/K/KoloLe00,2020-10-11,Injured Reserve,ARI,,5,OG
+Leo Koloamatangi,NYJ,2020.0,/players/K/KoloLe00,2020-10-18,Injured Reserve,MIA,,6,OG
+Leo Koloamatangi,NYJ,2020.0,/players/K/KoloLe00,2020-10-25,Injured Reserve,BUF,,7,OG
+Leo Koloamatangi,NYJ,2020.0,/players/K/KoloLe00,2020-11-01,Injured Reserve,KAN,,8,OG
+Leo Koloamatangi,NYJ,2020.0,/players/K/KoloLe00,2020-11-09,Injured Reserve,NWE,,9,OG
+Leo Koloamatangi,NYJ,2020.0,/players/K/KoloLe00,2020-11-22,Injured Reserve,LAC,,11,OG
+Leo Koloamatangi,NYJ,2020.0,/players/K/KoloLe00,2020-11-29,Injured Reserve,MIA,,12,OG
+Leo Koloamatangi,NYJ,2020.0,/players/K/KoloLe00,2020-12-06,Injured Reserve,LVR,,13,OG
+Leo Koloamatangi,NYJ,2020.0,/players/K/KoloLe00,2020-12-13,Injured Reserve,SEA,,14,OG
+Leo Koloamatangi,NYJ,2020.0,/players/K/KoloLe00,2020-12-20,Injured Reserve,LAR,,15,OG
+Leo Koloamatangi,NYJ,2020.0,/players/K/KoloLe00,2020-12-27,Injured Reserve,CLE,,16,OG
+Leo Koloamatangi,NYJ,2020.0,/players/K/KoloLe00,2021-01-03,Injured Reserve,NWE,,17,OG
 Alex Lewis,NYJ,2020.0,/players/L/LewiAl01,2020-09-13,Questionable,BUF,Shoulder,1,OT
 Alex Lewis,NYJ,2020.0,/players/L/LewiAl01,2020-10-18,Questionable,MIA,Shoulder,6,OT
 Alex Lewis,NYJ,2020.0,/players/L/LewiAl01,2020-10-25,Doubtful,BUF,Shoulder,7,OT
@@ -5622,7 +5622,7 @@ Jordan Jenkins,NYJ,2020.0,/players/J/JenkJo01,2020-12-13,Out,SEA,Shoulder,14,OLB
 Jordan Jenkins,NYJ,2020.0,/players/J/JenkJo01,2020-12-20,Injured Reserve,LAR,,15,OLB
 Jordan Jenkins,NYJ,2020.0,/players/J/JenkJo01,2020-12-27,Injured Reserve,CLE,,16,OLB
 Jordan Jenkins,NYJ,2020.0,/players/J/JenkJo01,2021-01-03,Injured Reserve,NWE,,17,OLB
-Jalin Moore,NYJ,2020.0,/players/M/MoorJa01,2020-10-01,Injured Reserve,DEN,,4,
+Jalin Moore,NYJ,2020.0,/players/M/MoorJa01,2020-10-01,Injured Reserve,DEN,,4,RB
 Jordan Willis,NYJ,2020.0,/players/W/WillJo09,2020-10-01,Doubtful,DEN,Ankle,4,DE
 Jordan Willis,SFO,2020.0,/players/W/WillJo09,2020-11-29,C19,LAR,,12,DE
 Jordan Willis,SFO,2020.0,/players/W/WillJo09,2021-01-03,Injured Reserve,SEA,,17,DE
@@ -5730,23 +5730,23 @@ Marcus Mariota,OAK,2020.0,/players/M/MariMa01,2020-09-27,Injured Reserve,NWE,,3,
 Marcus Mariota,OAK,2020.0,/players/M/MariMa01,2020-10-04,Injured Reserve,BUF,,4,QB
 Marcus Mariota,OAK,2020.0,/players/M/MariMa01,2020-10-11,Injured Reserve,KAN,,5,QB
 Marcus Mariota,OAK,2020.0,/players/M/MariMa01,2020-10-25,Injured Reserve,TAM,,7,QB
-Tanner Muse,OAK,2020.0,/players/M/MuseTa00,2020-09-13,Injured Reserve,CAR,,1,
-Tanner Muse,OAK,2020.0,/players/M/MuseTa00,2020-09-21,Injured Reserve,NOR,,2,
-Tanner Muse,OAK,2020.0,/players/M/MuseTa00,2020-09-27,Injured Reserve,NWE,,3,
-Tanner Muse,OAK,2020.0,/players/M/MuseTa00,2020-10-04,Injured Reserve,BUF,,4,
-Tanner Muse,OAK,2020.0,/players/M/MuseTa00,2020-10-11,Injured Reserve,KAN,,5,
-Tanner Muse,OAK,2020.0,/players/M/MuseTa00,2020-10-25,Injured Reserve,TAM,,7,
-Tanner Muse,OAK,2020.0,/players/M/MuseTa00,2020-11-01,Injured Reserve,CLE,,8,
-Tanner Muse,OAK,2020.0,/players/M/MuseTa00,2020-11-08,Injured Reserve,LAC,,9,
-Tanner Muse,OAK,2020.0,/players/M/MuseTa00,2020-11-15,Injured Reserve,DEN,,10,
-Tanner Muse,OAK,2020.0,/players/M/MuseTa00,2020-11-22,Injured Reserve,KAN,,11,
-Tanner Muse,OAK,2020.0,/players/M/MuseTa00,2020-11-29,Injured Reserve,ATL,,12,
-Tanner Muse,OAK,2020.0,/players/M/MuseTa00,2020-12-06,Injured Reserve,NYJ,,13,
-Tanner Muse,OAK,2020.0,/players/M/MuseTa00,2020-12-13,C19,IND,,14,
-Tanner Muse,OAK,2020.0,/players/M/MuseTa00,2020-12-17,C19,LAC,,15,
-Tanner Muse,OAK,2020.0,/players/M/MuseTa00,2020-12-26,C19,MIA,,16,
-Tanner Muse,OAK,2020.0,/players/M/MuseTa00,2021-01-03,Injured Reserve,DEN,,17,
-Nick Usher,OAK,2020.0,/players/U/UsheNi01,2020-09-13,reserve/injured from waived/injured,CAR,,1,
+Tanner Muse,OAK,2020.0,/players/M/MuseTa00,2020-09-13,Injured Reserve,CAR,,1,S
+Tanner Muse,OAK,2020.0,/players/M/MuseTa00,2020-09-21,Injured Reserve,NOR,,2,S
+Tanner Muse,OAK,2020.0,/players/M/MuseTa00,2020-09-27,Injured Reserve,NWE,,3,S
+Tanner Muse,OAK,2020.0,/players/M/MuseTa00,2020-10-04,Injured Reserve,BUF,,4,S
+Tanner Muse,OAK,2020.0,/players/M/MuseTa00,2020-10-11,Injured Reserve,KAN,,5,S
+Tanner Muse,OAK,2020.0,/players/M/MuseTa00,2020-10-25,Injured Reserve,TAM,,7,S
+Tanner Muse,OAK,2020.0,/players/M/MuseTa00,2020-11-01,Injured Reserve,CLE,,8,S
+Tanner Muse,OAK,2020.0,/players/M/MuseTa00,2020-11-08,Injured Reserve,LAC,,9,S
+Tanner Muse,OAK,2020.0,/players/M/MuseTa00,2020-11-15,Injured Reserve,DEN,,10,S
+Tanner Muse,OAK,2020.0,/players/M/MuseTa00,2020-11-22,Injured Reserve,KAN,,11,S
+Tanner Muse,OAK,2020.0,/players/M/MuseTa00,2020-11-29,Injured Reserve,ATL,,12,S
+Tanner Muse,OAK,2020.0,/players/M/MuseTa00,2020-12-06,Injured Reserve,NYJ,,13,S
+Tanner Muse,OAK,2020.0,/players/M/MuseTa00,2020-12-13,C19,IND,,14,S
+Tanner Muse,OAK,2020.0,/players/M/MuseTa00,2020-12-17,C19,LAC,,15,S
+Tanner Muse,OAK,2020.0,/players/M/MuseTa00,2020-12-26,C19,MIA,,16,S
+Tanner Muse,OAK,2020.0,/players/M/MuseTa00,2021-01-03,Injured Reserve,DEN,,17,S
+Nick Usher,OAK,2020.0,/players/U/UsheNi01,2020-09-13,reserve/injured from waived/injured,CAR,,1,LB
 Jeremiah Valoaga,OAK,2020.0,/players/V/ValoJe00,2020-09-13,Injured Reserve,CAR,,1,DE
 Jeremiah Valoaga,OAK,2020.0,/players/V/ValoJe00,2020-09-21,Injured Reserve,NOR,,2,DE
 Jeremiah Valoaga,OAK,2020.0,/players/V/ValoJe00,2020-09-27,Injured Reserve,NWE,,3,DE
@@ -6322,22 +6322,22 @@ Olasunkanmi Adeniyi,PIT,2020.0,/players/A/AdenOl00,2020-12-27,Questionable,IND,S
 Eric Ebron,PIT,2020.0,/players/E/EbroEr00,2021-01-03,C19,CLE,,17,TE
 Terrell Edmunds,PIT,2020.0,/players/E/EdmuTe00,2021-01-03,Out,CLE,Shoulder,17,S
 Cassius Marsh,PIT,2020.0,/players/M/MarsCa00,2021-01-03,C19,CLE,,17,DE
-Patrick Carr,SEA,2020.0,/players/C/CarrPa01,2020-09-13,Injured Reserve,ATL,,1,
-Patrick Carr,SEA,2020.0,/players/C/CarrPa01,2020-09-20,Injured Reserve,NWE,,2,
-Patrick Carr,SEA,2020.0,/players/C/CarrPa01,2020-09-27,Injured Reserve,DAL,,3,
-Patrick Carr,SEA,2020.0,/players/C/CarrPa01,2020-10-04,Injured Reserve,MIA,,4,
-Patrick Carr,SEA,2020.0,/players/C/CarrPa01,2020-10-11,Injured Reserve,MIN,,5,
-Patrick Carr,SEA,2020.0,/players/C/CarrPa01,2020-10-25,Injured Reserve,ARI,,7,
-Patrick Carr,SEA,2020.0,/players/C/CarrPa01,2020-11-01,Injured Reserve,SFO,,8,
-Patrick Carr,SEA,2020.0,/players/C/CarrPa01,2020-11-08,Injured Reserve,BUF,,9,
-Patrick Carr,SEA,2020.0,/players/C/CarrPa01,2020-11-15,Injured Reserve,LAR,,10,
-Patrick Carr,SEA,2020.0,/players/C/CarrPa01,2020-11-19,Injured Reserve,ARI,,11,
-Patrick Carr,SEA,2020.0,/players/C/CarrPa01,2020-11-30,Injured Reserve,PHI,,12,
-Patrick Carr,SEA,2020.0,/players/C/CarrPa01,2020-12-06,Injured Reserve,NYG,,13,
-Patrick Carr,SEA,2020.0,/players/C/CarrPa01,2020-12-13,Injured Reserve,NYJ,,14,
-Patrick Carr,SEA,2020.0,/players/C/CarrPa01,2020-12-20,Injured Reserve,WAS,,15,
-Patrick Carr,SEA,2020.0,/players/C/CarrPa01,2020-12-27,Injured Reserve,LAR,,16,
-Patrick Carr,SEA,2020.0,/players/C/CarrPa01,2021-01-03,Injured Reserve,SFO,,17,
+Patrick Carr,SEA,2020.0,/players/C/CarrPa01,2020-09-13,Injured Reserve,ATL,,1,RB
+Patrick Carr,SEA,2020.0,/players/C/CarrPa01,2020-09-20,Injured Reserve,NWE,,2,RB
+Patrick Carr,SEA,2020.0,/players/C/CarrPa01,2020-09-27,Injured Reserve,DAL,,3,RB
+Patrick Carr,SEA,2020.0,/players/C/CarrPa01,2020-10-04,Injured Reserve,MIA,,4,RB
+Patrick Carr,SEA,2020.0,/players/C/CarrPa01,2020-10-11,Injured Reserve,MIN,,5,RB
+Patrick Carr,SEA,2020.0,/players/C/CarrPa01,2020-10-25,Injured Reserve,ARI,,7,RB
+Patrick Carr,SEA,2020.0,/players/C/CarrPa01,2020-11-01,Injured Reserve,SFO,,8,RB
+Patrick Carr,SEA,2020.0,/players/C/CarrPa01,2020-11-08,Injured Reserve,BUF,,9,RB
+Patrick Carr,SEA,2020.0,/players/C/CarrPa01,2020-11-15,Injured Reserve,LAR,,10,RB
+Patrick Carr,SEA,2020.0,/players/C/CarrPa01,2020-11-19,Injured Reserve,ARI,,11,RB
+Patrick Carr,SEA,2020.0,/players/C/CarrPa01,2020-11-30,Injured Reserve,PHI,,12,RB
+Patrick Carr,SEA,2020.0,/players/C/CarrPa01,2020-12-06,Injured Reserve,NYG,,13,RB
+Patrick Carr,SEA,2020.0,/players/C/CarrPa01,2020-12-13,Injured Reserve,NYJ,,14,RB
+Patrick Carr,SEA,2020.0,/players/C/CarrPa01,2020-12-20,Injured Reserve,WAS,,15,RB
+Patrick Carr,SEA,2020.0,/players/C/CarrPa01,2020-12-27,Injured Reserve,LAR,,16,RB
+Patrick Carr,SEA,2020.0,/players/C/CarrPa01,2021-01-03,Injured Reserve,SFO,,17,RB
 Phillip Dorsett,SEA,2020.0,/players/D/DorsPh00,2020-09-13,Questionable,ATL,Foot,1,WR
 Phillip Dorsett,SEA,2020.0,/players/D/DorsPh00,2020-09-20,Questionable,NWE,Foot,2,WR
 Phillip Dorsett,SEA,2020.0,/players/D/DorsPh00,2020-09-27,Injured Reserve,DAL,,3,WR
@@ -6375,9 +6375,9 @@ Jamarco Jones,SEA,2020.0,/players/J/JoneJa08,2020-12-13,Out,NYJ,Groin,14,OT
 Jamarco Jones,SEA,2020.0,/players/J/JoneJa08,2020-12-20,Out,WAS,Groin,15,OT
 Jamarco Jones,SEA,2020.0,/players/J/JoneJa08,2020-12-27,Injured Reserve,LAR,,16,OT
 Jamarco Jones,SEA,2020.0,/players/J/JoneJa08,2021-01-03,Injured Reserve,SFO,,17,OT
-Eli Mencer,SEA,2020.0,/players/M/MencEl00,2020-09-13,Injured Reserve,ATL,,1,
-Eli Mencer,SEA,2020.0,/players/M/MencEl00,2020-09-20,Injured Reserve,NWE,,2,
-Eli Mencer,SEA,2020.0,/players/M/MencEl00,2020-09-27,Injured Reserve,DAL,,3,
+Eli Mencer,SEA,2020.0,/players/M/MencEl00,2020-09-13,Injured Reserve,ATL,,1,DE
+Eli Mencer,SEA,2020.0,/players/M/MencEl00,2020-09-20,Injured Reserve,NWE,,2,DE
+Eli Mencer,SEA,2020.0,/players/M/MencEl00,2020-09-27,Injured Reserve,DAL,,3,DE
 Cedric Ogbuehi,SEA,2020.0,/players/O/OgbuCe00,2020-09-13,Out,ATL,Pectoral,1,OT
 Cedric Ogbuehi,SEA,2020.0,/players/O/OgbuCe00,2020-09-20,Doubtful,NWE,Pectoral,2,OT
 Cedric Ogbuehi,SEA,2020.0,/players/O/OgbuCe00,2020-09-27,Questionable,DAL,Pectoral,3,OT
@@ -6411,22 +6411,22 @@ D.J. Reed,SEA,2020.0,/players/R/ReedD.00,2020-10-11,Injured Reserve,MIN,,5,CB
 D.J. Reed,SEA,2020.0,/players/R/ReedD.00,2020-10-25,Injured Reserve,ARI,,7,CB
 D.J. Reed,SEA,2020.0,/players/R/ReedD.00,2020-11-01,Questionable,SFO,Hamstring,8,CB
 D.J. Reed,SEA,2020.0,/players/R/ReedD.00,2020-11-30,Questionable,PHI,Foot,12,CB
-Darrell Taylor,SEA,2020.0,/players/T/TaylDa00,2020-09-13,Injured Reserve,ATL,,1,
-Darrell Taylor,SEA,2020.0,/players/T/TaylDa00,2020-09-20,Injured Reserve,NWE,,2,
-Darrell Taylor,SEA,2020.0,/players/T/TaylDa00,2020-09-27,Injured Reserve,DAL,,3,
-Darrell Taylor,SEA,2020.0,/players/T/TaylDa00,2020-10-04,Injured Reserve,MIA,,4,
-Darrell Taylor,SEA,2020.0,/players/T/TaylDa00,2020-10-11,Injured Reserve,MIN,,5,
-Darrell Taylor,SEA,2020.0,/players/T/TaylDa00,2020-10-25,Injured Reserve,ARI,,7,
-Darrell Taylor,SEA,2020.0,/players/T/TaylDa00,2020-11-01,Injured Reserve,SFO,,8,
-Darrell Taylor,SEA,2020.0,/players/T/TaylDa00,2020-11-08,Injured Reserve,BUF,,9,
-Darrell Taylor,SEA,2020.0,/players/T/TaylDa00,2020-11-15,Injured Reserve,LAR,,10,
-Darrell Taylor,SEA,2020.0,/players/T/TaylDa00,2020-11-19,Injured Reserve,ARI,,11,
-Darrell Taylor,SEA,2020.0,/players/T/TaylDa00,2020-11-30,Injured Reserve,PHI,,12,
-Darrell Taylor,SEA,2020.0,/players/T/TaylDa00,2020-12-06,Injured Reserve,NYG,,13,
-Darrell Taylor,SEA,2020.0,/players/T/TaylDa00,2020-12-13,Injured Reserve,NYJ,,14,
-Darrell Taylor,SEA,2020.0,/players/T/TaylDa00,2020-12-20,Injured Reserve,WAS,,15,
-Darrell Taylor,SEA,2020.0,/players/T/TaylDa00,2020-12-27,Injured Reserve,LAR,,16,
-Darrell Taylor,SEA,2020.0,/players/T/TaylDa00,2021-01-03,Injured Reserve,SFO,,17,
+Darrell Taylor,SEA,2020.0,/players/T/TaylDa00,2020-09-13,Injured Reserve,ATL,,1,LB
+Darrell Taylor,SEA,2020.0,/players/T/TaylDa00,2020-09-20,Injured Reserve,NWE,,2,LB
+Darrell Taylor,SEA,2020.0,/players/T/TaylDa00,2020-09-27,Injured Reserve,DAL,,3,LB
+Darrell Taylor,SEA,2020.0,/players/T/TaylDa00,2020-10-04,Injured Reserve,MIA,,4,LB
+Darrell Taylor,SEA,2020.0,/players/T/TaylDa00,2020-10-11,Injured Reserve,MIN,,5,LB
+Darrell Taylor,SEA,2020.0,/players/T/TaylDa00,2020-10-25,Injured Reserve,ARI,,7,LB
+Darrell Taylor,SEA,2020.0,/players/T/TaylDa00,2020-11-01,Injured Reserve,SFO,,8,LB
+Darrell Taylor,SEA,2020.0,/players/T/TaylDa00,2020-11-08,Injured Reserve,BUF,,9,LB
+Darrell Taylor,SEA,2020.0,/players/T/TaylDa00,2020-11-15,Injured Reserve,LAR,,10,LB
+Darrell Taylor,SEA,2020.0,/players/T/TaylDa00,2020-11-19,Injured Reserve,ARI,,11,LB
+Darrell Taylor,SEA,2020.0,/players/T/TaylDa00,2020-11-30,Injured Reserve,PHI,,12,LB
+Darrell Taylor,SEA,2020.0,/players/T/TaylDa00,2020-12-06,Injured Reserve,NYG,,13,LB
+Darrell Taylor,SEA,2020.0,/players/T/TaylDa00,2020-12-13,Injured Reserve,NYJ,,14,LB
+Darrell Taylor,SEA,2020.0,/players/T/TaylDa00,2020-12-20,Injured Reserve,WAS,,15,LB
+Darrell Taylor,SEA,2020.0,/players/T/TaylDa00,2020-12-27,Injured Reserve,LAR,,16,LB
+Darrell Taylor,SEA,2020.0,/players/T/TaylDa00,2021-01-03,Injured Reserve,SFO,,17,LB
 Chance Warmack,SEA,2020.0,/players/W/WarmCh00,2020-09-13,Injured Reserve,ATL,,1,OG
 Chance Warmack,SEA,2020.0,/players/W/WarmCh00,2020-09-20,Injured Reserve,NWE,,2,OG
 Chance Warmack,SEA,2020.0,/players/W/WarmCh00,2020-09-27,Injured Reserve,DAL,,3,OG
@@ -6678,10 +6678,10 @@ Ben Garland,SFO,2020.0,/players/G/GarlBe00,2020-12-13,Injured Reserve,WAS,,14,DL
 Ben Garland,SFO,2020.0,/players/G/GarlBe00,2020-12-20,Injured Reserve,DAL,,15,DL
 Ben Garland,SFO,2020.0,/players/G/GarlBe00,2020-12-26,Injured Reserve,ARI,,16,DL
 Ben Garland,SFO,2020.0,/players/G/GarlBe00,2021-01-03,Injured Reserve,SEA,,17,DL
-Jalen Hurd,SFO,2020.0,/players/H/HurdJa00,2020-09-13,Injured Reserve,ARI,,1,
-Jalen Hurd,SFO,2020.0,/players/H/HurdJa00,2020-09-20,Injured Reserve,NYJ,,2,
-Jalen Hurd,SFO,2020.0,/players/H/HurdJa00,2020-09-27,Injured Reserve,NYG,,3,
-Jalen Hurd,SFO,2020.0,/players/H/HurdJa00,2020-10-04,Injured Reserve,PHI,,4,
+Jalen Hurd,SFO,2020.0,/players/H/HurdJa00,2020-09-13,Injured Reserve,ARI,,1,WR
+Jalen Hurd,SFO,2020.0,/players/H/HurdJa00,2020-09-20,Injured Reserve,NYJ,,2,WR
+Jalen Hurd,SFO,2020.0,/players/H/HurdJa00,2020-09-27,Injured Reserve,NYG,,3,WR
+Jalen Hurd,SFO,2020.0,/players/H/HurdJa00,2020-10-04,Injured Reserve,PHI,,4,WR
 Spencer Long,SFO,2020.0,/players/L/LongSp00,2020-09-13,Injured Reserve,ARI,,1,OG
 Spencer Long,SFO,2020.0,/players/L/LongSp00,2020-09-20,Injured Reserve,NYJ,,2,OG
 Spencer Long,SFO,2020.0,/players/L/LongSp00,2020-09-27,Injured Reserve,NYG,,3,OG
@@ -6689,8 +6689,8 @@ Spencer Long,SFO,2020.0,/players/L/LongSp00,2020-10-04,Injured Reserve,PHI,,4,OG
 Spencer Long,SFO,2020.0,/players/L/LongSp00,2020-10-11,Injured Reserve,MIA,,5,OG
 Spencer Long,SFO,2020.0,/players/L/LongSp00,2020-10-18,Injured Reserve,LAR,,6,OG
 Spencer Long,SFO,2020.0,/players/L/LongSp00,2020-10-25,Injured Reserve,NWE,,7,OG
-Ross Reynolds,SFO,2020.0,/players/R/ReynRo00,2020-09-13,Injured Reserve,ARI,,1,
-Ross Reynolds,SFO,2020.0,/players/R/ReynRo00,2020-09-20,Injured Reserve,NYJ,,2,
+Ross Reynolds,SFO,2020.0,/players/R/ReynRo00,2020-09-13,Injured Reserve,ARI,,1,G
+Ross Reynolds,SFO,2020.0,/players/R/ReynRo00,2020-09-20,Injured Reserve,NYJ,,2,G
 Weston Richburg,SFO,2020.0,/players/R/RichWe00,2020-09-13,Physically Unable to Perform,ARI,,1,C
 Weston Richburg,SFO,2020.0,/players/R/RichWe00,2020-09-20,Physically Unable to Perform,NYJ,,2,C
 Weston Richburg,SFO,2020.0,/players/R/RichWe00,2020-09-27,Physically Unable to Perform,NYG,,3,C
@@ -7011,13 +7011,13 @@ John Franklin,TAM,2020.0,/players/F/FranJo04,2020-12-13,Injured Reserve,MIN,,14,
 John Franklin,TAM,2020.0,/players/F/FranJo04,2020-12-20,Injured Reserve,ATL,,15,DB
 John Franklin,TAM,2020.0,/players/F/FranJo04,2020-12-26,Injured Reserve,DET,,16,DB
 John Franklin,TAM,2020.0,/players/F/FranJo04,2021-01-03,Injured Reserve,ATL,,17,DB
-John Hurst,TAM,2020.0,/players/H/HursJo00,2020-09-13,Injured Reserve,NOR,,1,
-John Hurst,TAM,2020.0,/players/H/HursJo00,2020-09-20,Injured Reserve,CAR,,2,
-John Hurst,TAM,2020.0,/players/H/HursJo00,2020-09-27,Injured Reserve,DEN,,3,
-John Hurst,TAM,2020.0,/players/H/HursJo00,2020-10-04,Injured Reserve,LAC,,4,
-John Hurst,TAM,2020.0,/players/H/HursJo00,2020-10-08,Injured Reserve,CHI,,5,
-John Hurst,TAM,2020.0,/players/H/HursJo00,2020-10-18,Injured Reserve,GNB,,6,
-John Hurst,TAM,2020.0,/players/H/HursJo00,2020-10-25,Injured Reserve,LVR,,7,
+John Hurst,TAM,2020.0,/players/H/HursJo00,2020-09-13,Injured Reserve,NOR,,1,WR
+John Hurst,TAM,2020.0,/players/H/HursJo00,2020-09-20,Injured Reserve,CAR,,2,WR
+John Hurst,TAM,2020.0,/players/H/HursJo00,2020-09-27,Injured Reserve,DEN,,3,WR
+John Hurst,TAM,2020.0,/players/H/HursJo00,2020-10-04,Injured Reserve,LAC,,4,WR
+John Hurst,TAM,2020.0,/players/H/HursJo00,2020-10-08,Injured Reserve,CHI,,5,WR
+John Hurst,TAM,2020.0,/players/H/HursJo00,2020-10-18,Injured Reserve,GNB,,6,WR
+John Hurst,TAM,2020.0,/players/H/HursJo00,2020-10-25,Injured Reserve,LVR,,7,WR
 T.J. Logan,TAM,2020.0,/players/L/LogaT.00,2020-09-13,Injured Reserve,NOR,,1,RB
 T.J. Logan,TAM,2020.0,/players/L/LogaT.00,2020-09-20,Injured Reserve,CAR,,2,RB
 T.J. Logan,TAM,2020.0,/players/L/LogaT.00,2020-09-27,Injured Reserve,DEN,,3,RB
@@ -7031,30 +7031,30 @@ T.J. Logan,TAM,2020.0,/players/L/LogaT.00,2020-11-15,Injured Reserve,CAR,,10,RB
 T.J. Logan,TAM,2020.0,/players/L/LogaT.00,2020-11-23,Injured Reserve,LAR,,11,RB
 T.J. Logan,TAM,2020.0,/players/L/LogaT.00,2020-11-29,C19,KAN,,12,RB
 T.J. Logan,TAM,2020.0,/players/L/LogaT.00,2020-12-13,Injured Reserve,MIN,,14,RB
-John Molchon,TAM,2020.0,/players/M/MolcJo01,2020-09-13,Injured Reserve,NOR,,1,
-John Molchon,TAM,2020.0,/players/M/MolcJo01,2020-09-20,Injured Reserve,CAR,,2,
-John Molchon,TAM,2020.0,/players/M/MolcJo01,2020-09-27,Injured Reserve,DEN,,3,
-John Molchon,TAM,2020.0,/players/M/MolcJo01,2020-10-04,Injured Reserve,LAC,,4,
-John Molchon,TAM,2020.0,/players/M/MolcJo01,2020-10-08,Injured Reserve,CHI,,5,
-John Molchon,TAM,2020.0,/players/M/MolcJo01,2020-10-18,Injured Reserve,GNB,,6,
-John Molchon,TAM,2020.0,/players/M/MolcJo01,2020-10-25,Injured Reserve,LVR,,7,
-John Molchon,TAM,2020.0,/players/M/MolcJo01,2020-11-02,Injured Reserve,NYG,,8,
-Brad Seaton,TAM,2020.0,/players/S/SeatBr00,2020-09-13,Injured Reserve,NOR,,1,
-Brad Seaton,TAM,2020.0,/players/S/SeatBr00,2020-09-20,Injured Reserve,CAR,,2,
-Brad Seaton,TAM,2020.0,/players/S/SeatBr00,2020-09-27,Injured Reserve,DEN,,3,
-Brad Seaton,TAM,2020.0,/players/S/SeatBr00,2020-10-04,Injured Reserve,LAC,,4,
-Brad Seaton,TAM,2020.0,/players/S/SeatBr00,2020-10-08,Injured Reserve,CHI,,5,
-Brad Seaton,TAM,2020.0,/players/S/SeatBr00,2020-10-18,Injured Reserve,GNB,,6,
-Brad Seaton,TAM,2020.0,/players/S/SeatBr00,2020-10-25,Injured Reserve,LVR,,7,
-Brad Seaton,TAM,2020.0,/players/S/SeatBr00,2020-11-02,Injured Reserve,NYG,,8,
-Brad Seaton,TAM,2020.0,/players/S/SeatBr00,2020-11-08,Injured Reserve,NOR,,9,
-Brad Seaton,TAM,2020.0,/players/S/SeatBr00,2020-11-15,Injured Reserve,CAR,,10,
-Brad Seaton,TAM,2020.0,/players/S/SeatBr00,2020-11-23,Injured Reserve,LAR,,11,
-Brad Seaton,TAM,2020.0,/players/S/SeatBr00,2020-11-29,Injured Reserve,KAN,,12,
-Brad Seaton,TAM,2020.0,/players/S/SeatBr00,2020-12-13,Injured Reserve,MIN,,14,
-Brad Seaton,TAM,2020.0,/players/S/SeatBr00,2020-12-20,Injured Reserve,ATL,,15,
-Brad Seaton,TAM,2020.0,/players/S/SeatBr00,2020-12-26,Injured Reserve,DET,,16,
-Brad Seaton,TAM,2020.0,/players/S/SeatBr00,2021-01-03,Injured Reserve,ATL,,17,
+John Molchon,TAM,2020.0,/players/M/MolcJo01,2020-09-13,Injured Reserve,NOR,,1,G
+John Molchon,TAM,2020.0,/players/M/MolcJo01,2020-09-20,Injured Reserve,CAR,,2,G
+John Molchon,TAM,2020.0,/players/M/MolcJo01,2020-09-27,Injured Reserve,DEN,,3,G
+John Molchon,TAM,2020.0,/players/M/MolcJo01,2020-10-04,Injured Reserve,LAC,,4,G
+John Molchon,TAM,2020.0,/players/M/MolcJo01,2020-10-08,Injured Reserve,CHI,,5,G
+John Molchon,TAM,2020.0,/players/M/MolcJo01,2020-10-18,Injured Reserve,GNB,,6,G
+John Molchon,TAM,2020.0,/players/M/MolcJo01,2020-10-25,Injured Reserve,LVR,,7,G
+John Molchon,TAM,2020.0,/players/M/MolcJo01,2020-11-02,Injured Reserve,NYG,,8,G
+Brad Seaton,TAM,2020.0,/players/S/SeatBr00,2020-09-13,Injured Reserve,NOR,,1,OT
+Brad Seaton,TAM,2020.0,/players/S/SeatBr00,2020-09-20,Injured Reserve,CAR,,2,OT
+Brad Seaton,TAM,2020.0,/players/S/SeatBr00,2020-09-27,Injured Reserve,DEN,,3,OT
+Brad Seaton,TAM,2020.0,/players/S/SeatBr00,2020-10-04,Injured Reserve,LAC,,4,OT
+Brad Seaton,TAM,2020.0,/players/S/SeatBr00,2020-10-08,Injured Reserve,CHI,,5,OT
+Brad Seaton,TAM,2020.0,/players/S/SeatBr00,2020-10-18,Injured Reserve,GNB,,6,OT
+Brad Seaton,TAM,2020.0,/players/S/SeatBr00,2020-10-25,Injured Reserve,LVR,,7,OT
+Brad Seaton,TAM,2020.0,/players/S/SeatBr00,2020-11-02,Injured Reserve,NYG,,8,OT
+Brad Seaton,TAM,2020.0,/players/S/SeatBr00,2020-11-08,Injured Reserve,NOR,,9,OT
+Brad Seaton,TAM,2020.0,/players/S/SeatBr00,2020-11-15,Injured Reserve,CAR,,10,OT
+Brad Seaton,TAM,2020.0,/players/S/SeatBr00,2020-11-23,Injured Reserve,LAR,,11,OT
+Brad Seaton,TAM,2020.0,/players/S/SeatBr00,2020-11-29,Injured Reserve,KAN,,12,OT
+Brad Seaton,TAM,2020.0,/players/S/SeatBr00,2020-12-13,Injured Reserve,MIN,,14,OT
+Brad Seaton,TAM,2020.0,/players/S/SeatBr00,2020-12-20,Injured Reserve,ATL,,15,OT
+Brad Seaton,TAM,2020.0,/players/S/SeatBr00,2020-12-26,Injured Reserve,DET,,16,OT
+Brad Seaton,TAM,2020.0,/players/S/SeatBr00,2021-01-03,Injured Reserve,ATL,,17,OT
 Antony Auclair,TAM,2020.0,/players/A/AuclAn00,2020-09-20,Injured Reserve,CAR,,2,TE
 Antony Auclair,TAM,2020.0,/players/A/AuclAn00,2020-09-27,Injured Reserve,DEN,,3,TE
 Antony Auclair,TAM,2020.0,/players/A/AuclAn00,2020-10-04,Injured Reserve,LAC,,4,TE
@@ -7186,22 +7186,22 @@ Adoree' Jackson,TEN,2020.0,/players/J/JackAd00,2020-11-22,Out,BAL,Knee,11,CB
 Adoree' Jackson,TEN,2020.0,/players/J/JackAd00,2020-12-06,Out,CLE,Knee,13,CB
 Adoree' Jackson,TEN,2020.0,/players/J/JackAd00,2020-12-13,Out,JAX,Knee,14,CB
 Adoree' Jackson,TEN,2020.0,/players/J/JackAd00,2020-12-20,Questionable,DET,Knee,15,CB
-Anthony McKinney,TEN,2020.0,/players/M/McKiAn00,2020-09-14,Injured Reserve,DEN,,1,
-Anthony McKinney,TEN,2020.0,/players/M/McKiAn00,2020-09-20,Injured Reserve,JAX,,2,
-Anthony McKinney,TEN,2020.0,/players/M/McKiAn00,2020-09-27,Injured Reserve,MIN,,3,
-Anthony McKinney,TEN,2020.0,/players/M/McKiAn00,2020-10-13,Injured Reserve,BUF,,5,
-Anthony McKinney,TEN,2020.0,/players/M/McKiAn00,2020-10-18,Injured Reserve,HOU,,6,
-Anthony McKinney,TEN,2020.0,/players/M/McKiAn00,2020-10-25,Injured Reserve,PIT,,7,
-Anthony McKinney,TEN,2020.0,/players/M/McKiAn00,2020-11-01,Injured Reserve,CIN,,8,
-Anthony McKinney,TEN,2020.0,/players/M/McKiAn00,2020-11-08,Injured Reserve,CHI,,9,
-Anthony McKinney,TEN,2020.0,/players/M/McKiAn00,2020-11-12,Injured Reserve,IND,,10,
-Anthony McKinney,TEN,2020.0,/players/M/McKiAn00,2020-11-22,Injured Reserve,BAL,,11,
-Anthony McKinney,TEN,2020.0,/players/M/McKiAn00,2020-11-29,Injured Reserve,IND,,12,
-Anthony McKinney,TEN,2020.0,/players/M/McKiAn00,2020-12-06,Injured Reserve,CLE,,13,
-Anthony McKinney,TEN,2020.0,/players/M/McKiAn00,2020-12-13,Injured Reserve,JAX,,14,
-Anthony McKinney,TEN,2020.0,/players/M/McKiAn00,2020-12-20,Injured Reserve,DET,,15,
-Anthony McKinney,TEN,2020.0,/players/M/McKiAn00,2020-12-27,Injured Reserve,GNB,,16,
-Anthony McKinney,TEN,2020.0,/players/M/McKiAn00,2021-01-03,Injured Reserve,HOU,,17,
+Anthony McKinney,TEN,2020.0,/players/M/McKiAn00,2020-09-14,Injured Reserve,DEN,,1,T
+Anthony McKinney,TEN,2020.0,/players/M/McKiAn00,2020-09-20,Injured Reserve,JAX,,2,T
+Anthony McKinney,TEN,2020.0,/players/M/McKiAn00,2020-09-27,Injured Reserve,MIN,,3,T
+Anthony McKinney,TEN,2020.0,/players/M/McKiAn00,2020-10-13,Injured Reserve,BUF,,5,T
+Anthony McKinney,TEN,2020.0,/players/M/McKiAn00,2020-10-18,Injured Reserve,HOU,,6,T
+Anthony McKinney,TEN,2020.0,/players/M/McKiAn00,2020-10-25,Injured Reserve,PIT,,7,T
+Anthony McKinney,TEN,2020.0,/players/M/McKiAn00,2020-11-01,Injured Reserve,CIN,,8,T
+Anthony McKinney,TEN,2020.0,/players/M/McKiAn00,2020-11-08,Injured Reserve,CHI,,9,T
+Anthony McKinney,TEN,2020.0,/players/M/McKiAn00,2020-11-12,Injured Reserve,IND,,10,T
+Anthony McKinney,TEN,2020.0,/players/M/McKiAn00,2020-11-22,Injured Reserve,BAL,,11,T
+Anthony McKinney,TEN,2020.0,/players/M/McKiAn00,2020-11-29,Injured Reserve,IND,,12,T
+Anthony McKinney,TEN,2020.0,/players/M/McKiAn00,2020-12-06,Injured Reserve,CLE,,13,T
+Anthony McKinney,TEN,2020.0,/players/M/McKiAn00,2020-12-13,Injured Reserve,JAX,,14,T
+Anthony McKinney,TEN,2020.0,/players/M/McKiAn00,2020-12-20,Injured Reserve,DET,,15,T
+Anthony McKinney,TEN,2020.0,/players/M/McKiAn00,2020-12-27,Injured Reserve,GNB,,16,T
+Anthony McKinney,TEN,2020.0,/players/M/McKiAn00,2021-01-03,Injured Reserve,HOU,,17,T
 Derick Roberson,TEN,2020.0,/players/R/RobeDe01,2020-09-14,Out,DEN,Knee,1,DE
 Derick Roberson,TEN,2020.0,/players/R/RobeDe01,2020-09-20,Questionable,JAX,Knee,2,DE
 Derick Roberson,TEN,2020.0,/players/R/RobeDe01,2020-09-27,Out,MIN,Illness,3,DE
@@ -7384,42 +7384,42 @@ Mike Liedtke,WAS,2020.0,/players/L/LiedMi00,2020-10-25,Injured Reserve,DAL,,7,OL
 Mike Liedtke,WAS,2020.0,/players/L/LiedMi00,2020-11-08,Injured Reserve,NYG,,9,OL
 Mike Liedtke,WAS,2020.0,/players/L/LiedMi00,2020-11-15,Injured Reserve,DET,,10,OL
 Mike Liedtke,WAS,2020.0,/players/L/LiedMi00,2020-11-22,Injured Reserve,CIN,,11,OL
-Thaddeus Moss,WAS,2020.0,/players/M/MossTh01,2020-09-13,Injured Reserve,PHI,,1,
-Thaddeus Moss,WAS,2020.0,/players/M/MossTh01,2020-09-20,Injured Reserve,ARI,,2,
-Thaddeus Moss,WAS,2020.0,/players/M/MossTh01,2020-09-27,Injured Reserve,CLE,,3,
-Thaddeus Moss,WAS,2020.0,/players/M/MossTh01,2020-10-04,Injured Reserve,BAL,,4,
-Thaddeus Moss,WAS,2020.0,/players/M/MossTh01,2020-10-11,Injured Reserve,LAR,,5,
-Thaddeus Moss,WAS,2020.0,/players/M/MossTh01,2020-10-18,Injured Reserve,NYG,,6,
-Thaddeus Moss,WAS,2020.0,/players/M/MossTh01,2020-10-25,Injured Reserve,DAL,,7,
-Thaddeus Moss,WAS,2020.0,/players/M/MossTh01,2020-11-08,Injured Reserve,NYG,,9,
-Thaddeus Moss,WAS,2020.0,/players/M/MossTh01,2020-11-15,Injured Reserve,DET,,10,
-Thaddeus Moss,WAS,2020.0,/players/M/MossTh01,2020-11-22,Injured Reserve,CIN,,11,
-Thaddeus Moss,WAS,2020.0,/players/M/MossTh01,2020-11-26,Injured Reserve,DAL,,12,
-Thaddeus Moss,WAS,2020.0,/players/M/MossTh01,2020-12-07,Injured Reserve,PIT,,13,
-Thaddeus Moss,WAS,2020.0,/players/M/MossTh01,2020-12-13,Injured Reserve,SFO,,14,
-Thaddeus Moss,WAS,2020.0,/players/M/MossTh01,2020-12-20,Injured Reserve,SEA,,15,
-Thaddeus Moss,WAS,2020.0,/players/M/MossTh01,2020-12-27,Injured Reserve,CAR,,16,
-Thaddeus Moss,WAS,2020.0,/players/M/MossTh01,2021-01-03,Injured Reserve,PHI,,17,
-Jordan Veasy,WAS,2020.0,/players/V/VeasJo00,2020-09-13,Injured Reserve,PHI,,1,
-Jordan Veasy,WAS,2020.0,/players/V/VeasJo00,2020-09-20,Injured Reserve,ARI,,2,
-Jordan Veasy,WAS,2020.0,/players/V/VeasJo00,2020-09-27,Injured Reserve,CLE,,3,
-Jordan Veasy,WAS,2020.0,/players/V/VeasJo00,2020-10-04,Injured Reserve,BAL,,4,
-Jordan Veasy,WAS,2020.0,/players/V/VeasJo00,2020-10-11,Injured Reserve,LAR,,5,
-Emanuel Hall,WAS,2020.0,/players/H/HallEm01,2020-09-20,Injured Reserve,ARI,,2,
-Emanuel Hall,WAS,2020.0,/players/H/HallEm01,2020-09-27,Injured Reserve,CLE,,3,
-Emanuel Hall,WAS,2020.0,/players/H/HallEm01,2020-10-04,Injured Reserve,BAL,,4,
-Emanuel Hall,WAS,2020.0,/players/H/HallEm01,2020-10-11,Injured Reserve,LAR,,5,
-Emanuel Hall,WAS,2020.0,/players/H/HallEm01,2020-10-18,Injured Reserve,NYG,,6,
-Emanuel Hall,WAS,2020.0,/players/H/HallEm01,2020-10-25,Injured Reserve,DAL,,7,
-Emanuel Hall,WAS,2020.0,/players/H/HallEm01,2020-11-08,Injured Reserve,NYG,,9,
-Emanuel Hall,WAS,2020.0,/players/H/HallEm01,2020-11-15,Injured Reserve,DET,,10,
-Emanuel Hall,WAS,2020.0,/players/H/HallEm01,2020-11-22,Injured Reserve,CIN,,11,
-Emanuel Hall,WAS,2020.0,/players/H/HallEm01,2020-11-26,Injured Reserve,DAL,,12,
-Emanuel Hall,WAS,2020.0,/players/H/HallEm01,2020-12-07,Injured Reserve,PIT,,13,
-Emanuel Hall,WAS,2020.0,/players/H/HallEm01,2020-12-13,Injured Reserve,SFO,,14,
-Emanuel Hall,WAS,2020.0,/players/H/HallEm01,2020-12-20,Injured Reserve,SEA,,15,
-Emanuel Hall,WAS,2020.0,/players/H/HallEm01,2020-12-27,Injured Reserve,CAR,,16,
-Emanuel Hall,WAS,2020.0,/players/H/HallEm01,2021-01-03,Injured Reserve,PHI,,17,
+Thaddeus Moss,WAS,2020.0,/players/M/MossTh01,2020-09-13,Injured Reserve,PHI,,1,TE
+Thaddeus Moss,WAS,2020.0,/players/M/MossTh01,2020-09-20,Injured Reserve,ARI,,2,TE
+Thaddeus Moss,WAS,2020.0,/players/M/MossTh01,2020-09-27,Injured Reserve,CLE,,3,TE
+Thaddeus Moss,WAS,2020.0,/players/M/MossTh01,2020-10-04,Injured Reserve,BAL,,4,TE
+Thaddeus Moss,WAS,2020.0,/players/M/MossTh01,2020-10-11,Injured Reserve,LAR,,5,TE
+Thaddeus Moss,WAS,2020.0,/players/M/MossTh01,2020-10-18,Injured Reserve,NYG,,6,TE
+Thaddeus Moss,WAS,2020.0,/players/M/MossTh01,2020-10-25,Injured Reserve,DAL,,7,TE
+Thaddeus Moss,WAS,2020.0,/players/M/MossTh01,2020-11-08,Injured Reserve,NYG,,9,TE
+Thaddeus Moss,WAS,2020.0,/players/M/MossTh01,2020-11-15,Injured Reserve,DET,,10,TE
+Thaddeus Moss,WAS,2020.0,/players/M/MossTh01,2020-11-22,Injured Reserve,CIN,,11,TE
+Thaddeus Moss,WAS,2020.0,/players/M/MossTh01,2020-11-26,Injured Reserve,DAL,,12,TE
+Thaddeus Moss,WAS,2020.0,/players/M/MossTh01,2020-12-07,Injured Reserve,PIT,,13,TE
+Thaddeus Moss,WAS,2020.0,/players/M/MossTh01,2020-12-13,Injured Reserve,SFO,,14,TE
+Thaddeus Moss,WAS,2020.0,/players/M/MossTh01,2020-12-20,Injured Reserve,SEA,,15,TE
+Thaddeus Moss,WAS,2020.0,/players/M/MossTh01,2020-12-27,Injured Reserve,CAR,,16,TE
+Thaddeus Moss,WAS,2020.0,/players/M/MossTh01,2021-01-03,Injured Reserve,PHI,,17,TE
+Jordan Veasy,WAS,2020.0,/players/V/VeasJo00,2020-09-13,Injured Reserve,PHI,,1,WR
+Jordan Veasy,WAS,2020.0,/players/V/VeasJo00,2020-09-20,Injured Reserve,ARI,,2,WR
+Jordan Veasy,WAS,2020.0,/players/V/VeasJo00,2020-09-27,Injured Reserve,CLE,,3,WR
+Jordan Veasy,WAS,2020.0,/players/V/VeasJo00,2020-10-04,Injured Reserve,BAL,,4,WR
+Jordan Veasy,WAS,2020.0,/players/V/VeasJo00,2020-10-11,Injured Reserve,LAR,,5,WR
+Emanuel Hall,WAS,2020.0,/players/H/HallEm01,2020-09-20,Injured Reserve,ARI,,2,WR
+Emanuel Hall,WAS,2020.0,/players/H/HallEm01,2020-09-27,Injured Reserve,CLE,,3,WR
+Emanuel Hall,WAS,2020.0,/players/H/HallEm01,2020-10-04,Injured Reserve,BAL,,4,WR
+Emanuel Hall,WAS,2020.0,/players/H/HallEm01,2020-10-11,Injured Reserve,LAR,,5,WR
+Emanuel Hall,WAS,2020.0,/players/H/HallEm01,2020-10-18,Injured Reserve,NYG,,6,WR
+Emanuel Hall,WAS,2020.0,/players/H/HallEm01,2020-10-25,Injured Reserve,DAL,,7,WR
+Emanuel Hall,WAS,2020.0,/players/H/HallEm01,2020-11-08,Injured Reserve,NYG,,9,WR
+Emanuel Hall,WAS,2020.0,/players/H/HallEm01,2020-11-15,Injured Reserve,DET,,10,WR
+Emanuel Hall,WAS,2020.0,/players/H/HallEm01,2020-11-22,Injured Reserve,CIN,,11,WR
+Emanuel Hall,WAS,2020.0,/players/H/HallEm01,2020-11-26,Injured Reserve,DAL,,12,WR
+Emanuel Hall,WAS,2020.0,/players/H/HallEm01,2020-12-07,Injured Reserve,PIT,,13,WR
+Emanuel Hall,WAS,2020.0,/players/H/HallEm01,2020-12-13,Injured Reserve,SFO,,14,WR
+Emanuel Hall,WAS,2020.0,/players/H/HallEm01,2020-12-20,Injured Reserve,SEA,,15,WR
+Emanuel Hall,WAS,2020.0,/players/H/HallEm01,2020-12-27,Injured Reserve,CAR,,16,WR
+Emanuel Hall,WAS,2020.0,/players/H/HallEm01,2021-01-03,Injured Reserve,PHI,,17,WR
 Cole Holcomb,WAS,2020.0,/players/H/HolcCo00,2020-09-20,Out,ARI,Knee,2,LB
 Cole Holcomb,WAS,2020.0,/players/H/HolcCo00,2020-09-27,Out,CLE,Knee,3,LB
 Cole Holcomb,WAS,2020.0,/players/H/HolcCo00,2020-10-04,Out,BAL,Knee,4,LB
@@ -7530,7 +7530,7 @@ Reuben Foster,WAS,2020.0,/players/F/FostRe00,2020-11-15,Injured Reserve,DET,,10,
 Dustin Hopkins,WAS,2020.0,/players/H/HopkDu00,2020-11-15,Questionable,DET,Right Groin,10,K
 Dustin Hopkins,WAS,2020.0,/players/H/HopkDu00,2020-11-22,Questionable,CIN,Right Groin,11,K
 Dustin Hopkins,WAS,2020.0,/players/H/HopkDu00,2020-11-26,Questionable,DAL,Right Groin,12,K
-Bryce Love,WAS,2020.0,/players/L/LoveBr00,2020-11-15,Injured Reserve,DET,,10,
+Bryce Love,WAS,2020.0,/players/L/LoveBr00,2020-11-15,Injured Reserve,DET,,10,RB
 Jared Norris,WAS,2020.0,/players/N/NorrJa00,2020-11-15,Out,DET,Hamstring,10,ILB
 Jared Norris,WAS,2020.0,/players/N/NorrJa00,2020-11-22,Out,CIN,Hamstring,11,ILB
 Jared Norris,WAS,2020.0,/players/N/NorrJa00,2020-11-26,Out,DAL,Hamstring,12,ILB
